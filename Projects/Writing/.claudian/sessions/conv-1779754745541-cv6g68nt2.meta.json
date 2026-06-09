@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779754745541-cv6g68nt2",
+  "providerId": "claude",
+  "title": "Edit AI Autonomy Patterns for brand voice",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779754745543,
+  "updatedAt": 1779760616235,
+  "lastResponseAt": 1779760616235,
+  "sessionId": "b36e6829-5c2c-4dfb-bd1d-3a7bf89238d7",
+  "providerState": {
+    "providerSessionId": "b36e6829-5c2c-4dfb-bd1d-3a7bf89238d7"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 505,
+    "cacheReadInputTokens": 86884,
+    "contextWindow": 200000,
+    "contextTokens": 87390,
+    "percentage": 44,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780517772955-738w0512n",
+  "providerId": "claude",
+  "title": "Draft AI Literacy chapter framework",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780517772960,
+  "updatedAt": 1780525045119,
+  "lastResponseAt": 1780525045119,
+  "sessionId": "365ce1ec-cab6-44fc-bbfb-31ea96ce5421",
+  "providerState": {
+    "providerSessionId": "365ce1ec-cab6-44fc-bbfb-31ea96ce5421"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 4422,
+    "cacheReadInputTokens": 43872,
+    "contextWindow": 200000,
+    "contextTokens": 48297,
+    "percentage": 24,
+    "contextWindowIsAuthoritative": true
+  }
+}
