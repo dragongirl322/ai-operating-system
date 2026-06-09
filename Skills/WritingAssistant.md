@@ -1,4 +1,4 @@
-# Writing Assistant — Codex Context File
+# Writing Assistant 
 
 Tammy Snow — Personal Writing Assistant Skill
 
