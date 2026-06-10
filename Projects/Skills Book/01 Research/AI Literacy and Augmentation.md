@@ -65,7 +65,3 @@ You have a version of this problem. It doesn't need to be a record store. It nee
 Things to incorporate:
 AI literacy is as much about economic security as it is about technological advancement. For businesses, investing in AI literacy for their workforce isn’t optional—it’s essential risk management. Companies with AI-literate employees will detect problems earlier, implement more effective safeguards, and respond more nimbly when issues arise. This workforce advantage creates resilience against the inevitable AI mishaps that all organizations will face. Simply put, AI literacy is a competitive necessity, not a luxury expense. (from Fortune article: "AI needs the equivalent of the ‘black box’ in aviation—and America should lead the way)
 
-Check out These resources:
-https://fortune.com/article/ai-incident-reporting-regulations/ 
-
-https://www.atlassian.com/blog/how-we-build/the-future-of-product-craft
