@@ -1,0 +1,24 @@
+{
+  "id": "conv-1781131703114-y4ckipmwz",
+  "providerId": "claude",
+  "title": "Extract design specs for claude.md",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781131703115,
+  "updatedAt": 1781131744652,
+  "lastResponseAt": 1781131744652,
+  "sessionId": "12606a26-2934-449c-a968-31fdc8b274ab",
+  "providerState": {
+    "providerSessionId": "12606a26-2934-449c-a968-31fdc8b274ab"
+  },
+  "currentNote": "Skills/CLAUDE.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1066,
+    "cacheReadInputTokens": 23579,
+    "contextWindow": 200000,
+    "contextTokens": 24646,
+    "percentage": 12,
+    "contextWindowIsAuthoritative": true
+  }
+}

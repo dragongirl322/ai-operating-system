@@ -102,3 +102,58 @@ Platform for helping executives through AI Experience and Organizational Transfo
 ### Skills Book — `Projects/Skills Book/`
 **Status:** Just created
 Book detailing 9 Skills the AI Era demands (what they are, how to build them, why they matter). Goal: published + 1000+ copies sold by end of 2027.
+
+---
+
+## Brand: Color Palette & Typography
+
+*Source: TammySnow_BrandStrategy.docx — captured in Open Brain 2026-06-09*
+
+### Primary Palette
+
+| Swatch | Hex | Name | Role |
+|--------|-----|------|------|
+| | `#1C2B3A` | Slate Navy | Foundation · Authority · Structure |
+| | `#4A7FA5` | Steel Blue | Clarity · Calm · Trust |
+| | `#F5F0EB` | Warm Stone | Breath · Background · Warmth |
+| | `#2D2D2D` | Charcoal | Body Type · Readable · Grounded |
+
+### Secondary / Accent Palette
+
+| Swatch | Hex | Name | Role |
+|--------|-----|------|------|
+| | `#D4870E` | Warm Amber | Energy · Edge · CTAs · Emphasis |
+| | `#B85C38` | Burnt Sienna | Heat · Max Emphasis *(one instance per composition max)* |
+| | `#A09890` | Mid Gray | Supporting Copy |
+| | `#E8E4DF` | Light Gray | Borders · Dividers |
+
+**Color Usage Rule:** Primary 70% / Secondary + accents 30%. Default combo: Navy + Stone + one accent. Never more than three colors in a single composition.
+
+---
+
+### Typography
+
+**Primary Typeface:** Inter or Aktiv Grotesk *(Office fallback: Arial)*
+**Style:** Geometric sans-serif only — no decorative scripts, no mixed serif/sans pairings.
+**Weight range:** Regular (400) → Black (900)
+**Hierarchy:** Through weight and size only — not typeface variety.
+**Emphasis:** Bold + Amber. Avoid italics alone. Underline reserved for hyperlinks only.
+
+#### Type Scale
+
+| Level | Size | Weight | Color |
+|-------|------|--------|-------|
+| Display | 40–52pt | Bold | Navy or White on dark |
+| H1 | 28–32pt | Bold | Navy |
+| H2 | 22–24pt | Bold | Navy or Charcoal |
+| H3 | 18–20pt | SemiBold | Charcoal |
+| Body | 11–12pt | Regular | Charcoal · 1.5 line height |
+| Labels/Caps | 8–9pt | Bold | Amber · letter-spacing 10–15% |
+| Caption | 9–10pt | Regular | Mid Gray |
+
+---
+
+### Design Aesthetic
+
+Mid-Century Modern structure + Scandi restraint + Japandi warmth + industrial edge.
+**Restraint over decoration. Generous margins. 8px base grid.**
