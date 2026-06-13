@@ -3,9 +3,9 @@
   "readwiseDir": "Readwise",
   "frequency": "0",
   "triggerOnLoad": true,
-  "isSyncing": true,
+  "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 26187862,
+  "lastSavedStatusID": 26298033,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [],
@@ -17,7 +17,8 @@
     "Readwise/Books/Move Fast. Break Shit. Burn Out..md": "60667456",
     "Readwise/Books/Thinking in Systems.md": "60667455",
     "Readwise/Articles/After Automation Every.md": "60686461",
-    "Readwise/Articles/Claude AI Co-Founder Publishes 4 Big Claims About Near Future Breakdown.md": "60867853"
+    "Readwise/Articles/Claude AI Co-Founder Publishes 4 Big Claims About Near Future Breakdown.md": "60867853",
+    "Readwise/Books/Holding Your Own.md": "61231273"
   },
   "reimportShowConfirmation": true
 }
