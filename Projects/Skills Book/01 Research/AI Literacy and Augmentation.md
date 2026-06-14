@@ -65,3 +65,12 @@ You have a version of this problem. It doesn't need to be a record store. It nee
 Things to incorporate:
 AI literacy is as much about economic security as it is about technological advancement. For businesses, investing in AI literacy for their workforce isn’t optional—it’s essential risk management. Companies with AI-literate employees will detect problems earlier, implement more effective safeguards, and respond more nimbly when issues arise. This workforce advantage creates resilience against the inevitable AI mishaps that all organizations will face. Simply put, AI literacy is a competitive necessity, not a luxury expense. (from Fortune article: "AI needs the equivalent of the ‘black box’ in aviation—and America should lead the way)
 
+
+McKinsey article:
+Demand for AI fluency—the ability to use and manage AI tools—has grown sevenfold in two years, faster than for any other skill in US job postings. The surge is visible across industries and likely marks the beginning of much bigger changes ahead.
+
+Demand for AI fluency—the ability to use and manage AI tools—has jumped nearly sevenfold in two years. The need for technical AI skills employed to develop and govern AI systems is also growing, though at a slower pace. About eight million people in the United States work in occupations where job postings already call for at least one AI-related skill—a fraction of what may be needed in the years ahead.
+
+A small set of skills is likely to remain uniquely human. These are rooted in social and emotional intelligence such as interpersonal conflict resolution and design thinking, which depend on empathy, creativity, and contextual understanding and will be challenging for machines to replicate.
+
+(McKinsey: Agents, Robots, and Us: Skill partnerships in the age of AI)
