@@ -27,12 +27,12 @@ Before asking anything, scan the folder structure:
 ls -d */
 
 # Project subfolders
-ls -d "03 Projects"/*/ 2>&1 || echo "No projects yet"
+ls -d "02_Projects"/*/ 2>&1 || echo "No projects yet"
 ```
 
 Record:
 - Which system folders exist (Weekly Reviews, Books, Chess Moves, etc.)
-- Which project folders exist under `03 Projects/`
+- Which project folders exist under `02_Projects/`
 - Whether CLAUDE.md or GOALS.md already exist
 
 You'll use this to auto-populate the Folder Structure section.
@@ -207,6 +207,6 @@ After writing, tell the user:
 
 1. **CLAUDE.md is live** — Claude reads it at the start of every session in this vault
 2. **Update the Weekly Update section** each week to keep Claude current on what's happening
-3. **Create your first project** — use the New Project skill to set up a project folder under `03 Projects/` with its own CLAUDE.md. Projects get added to the "My Current Projects & Overviews" section automatically.
+3. **Create your first project** — use the New Project skill to set up a project folder under `02_Projects/` with its own CLAUDE.md. Projects get added to the "My Current Projects & Overviews" section automatically.
 4. **If your plan or goals feel vague** — run a Chess Moves strategic thinking session to flesh them out
 5. **First session idea** — try a weekly review or Chess Moves session to break in the new setup and see Claude in action

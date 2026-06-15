@@ -23,7 +23,7 @@ Read everything before asking a single question:
 
 ```bash
 # Find all project folders
-ls -d "03 Projects"/*/ 2>&1 || echo "No projects yet"
+ls -d "02_Projects"/*/ 2>&1 || echo "No projects yet"
 ```
 
 **Read these files:**

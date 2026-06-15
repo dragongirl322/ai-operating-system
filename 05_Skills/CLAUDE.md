@@ -38,20 +38,20 @@ Tamknowledge/
 ├── CLAUDE.md              ← You are here
 ├── GOALS.md               ← Goals, progress, master plan
 ├── SETUP GUIDE.md         ← Vault setup instructions
-├── About Tammy/           ← Leadership docs, strengths, philosophy, playbooks
-├── Knowledge/             ← Notes, learning, reference material
-├── Projects/              ← Active projects
+├── 00_About Tammy/           ← Leadership docs, strengths, philosophy, playbooks
+├── 01_Knowledge/             ← Notes, learning, reference material
+├── 02_Projects/              ← Active projects
 │   ├── Advisory Work/     ← Platform for executive advisory on AI transformation
 │   └── Skills Book/       ← Book on 9 skills the AI era demands
-├── Readwise/              ← Saved articles and books from Readwise
+├── 03_Readwise/              ← Saved articles and books from Readwise
 │   ├── Articles/
 │   └── Books/
-├── Reviews/               ← Personal and professional reviews
-│   ├── Monthly Reviews/
-│   ├── Quarterly Reviews/
-│   ├── Yearly Reviews/
-│   └── Weekly Reviews/
-└── Skills/                ← Automation scripts and reusable workflows
+├── 04_Reviews/               ← Personal and professional reviews
+│   ├── Monthly 04_Reviews/
+│   ├── Quarterly 04_Reviews/
+│   ├── Yearly 04_Reviews/
+│   └── Weekly 04_Reviews/
+└── 05_Skills/                ← Automation scripts and reusable workflows
 ```
 
 ## My Strengths & Weaknesses
@@ -95,11 +95,11 @@ None. I'm ready.
 
 ## My Current Projects & Overviews
 
-### Advisory Work — `Projects/Advisory Work/`
+### Advisory Work — `02_Projects/Advisory Work/`
 **Status:** Active
 Platform for helping executives through AI Experience and Organizational Transformation. Goal: become one of the defining voices helping organizations build high-value, human-centered, adaptive, trustworthy systems in the age of AI.
 
-### Skills Book — `Projects/Skills Book/`
+### Skills Book — `02_Projects/Skills Book/`
 **Status:** Just created
 Book detailing 9 Skills the AI Era demands (what they are, how to build them, why they matter). Goal: published + 1000+ copies sold by end of 2027.
 

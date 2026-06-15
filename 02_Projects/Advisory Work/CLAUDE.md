@@ -41,7 +41,7 @@ Executive Advisor/
 ├── 05 Shipping/               ← Published pieces, delivered work
 ├── 06 Learning and Measuring/ ← Impact data, feedback, insights
 ├── 07 System/                 ← Processes, templates, reusable systems
-├── 08 Skills/                 ← Project-specific skills and workflows
+├── 08 05_Skills/                 ← Project-specific skills and workflows
 ├── 09 Attachments/            ← Images, PDFs, reference materials
 └── 10 Iteration Logs/         ← Notes on what to improve
 ```

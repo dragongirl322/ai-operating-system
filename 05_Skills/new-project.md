@@ -1,10 +1,10 @@
 # Skill: New Project
 
-Create a new project inside `03 Projects/` by interviewing the user, then scaffolding the folder structure, CLAUDE.md, and COMMANDS.md.
+Create a new project inside `02_Projects/` by interviewing the user, then scaffolding the folder structure, CLAUDE.md, and COMMANDS.md.
 
 ## How It Works
 
-1. Duplicate `03 Projects/(PROJECT TEMPLATE)/` into a new folder (this preserves `.obsidian` config and plugins)
+1. Duplicate `02_Projects/(PROJECT TEMPLATE)/` into a new folder (this preserves `.obsidian` config and plugins)
 2. Interview the user one question at a time (6 questions max)
 3. Based on answers, create the folder structure and files
 4. If the user doesn't have an answer yet, that's fine — use sensible defaults and leave TODOs in the CLAUDE.md for them to fill in later
@@ -14,7 +14,7 @@ Create a new project inside `03 Projects/` by interviewing the user, then scaffo
 Ask these questions conversationally using AskUserQuestion. Each answer can shape the next question. If someone says "I'm not sure yet" or gives a partial answer, don't push — just work with what you have.
 
 ### 1. What's the project called?
-Used for the folder name under `03 Projects/`.
+Used for the folder name under `02_Projects/`.
 
 ### 2. What is this project?
 One paragraph. What are we building / doing / creating? Who is it for?
@@ -42,7 +42,7 @@ Things Claude should always or never do in this project. Specific formats, namin
 
 ### Step 1: Duplicate the template
 ```bash
-cp -R "03 Projects/(PROJECT TEMPLATE)" "03 Projects/[Project Name]"
+cp -R "02_Projects/(PROJECT TEMPLATE)" "02_Projects/[Project Name]"
 ```
 
 ### Step 2: Clean up the template artifacts
@@ -54,11 +54,11 @@ cp -R "03 Projects/(PROJECT TEMPLATE)" "03 Projects/[Project Name]"
 Based on the process answer, create numbered folders that follow the input → process → output flow. Then add the standard utility folders at the end with the next available numbers:
 
 - `XX System/` — scripts, config, reusable processes
-- `XX Skills/` — skill markdown files (NOT Claude Code skills)
+- `XX 05_Skills/` — skill markdown files (NOT Claude Code skills)
 - `XX Attachments/` — images, screenshots, PDFs
 - `XX Iteration Logs/` — notes on what to improve
 
-**Note:** The template already creates `04 System/`, `05 Skills/`, and `06 Attachments/` — but the numbers may need to shift depending on how many project-specific folders are created. Remove the template defaults and recreate with correct numbering.
+**Note:** The template already creates `04 System/`, `05_Skills/`, and `06 Attachments/` — but the numbers may need to shift depending on how many project-specific folders are created. Remove the template defaults and recreate with correct numbering.
 
 ### Step 4: Write CLAUDE.md
 Use this structure. Fill in what you learned from the interview. For anything the user wasn't sure about, add a `<!-- TODO: fill this in -->` comment so they can find and complete it later.
@@ -110,7 +110,7 @@ List every skill and command available in this project. Start with the defaults:
 
 Quick reference for all available skills and commands in this project.
 
-## Skills (in XX Skills/)
+## Skills (in XX 05_Skills/)
 _No project-specific skills yet._
 
 ## Commands
@@ -120,11 +120,11 @@ _No project-specific commands yet._
 ### Step 6: Update the root CLAUDE.md
 The KJ OS root `CLAUDE.md` has two sections that need to stay in sync with active projects:
 
-1. **Folder Structure** — Add the new project folder under the `03 Projects/` tree with a short description.
+1. **Folder Structure** — Add the new project folder under the `02_Projects/` tree with a short description.
 2. **My Current Projects & Overviews** — Add a new subsection for the project using this format:
 
 ```markdown
-### [Project Name] — `03 Projects/[Project Name]/`
+### [Project Name] — `02_Projects/[Project Name]/`
 **Status:** Just created
 [One-line description from question 2]
 ```

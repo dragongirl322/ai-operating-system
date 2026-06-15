@@ -19,10 +19,10 @@ Before coaching begins, silently read the following files to build full context 
 
 - `CLAUDE.md` — identity, values, rules, current projects
 - `GOALS.md` — goals, milestones, progress
-- `About Tammy/Clifton Strengths.md` — StrengthsFinder themes and behavioral patterns
-- `About Tammy/Leadership Philosophy and Brand.md` — leadership philosophy and brand pillars
-- `About Tammy/Path to Executive Advisor for AI Experience & Organization Transformation.md` — strategic positioning
-- `About Tammy/TAM Leadership Playbook.md` — operating principles
+- `00_About Tammy/Clifton Strengths.md` — StrengthsFinder themes and behavioral patterns
+- `00_About Tammy/Leadership Philosophy and Brand.md` — leadership philosophy and brand pillars
+- `00_About Tammy/Path to Executive Advisor for AI Experience & Organization Transformation.md` — strategic positioning
+- `00_About Tammy/TAM Leadership Playbook.md` — operating principles
 
 If a Weekly Update exists in CLAUDE.md with recent content, read that too. That's the pulse check.
 

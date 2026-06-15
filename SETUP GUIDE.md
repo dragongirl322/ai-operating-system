@@ -37,7 +37,7 @@ Next you'll want to take some time to journal about your life goals and put your
 
 #### STEP 3:
 
-Start a new Obsidian session ('Open folder as a vault') in the  `03 Projects > (PROJECT TEMPLATE)`Folder
+Start a new Obsidian session ('Open folder as a vault') in the  `02_Projects > (PROJECT TEMPLATE)`Folder
 
 > Customize the appearance, settings, and plugins of Obsidian and now every project you create will have the same plugins and appearance.
 
@@ -61,7 +61,7 @@ Open an obsidian vault in each individual project to build those systems, run th
 
 #### STEP 6:
 
-> Use the 'weekly-review' skill in the 05 Skills folder at the end of each week to update all of your CLAUDE.md's and keep everything up to date.
+> Use the 'weekly-review' skill in the 05_Skills folder at the end of each week to update all of your CLAUDE.md's and keep everything up to date.
 
 
 #### STEP 7:

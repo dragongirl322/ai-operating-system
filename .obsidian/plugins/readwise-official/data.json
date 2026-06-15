@@ -8,17 +8,17 @@
   "lastSavedStatusID": 26298033,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
-  "booksToRefresh": [],
+  "booksToRefresh": [
+    "60667458",
+    "60667456",
+    "60667462",
+    "60667455",
+    "60667457",
+    "60686461",
+    "60867853",
+    "61231273"
+  ],
   "failedBooks": [],
-  "booksIDsMap": {
-    "Readwise/Books/Reality Is Broken.md": "60667462",
-    "Readwise/Books/BE 2.0.md": "60667458",
-    "Readwise/Books/What Your Customer Wants and Can't Tell You.md": "60667457",
-    "Readwise/Books/Move Fast. Break Shit. Burn Out..md": "60667456",
-    "Readwise/Books/Thinking in Systems.md": "60667455",
-    "Readwise/Articles/After Automation Every.md": "60686461",
-    "Readwise/Articles/Claude AI Co-Founder Publishes 4 Big Claims About Near Future Breakdown.md": "60867853",
-    "Readwise/Books/Holding Your Own.md": "61231273"
-  },
+  "booksIDsMap": {},
   "reimportShowConfirmation": true
 }
