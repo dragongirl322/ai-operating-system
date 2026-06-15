@@ -3,7 +3,7 @@
 
 - Objective 1: Reach $12,000 average monthly sales by end of year
     
-- Objective 2: Win “Best Of Edmonds” Music Store category
+- Objective 2: Win "Best Of Edmonds" Music Store category
     
 
 ## Success Definition
@@ -11,10 +11,11 @@
 Revenue targets (run-rate)
 
 - Q1 average: $8K/month
+	- Actual $5768 / month
     
-- Q2 average: $10K/month
+- Q2 average: $8K/month
     
-- Q3 average: $11K/month
+- Q3 average: $10K/month
     
 - Q4 average: $12K/month
     
@@ -23,32 +24,31 @@ What must be true for us to hit $12K/month
 
 - Store awareness increases
     
-- Weekly in store traffic is consistent 
+- Weekly in store traffic is consistent 
     
 - Repeat customers increase month-over-month
     
-- Core titles stay in stock (no “sold-out staples”)
+- Core titles stay in stock (no "sold-out staples")
     
-- Inventory cash isn’t trapped in dead stock
+- Inventory cash isn't trapped in dead stock
     
 
 ## Operating Cadence
 
-Every day 
+Every transaction
 
 - Ask every customer to join Groove Society
-    
+- If customer is in Groove Society, associate the sale to their account
 
-- Capture at least 1 photo or 10-sec clip for social: Emma
-    
 
-  
+2x a week
+
+- Capture at least 1 photo or short clip for social and post
+
 
 Every week
 
 - Generate Reorder List + place orders: Tre
-    
-- Schedule / post 3 social posts: Emma
     
 - Confirm micro-events + monthly anchor event prep: Emma
     
@@ -58,14 +58,14 @@ Every week
 - Anchor=in store following specific format
     
 
-- Keep “Staff Picks” / “New Arrivals” areas fresh: Emma & Tre
+- Keep "Staff Picks" / "New Arrivals" areas fresh: Emma & Tre
     
 
   
 
 Every month
 
-- Create report on performance for month: Tammy 
+- Create report on performance for month: Tammy 
     
 
 - Total revenue
@@ -78,7 +78,7 @@ Every month
 - Send newsletter to subscribers: Emma
     
 
-## Inventory Strategy 
+## Inventory Strategy 
 
 Reorder rules
 
@@ -127,7 +127,7 @@ Social (traffic-driving content)
 - 3 posts/week:
     
 
-- 1 reel: arrivals flip / “3 you need”
+- 1 reel: arrivals flip / "3 you need"
     
 - 1 story: staff pick w/ quick narrative
     
@@ -143,11 +143,11 @@ Local awareness accelerators
 - TNT Posters//flyers in community
     
 
-## Events Strategy 
+## Events Strategy 
 
 Monthly anchor event (choose one format and repeat)
 
-- Format chosen: 
+- Format chosen: 
     
 - Next 3 dates scheduled:
     
@@ -161,7 +161,7 @@ Monthly anchor event (choose one format and repeat)
 
 Weekly micro-event (low lift)
 
-- Release anniversary 
+- Release anniversary 
     
 - Local concerts
     
