@@ -70,10 +70,6 @@ Every month
 
 - Total revenue
     
-- Top inventory movement
-    
-- Dead inventory
-    
 
 - Send newsletter to subscribers: Emma
     
