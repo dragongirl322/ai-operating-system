@@ -4,8 +4,8 @@
   "title": "Establish transaction and social media cadence",
   "titleGenerationStatus": "success",
   "createdAt": 1781559192911,
-  "updatedAt": 1781559246788,
-  "lastResponseAt": 1781559246788,
+  "updatedAt": 1781565233991,
+  "lastResponseAt": 1781565233991,
   "sessionId": "d9b54002-b57f-4bfd-ace8-124cfa42c439",
   "providerState": {
     "providerSessionId": "d9b54002-b57f-4bfd-ace8-124cfa42c439"
@@ -14,11 +14,11 @@
   "usage": {
     "model": "sonnet",
     "inputTokens": 1,
-    "cacheCreationInputTokens": 1236,
-    "cacheReadInputTokens": 17747,
+    "cacheCreationInputTokens": 225,
+    "cacheReadInputTokens": 21752,
     "contextWindow": 200000,
-    "contextTokens": 18984,
-    "percentage": 9,
+    "contextTokens": 21978,
+    "percentage": 11,
     "contextWindowIsAuthoritative": true
   }
 }

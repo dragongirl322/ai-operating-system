@@ -1,11 +1,7 @@
 **
 
 
-- Objective 1: Reach $12,000 average monthly sales by end of year
-    
-- Objective 2: Win "Best Of Edmonds" Music Store category
-    
-
+- Objective: Reach $12,000 average monthly sales by end of year
 ## Success Definition
 
 Revenue targets (run-rate)
@@ -48,53 +44,45 @@ Every transaction
 
 Every week
 
-- Generate Reorder List + place orders: Tre
+- Generate Reorder List + place orders 
     
-- Confirm micro-events + monthly anchor event prep: Emma
+- micro-events launch anniversary, concert, new arrival
     
+- Keep "Staff Picks" / "New Arrivals" areas fresh
+    
+- Store maintenance (alternating):
+    - Week A: clean floors and bathroom
+    - Week B: dust and windows
 
-- Micro=launch anniversary, concert, new arrival
-    
-- Anchor=in store following specific format
-    
-
-- Keep "Staff Picks" / "New Arrivals" areas fresh: Emma & Tre
-    
-
-  
 
 Every month
 
-- Create report on performance for month: Tammy 
+- Create report on revenue performance for month
     
 
-- Total revenue
+- Send newsletter to subscribers
     
 
-- Send newsletter to subscribers: Emma
+Every quarter
+
+- Update tax tracker
+    
+- Review revenue vs. quarterly target
     
 
 ## Inventory Strategy 
 
 Reorder rules
 
-- If Sales ≥ 3 and On Hand ≤ 1 → reorder 2
-    
-- If On Hand = 0 and Sales ≥ 2 → reorder 2
-    
-- If Price > $60 → max reorder 1 unless it has sold 2+
-    
+- Use vinyl-scout
 
-  
-
-Monthly dead stock reset
+  Monthly dead stock reset
 
 - Items aged 60+ days and low sell-through → move to feature / better placement
     
 - Items aged 90+ days and 0 sales → markdown / bundle / remove from prime space
     
 
-  
 
 Inventory budget (until data says otherwise)
 
@@ -115,8 +103,6 @@ Google Business Profile (highest leverage)
     
 - Respond to every review within 24–48 hrs
     
-
-  
 
 Social (traffic-driving content)
 
