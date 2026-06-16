@@ -54,11 +54,11 @@ cp -R "02_Projects/(PROJECT TEMPLATE)" "02_Projects/[Project Name]"
 Based on the process answer, create numbered folders that follow the input → process → output flow. Then add the standard utility folders at the end with the next available numbers:
 
 - `XX System/` — scripts, config, reusable processes
-- `XX 05_Skills/` — skill markdown files (NOT Claude Code skills)
+- `XX Skills/` — skill markdown files (NOT Claude Code skills)
 - `XX Attachments/` — images, screenshots, PDFs
 - `XX Iteration Logs/` — notes on what to improve
 
-**Note:** The template already creates `04 System/`, `05_Skills/`, and `06 Attachments/` — but the numbers may need to shift depending on how many project-specific folders are created. Remove the template defaults and recreate with correct numbering.
+**Note:** The template already creates `04 System/`, `05 Skills/`, and `06 Attachments/` — but the numbers may need to shift depending on how many project-specific folders are created. Remove the template defaults and recreate with correct numbering.
 
 ### Step 4: Write CLAUDE.md
 Use this structure. Fill in what you learned from the interview. For anything the user wasn't sure about, add a `<!-- TODO: fill this in -->` comment so they can find and complete it later.
@@ -110,7 +110,7 @@ List every skill and command available in this project. Start with the defaults:
 
 Quick reference for all available skills and commands in this project.
 
-## Skills (in XX 05_Skills/)
+## Skills (in XX Skills/)
 _No project-specific skills yet._
 
 ## Commands

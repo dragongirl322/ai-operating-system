@@ -1,11 +1,11 @@
 {
   "token": "88YSk2bnXEDFlbzSiG4ep5Hjio49fikAFduEMuiA074VnIj3Lg",
-  "readwiseDir": "Readwise",
+  "readwiseDir": "03_Readwise",
   "frequency": "0",
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 26298033,
+  "lastSavedStatusID": 26329072,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -19,6 +19,8 @@
     "61231273"
   ],
   "failedBooks": [],
-  "booksIDsMap": {},
+  "booksIDsMap": {
+    "03_Readwise/Articles/Agents, Robots, and Us Skill Partnerships in the Age of AI.md": "61306968"
+  },
   "reimportShowConfirmation": true
 }

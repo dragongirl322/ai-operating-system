@@ -47,10 +47,10 @@ Tamknowledge/
 │   ├── Articles/
 │   └── Books/
 ├── 04_Reviews/               ← Personal and professional reviews
-│   ├── Monthly 04_Reviews/
-│   ├── Quarterly 04_Reviews/
-│   ├── Yearly 04_Reviews/
-│   └── Weekly 04_Reviews/
+│   ├── Monthly Reviews/
+│   ├── Quarterly Reviews/
+│   ├── Yearly Reviews/
+│   └── Weekly Reviews/
 └── 05_Skills/                ← Automation scripts and reusable workflows
 ```
 
