@@ -1,0 +1,24 @@
+{
+  "id": "conv-1781642821449-eudasmkro",
+  "providerId": "claude",
+  "title": "Remove before you start and section 1",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781642821452,
+  "updatedAt": 1781642862455,
+  "lastResponseAt": 1781642862455,
+  "sessionId": "98ca5699-3d75-4112-bf0f-ef16d0aaed57",
+  "providerState": {
+    "providerSessionId": "98ca5699-3d75-4112-bf0f-ef16d0aaed57"
+  },
+  "currentNote": "02_Projects/Vinyl Store Operations/01_Weekly_Operations/Weekly Vinyl Scout Checklist.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 384,
+    "cacheReadInputTokens": 18486,
+    "contextWindow": 200000,
+    "contextTokens": 18871,
+    "percentage": 9,
+    "contextWindowIsAuthoritative": true
+  }
+}

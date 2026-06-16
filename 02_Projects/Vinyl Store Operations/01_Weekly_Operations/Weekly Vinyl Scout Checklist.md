@@ -14,29 +14,7 @@ Use this once a week to turn Vinyl Scout into store actions: reorders, cold inve
 
 Keep core titles in stock, prevent cash from sitting in dead inventory, and create store/newsletter/social momentum from what is already happening in the inventory.
 
-## Before You Start
-
-- [ ] Open Vinyl Scout: https://tntmusic-production.up.railway.app
-- [ ] Confirm the dashboard refreshed successfully.
-- [ ] If you have a new velocity report CSV, upload it before reviewing the dashboard.
-- [ ] Note today’s date and who is doing the review.
-
-## 1. Reorder Queue
-
-- [ ] Open the Reorder Queue.
-- [ ] Download `reorder-queue.csv`.
-- [ ] Review out-of-stock items first.
-- [ ] Review high-velocity items with 1 copy left.
-- [ ] For each item, decide one of these actions:
-  - [ ] Order now.
-  - [ ] Skip for budget reasons.
-  - [ ] Skip because demand is uncertain.
-  - [ ] Check availability/vendor first.
-  - [ ] Replace with a related title.
-- [ ] Place approved orders.
-- [ ] Record what was ordered, skipped, and why.
-
-## 2. Cold Inventory
+## 1. Cold Inventory
 
 - [ ] Open Cold Inventory.
 - [ ] Download `cold-inventory.csv`.
@@ -50,7 +28,7 @@ Keep core titles in stock, prevent cash from sitting in dead inventory, and crea
   - [ ] Leave as-is because it is strategically important.
 - [ ] Pick 3-5 cold items to act on this week.
 
-## 3. Trending And Core Titles
+## 2. Trending And Core Titles
 
 - [ ] Review Trending Now.
 - [ ] Identify staples that should stay in stock consistently.
@@ -58,7 +36,7 @@ Keep core titles in stock, prevent cash from sitting in dead inventory, and crea
 - [ ] Note any “sold-out staples” that hurt the store this week.
 - [ ] Choose 1-3 titles to highlight in-store or online.
 
-## 4. Local And Label Signals
+## 3. Local And Label Signals
 
 - [ ] Review Sub Pop Watch.
 - [ ] Review Sub Pop News.
@@ -71,7 +49,7 @@ Keep core titles in stock, prevent cash from sitting in dead inventory, and crea
   - [ ] A local partnership idea.
 - [ ] Save the best 1-2 ideas for the week.
 
-## 5. Store Floor Actions
+## 4. Store Floor Actions
 
 - [ ] Refresh Staff Picks.
 - [ ] Refresh New Arrivals.
@@ -79,14 +57,14 @@ Keep core titles in stock, prevent cash from sitting in dead inventory, and crea
 - [ ] Add signs, shelf talkers, or small notes where useful.
 - [ ] Make sure reordered staples have a clear home when they arrive.
 
-## 6. Marketing Actions
+## 5. Marketing Actions
 
 - [ ] Capture at least one photo or short clip from this week’s inventory story.
 - [ ] Draft one social post from a trending title, staff pick, local music item, or new arrival.
 - [ ] Add any strong item/event idea to the next newsletter.
 - [ ] Consider one Google Business Profile update from the week’s highlights.
 
-## 7. Weekly Notes
+## 6. Weekly Notes
 
 Use this section each week, or copy it into a dated weekly note.
 
@@ -125,7 +103,6 @@ Reviewer:
 
 ## Done Means
 
-- [ ] Reorder decisions are made.
 - [ ] Cold inventory has at least 3 action items.
 - [ ] Staff Picks or New Arrivals have been refreshed.
 - [ ] At least one marketing idea came from inventory or local music signals.
