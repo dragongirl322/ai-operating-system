@@ -301,7 +301,7 @@ Don’t wait for things to get easier…they won’t. Become a person that handl
 
   
 
-RAD leader philosophy
+What I want from leaders 
 
 Honor People
 
