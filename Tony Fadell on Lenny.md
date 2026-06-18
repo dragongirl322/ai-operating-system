@@ -8,4 +8,10 @@ Decide what to build based on pain. Sometimes pain is unmet need (no tool to do 
 
 You build the product and ship it then fix the product and ship it then fix the business. iPod as an example. Targeting mac users only to increase mac sales but only capturing ~1% of market as result. By v3, built windows connector so bring people into Apple eco-system.
 
-Idea of having skunkworks projects when the opinion maker could be wrong. Back to iPod, Tony and team believed from get got that Windows connector important but Steve Jobs was adamant 
+Idea of having skunkworks projects when the opinion maker could be wrong. Back to iPod, Tony and team believed from get got that Windows connector important but Steve Jobs was adamant no. By v3, realized windows connector needed and Tony and team had already started the work as skunkworks. 
+
+Customer journey--know the customer deeply for all aspects including marketing, enablement.
+
+From the get go you have to think holistically: The entire customer journey; the entire eco-system of the tech stack, product, experience; the motions from build to GTM to enablement and onboarding
+
+52.29 talks about the role of design and PM and marketing and all functions and how not having it means you are creating debt; maybe you get v1 but then you're building on a crusty foundation and by the time you get to v5 you are hosed. 
