@@ -17,3 +17,4 @@ From the get go you have to think holistically: The entire customer journey; the
 52.29 talks about the role of design and PM and marketing and all functions and how not having it means you are creating debt; maybe you get v1 but then you're building on a crusty foundation and by the time you get to v5 you are hosed. 
 
 Don't chase the money for doing things that are not good for humanity. Stick to your values and principles. 
+
