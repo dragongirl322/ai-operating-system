@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 26341730,
+  "lastSavedStatusID": 26410709,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -20,7 +20,8 @@
   ],
   "failedBooks": [],
   "booksIDsMap": {
-    "03_Readwise/Articles/Agents, Robots, and Us Skill Partnerships in the Age of AI.md": "61306968"
+    "03_Readwise/Articles/Agents, Robots, and Us Skill Partnerships in the Age of AI.md": "61306968",
+    "03_Readwise/Articles/WTF Is an AI-native Org Anyways Let's Compare Airbnb & Meta's Opposing Plans..md": "61394671"
   },
   "reimportShowConfirmation": true
 }

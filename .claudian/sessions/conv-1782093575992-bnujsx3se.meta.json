@@ -1,0 +1,22 @@
+{
+  "id": "conv-1782093575992-bnujsx3se",
+  "providerId": "claude",
+  "title": "Are you there",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1782093575993,
+  "updatedAt": 1782093581286,
+  "lastResponseAt": 1782093581286,
+  "sessionId": "29805d61-d07f-4c16-8aa9-8f37c041e8f1",
+  "providerState": {
+    "providerSessionId": "29805d61-d07f-4c16-8aa9-8f37c041e8f1"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

@@ -1,9 +1,9 @@
 {
   "userName": "Tam",
   "permissionMode": "yolo",
-  "model": "sonnet",
-  "thinkingBudget": "low",
-  "effortLevel": "high",
+  "model": "opus",
+  "thinkingBudget": "medium",
+  "effortLevel": "medium",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
   "titleGenerationModel": "",
@@ -32,7 +32,7 @@
       "enableOpus1M": false,
       "enableSonnet1M": false,
       "customModels": "",
-      "lastModel": "sonnet",
+      "lastModel": "opus",
       "environmentVariables": "",
       "environmentHash": ""
     },
@@ -65,14 +65,14 @@
   },
   "settingsProvider": "claude",
   "savedProviderModel": {
-    "claude": "sonnet"
+    "claude": "opus"
   },
   "savedProviderEffort": {
-    "claude": "high"
+    "claude": "medium"
   },
   "savedProviderServiceTier": {},
   "savedProviderThinkingBudget": {
-    "claude": "low"
+    "claude": "medium"
   },
   "savedProviderPermissionMode": {
     "claude": "yolo"

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782093211756-kno3fubcv",
+  "providerId": "claude",
+  "title": "Review each of the daily Osprey notes and summariz...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1782093211756,
+  "updatedAt": 1782093430145,
+  "lastResponseAt": 1782093215276,
+  "sessionId": "7c813861-2c59-4d59-a5f9-c1a256fcb5b1",
+  "providerState": {
+    "providerSessionId": "7c813861-2c59-4d59-a5f9-c1a256fcb5b1"
+  },
+  "currentNote": "04_Reviews/Daily/Osprey/2026-06-18.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}
