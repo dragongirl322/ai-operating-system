@@ -22,7 +22,7 @@
 
 ### 6. I stand calm, candid, and bold — every day.
 
-> I don’t rush, I don’t shrink, I don’t overexplain. I cut through noise with clarity and kindness. I push boundaries with grace and strategic precision.
+> I don’t rush, I don’t shrink, I don’t over explain. I cut through noise with clarity and kindness. I push boundaries with grace and strategic precision.
 
   
 
@@ -168,10 +168,6 @@ Leadership is a sacred duty—Doug Conant
   
 
 Get your butterflies flying in formation 
-
-  
-
-You have to look at leadership through the eyes of the followers and you have to live the message. What I have learned is that people become motivated when you guide them to the source of their own power and when you make heroes out of employees who personify what you want to see in the organization.--Anita Roddick
 
   
 
@@ -349,7 +345,3 @@ Solving a functional imperative is not enough; our designs should say we give a 
 Bringing order to chaos is our goal with simplicity
 
   
-
-  
-
-![](blob:capacitor://localhost/82781145-0dc5-4309-b9b7-4a8307bebd6f)
