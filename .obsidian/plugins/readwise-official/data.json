@@ -1,27 +1,30 @@
 {
   "token": "88YSk2bnXEDFlbzSiG4ep5Hjio49fikAFduEMuiA074VnIj3Lg",
-  "readwiseDir": "03_Readwise",
-  "frequency": "0",
+  "readwiseDir": "06_Readwise",
+  "frequency": "10080",
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 26410709,
+  "lastSavedStatusID": 26423530,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
-    "60667458",
-    "60667456",
-    "60667462",
-    "60667455",
-    "60667457",
-    "60686461",
-    "60867853",
-    "61231273"
+    "60867853"
   ],
   "failedBooks": [],
   "booksIDsMap": {
     "03_Readwise/Articles/Agents, Robots, and Us Skill Partnerships in the Age of AI.md": "61306968",
-    "03_Readwise/Articles/WTF Is an AI-native Org Anyways Let's Compare Airbnb & Meta's Opposing Plans..md": "61394671"
+    "03_Readwise/Articles/WTF Is an AI-native Org Anyways Let's Compare Airbnb & Meta's Opposing Plans..md": "61394671",
+    "06_Readwise/Books/Reality Is Broken.md": "60667462",
+    "06_Readwise/Books/BE 2.0.md": "60667458",
+    "06_Readwise/Books/What Your Customer Wants and Can't Tell You.md": "60667457",
+    "06_Readwise/Books/Move Fast. Break Shit. Burn Out..md": "60667456",
+    "06_Readwise/Books/Thinking in Systems.md": "60667455",
+    "06_Readwise/Articles/After Automation Every.md": "60686461",
+    "06_Readwise/Books/Holding Your Own.md": "61231273",
+    "06_Readwise/Articles/Agents, Robots, and Us Skill Partnerships in the Age of AI.md": "61306968",
+    "06_Readwise/Articles/WTF Is an AI-native Org Anyways Let's Compare Airbnb & Meta's Opposing Plans..md": "61394671",
+    "06_Readwise/Articles/The Digital Kowloon.md": "61558428"
   },
   "reimportShowConfirmation": true
 }
