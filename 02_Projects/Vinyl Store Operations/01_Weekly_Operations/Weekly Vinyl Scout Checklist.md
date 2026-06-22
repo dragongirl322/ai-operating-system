@@ -16,48 +16,27 @@ Keep core titles in stock, prevent cash from sitting in dead inventory, and crea
 
 ## 1. Cold Inventory
 
-- [ ] Open Cold Inventory.
-- [ ] Download `cold-inventory.csv`.
-- [ ] Look for items aged 90+ days with little or no sales.
-- [ ] Choose an action for each priority item:
-  - [ ] Move to better placement.
-  - [ ] Feature in Staff Picks.
-  - [ ] Bundle with related inventory.
-  - [ ] Markdown.
-  - [ ] Remove from prime space.
-  - [ ] Leave as-is because it is strategically important.
-- [ ] Pick 3-5 cold items to act on this week.
+- [ ] Open Cold Inventory and download the .csv to identify items to move quickly
+- [ ] Do something concrete to market cold inventory
 
 ## 2. Trending And Core Titles
 
-- [ ] Review Trending Now.
-- [ ] Identify staples that should stay in stock consistently.
-- [ ] Check whether trending titles suggest a display, bin feature, or staff recommendation.
+- [ ] Review Trending Now and use the info for in store placement, social media, newsletter
 - [ ] Note any “sold-out staples” that hurt the store this week.
 - [ ] Choose 1-3 titles to highlight in-store or online.
 
 ## 3. Local And Label Signals
 
-- [ ] Review Sub Pop Watch.
-- [ ] Review Sub Pop News.
-- [ ] Review Seattle Scene.
-- [ ] Look for anything that could become:
-  - [ ] A social post.
-  - [ ] A newsletter blurb.
-  - [ ] A staff pick.
-  - [ ] A micro-event.
-  - [ ] A local partnership idea.
-- [ ] Save the best 1-2 ideas for the week.
+- [ ] Review Sub Pop Watch and news and Seattle Scene and use for social posts, micro-events, newsletter, staff pick
+- [ ] Take one concrete action
 
 ## 4. Store Floor Actions
 
 - [ ] Refresh Staff Picks.
 - [ ] Refresh New Arrivals.
-- [ ] Move selected cold inventory to better placement.
-- [ ] Add signs, shelf talkers, or small notes where useful.
-- [ ] Make sure reordered staples have a clear home when they arrive.
+- [ ] Clean the floor and dust.
 
-## 5. Marketing Actions
+## 5. Marketing Actions 
 
 - [ ] Capture at least one photo or short clip from this week’s inventory story.
 - [ ] Draft one social post from a trending title, staff pick, local music item, or new arrival.
