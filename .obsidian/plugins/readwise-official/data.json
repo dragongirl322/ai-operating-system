@@ -1,11 +1,11 @@
 {
   "token": "88YSk2bnXEDFlbzSiG4ep5Hjio49fikAFduEMuiA074VnIj3Lg",
   "readwiseDir": "06_Readwise",
-  "frequency": "10080",
+  "frequency": "720",
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 26423530,
+  "lastSavedStatusID": 26488285,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -19,7 +19,10 @@
     "61231273",
     "61306968",
     "61394671",
-    "61558428"
+    "61558428",
+    "61581901",
+    "61667620",
+    "61673130"
   ],
   "failedBooks": [],
   "booksIDsMap": {
