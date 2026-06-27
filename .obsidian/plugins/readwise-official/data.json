@@ -1,33 +1,31 @@
 {
   "token": "88YSk2bnXEDFlbzSiG4ep5Hjio49fikAFduEMuiA074VnIj3Lg",
   "readwiseDir": "06_Readwise",
-  "frequency": "720",
+  "frequency": "10080",
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 26488285,
+  "lastSavedStatusID": 26488316,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
-    "60867853",
-    "60667462",
-    "60667458",
-    "60667457",
-    "60667456",
-    "60667455",
-    "60686461",
-    "61231273",
-    "61306968",
-    "61394671",
-    "61558428",
-    "61581901",
-    "61667620",
-    "61673130"
+    "60867853"
   ],
   "failedBooks": [],
   "booksIDsMap": {
-    "03_Readwise/Articles/Agents, Robots, and Us Skill Partnerships in the Age of AI.md": "61306968",
-    "03_Readwise/Articles/WTF Is an AI-native Org Anyways Let's Compare Airbnb & Meta's Opposing Plans..md": "61394671"
+    "06_Readwise/Books/Reality Is Broken.md": "60667462",
+    "06_Readwise/Books/BE 2.0.md": "60667458",
+    "06_Readwise/Books/What Your Customer Wants and Can't Tell You.md": "60667457",
+    "06_Readwise/Books/Move Fast. Break Shit. Burn Out..md": "60667456",
+    "06_Readwise/Books/Thinking in Systems.md": "60667455",
+    "06_Readwise/Articles/After Automation Every.md": "60686461",
+    "06_Readwise/Books/Holding Your Own.md": "61231273",
+    "06_Readwise/Articles/Agents, Robots, and Us Skill Partnerships in the Age of AI.md": "61306968",
+    "06_Readwise/Articles/WTF Is an AI-native Org Anyways Let's Compare Airbnb & Meta's Opposing Plans..md": "61394671",
+    "06_Readwise/Articles/The Digital Kowloon.md": "61558428",
+    "06_Readwise/Articles/An Experimental Comparison of Cognitive Forcing Functions for Execution Plans in AI-Assisted Writing Effects on Trust, Overreliance, and Perceived Critical Thinking.md": "61581901",
+    "06_Readwise/Articles/The Shape of Enshittification Books That No Longer Get Read, an Internet That No Longer Gets Surfed, & the End of Social Media as We Know It....md": "61667620",
+    "06_Readwise/Articles/Challenges to the Monitoring of Deployed AI Systems.md": "61673130"
   },
   "reimportShowConfirmation": true
 }
