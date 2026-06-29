@@ -40,7 +40,9 @@ My Notes:
 My Take:
 * They are overly focused on the quality of the data in product requirements and build phase and have nothing related to understanding whether building an AI solution makes sense or how to go about implementing.
 * They are missing a huge opportunity to build AI augmented solutions; the field is ripe. Focusing only on services leaves them vulnerable, in my opinion.
-* 
+* I will be mindful of holding back my expertise and knowledge until I'm sure of two things:
+	* I've got a contract in place for being compensated
+	* There is clear opportunity for mutual benefit of me sharing because I can help them take this much further faster if they want
 
 ---
 
