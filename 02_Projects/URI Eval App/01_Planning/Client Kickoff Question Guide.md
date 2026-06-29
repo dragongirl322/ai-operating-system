@@ -23,6 +23,25 @@ By the end of the meeting, I want enough clarity to:
 - Understand current product, technical, market, and delivery constraints.
 - Confirm milestones, deliverables, ownership, and working norms.
 
+My Notes:
+* This is truly just an extension of their current research services, not a product; that was not clear to me from prior conversations.
+- The objective is to provide more AI eval services with actual humans in the loop (HITL) across the product lifecycle.
+- They are targeting three different pillars and 5 different client/customer types
+- Objective: Near-term = get paying client with longer term growth; no clear vision
+- Objective that was not described as such but mentioned by Justin as an opportunity = create a proprietary URI metric for something like trust
+- They do have clients asking them to do pre-release usability testing and post-release benchmark testing and have had some enquire about testing golden datasets.
+- USP=3 things:
+	- Methodological expertise
+	- UX & implementation expertise with small team; allows for minimal internal resources 
+	- User panel and proprietary panel management product
+- They will send a deck with more details in it
+- View me as playing a strong role in implementation and advising / consulting on metrics
+
+My Take:
+* They are overly focused on the quality of the data in product requirements and build phase and have nothing related to understanding whether building an AI solution makes sense or how to go about implementing.
+* They are missing a huge opportunity to build AI augmented solutions; the field is ripe. Focusing only on services leaves them vulnerable, in my opinion.
+* 
+
 ---
 
 # 1. Business Objectives
