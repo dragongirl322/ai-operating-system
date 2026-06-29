@@ -3,9 +3,9 @@
   "readwiseDir": "06_Readwise",
   "frequency": "10080",
   "triggerOnLoad": true,
-  "isSyncing": true,
+  "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 26488316,
+  "lastSavedStatusID": 26512972,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -25,7 +25,8 @@
     "06_Readwise/Articles/The Digital Kowloon.md": "61558428",
     "06_Readwise/Articles/An Experimental Comparison of Cognitive Forcing Functions for Execution Plans in AI-Assisted Writing Effects on Trust, Overreliance, and Perceived Critical Thinking.md": "61581901",
     "06_Readwise/Articles/The Shape of Enshittification Books That No Longer Get Read, an Internet That No Longer Gets Surfed, & the End of Social Media as We Know It....md": "61667620",
-    "06_Readwise/Articles/Challenges to the Monitoring of Deployed AI Systems.md": "61673130"
+    "06_Readwise/Articles/Challenges to the Monitoring of Deployed AI Systems.md": "61673130",
+    "06_Readwise/Articles/While Everyone Talks About AI, Design Is Gaining Power.md": "61695240"
   },
   "reimportShowConfirmation": true
 }
