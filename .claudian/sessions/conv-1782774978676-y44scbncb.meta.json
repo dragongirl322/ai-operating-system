@@ -1,0 +1,24 @@
+{
+  "id": "conv-1782774978676-y44scbncb",
+  "providerId": "claude",
+  "title": "Improve markdown formatting",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782774978679,
+  "updatedAt": 1782775094144,
+  "lastResponseAt": 1782775094144,
+  "sessionId": "4043fa9b-3f38-4e1b-83bf-e114b824c764",
+  "providerState": {
+    "providerSessionId": "4043fa9b-3f38-4e1b-83bf-e114b824c764"
+  },
+  "currentNote": "01_Knowledge/My Learning/Cognitive and Psych Principles.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 717,
+    "cacheReadInputTokens": 33249,
+    "contextWindow": 1000000,
+    "contextTokens": 33967,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}
