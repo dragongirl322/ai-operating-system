@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782846581080-gldr0ydb8",
+  "providerId": "claude",
+  "title": "Analyze design trends and leadership problems",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782846581081,
+  "updatedAt": 1782846765042,
+  "lastResponseAt": 1782846765042,
+  "sessionId": "be79a117-754f-49a6-b91b-189afd192bbc",
+  "providerState": {
+    "providerSessionId": "be79a117-754f-49a6-b91b-189afd192bbc"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 5104,
+    "cacheReadInputTokens": 68475,
+    "contextWindow": 1000000,
+    "contextTokens": 73580,
+    "percentage": 7,
+    "contextWindowIsAuthoritative": true
+  }
+}
