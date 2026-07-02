@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783020725232-6nghchyos",
+  "providerId": "claude",
+  "title": "Rewrite record store social post",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783020725232,
+  "updatedAt": 1783020738161,
+  "lastResponseAt": 1783020738161,
+  "sessionId": "8a9b5212-2911-4a90-a376-9b8e2937c3db",
+  "providerState": {
+    "providerSessionId": "8a9b5212-2911-4a90-a376-9b8e2937c3db"
+  },
+  "currentNote": "04_Skills/TNT Music Writing Guide.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 11051,
+    "cacheReadInputTokens": 19410,
+    "contextWindow": 1000000,
+    "contextTokens": 30462,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}
