@@ -14,3 +14,8 @@ The types of problems I will help solve:
 * Building frontier builder skills
 * Frontier builder operating models
 * Change management practices
+
+Reference:
+
+https://www.naomigrewal.com 
+
