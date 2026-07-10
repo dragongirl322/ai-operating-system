@@ -1,0 +1,1 @@
+Dear 25 year old me. Sure, you like that senior phone center supervisor role you're in because you get to be in charge of a lot of people and you have a lot of fun with friends you've made over the years. This has been a good job. Better than your time at Exxon in LeBarge, WY. Bet
