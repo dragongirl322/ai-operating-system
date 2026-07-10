@@ -24,7 +24,7 @@ primary_outcome: Urgency + a starting action
 
 ## I. Open — Name the moment (2 min)
 
-- **Hook:** "The design profession spent the last decade arguing about the wrong things. AI walked in, sat down, and started doing the work."
+- **Hook:** "I've been doing this since floppy discs" 
 - Our job hasn't changed — make technology work for humans. AI raises the stakes.
 - Not "is our profession dying." The question is whether we show up equipped.
 - Preview: 9 skills, real time on the ones that matter most for *this moment*. You'll leave with one thing to do this week.
