@@ -72,27 +72,32 @@ Start there. Reach for the next thing after that.
 
 ### 2. Change Management & Resilience — DEEP (4 min)
 
-- **Define:** The deliberate practice of navigating — and for leaders, driving — significant change through urgency, coalition, and momentum.
-- **The frame:** Kotter's principles apply with uncomfortable precision. Three matter most right now: **create urgency · enlist a volunteer army · generate short-term wins.**
-- **Why now:** Believing you can navigate the largest paradigm shift in tech history without intentional change management isn't optimism — *it's naivety.*
+- **Define:** Change management is the deliberate practice of navigating significant change, and for leaders, driving it. It runs on three things: urgency, a coalition of people who want it too, and momentum you build through visible wins.
+- John Kotter has been teaching this for decades, and his principles apply to this moment with uncomfortable precision. Three of them matter most right now. Create urgency. Enlist a volunteer army. Generate short-term wins.
+- **Why it matters** Believing you can navigate the largest paradigm shift in tech history without intentional change management isn't optimism — *it's naivety.*
+- Change doesn't manage itself.
+- You have two choices, let it wash over you and take it where it will or get intentional and bring others with you; those who are doing the latter are the ones I'm seeing succeed
 - **Do this now:**
-  1. Name your own urgency in writing: what specifically will you lose if you don't move in the next 90 days?
-  2. Find your volunteer army — one person already moving. Learn from them or elevate them.
-  - **Leader bonus (if time):** set up one short-term win — evidence of *better work,* not just learning — you can point to in 30 days.
+  1. Urgency IC: what is one thing you need to do well in the next ninety days? Get moving on that thing.
+  2. Urgency leader: show your team the gap between where you are and where the work is going--make it impossible not to see and do it in a way that is calm and confident, "this is the way we win"
+  3. Volunteer Army IC: Find one person already moving, learn from them
+  4. Volunteer Army leader: Find those already doing it and make their work visible, have them pull others forward.
+  5. Short term win IC: Do something small and visible that proves new ways work.
+  6. Short term win leader: Hunt for wins on purpose and make them impossible to miss. 
 
 ---
 
 ### 3. Cross-Functional Influence — LIGHT (1 min)
 
-- **Define:** Leading with a human-centered POV. Ethos · pathos · logos.
-- **The line that matters:** *Execution without a human-centered POV is exactly what AI now does faster and cheaper.*
-- **Do this now:** Before your next cross-functional meeting, write your POV in three sentences: what the human needs, what the business needs, what the tech makes possible.
+- **Define:** Leading with a human-centered POV. Seek first to understand, utilize Ethos · pathos · logos.
+- **The line that matters:** ** when you only do what others ask you to do, you are allowing business requirements and technical constraints to trump human needs. You are not influencing. You are executing. And execution without a human-centered point of view is exactly what AI tools now do faster and cheaper. Show up with the expertise you have earned. The humans on the other side are counting on it even if they don’t know your name.
+- **Do this now:** Before your next cross-functional meeting , write the following: What you know about the people you're building for. What you know about the goals of the person you're influencing. Data or insights you have that speak to the importance of both.
 
 ---
 
 ### 4. Craft Mastery & Human-Centered Principles — LIGHT (1 min)
 
-- **Define:** Relentless attention to the details that separate adequate from genuinely good.
+- **Define:** Craft mastery is not about perfection. It is about the relentless attention to the details that make the difference between work that is adequate and work that is genuinely good. It is also about understanding the humans on the other side well enough to know what good actually means for them — their cognitive load, their mental models, their need for clarity, accessibility, and trust.
 - **The line that matters:** *In a world where AI approximates expertise cheaply, craft and intention are what separate a practitioner from an algorithm.*
 - **Do this now:** Audit one recent piece of your work against Nielsen's heuristics or Rams' principles. Be honest about the gaps.
 
