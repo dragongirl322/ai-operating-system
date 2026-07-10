@@ -99,15 +99,19 @@ Start there. Reach for the next thing after that.
 
 - **Define:** Craft mastery is not about perfection. It is about the relentless attention to the details that make the difference between work that is adequate and work that is genuinely good. It is also about understanding the humans on the other side well enough to know what good actually means for them — their cognitive load, their mental models, their need for clarity, accessibility, and trust.
 - **The line that matters:** *In a world where AI approximates expertise cheaply, craft and intention are what separate a practitioner from an algorithm.*
-- **Do this now:** Audit one recent piece of your work against Nielsen's heuristics or Rams' principles. Be honest about the gaps.
+- **Do this now:** Have a trusted peer review a recent piece of work and provide honest, candid feedback. Use that feedback and identify one thing you're going to work on improving.
 
 ---
 
 ### 5. Systems Thinking — DEEP (4 min)
 
-- **Define:** Seeing the whole system a human moves through and identifying where they get stuck — across teams, surfaces, functions.
-- **The frame:** Humans don't care about your org chart. When the product feels fragmented, they don't blame the team that owns the surface. *They blame the brand.*
-- **Why now:** AI is being bolted onto existing products by teams optimizing their own surface. The human is walking through a system nobody owns end-to-end. That's where the highest-impact work lives.
+- **Define:** Donella Meadows, in Thinking in Systems, described a system as a set of interconnected parts organized to achieve something. Her key insight: the behavior people experience doesn't come from any single part. It comes from how the parts connect.
+- Systems thinking, for us, is seeing the whole set of connected parts a human moves through, across teams, surfaces, and functions, and finding the place where the connections break. Not the screen. The seams between the screens.
+- **Why it matters:** Humans shouldn't be limited by your org chart
+- Hierarchical systems work best when they have strong bottom-up support. That bottom-up signal, the human-centered intelligence about what people actually need, is exactly what we generate.
+- The system a human moves through no longer contains only humans. It contains agents, doing real work alongside them, and sometimes acting on their own.
+- AI is being bolted onto existing products, surface by surface, by teams optimizing their own piece. Everyone is building their part. No one is building the whole. And when you build a system that way, you get Conway's law, the principle that your product ends up mirroring your org structure. Siloed teams produce a siloed experience. Add autonomous agents to that fragmentation and it doesn't add up. It multiplies. Every broken handoff becomes a place where an agent acts confidently and wrong, and the human pays for it.
+- That gap, the space nobody owns, is exactly where our highest-impact work lives right now. And it's work almost no one else is positioned to do.
 - **The reframe (carry this out of the room):** When you operate at the system level, you become the steel thread through every function's success. Their goals become your goals. Their success becomes your success.
 - **Do this now:**
   1. Map the human journey across your product beyond the surface you own. Mark where handoffs break.
@@ -143,10 +147,14 @@ Start there. Reach for the next thing after that.
 
 ### 9. Storytelling & Executive Communication — DEEP (4 min)
 
-- **Define:** Telling the story of the human on the other side so clearly it travels — into prioritization, into how teams build, into how the company sells.
-- **The frame:** *The work is not enough. It has never been enough.* A finding that stays in a deck. A design that never gets championed. None of it moves anything.
-- **Why now:** AI forces decisions faster than any org can absorb. If you don't tell the human story, the void fills with someone else's — the features story, the pricing story, the brand story. The human on the other side experiences the gap between all three.
-- **The reframe (carry this out of the room):** Great storytelling is scaffolding. It doesn't require the designer to be in the room. It requires the story to be good enough that everyone who *is* in the room can tell it.
+- **Define:** Edward R. Murrow, testifying before Congress in 1963, said this: to be persuasive we must be believable, to be believable we must be credible, and to be credible we must be truthful.
+- That's the whole job here. Storytelling, for us, is telling the story of the human on the other side so clearly and so truthfully that it travels. Into how the company prioritizes. Into how teams build. Into how the company sells. Not a story we decorate. A true story we make impossible to ignore.
+- **Why it matters:** The work is not enough. It never has been. A finding that stays in a deck. A design nobody champions. A number nobody acts on. None of it moves anything on its own.
+- There's a quiet assumption in our field that good work speaks for itself. It doesn't. Not in a complex organization, and definitely not at the speed AI is now forcing decisions to get made. Decisions are happening faster than any org can absorb, and every one of them is a story about what matters.
+- If you don't tell the story of the human, that space doesn't stay empty. It fills with other's stories.
+- And to bring Murrow back, this is why truth matters more than polish. A slick story that isn't grounded in the real human falls apart the moment someone tests it. A true one, backed by evidence, holds up in every room it enters. That's what makes it travel.
+- Great storytelling is scaffolding.
+- the part that should change how you think about your job. The best storytelling doesn't require you to be in the room. It requires the story to be good enough that everyone who is in the room can tell it.
 - **Do this now:**
   1. Rewrite your last research readout or design presentation into a 3-sentence story a stranger could retell.
   2. Find one place to tell the human story outside your own function — a sales all-hands, a marketing sync, an engineering standup.
