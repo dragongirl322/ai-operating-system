@@ -1,9 +1,24 @@
 {
   "id": "conv-1783124993371-80wv0fmnr",
   "providerId": "claude",
-  "title": "Schedule Monday reminder for draft review",
+  "title": "Create 9-skill UX presentation outline",
   "titleGenerationStatus": "success",
   "createdAt": 1783124993371,
-  "updatedAt": 1783125004548,
-  "sessionId": null
+  "updatedAt": 1783714885075,
+  "lastResponseAt": 1783714885075,
+  "sessionId": "9b2f0b0c-ead9-4b4b-a84e-c339820884c5",
+  "providerState": {
+    "providerSessionId": "9b2f0b0c-ead9-4b4b-a84e-c339820884c5"
+  },
+  "currentNote": "02_Projects/Writing/Articles/9 Skills the AI Era Demands.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 6631,
+    "cacheReadInputTokens": 48129,
+    "contextWindow": 1000000,
+    "contextTokens": 54761,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
 }
