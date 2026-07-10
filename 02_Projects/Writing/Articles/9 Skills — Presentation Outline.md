@@ -24,15 +24,24 @@ primary_outcome: Urgency + a starting action
 
 ## I. Open — Name the moment (2 min)
 
-- **Hook:** "I've been doing this since floppy discs" 
-- Our job hasn't changed — make technology work for humans. AI raises the stakes.
-- Not "is our profession dying." The question is whether we show up equipped.
+- **Hook:** "I've been doing this since floppy discs" Son says I'm pioneer
+- Timing right; CLI -> GUI; human cognition didn't change but the tech changed what was possible and the form factor we were designing and building for
+- This is a whole different thing--the capabilities are unprecedented and what makes it especially interesting is that AI can do big chunks of our job
+- Our objective hasn't changed — make technology work for humans. AI raises the stakes.
+- Not "is our profession dying." The question is whether we show up equipped. What are the skills that are uniquely human and important for us to have in order to meet our objectives.
 - Preview: 9 skills, real time on the ones that matter most for *this moment*. You'll leave with one thing to do this week.
 
 ## II. The foundation: Mastery — plant the flag (1.5 min)
 
-- Sarah Lewis: *not mastery as a destination, but as a constant reach for what lies just within your grasp.*
-- "I'll come back to this. For now, hold it as the posture underneath everything I'm about to say."
+- In Dr. Sarah Lewis's book The Rise, she draws the line between success and master. 
+- Success is a moment, you hit the target and it's over almost as soon as it happens.
+- Mastery is never finished. It lives in the space between where you are now and the thing barely out of your reach.
+- It is like the archer who keeps moving the target back on purpose. Not to fail. To stay in pursuit.
+- The near win, the shot that lands just off center, is what pulls you forward.
+- Don't hold these nine skills as a checklist but as targets we keep moving back as you grow. 
+- None of us will master all nine, that's not the point. The point is to reach for the version of each one that sits just past what you can do today. 
+- SO as we go, don't ask "can I do this." as what's the next reach.
+
 
 ---
 
@@ -47,7 +56,7 @@ The **medium-deep** skill sits between.
 ### 1. AI Literacy & Augmented Practice — DEEP (4 min)
 
 - **Define:** Working knowledge of how AI systems actually behave — probabilistic outputs, context windows, memory, evals — plus fluency using the tools daily.
-- **The frame:** Trust is not a feature of AI experience. It is the *threshold condition*. If a human doesn't trust the system, no amount of speed or intelligence makes it valuable.
+- **The frame:** Trust is not a feature of AI experience. It is the *threshold condition*. If a human doesn't trust the system, no amount of speed or intelligence makes it valuable. Trust doesn't happen by accident.
 - **Why now:** Your engineers understand this. Your PMs understand this. If you're the only person in the room without working knowledge, *you're the person adding the least value.* Untenable for someone whose job is to advocate for the human.
 - **Do this now:**
   1. Use an AI tool daily for two weeks on real work — not toys. Notice where it fails.
