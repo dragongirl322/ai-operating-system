@@ -55,13 +55,18 @@ The **medium-deep** skill sits between.
 
 ### 1. AI Literacy & Augmented Practice — DEEP (4 min)
 
-- **Define:** Working knowledge of how AI systems actually behave — probabilistic outputs, context windows, memory, evals — plus fluency using the tools daily.
-- **The frame:** Trust is not a feature of AI experience. It is the *threshold condition*. If a human doesn't trust the system, no amount of speed or intelligence makes it valuable. Trust doesn't happen by accident.
-- **Why now:** Your engineers understand this. Your PMs understand this. If you're the only person in the room without working knowledge, *you're the person adding the least value.* Untenable for someone whose job is to advocate for the human.
+- **Define:** AI literacy is understanding what these systems can do, what they can't, how they work, and where they break. Enough to know when to trust them, when to push them, and when to override them.
+- **Why it matters:** Your engineers and PMs understand AI. If you're the only person in the room without working knowledge, *you're the person adding the least value.* Untenable for someone whose job is to advocate for the human.
+- Can't build empathy for users being impacted by technology when we don't understand the technology; understanding users and the systems they work in is what we do best
+- Literacy is what tells you what's actually possible, where the real constraints are, and where the technology can be pushed harder than the team assumes. That knowledge is the raw material now. Without it, you're accepting whatever you're handed. With it, you're the one saying "we can do better than this, and here's how."
+- I worked on back office systems; didn't have real impact until I took the time to learn the tech
+- You earn empathy and you earn credibility by understanding the material. And credibility is the whole game, because you can't influence what you don't understand well enough to have a real opinion about.
+- Should light a fire under you that PMs and Eng are using AI now to do their jobs better and faster; if you're not doing the same, guess who is defining the experience? Not you.
 - **Do this now:**
-  1. Use an AI tool daily for two weeks on real work — not toys. Notice where it fails.
-  2. Read one real primer on how LLMs behave (context, memory, hallucination, evals). Not a Twitter thread.
-  - **Leader bonus (if time):** run a working session where the team critiques an AI product's interaction model against human-centered principles.
+  1. Pick a tool and use it on a real problem. Not a demo, not a toy prompt. Something you actually have to solve. That's the only way this becomes real.
+  2. Pick one voice in this space and start following them. You don't need ten. You need one you'll actually read. A few I'd point you to: Nate B. Jones, Allie Miller, Matt Paige, Lenny Rachitsky.
+
+Start there. Reach for the next thing after that.
 
 ---
 
