@@ -2,11 +2,21 @@ Dear 25 year old me. Sure, you like that senior phone center supervisor role you
 
 Today I write this to you looking back on a 38 year career in tech. Know there will be a handful of tough times but, for the most part, it is goin to be such a ride. Sure, you've dropped out of college, not once but twice, but what you've learned in your career is worth three lifetimes of college. Through it all there are 7 key life and career lessons you'll learn.
 
-Stay humble and grateful for the opportunity.
+Lesson 1: Stay humble and grateful for the opportunity.
+During your first year in tech, you're going to be a bit awed by the salary, paid vacation, free ice cream, and the fact you're learning so much so quickly. Because you landed in tech by happy accident, you don't have a sense of entitlement and you don't ever feel too smart to learn. You'll find your best happy accident because of this. When the chance comes to go try something new an challenging you'll jump on it and you'll learn how to do what you'll spend the rest of your career doing. 
 
-Be hungry to learn and embrace every chance to do something new and different.
+Becoming a researcher and then a Human Factor's engineer isn't something you studied for but somehow it is something you were made for. Sometimes you'll feel intimidated working along side PhDs in the field and that is good; it is part of what keeps you reaching. 
 
-Say yes as often as you can but also learn how to say no every once in a while.
+Your gratitude for the work you've been able to do won't ever grow old. You'll carry it with you your entire career, even when things are tough. Your career will give you the chance to see many places in the world and work along side a smart, diverse, amazing group of people. It will help you be a better wife and a better mom and a better human. 
+
+Lesson 2: Be hungry to learn and embrace every chance to do something new and different.
+You'll enjoy learning about human computer interaction and being a researcher so much that early in your career, you'll work on 7 products at one time and love every second of it. You'll do this because you'll raise your hand for every opportunity. This will give you the chance to work on text to voice and voice to text way before they become common modalities. 
+
+This hunger and reach for opportunity will set you up to work along side people several levels above you. You'll never even think of the hierarchy, especially early in your career. You'll travel with the head of engineering, the chief technology architect, and others and learn how to influence them by understanding and partnering with them on their goals. This will serve you your entire career. 
+
+There will definitely be times when your desire to say yes to everything is going to cause you problems. You'll learn that you only have so much capacity and this will help you find ways to say yes to the things that matter and to align on priorities with cross functional partners. This will help you become known as a trusted partner who focuses on the greater good. 
+
+Say yes as often as you can but also learn how to say no every once in a while. 
 
 Embrace change and move forward with grace while also advocating for what you believe is best.
 
