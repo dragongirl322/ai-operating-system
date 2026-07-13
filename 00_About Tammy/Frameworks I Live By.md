@@ -82,4 +82,3 @@
 2. Don’t make assumptions
 3. Don’t take things personally
 4. Always try your best
-5
