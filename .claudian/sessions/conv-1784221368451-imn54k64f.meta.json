@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784221368451-imn54k64f",
+  "providerId": "claude",
+  "title": "Summarize influence on priorities and threading",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784221368454,
+  "updatedAt": 1784221390376,
+  "lastResponseAt": 1784221390376,
+  "sessionId": "28678e3a-d674-41ea-a702-718c2b3e25c7",
+  "providerState": {
+    "providerSessionId": "28678e3a-d674-41ea-a702-718c2b3e25c7"
+  },
+  "currentNote": "00_About Tammy/TAM Leadership Playbook.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 15295,
+    "cacheReadInputTokens": 19375,
+    "contextWindow": 1000000,
+    "contextTokens": 34671,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}
