@@ -13,3 +13,11 @@ Three:
 2. Core HCM improvements
 3. Daybreak--speed up without compromising on quality; aligned all key GMs and VPs and leaders to experience led operating model and deliverables
 
+My questions for her:
+- **“As Informatica integrates into Salesforce, which decisions about product strategy, organization and ownership are already settled, and which would the VP of Product Design genuinely have the authority to shape?”**  
+    This tests whether the role has real authority or is being hired into decisions that have already been made.
+- **“Can you give me an example of a consequential disagreement between UX and product or engineering in the past year? How was it resolved, and who ultimately made the decision?”**  
+    The example will reveal more about design influence, conflict and executive behavior than asking whether Salesforce values design.
+- **“When priorities conflict across Informatica, Data 360, MuleSoft and Agentforce, how are tradeoffs made, and what would you expect this VP to own versus influence?”**  
+    This exposes the political and operational seams without asking her to criticize the organization.
+
