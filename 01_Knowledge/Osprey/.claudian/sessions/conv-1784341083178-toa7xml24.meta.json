@@ -4,8 +4,8 @@
   "title": "Categorize design leadership problems",
   "titleGenerationStatus": "success",
   "createdAt": 1784341083180,
-  "updatedAt": 1784341196135,
-  "lastResponseAt": 1784341196135,
+  "updatedAt": 1784342047794,
+  "lastResponseAt": 1784342047794,
   "sessionId": "9cdba64e-b62f-4b99-80c5-f66d953059a7",
   "selectedModel": "sonnet",
   "providerState": {
@@ -14,11 +14,11 @@
   "usage": {
     "model": "sonnet",
     "inputTokens": 1,
-    "cacheCreationInputTokens": 45516,
-    "cacheReadInputTokens": 12113,
+    "cacheCreationInputTokens": 4975,
+    "cacheReadInputTokens": 82478,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 57630,
-    "percentage": 29
+    "contextTokens": 87454,
+    "percentage": 44
   }
 }
