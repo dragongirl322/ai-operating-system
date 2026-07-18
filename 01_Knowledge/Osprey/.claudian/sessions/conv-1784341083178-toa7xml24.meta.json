@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784341083178-toa7xml24",
+  "providerId": "claude",
+  "title": "Categorize design leadership problems",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784341083180,
+  "updatedAt": 1784341196135,
+  "lastResponseAt": 1784341196135,
+  "sessionId": "9cdba64e-b62f-4b99-80c5-f66d953059a7",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "9cdba64e-b62f-4b99-80c5-f66d953059a7"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 45516,
+    "cacheReadInputTokens": 12113,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 57630,
+    "percentage": 29
+  }
+}

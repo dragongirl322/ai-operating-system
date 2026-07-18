@@ -11,8 +11,9 @@
         "conversationId": null
       },
       {
+        "draftModel": "opus",
         "tabId": "tab-1781044617960-hvhfvx9",
-        "conversationId": "conv-1784221368451-imn54k64f"
+        "conversationId": null
       }
     ],
     "activeTabId": "tab-1781044617960-hvhfvx9"
