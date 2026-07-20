@@ -199,13 +199,14 @@ Use phrases like:
 
 ## Color Palette
 
-| Role | Use | Hex |
-|---|---|---|
-| Primary Purple | Main brand color | `#7C2C9E` |
-| Light Purple | Secondary support color | `#B98ED3` |
-| Neon Blue | Accent color | `#13DEF5` |
-| Yellow | Accent color | `#F7E240` |
-| Near Black | Text, contrast, dark backgrounds | `#010E10` |
+| Role           | Use                              | Hex       |
+| -------------- | -------------------------------- | --------- |
+| Primary Purple | Main brand color                 | `#7C2C9E` |
+| Light Purple   | Secondary support color          | `#B98ED3` |
+| Neon Blue      | Accent color                     | `#13DEF5` |
+| Yellow         | Accent color                     | `#F7E240` |
+| Near Black     | Text, contrast, dark backgrounds | `#010E10` |
+| White          | Text                             | `#F7F5F0` |
 
 ---
 
