@@ -1148,6 +1148,997 @@ It is a good weekend to practice. Tre had his first night of convention yesterda
 
 Other than that, it is rainy so I walked inside this morning. I’ll get bundled up for an outside walk at least once today. Aside from tracking Tre down to Seattle, I intend to make this a me day for reset and recharge final stretch.
 
+## Jan 4
+
+Today I enjoy the presence and the joy and the gratitude of the time I have to be with myself and with my family. It has been a great two week break. Tonight, before I put myself to bed, I lock in.
+
+I will remind myself as often as I can that I control absolutely nothing other than my response to situations and the way I perceive and move through the world. The rest is out of my hands.
+
+If I’m lucky, I have 20 more years on this earth. That is so little. I’m grateful for all that I’ve experienced and accomplished up to this point. As long as I’m steal breathing, I’m not done.
+
+Let’s go.
+
+## Jan 5
+
+Locked in. Ready to go. Got my sleep, did my walk, drinking my coffee.
+
+Low meeting day, one that allows me to roll in slowly, setup systems for helping me remain locked in. Today is about using my time judiciously and wisely.
+
+## Jan 6
+
+Hit every non-negotiable yesterday. It was good to have a meeting light day to start the new year of work. Today gets more into the normal groove. The next two weeks will feel like an 800 yard dash—not quite a sprint and not quite a distance run but the kind that leaves you tired and wobbly (my least favorite race). I’m ready for this one. Then 2 weeks from today we go to warm Hawaii for a family vacay.
+
+Today will be a lot of context switching and I’m in the office. Patience while driving is key. Presence when at work, critical. I’m well ready.
+
+## Jan 7
+
+Holding strong midway through the week. It was great to see Mel and others in the office yesterday. I appreciate the human connection.
+
+Emma was sick yesterday so we kept the store closed. We’re prompted to find another employee and perhaps cut Emma’s hours so we can offer the other at least 10 hours a week; we need someone flexible who can cover on sick days.
+
+I’m grateful that I love the problem solving I get to do on a daily basis. Let’s go.
+
+## Jan 8
+
+The week is flying by. I woke up way earlier than I wanted to today because my body needed to pee then I couldn’t go back to sleep as my mind went into active work mode. I’m OK with that.
+
+My morning walk was cold so I moved faster. I’m feeling energized by all of it right now. It is good because I have two days to finish prep for the leadership summit next week and a lot to do to get there. I’m grateful to have a strong team working with me.
+
+I’m proud of Tre. Emma was sick again yesterday and when I got home from work I offered to go open the store and work for an hour or so before he took over. He responded that I do enough work for the family and that he wanted to be the one to run the store on his own. He was very clear and firm that it is his responsibility and he needs to lean in. Big step! And also another reminder that when we don’t demand but we make space, he almost always gets where he needs to be.
+
+This has been a nice re-entry week. Hitting my non-negotiables, feeling “on,” loving my family connectedness.
+
+## Jan 9
+
+Friday. It has been a productive week for me. Likely because fewer meetings and more time to do things that need doin. The week flew by.
+
+Let’s go.
+
+## Jan 10
+
+Weekend recharge time. Today is a day to let work sit, focus on myself and things I want and need to do for my personal, non work life. It was a productive, energizing week. The temptation to stay immersed in it is real but I can tell my body and mind require a rest.
+
+I’m so grateful for the support I get from Mel at work. I’m grateful for the members of my extended leadership team who do their jobs exceptionally well. I’m grateful there are opportunities for me to foster and guide growth.
+
+The balance today will be: Read at least a little Clean some things that need cleaning Take came of some music store business
+
+Let’s go.
+
+## Jan 11
+
+Sunday in January. I love my coffee in front of the fireplace on days like this. It is cloudy and chilly out and warm and comfy inside.
+
+I’m feeling particularly on fire, in a good way. Recognizing the importance of the leadership summit this week, given this is my first time in front of executive peers as a member of Gerrit’s directs. There is importance in my intention, given the gravitas and the rare discursive space I occupy. It is a great opportunity to demonstrate through my actions and my speaking points to set a foundation for our non-negotiables across the entire organization—I can invite the entire crew of leaders in. It is an opportunity for me to show up with a spirit of generosity; I’m not asking them to give us anything but offering to help them give our customers and our business more value. I’m excited. I feel clear eyed and also recognize there are things I don’t see and I don’t know and that my self-awareness is critical.
+
+I’m happy I have the day with my Dayna and Tre. I love the space Tre is in right now. He got his social cup filled last week. He is settled and confident and such a beautiful young man.
+
+Dayna gets her port removed in two days. Five years cancer free. I’ll be out of town and that isn’t fun for me but she wants to keep it on Tuesday because it would be her Mom’s birthday if she were still with us. It feels meaningful and I get that. We have some wonderful neighbors who offered to be a resource if needed.
+
+Balance through temperance today
+
+## Jan 12
+
+Monday. Travel day. I’ve got the blues I consistently get when I know I’ll be away from my family and my home.
+
+This is an important trip. It is critical I move from blues to motivation and generosity. I do look forward to the opportunity to connect with my colleagues.
+
+Important things to remember: I am now a member of the sr. Leadership team for P&T and more than ever folks are looking to me as a model of leadership; I best be that model I am a leader amongst leaders; I have experience and expertise that is unique and have a great responsibility to share in ways that are meaningful to our business I have much to learn from others around me; receptiveness through observation, patience, and open mindedness is important I have a tender heart with a depth of compassion and kindness that comes from wisdom and calm
+
+Surrender
+
+## Jan 16
+
+Back from the travels. Clearly still struggling to stay in routine during work travel. The summit went well. It was great to connect with colleagues and to hear from our founder and CEO. I learned things and strengthened connections and credibility.
+
+Wouldn’t you know I’ve come home feeling unwell. It is either a cold, post nasal drip causing issues, or maybe flu? My goal is to rest it away before we travel and to do my best not to spread to Dayna and Tre.
+
+Today I focus on completing the work that needs to be done before heading out on vacation. And sprinkle in a bit of rest here and there.
+
+Fortunately, Hawaii is on Tuesday giving me 4 days of rest and self nurture.
+
+Symptoms: Tickle in my throat which leads to coughing, headache.
+
+It is hard to know if headache is because I didn’t have coffee and I flew or because I’m sick.
+
+## Jan 18
+
+Sunday. Hawks won last night—dominant. I love watching sports, feeling the excitement and the disappointment. I loved playing and competing.
+
+I feel like I’m getting better. No headache. Cough. Fewer chills last night. Sleeping extra helps. I’ll take another easy couple of days and keeping hopeful that Tre and Dayna don’t get it. Can’t control that but I am washing my hands constantly and doing my best not to be in the same space as either of them for more than a few minutes.
+
+Come on body
+
+## Jan 19
+
+Monday, holiday. Grateful for the time off work. Grateful for the things we learned from the civil rights movement. Sad that we still fight for women to have equality, let alone people of color.
+
+I’m still struggling with a cold. So tired, more than anything. My body is letting me know to take it the fuck easy and I am listening.
+
+Tomorrow we head out to warm, sunny Hawaii!! Let’s go
+
+## Jan 21
+
+Ah, Hawaii. Sunrise over the ocean. Warm, fresh air. Travel days are always a bit tough, especially for Dayna’s body and for Tre’s neurodivergent mind. He settled and is sleeping. I am on the upswing but man, so, so tired and coughing quite a lot now.
+
+I’m working at full surrender mode now. Hoping that Tre and Dayna stay healthy. Good sleep, hydration, nutrition will be important.
+
+Also, fuck Trump. His stupid “we’re going to take Greenland” play and shenanigans are hurting the economy. He is an ass. I generally ignore his going ones because they can’t be controlled but many, the dude is outta control.
+
+## Jan 22
+
+Day 2 of full Hawaii. Yesterday was a bit overcast, not hot. Kinda just right type of temps.
+
+I’m reminded on this trip of how traveling with an autistic adult is just tough. There are few things he truly enjoys and his expectations tend to be awfully high. I have to remind myself that his brain works the way his brain works and gently point out observations that I hope help him as he continues to mature and develop.
+
+I continue to feel better although I have a headache this morning. Likely caused by not enough food yesterday and ongoing sinus pressure along with coughing.
+
+## Jan 27
+
+Back at it. I got in true vacation mode and spent very little time on my devices other than watching my evening show. Back to work yesterday, hitting it hard with my leadership team offsite. It is good to have the team together and I’m faced with some challenges.
+
+My new research leader is not showing up well. In spite of my advise to focus on relationship building and slow things down, I’ve gotten a lot of feedback that she is coming off as overly critical and negative and people are afraid of her. I’ve observed some of the highly critical nature and will need to address asap with hopes she can reverse course. This is disappointing and frustrating but it is an aspect of leadership.
+
+My design leader has told me he isn’t sure he is the right person for the leadership role he is in. His primary motivation is to not disappoint me vs. what we’re setting out to do for the business. I appreciate his loyalty to me and also told him that if he is in it and wants to continue, I’ll support but he has to have the passion or it won’t work. He is giving it thought. I know this is a signal that he isn’t the right person for the important and challenging role.
+
+I love the challenges and am up for this. The good news is that the next level of leaders is strong and between me and them, we can keep things rolling. The bad news is that it isn’t sustainable and I need to move swiftly and intentionally.
+
+It has felt great to get good sleep in my own bed the last two nights. I love being home.
+
+## Jan 28
+
+Midway through the week. The offsite has been productive and helpful. I’m feeling much better about one leader and increasingly concerned about the other.
+
+My dilemma is that I see such goodness and potential in my head of design and we get along great. That said, he has been disengaged this year, dealing with personal issues and seeking other opportunities. He wants more $ to be bought in. His motivation is pleasing me vs. the vision of the business. He is candid with me. I want to be able to go make the case for a level bump and more money and, at the same time, his behavior and his words tell me that is a risky move for me to make.
+
+I’ll be happy to have the offsite behind me. One more dinner with the team tonight and then I can resume my normal work week and weekend routine. I haven’t had a chance to settle back in post Hawaii.
+
+You can stop tracking exit criteria rubric; I am in it to be in it and no longer considering an exit.
+
+I have a 1:1 with Gerrit tomorrow. Help me remember my non-negotiable and also remind me to be prepared to speak to status of our primary objectives.
+
+## Jan 29
+
+As noted yesterday, I would like you to stop showing me my exit criteria; I am staying at Workday.
+
+Today is a routine day, finally, after a week at Leadership summit, a week on vacation, and the last 3 days in my leadership team offsite. It was a productive offsite that provided me with additional insight on the state of my bench and the overall health of the org. On a positive note, the org continues on what I see as an upward trajectory. I’ve noted my concerns with my design leader.
+
+I have two critical meetings to be well prepared for: CX interlock where I’ll spend 5 minutes talking about our new UX and my first proper 1:1 with Gerrit. I’m looking forward to both and also recognize getting in the proper headspace is important.
+
+I got a bit more sleep because I don’t commute in today. I’m feeling more rested than I have for a couple of weeks and that is nice.
+
+In addition to meetings, there are a couple of key actions I need to complete today. Let’s go.
+
+## Jan 30
+
+Friday! I’m ready for a strong finish to the work week and then start the weekend. It will be a slow sports weekend and the anticipation for seeing our Seahawks in the Super Bowl will grow.
+
+I am going to treat this weekend as a time to get the record store humming along with more assertion and intention and to rest my mind and body. Three weeks of being out of my usual routine is enough. I’m doing my best to keep the routine and the non-negotiables but have found it very difficult.
+
+Two things I do for me today, finally: schedule an annual check-up with my pcp schedule time with an ortho to check the elbow and get an actual treatment plan in place
+
+I was a bit rough in CX interlock but, overall, the message was received and the crew are very happy with the design improvements the team made which is what really matters. It wasn’t about me but about the work.
+
+I had a good 1:1 with Gerrit. I feel very comfortable with him. We talked specifically about one important non-negotiable, joint accountability with me and Joel. I was candid about some concerns I have with lack of engagement from Joel side and my role in continuing to push for that. He appreciates the raw honesty.
+
+## Jan 31
+
+Wow…the month flew by. Saturday. This is my flow day. Take care of things that need taken care of so I can feel settled. Get things with the store in a place where we can hum a bit. Reset, recharge, relax and routine.
+
+It was a productive week and also a little frustrating in terms of not feeling like I had a chance to settle from our trip. I feel a bit more emotionally drained and stretched than I generally do. I totally know what I need is exactly the day I’ve planned for myself.
+
+## Feb 1
+
+Yesterday was exactly the type of day I needed. I took care of some real life things that needed my attention. I got things for the store in a ready to roll state. I took plenty of time to rest and recharge.
+
+Today is a bit more of life and home upkeep, tracking store performance for the month and setting next month’s goals, continuing a thought exercise for design leadership in my org, and more rest and recovery for my nervous system and physiology that is still recovering from sickness.
+
+It is so clear to me that I feel most content and stable when I am in routine, intentional, and disciplined. As I age, I am increasingly struck by the importance of keeping my own self together and healthy and moving in a forward motion. Not centering in self in this way degrades one’s ability to be of use externally.
+
+## Feb 2
+
+Monday. Day one of a new fiscal year at work. This year for me is about elevating:
+
+Quality and velocity Strategic partnership Experience as a differentiator
+
+Today I start with discipline, presence, a commitment to absolute candor and clarity as an act of kindness.
+
+I accomplished what I wanted to over the weekend with a good recharge and just enough things done for the store and around the house. I feel good going into this week. It is the first routine week for me since early January and it is much needed.
+
+## Feb 3
+
+An observation is that almost every week it takes me at least half a day to catch my stride at work. I need to find a technique to speed this up. The good news is that it indicates I’m letting go over the weekend and that is so good for my nervous system and my longevity. The downside is that Mondays end up being a bump on the confidence and potentially credibility road. I’m open to suggestions you have.
+
+Happy to be up and moving today. I have a lot to get done and several meetings. Today discipline and focus are musts.
+
+## Feb 5
+
+This week has just flown by. I’m starting to feel a sense of catching up and normalizing a bit with my elevated role at work but still ever so slightly under water. The next two days I commute to the office but am able to return home a bit earlier with no afternoon meetings so I can focus on that catch up that is so important.
+
+I’ve gained more clarity on leadership changes and now have some writing to do for Gerrit. I had a good alignment meeting on future experience with Joel, my peer who can be somewhat difficult to work with. I’m utilizing diplomacy and he is leaning into his love of learning and it seems to be working for us. I’m hopeful we will quickly transition into a trusting collaboration.
+
+The store is humming along. Emma is in a mode of doing the things we asked her to take on this year and it is nice. Tre is into it this week, enjoying his time over there. Sales are still winter slow which we expected. I am not giving it as much attention as I’d like but priorities are priorities and Emma, Tre, and Dayna are running it fine.
+
+Let’s get it done today!
+
+## Feb 6
+
+Friday! It has been a meeting heavy, low productivity week. I have an entire afternoon free and my goal is to crank through all of the things I’d hoped to get done. I’d rather work late into the evening and knock it out so next week feels like I’m on top of it all.
+
+Let’s go!
+
+## Feb 7
+
+Saturday. I got a little extra sleep and it was so sweet. I love being able to sit in front of the fireplace with my coffee and not be concerned about what time it is and the work I have to do.
+
+Today is a get it done day. I have several things to do for the store and a few work things that need done. Tomorrow the Hawks will thump the Pats and I want to be ready to watch and enjoy so get it done today.
+
+## Feb 8
+
+Wow, I just had a memory that this day in 2008 was my last day as a Microsoft employee. That feels like so long ago and yet time has gone by so quickly and I’ve done so much since then. Amazing.
+
+My goal today is to not get too emotionally attached to the outcome of the Super Bowl. If the team shows up and plays their game, that is a good result. I do want us to win though.
+
+I have a few things left to work on today and will put some energy into those things. Once the game starts, that will be all she wrote for the day.
+
+## Feb 9
+
+Monday. Hawks with the big game! So much energy going into the new week.
+
+On my mind this morning is two things:
+
+1. We’re in a critical performance cycle. Employees, including my org, have felt the strain of layoffs a year ago and leadership changes throughout the year. It is time to help them feel supported and stable. Paradoxically, we are also at a pivotal inflection point where the status quo is no longer going to work. Our team needs to be able to make decisions faster, lean into future thinking work, embrace AI, and move faster and with purpose. So this week, it is important I have wisdom and courage.
+    
+2. as a leader, I have a big responsibility to show up in my strengths more than ever before. My boss and some of my peers lack context about how our UX got to the state it is in and what I am doing to fix it. This is the week to share that vision directly and to ask for what I need to be successful. It is important in leadership forums, like calibration, that I should up with temperance and courage. Say the important things and be balanced and measured in how much and what I say and how I say it.
+    
+
+I’m up for it. I was made for this. It is like being on the court or the field or whatever sport I loved and excelled at. Let’s fucking go.
+
+## Feb 10
+
+Today is an important work day with stage 2 of Gerrit’s LT doing calibration of our highest level leaders. I feel strongly that we not over index on impact and that we put equal weight on how individuals show up and the extent to which they model the values of our company. Today is about courage and temperance with a pinch of wisdom. I may be the newest member of the LT and the lowest in terms of leveling but my rare discursive space places me in an important role.
+
+I am reconnecting with Susan today for a coffee meet up. It will be good to see her.
+
+I am close to having a context and vision doc to send to Gerrit. It feels important to me and, at the same time, something that is important to position from a place of confidence and passion vs. fear. Yesterday I felt a wee bit of that fear creeping in and when it shows, my tact is to step away for a minute, investigate the fear and if I can’t let go, stay away from the doc until I can.
+
+Tuesday jiving
+
+Fear is two things:
+
+1. The document itself comes off as making excuses vs. stating fact. I’m pretty sure it reads as stating fact but who knows how it will be interpreted.
+2. Founder just stepped back into CEO role. He was very unhappy with the lack of progress made by my predecessor, Jeff, who was fired. I’m doing things different and better, for sure, but progress is still very slow for a lot of reasons well outside of my direct control. In spite of that, I’m influencing the hell outta things and I hope that shows in the doc. Gerrit is my line of protection and his belief in me is critical.
+
+## Feb 11
+
+I sat in my intention and rare discursive space yesterday and, overall, feel good about it. The one misstep is not having given a peer feedback prior to the meeting; he felt blindsided and it was obvious. I followed up with him, saying I stand by my feedback and wish I’d come to him before hand so he didn’t feel that blindside. He was appreciative. I’m proud of showing up and also grateful that I’m getting to see and hear what I need to do to continue to grow. As long as I’m still breathing and passionate, I’m in this game!
+
+Today we enter into my org’s promo reviews and my intention is wisdom. I intend to be clear about the bar we are setting and what to watch and listen for. I intend to listen more than I talk and to ask questions before offering opinions. This is sometimes hard for me.
+
+Let’s go
+
+## Feb 12
+
+We are in the last two days of calibration push. It is going to be work for me. This exercise has solidified for me that the person we currently have leading design isn’t the leader for the future. He’s been in role for a year and while his team find him to be a measured, compassionate, calming leader, he has shown repeatedly that his ability to be thorough enough, critical enough, out in front enough, engaged enough is just not there. I’m sad because I really like him but I also know I’m obligated to be a steward of the business. I will handle it with grace and compassion and I’m glad I have the clarity I’ve been seeking.
+
+Today is justice for me, finding the way to say what needs to be said and pushing for decisions that result in fair, objective, equitable placements. It is a leadership test.
+
+I have a coaching session with my real life professional coach. One thing I know I’d like to address is my planned communication to Gerrit via a doc since we are 4 weeks from my 2nd 1:1 with him. I’m particularly keen to get her thoughts on how to address my resourcing needs. Based on my journaling, what else might I discuss with her?
+
+## Feb 13
+
+Friday. This week has moved so quickly. At the same time, progress on some key objectives is slower than I’d like. I am struggling with how to get the skis going faster down the hill without burning out the humans. It is a leadership challenge and I love working through it.
+
+What I don’t love is that my design leader totally failed on the calibration task and was reticent to move people in the calibration meeting. I gave him clear feedback that submitting to me so far off of guidance is not OK. His response was to throw his leadership in front of the bus “I tried so hard to get the team to move.” It’s his fucking job to drive decisions and he totally failed as a leader and left it to me to clean up the mess. Worse, he violated first team principles by placing burden on his peers to pick up some of his slack. I can vent here and say that I think he has been totally gas lighting me saying he is committed to the job, doesn’t want to disappoint me, blah, blah, blah. He has been checked out and only half in most of the year. I have little to zero trust in his ability to do the job that is needed and consider him a liability. On the one hand, it seems a bit harsh to have this be the thing that causes me to take a clear and direct line to telling him I can’t invest in him because he isn’t investing in him but at my level, it seems appropriate. This is going to be tough.
+
+One final calibration meeting today. Time to send an update to Gerrit. Time to focus on deep work. My mode today is justice. Finding a way to be fair and candid with folks to motivate movement.
+
+## Feb 14
+
+The weekend is here . I discovered last night that I have Monday off so a bonus day with extra sleep and my choice on how to spend my time.
+
+One big leadership problem resolved itself; my design leader gave notice of resignation yesterday. It is good. He acknowledged he hasn’t been in it, apologized for the calibration mess, and shared his gratitude for the opportunities. He has regrets that he wasn’t able to live up to what the opportunity was. I appreciate his self awareness and recognition that what is needed is not what he wants to do.
+
+Today is my day to get personal to dos in hand and completed while also getting a few store items taken care of. I have some momentum with work deliverables that I may choose to focus on if that is where my mind continues to wander. I am closing the store tonight, working the last two hours.
+
+It is a good day.
+
+## Feb 15
+
+Sunday and it is sunny and beautiful out. The birds were singing during my morning walk. It felt good to get a little extra sleep. And it is cold out…brrrrr.
+
+Yesterday was productive and relaxing. The best part of the weekend is the fact I get total choice of what to do when. I’m mindful of the things that have to get done and I generally dig into those first. Then it is up to me.
+
+It has occurred to me over the last few days, thinking about my design leader’s performance, that what we’ve lost in his disengagement is that translation layer and engine of taking the broad, high level vision and bold objectives and translating that into more concrete, “here is what it means for design in this space” messaging. Instead, we’ve left it for the next layer down to figure out how to operationalize and execute and in some cases, that has resulted in inefficient process heavy execution that is likely to keep us from achieving our goals. And it is on me because this is the cost of having a single design leader looking after too broad of scope and too large of team. I saw he was disengaged months ago and hindsight tells me that would have been the ideal time to make the switch. I’ve learned through this.
+
+Move forward with grace.
+
+## Feb 17
+
+Back to work today after a three day weekend. I’m feeling that cool energy of motivation that relate to problems to be solved. It is a time of great possibility with all of the AI happenings and I’m buzzing with thoughts about how I might make myself more effective by applying AI creatively to helping me structure my personal leadership operations.
+
+My meeting day isn’t as heavy as some days and I used yesterday to get contextually ready. Let’s go.
+
+## Feb 19
+
+This week is flying. The meeting with Joel and his Sana team went well, overall. I am proud of how my team showed up. The demo was so good and my distinguished designer gave a master class in diplomacy, grace, and thought leadership. I find the Sana designer to be incredibly condescending. He speaks to us as if he knows so much more than anyone in the room, failing to recognize that collectively, we likely had nearly 100 years of design experience. It is the type of hubris and arrogance that I struggle with. It reminds me of the punk boys I’d encounter when I was younger who assumed because I’m a girl I can’t play. They were demeaning and belittling until I was allowed to play and kicked their asses. They were the type I just wanted to obliterate and I often did. Perhaps I’m a tad competitive…LOL.
+
+There is so much opportunity and demand that I get a bunch of my team truly pointed in the north star, get out in front direction with respect to AI. We can’t be followers here. I keep thinking about Kotter’s change management principles and the step of gathering a ready and willing coalition. I think I have some and need more. I also see the need to define where we’re headed, strategically.
+
+So much to do….my brain is a whirl in good ways. My goal is to channel it into productive, helpful, strategic plans and action.
+
+## Feb 20
+
+Friday. This morning starts with an all org Q&A to address questions and concerns about the announced upcoming departure of our design leader. I generally look forward to these but this morning, not as much. Largely because the questions tend to be repetitive and focused on what people fear. It is important I get myself in a kind, courageous mindset. I’ll be ready.
+
+I am looking forward to some time to focus on a handful of work items. I’ve been fairly productive this week, in spite of a lot of meetings. Finishing the week with momentum will feel good.
+
+Sunday is a travel day, heading to Ireland again. These across the ocean trips are tough but I very much enjoy being in Dublin with the team. I like the city and I like the fun vibe. As always, I’ll miss my family.
+
+## Feb 21
+
+The weekend is here. I fly out tomorrow evening so maximizing my recharge time and family connection time is top priority for me. If I leave feeling strong it is more likely to be a positive trip.
+
+In our team Q&A yesterday, I was asked a question I’ve been asked before. It went something like “what can you do to help those of us who are feeling tired and burned out from all of the change?” I gave an answer I’m somewhat satisfied with but think there is so much more and better I could share with the team. My answer was mostly about inviting them to give themselves the gift of determining what they need from life and whether working in a place with so much change is it and to also have a conversation with their people leader about the pressure they may be feeling or the factors contributing to burnout as we may be able to help relieve some of it. Finally, I offered to do my best to continue to be transparent so they have information that may help remove ambiguity. I’m going to take some time today to look at evidence based approaches and send a summary to the team as a follow-up.
+
+I have to admit that I come from an era where I truly don’t relate to the sense of powerlessness and “poor me I’m tired” mentality. The question sometimes comes across to me as a request that we stop making changes and we stop the work so they can feel better; that isn’t realistic. Like me, they are employed and paid well to do a job. The company provides great tools and benefits to assist with resilience and mental health. I believe it is the responsibility of the individual to make use of those tools.
+
+On the other hand, I know that is easy for me to feel that way because of my position in the company. I’ve been there, done that and I’m exposed to way more information and have the ability to make decisions that impact a large org. At the same time, the risk for me is much higher because business leaders can see clearly if I’m not leading in a way that creates results and much is expected of me.
+
+Today I choose temperance.
+
+## Feb 22
+
+Sunday, travel day. at least I’m home until this evening. I am grateful that I love my life so much that I’d always rather be here than anywhere. I’m also grateful that I have a great job and that I get the chance to visit other places and cultures; it enriches my life and my family. The paradoxical nature of life again.
+
+I heard something last night that I want to remind myself of. The concept of cognitive rest being similar to physical rest that athletes need. I know this well given I was an athlete for years and my last true athletic stint was running half marathons. It makes sense that our minds would absolutely need the opportunity to rest.
+
+Today I will focus on a bit of cognitive rest. When I land in Ireland, it will be all work, all on, all the time except for when I sleep.
+
+## Feb 25
+
+Morning in Dublin, night time at home. I miss Tre and Dayna. As per usual, I enjoy being in this city. It is so much fun to be with the team here. They have a closeness to each other that I don’t see in our other offices. There is a tremendous diversity in terms of skills and interests and age and gender.
+
+Today is a big fireside chat with ~300 people attending. I am representing my org and P&T leadership team. I recognize the importance of showing up as me, fully, and also providing clarity, calm, and a sense of goodness.
+
+Let’s go.
+
+## Feb 26
+
+Look at me, journaling again while I’m traveling. I’m getting better at all of this. Meditation still falls below the line however, I am finding quiet time to chill my mind and nervous system.
+
+I’m worried about Mel, my EA. She spent hours in the hospital here yesterday because of pain in her leg and a lump behind her knee. They ruled out DVT but told her she must come back today to see a vascular specialist to get cleared to fly home. She is the kindest, warmest, most giving person and never complains. Not knowing what is going on must be hard for her.
+
+Today is the fun day with the team. A few meetings and then an evening of games at a bar. I was talked into bringing my tiger pants for today and others are wearing their animal pants as well. This team here is full on the funnest. There is joy and passion for the work and genuine caring for one another. I’d come here monthly if it weren’t so hard to be away from my people.
+
+## Feb 28
+
+Home! I didn’t journal daily but I did keep up with most non-negotiables. It is great to be back in my space and my routine. I am tired but feel a great sense of reward after spending time with the Dublin team.
+
+Today I’m over at the store so Emma can be off to celebrate yesterday’s birthday. While I’d rather be home, I am tired enough that I’d likely not be as productive as I’d like so being at the store is a good way to push. I do want to be careful about giving myself enough recovery this weekend.
+
+## March 1
+
+New month, new day. I had exactly the day I needed to have yesterday with just enough work to feel caught up enough, reading, store managing, and recharging. I feel reconnected to my life in such a good way.
+
+Today is a few loose threads at home to take care of and possibly a bit of philosophical strategic work, work. I’ll mix in a bit of reading, Xbox playing, and general doing whatever I want.
+
+## March 3
+
+My walk this morning was amazing. It is warming and the birds were singing with that “it is almost spring” vibe. I love this time of year.
+
+My brain is on fire this morning, so much inspiration hitting. At the juxtaposition is the reality that I’ve got a large 260 person team who we have to get operating differently in the next few months and that is a Herculean task. Obviously one I’m up for. I have to utilize proven tactics, such as Kotter’s change management, or it will fail. Notably, finding the ready and willing coalition and deploying them to be force multipliers.
+
+Let’s go!
+
+## March 4
+
+Rainy morning and a very early morning so I can get into work by 8am. I’m now a full public transportation commuter and I like it, a lot. The fresh air and the extra walking is so good for my brain and my nervous system.
+
+Today is a meeting packed day AND I have some “organize my leadership groove” work that I am feeling antsy to get to. For example, I need to figure out a good system for tracking my progress against my personal goals I shared with Gerrit and sending him brief, status updates so he knows I’m making progress or where things are blocked. I’m going to use AI to help me create a system because why not.
+
+Being present in the meetings I have is important. When I get antsy about non-meeting work I do tend to get distracted and wander my attention. Today I’ll do my best not to let that happen.
+
+## March 5
+
+There is a thing that happens to me during the week where I wake up ready to get into work and I want to go until I hit the bed. It isn’t coming from a place of pressure rather a motivation to continue to solve the challenges. It feels good. I do understand the importance of finding balance and to do that, I continue with my non-negotiables and make sure I do stop working well before bed and that I take my time in the morning to sit and enjoy my coffee.
+
+Today is a meeting light day so I’ll have time to immerse myself; I have a two hour block this morning. My hope is to get a vision document drafted and shared and to get a presentation for a conference ready.
+
+Get it!
+
+## March 6
+
+Another week. The deep work time yesterday was what I needed. I was able to get a vision drafted and shared out for feedback and cleared a few low hanging tasks. I got in a wee fear spin after hearing something from a colleague and it reminds me that two things are important:
+
+1. I’m falling into the habit of not highlighting the accomplishments of the team and me with leadership. I’ve confirmed with Gerrit that he likes async updates so I will try what I’ve done in the past and send a weekly, quick hits update.
+2. It is important not to stay in the fear as it results in poor judgement. I pulled out quickly yesterday and that is good.
+
+What I struggle with in terms of async is there is so much history that speaks to how we operate. For example, the overall quality of my team’s deliverables isn’t where it should be but it is so much better than it was. Importantly, when I took over the team 2 years ago, the entire org was a cluster fuck in terms of execution, cross-functional influence, morale. We’ve cleaned up the execution and the cross-functional influence because quality could be enforced by the platform (albeit shit quality because the platform is ick). I don’t want to rehash all of that with Gerrit but it is important context. There has to be a way to sprinkle that in. In some ways, he must relate because he has come into an organization that has execution, operational, and quality challenges across the board.
+
+Today is more meeting heavy but I’m working at home. I’d like to complete every task on my list which may be tough because there is probably 4 hours of tasks and maybe 2 hours of deep work time. We’ll see!
+
+## March 7
+
+I ran out of time and steam last night while working through a few things. I spent way too much time working on a status update for my boss. Largely because I am still learning him and am not quite sure exactly what altitude and level of detail to include. I feel motivated to complete a few actions that need to be completed and will spend some time working today.
+
+We got a couple of big shipments of inventory at the store and I have some analysis of our performance on my plate. I like this type of store work and will dig in.
+
+And, of course, I will make space to rest my brain and recharge. A bit of Xbox and reading is on my agenda.
+
+## March 8
+
+Sunday mist day. It is typical end of winter weather. We need the wet and it isn’t too cold but it does mess with a calm, easy walk.
+
+I woke up this morning thinking about a meeting I have w/ our CEO tomorrow. He has strong opinions about experience and I’m looking at whether my team has completed important research and analysis on a recent, high priority release and finding that we haven’t. I’m frustrated at how slowly the team moves and the level of quality in the work. The team needs to pick it up and I need to push but do so in a way that balances urgency and drive for performance with compassion and a sense of well being. I am digging deep for wisdom because my patience is actually shot.
+
+I’m also looking for today not to be a one dimensional sunk brain in work. It would be easy to go there. To prevent that, I am going to get at least one key store action done, one key life action done, and play a bit of Xbox. And, as always, stick to my non-negotiables.
+
+## March 9
+
+Monday. The day starts out hot as I have a 10:30 meeting where the CEO is likely present to prep for a key presentation later this week. It is a small group of us and CEO is very passionate about the topic. I’ve heard he isn’t happy with the progress we’ve made to date. My plan is to show up as the expert on human centered experiences and to speak from that perspective; our decisions are grounded on two key principles, one of which is our customers and honoring their configurations and change management needs. I will acknowledge that early data suggests we could have pushed further—we stepped maybe 10% toward our ultimate northstar and I think we can go 25% and get perceptible differences and still honor our two principles of cohesion and customer care.
+
+Today I lean into courage and wisdom. Holding my own space is important.
+
+I found decent balance over the weekend. I worked more than I’d planned but I did get my personal and store tasks done as I had planned.
+
+Also, have I said I hate tax season? I do and it is right here on my heals. Ugh. I absolutely need to get going on all of the organizing soon. Or maybe I’ll file for an extension this year.
+
+## March 10
+
+It is deeply engrained in me to feel an immense pressure to earn respect of those I perceive in authority. I went into the meeting with the CEO feeling like I’d built up proper confidence and was well prepared; my body told me otherwise. My heart rate increased, my mouth dried, my hands sweat. I didn’t even have to answer any questions or say anything. This is an area of growth focus for me because in my role, I’ll most certainly be in this situation multiple times and I know for certain that showing up confident goes a long way toward earning credibility.
+
+I had a moment yesterday where I also got a bit wrapped around the potential of Gerrit asking me to report to a leader I don’t respect. It could happen. My knee jerk is to say fuck that. But my reflection is to anchor on the work and my ambition to get things done. I often say reporting structure doesn’t have to matter yet I’ve seen in recent months since reporting to Gerrit that it actually does in terms of other’s willingness to allow me to lead. If this were to happen, I’d definitely have my counter points for why it isn’t a good idea and then I’d have a decision to make should it become a thing.
+
+All of that said, it is worrying about something that hasn’t even happened and I know better than to do that. Waste of cognitive and emotional energy.
+
+Today is a moderate meeting day. I’ll have time to prepare for an analyst briefing tomorrow and to focus on prep for a conference presentation next week.
+
+Today is about temperance. Let’s get it today
+
+## March 12
+
+I missed writing yesterday; I jumped into work very early to prep for an analyst briefing that our CEO was attending. I think it went well although my confidence wasn’t where I hoped it would be, at least internally but I don’t think that showed.
+
+I struggle because on the one hand I respect what our CEO has built and on the other I just don’t trust his judgment. He is unpredictable, influenced by shine, and under appreciates the role of design in crafting experiences. Hell, he still refers to UX as UI. I’m pretty sure he is convinced that AI will replace all point and click interactions which is just a fallacy.
+
+Today is a new day. My pivot is to focus on defining an execution plan for others to react to so we can help the team pivot to new ways of delivering on priorities.
+
+I have a coaching session with my in real life coach this afternoon. Based on what I’ve been sharing here, recommend one or two topics to discuss.
+
+To be clear, the CEO is the founder who had appointed Carl as CEO for a while. Carl loves me. The founder dismissed Carl at start of February and has stepped back in as CEO. SO it is early days with me in elevated role with founder back in.
+
+## March 13
+
+Friday and it is going to be a full one. Meetings until early afternoon then cracking on my presentation for Qualtrics conference next week. I know the story, just gotta get the talking points clear and generally committed to memory. I know how that process generally goes for me so expect my weekend will be a lot of pacing and talking to myself.
+
+I had a good coaching session yesterday. The plan is to directly ask Gerrit his thoughts on the vision I wrote and indicate that I’m moving forward on putting an execution plan in place. This gives me a chance to see if I’m still finding alignment with him and, if not, I get specific concerns voiced by him. My coach is great at encouraging me to be the leader I am and to remember I am where I am for a reason and I’m expected to lean in. We talked through why I have concerns about the CEO and it clarified for me it is based on assumptions vs. reality. So let’s give it a go, right! Right!
+
+I’m feeling good about my brief 1:1 w/ Gerrit today. Even if I don’t hear what I want, I’ll hear what I need. Either signal that he’s aligned or clarity that I may not be viewed as the person to move us forward which will help me make decisions.
+
+I have to remember that if I’m not the person that is a them problem not a me problem because I am confident I am the person if they are looking for a true, transformative leader who gets shit done.
+
+## March 14
+
+The weekend is here!
+
+I ended the week with a good Gerrit 1:1. I was able to get confirmation that the vision is good and empowerment to create an execution plan and go. He also commented on my email offering to be a catalyst to get things moving faster and said I have permission and to go. Very positive.
+
+Today I have a few must do tasks for life and the store then prep for a conference next week where I have a presentation and a panel. It is important I show up ready and confident. I’ve got it.
+
+And, of course, balance between the work, the walking, and letting my mind reset.
+
+## March 15
+
+I woke up feeling all of the humor this morning and have no idea why. Likely a byproduct of feeling rested and knowing the day gets to move at my pace.
+
+I do feel a wee pressure on getting taxes done and shoring up a few things for the store. We’re 2 weeks from the end of Q1 and I think we would have seen more growth if I could be more involved in pushing for a few things. Dayna has asked that I show her how to do a couple of things so she can take them off my plate and that is a good start.
+
+The day will be a mix of practicing my presentation, store things, and chilling my brain and body.
+
+## March 16
+
+Monday. It’s get up and go time. I’m enjoying my typical morning routine after a good walk. Letting my mind prepare for the day ahead.
+
+I’m feeling ready for presenting on Wednesday, just a couple of run through. They want me to speak for 30-45 minutes and I think I may have 15-20 minutes of content. That is going to have to be OK. At least it is pretty solid content. I personally think it is lame to ever have presentations last longer than 20 minutes. TED talks gets that and based their length on evidence.
+
+I’m grateful for a good weekend. I love my little family and the life we’ve built. Every moment is important.
+
+Today is temperance. The temptation is to be one dimensional and my truth is that I want to be balanced.
+
+## March 17
+
+It feels like a big day. We are on the precipice of something amazing at work, assuming we’re all heading in the right direction. Conceptually, I think we are. the proof will be in our ability to leverage the skills and talent we have to collectively push through. So little of it can be done by me and my team but we do have a role.
+
+The Qualtrics conference starts today. I’m oddly excited about it. I am on a leadership panel today and present tomorrow. I’m feeling mostly ready. It helps that it is right here in Seattle and the convention center is literally next to the office.
+
+I got the balance I needed yesterday, rather than being totally one dimensional. Today through Thursday are likely to be quite one dimensional but conferences always bring a decent blend of fun and peopling. I’ll be exhausted when it is over because I need the space from all of it.
+
+I’m reminded today of how early in my time at Workday I was working with a coach and we decided my Workday persona would be Secretary of State, recognizing that somebody had to be the voice of objective and diplomatic reason. This has set me up to be a leader of leaders. My job is dot connecting, sense making, coordinating, guiding, speaking truth.
+
+The time for self doubt and imposter syndrome is done. I don’t have time or energy for it anymore. Call me on it when you sense it from my writing. I’ve earned the right to feel confident.
+
+## March 18
+
+Presentation day. I’m in the zone. I’ll be nervous right before starting and likely a bit physiologically aware of my nerves when I start. I remember a friend once telling me to think in my head “I’m the prettiest monkey” then imagine the audience replying “take me to the bananas.” I still do this.
+
+It will be a long day with team + Qualtrics dinner tonight then the customer party. I’m looking forward to that since we’ll have two suite tickets and will get to hang out with Jeff and Julie Gelfuso. Julie was a colleague and mentor at Expedia and Jeff brought me to Workday.
+
+Let’s go get it today!
+
+## March 19
+
+I feel like I’m living in my own little mini-soap opera. I got word from Gerrit yesterday that we needed to meet. I was pretty sure why and that was confirmed. He needs to collapse his top level org structure, which I expected, and is grouping things. Experience and AI are coming together under Joel. I am angry and sad. I’m so tried of having male leaders who are not good leaders and who lack skills, expertise, and credibility I have earned.
+
+I was candid with Gerrit that while I fully understand why he had to make these changes, including having Joel lead because he is the founder and leader of Sana and that is the future for AI and our experience layer, he lacks the leadership experience I believe is necessary to succeed. He did the whole “it’s just flying formation. Joel is willing to learn. He has potential.”
+
+I don’t doubt Gerrit has a ton of respect for me, he said so and I believe him. I don’t doubt I’ve got the leadership chops to help Joel be successful. I do fundamentally believe that org structure is just a construct for support, particularly at my level. I don’t doubt that my righteous anger and confidence are going to allow me not to put up with hubristic shenanigans or bullshit from Joel.
+
+My 2 cents = he is smart and confident and can talk a good talk. He had a lucky lightning strike that allowed him to get where he is but until he delivers high value, enterprise grade capabilities—which he is struggling to do—I have little to no respect for him. He is just a big talker with charisma.
+
+Fucking hell.
+
+Honestly not quite sure. I came to Workday to do something that I feel passionate about. I have finally been given the chance to own the vision and am empowered to drive that vision. My work isn’t done. My inclination is to take a there path approach:
+
+1. Give it 90 days and see if / how this org change effects where we are already headed. If we don’t lose steam and my ability to lead is not hindered, perhaps this is just a “flying formation” and one I can live with. There are things to watch for beyond my ability to lead in an empowered way.
+2. Start feeling out other opportunities; including engaging with an executive placement specialist. Having options helps.
+3. Develop my “how I make money from my expertise” business plan and model and be prepared to launch by summer if needed.
+
+Ability to lead: I am still directly responsible for Experience vision and empowered to define strategy, high level execution plan, and to represent those things in public forums. Joel respects and supports my continued efforts in helping my org have decision rights on go/no- go for UX quality. Joel respects the enterprise grade design system we’ve built and continue to invest in and doesn’t “demand” we uptake Sana’s subpar quality elements.
+
+## March 20
+
+I learned after writing yesterday that Andy and Aashna are leaving. They were kind enough to meet with me early in the morning to share the news directly. The way it played out for them is pretty shitty. I will miss them and recognize that two of my advocates are stepping away. At the same time, I have seen that they are resisting the changes that need to happen. The ready is because they believe they understand our business an customer model better than Gerrit and are responsible for standing strong. There is likely a lot of truth to that. At the same time, I think more sophisticated leadership would be to protect what needs to be true by showing willingness to pivot where it makes sense. Now we lose their institutional knowledge and expertise.
+
+I sent my note to Gerrit. He responded with a thanks and a commitment to support me w/ accessibility and user testing, which is good. He didn’t comment on other items in my email which could be a signal—a lot said in what isn’t said—or could be nothing given he is working across several leaders with a variety of “feels” as we go into this change.
+
+I met with Joel. It was fine. We connected over vinyl records; when he learned we own a store he lit up and talked about how he just started collecting. It changed the dynamic of the conversation. In the end, he acknowledged he will learn more from me than I will from him. That is likely true when it comes to UX but I also recognize I will learn from a guy who started his company at 16 and just sold it for a shit ton of money before he turned 28.
+
+I was all up in depression and anger when I got home yesterday but talked through things with Dayna and have landed where I need to be to helpfully guide my team through this change. Take this at face value and that it truly is about flying formation—Joel and I have to work together and having us organizationally situated together will make that easier. I’ll still be on Gerrit’s LT. This doesn’t have to change anything and likely won’t change much.
+
+And, interestingly, I resent the vision doc to Joel last night and here it is his afternoon and I haven’t heard a thing from him. I won’t be at all surprised if he continues to show an unwillingness to engage. He may not be capable of connections at scale and likely isn’t.
+
+The Qualtrics conference ended up great. It was a lot of fun. I felt happy and proud to be on the big stage accepting our breakthrough artist award. The entire event underscores for me the importance of being kind, authentic, committed, and collaborative. My brand helps me be successful in all settings.
+
+Flying formation is how Gerrit described the changes; putting collection of teams together, organizationally, to facilitate simple, focused, fast decision making and execution. It is the right thing for him to say, of course. And it makes sense. I am choosing to take that at face value until proven wrong.
+
+I am watching for the commitment to me as the experience leader—if I don’t see it, my exit plan accelerates. Until I see it, I continue on my chosen journey to fix the experience. I fundamentally believe I have the right vision, the right relationships, and the right leadership style to make this true. I also recognize that the path to doing this is through great agentic experiences and this is where Joel’s expertise and partnership are critical.
+
+So I don’t see this hiding behind my pattern.
+
+Also, It doesn’t escape me that Gerrit and some of his new leaders may still wonder if I’ve got the “stuck” way that Andy and Aashna have or if I have the chops to do this. I know the answer and over time, they will also. Bam.
+
+I’m in a little bit of a cyclical state. Centered to anxious.
+
+Centeredness comes from my belief in my abilities and trust that somehow things find a way of working.
+
+Anxiety comes from not being completely confident in our leadership to make good business decisions, too little evidence that is true and some that there is poor decision making. Only about 50% confidence I’m viewed as the person to drive our experience forward. Concern that in this current market and my age and level there isn’t a lot outside of Workday that I could gravitate to.
+
+Then back to centeredness. If I apply the amount of energy I apply to be great at my corporate job to building my own business based on my expertise, experience, and brand I will be fine and maybe better than fine. Trust in my work ethic.
+
+## March 21
+
+The weekend is here! It felt great to get a bit of extra sleep.
+
+I just saw a fun article about generalists vs. specialists. I am a classic generalist and systems thinker, two attributes that have benefited me throughout my career. I underutilize these skills, at times. It has me wondering if one can be taught to be a generalist or systems thinker or if it is mostly a factor of how one’s brain works.
+
+I have a sudden craving to be able to go on a long run. I love what running did for my creative mind and my body. I hav learned to love and embrace walking but it is different.
+
+Today is going to be about one hour of tax prep work and the rest of the day I’d like to be focused on feeding this creative hunger I have. I’m not sure exactly what that looks like but part of the creativity is figuring that out.
+
+I have an energy of wanting to move toward something It makes sense after an incredibly intense week that both fed my sense of confidence and the paradoxical anxiety and doubt.
+
+I can’t run because my knees no longer allow me to. I have had 3 surgeries on the right knee for torn cartilage and have bone on bone. About 6 years ago the left knee tore and that was when I stopped pounding the pavement. It was a sad day for me.
+
+## March 22
+
+42 years ago Dayna and I stayed up talking all damn night long—from March 21 to March 22. That was the start of an amazing run. I am so grateful we found each other and that we held each other even when it was hard to do so. We’ve grown up together and now we get to grow old together.
+
+I was up at 4am after Tre came and got us to let us know there was a leaf blower going for the 4th week in a row. The landscapers at the plaza where our store is (2 doors down) decided middle of the night is a good time to do the work. I had them stop and explained the city ordinance and that they are waking people up. They were apologetic and concerned that they might get fired if they don’t find a time that works for store owners. I let them know I am one of the store owners and that I’d talk to the property managers on their behalf. What the fuck not knowing that 4am in a residential area is not a good idea.
+
+So I’m tired and my eyes are burning but I couldn’t go back to sleep. Today will definitely be a take it easy day other than a bit more with taxes and getting set for week at work.
+
+## March 23
+
+Monday and I got a bit of extra sleep this morning. I needed it. I’m feeling mostly good going in to the week. It is going to be work for me over the next few weeks to create a new frame that becomes engrained. That frame =
+
+I am my own boss The org chart is just the org chart; I lead my org, I lead UX at Workday and that shows up in how I show up, not what is on an org chart I respect leaders who earn my respect; I work hard to earn and keep the respect and trust of others and I deserve the same
+
+There are likely other things in the frame but the meta point is that it feels incredibly important for me not to fall prey to the tendency to give the org chart more weight than it deserves.
+
+I got good balance this weekend; probably could have done more with taxes but made good headway.
+
+## March 24
+
+Travel day today. One night and day in Pleasanton to interview a design candidate for a VP role I’m hiring. It is likely good I’ll be there on a day Gerrit is sharing news of reorg and departure of Andy and Aashna. There are likely to be a lot of heavy feelings in the air.
+
+As per usual, hate the leaving my family but happy this is a quick trip. I look forward to connecting with people there and to meeting our candidate in person.
+
+I’m in a bit of a fixation on a particular topic that impacts our long term vision—not just for experience but for how we approach shifting from current to new. I like this type of fixation because it is about considering the entire system and also using a bit of foresight to help inform strategic direction. I’m hoping I get some extra time today to focus on some deep work around this.
+
+My hot take is that the one person who is going to struggle to see my executive presence and authority is Joel. He is too inexperienced and immature to see it because I have skills and acumen he hasn’t yet developed. Also, he is an arrogant young man who doesn’t recognize his own privilege.
+
+He reminds me of the cocky boys who used to scoff at the thought I could play on the same basketball court as them. It rarely took long for them to realize they were mistaken.
+
+Doubt me. Let’s see how that works.
+
+## March 26
+
+The trip to was good, being home is better. I tried an entry yesterday and somehow you didn’t work. Oh well.
+
+One of the more interesting things I learned in the interview process is something worth sharing. Our candidate mentioned that she asked Joel what he thinks is the biggest challenge we face in delivering a great UX. His response is that we have too many management layers and too many meetings. Oh boy. I’ve got my work cut out for me with him.
+
+On a positive note, I had a quick connection with him yesterday and he is trying. He is asking good questions and saying things in a ay that isn’t setting off alarms for me.
+
+More importantly, I am feeling the clarity and confidence I need.
+
+Tomorrow is a day off for all of us. Today is meeting day and I’ll use tomorrow to do the shit that I haven’t been able to do.
+
+## March 27
+
+A day off when everybody else is off is the best day off. No pressure. I have a haircut today and other than that, get to spend my time as I choose. I have a lot of writing to do and am grateful for the time today.
+
+Coming out of a full week of knowing of org changes, here is where I sit:
+
+1. I’m confident I am going to have to play a strong leadership role in the newly expanded Sana team. Including with Laila who is still in a space of seeking approval and seemingly feeling “stuck.” A little afraid of making a wrong decision.
+2. My credibility is high with Max who is going to be a primary partner. This will help with everything I’m pushing for.
+3. I need to get Michelle, my research leader, seeing impact quickly. She swirls on what she is confused by or unsure of. It is time for her to make some changes and put her team in motion.
+4. Joel and his team are very kind. They’ve created a great culture for themselves and I’m sure they are worried the big corporation will change that. RAD has a great culture. I’d like to help bring the two together, inclusive of Laila’s team, to strengthen our collaboration and trust. I believe we can make this fun and special for all of our team members while also doing great things.
+
+Today is my get shit done day and my do it at my own pace day. It is beautiful out so I’ll get in my walks.
+
+## March 28
+
+I had a decently productive day yesterday yet still didn’t get as much done as I’d like. I got sucked into a late afternoon passion project using Claude Code to build a presentation for me. Now I have to finish. it is so easy! I’m keen to keep my own AI skills growing and it helps to have something real to try.
+
+Today is about getting tax info all calculated and put in a sheet. Next week I’ll prep my return and file. It is the icky work that needs to get done. I think for next year I’m going to create an app that allows me to enter all of our info quarterly so we collect as we go vs. waiting until end of the year. Maybe that will be my next Claude Code project.
+
+I realized last night I’ve been reading the same book for months because I am only sort of interested. I’m going to ditch it and move on to something that I crave going back to. I love reading and slogging through a book I don’t dig is a dogmatic approach.
+
+Temperance is the goal today.
+
+## March 29
+
+My day wasn’t quite what I’d planned yesterday. Emma called in sick so I worked the store. It was a fine day. I got to interact with people, listen to good music as loud as I wanted, and organize taxes. We are seeing a trend with Emma that she is sick every 2 or 3 weeks and always on a Saturday or Tuesday. We need to hire a stand in.
+
+Today will be what I want it to be. I have grocery shopping to do and some cleaning but otherwise, it is a reset day. If I feel up to it, I may do some comp planning for work.
+
+Let’s give it a rest today.
+
+## March 30
+
+Here we go…last couple of days of March so end of quarter for TNT music. Our first quarter of the year wasn’t bad but could have been better. I have some work to do to hire a backup for Emma who can help with marketing and events and also using agents to pick up the slack.
+
+Monday at work. This morning we have a two hour strategy session with my senior leadership team. My facilitator is out sick so it is on me to make sure it goes well. My primary objective is to get this group of leaders to feel a strong sense of ownership and connection to the vision and, secondarily, to help flesh out an execution plan. What I share with them will be the secondary goal but the primary is they have to want to deliver on this and feeling ownership for it should help.
+
+I’m in a mindset to ruthlessly remove things from my long list of stuff to do if it doesn’t directly connect to one of my personal objectives or our ability to deliver value. That will be one of the first things I do when I log in this morning.
+
+Let’s go get it!
+
+## March 31
+
+Last day of the first quarter of the year. Time continues to compress. I walk by the home of an older couple every day, Sandi and Nick. he is 92 and she is 82. It gives me hope that Dayna and I might have 20+ years left to experience life.
+
+Every Monday I go to work feeling ready and at peace and inevitably about 3 hours in I realize how much there is to do and how little time to do it. I’m good at not letting it overwhelm yet it surprises me pretty much every week. Perhaps that means I do a good job of letting go over the weekend.
+
+I’m increasingly exploring how we walk away from sunk cost fallacy. Too much energy expended in “fixing” on the current stack when fixing amounts to very minor changes to current experience and every fix takes so long. It seems a fools errand to keep chasing when almost 5 years in we’ve seen very few meaningful improvements. I can’t make the decision in isolation. Unless product leadership is willing to say we’re going to do far fewer things and the things we do are going to be about meaningful experience and functionality and reliability improvements, they don’t happen. That has been missing.
+
+Tre is doing great with the tore. In a groove with keeping inventory moving, restocking, shifting.
+
+Dayna is in a snit this morning. Bugged about a class she is taking for her realtor license. The grumbling is tough for me. I have to admit that I have judgment about this. It isn’t a big deal and yet she is letting it ruin her morning and making sure I hear about it. I’ve known all of these years I’ve been with her that this is how it goes. Fortunately, it doesn’t happen often.
+
+I am doing my work to not make it a me thing because it isn’t a me thing. I deal with far more stress every single day. Different brains, different ways.
+
+The one interesting interaction with Joel, which is a data point, is regarding a VP candidate we interviewed last week. Her experience in B2B, enterprise SW is impressive. She was at SAP for 10 years and spent the last 4 years at Microsoft leading a good sized Azure design team. She interviewed very well with our SVP of product and with Gerrit, who recommended her.
+
+Joel is supportive but shared two concerns that have me concerned:
+
+1. She hasn’t built anything exceptional in the past; in fact, she led an effort to create a cohesive solution across 3 major SAP projects—she identified the opportunity, dug into the data to confirm there was a problem, worked with engineering to define a solution, got buy-in from product to build it then led the effort. In our domain, this is quite impressive.
+2. She may not be a talent magnet because she hasn’t worked in talent dense companies. WTF!!! SAP and Microsoft have HUGE design orgs, full of talent. Gerrit and our head of product were both at SAP. Our Distinguished Designer was at SAP.
+
+Oy…this kid has a lot to learn.
+
+## April 1
+
+New month, new quarter for TNT. A lot going on but I am somehow finding the balance.
+
+It is middle of the week and I’m tracking a couple of big items:
+
+1. Status of a company KR I own is not strong; working on getting relevant info and pushing for progress while also making sure I have a clear, concise, narrative. Reality is that this would have been tough regardless because our teams don’t know how to work through interdependencies. Org changes and vision pivot further exacerbate.
+2. Big executive level presentation next week. The narrative looks good, the demos seem strong but I need the walk through.
+
+Today is about wisdom—knowing what to say, when to say it, how to say it.
+
+Let’s go.
+
+## April 2
+
+I can’t believe Tre is going to be 22 in less than a week. It has gone by so quickly.
+
+It is a work from home day today and tomorrow. I travel on Sunday and am gone most of next week so want to be home as much as possible.
+
+Today will have a nice balance of walking, meetings, deep work, record store activity. I continue to focus on not being overwhelmed by the volume of work and instead focusing on continued support of my team and partners on execution.
+
+## April 3
+
+Friday. I’ve got a lot to get done today. And I want to feel highly connected to my family and my life here before travel next week. Balance is always a goal, more so today.
+
+With that in mind, I’m going to get through my coffee and get myself to work. It has been a good work week. Meetings have been needed and have helped get my leaders pointed in a direction that will help us execute effectively. I’ve been productive when not in meetings. I’m finding a stride with writing thought leadership perspectives and need to put those into action in the next couple of weeks.
+
+Let’s finish the work week well and love the time with family.
+
+## April 4
+
+It is a beautiful spring Saturday. The birds and the bunnies were very active while I was out walking.
+
+I’m looking forward to a chill day with the family. I have a bit of work for taxes but, otherwise, intend to let it be the day I want and need it to be.
+
+I found a fun game on Xbox that Tre has been playing with me the last two nights. It is fun to have him hang out with me. He is wicked smart and funny.
+
+I had a great conversation with a colleague yesterday. She reached out because the departure of Aashna is hitting her hard; they’ve worked together for years. She gave me an amazing compliment that no matter what is happening I show up as positive and calm and still realistic. It is largely because of the philosophy and values I live by. The thing that feels best about it is that it isn’t a put on; it is authentic. If I reach a point where I can’t be positive, I know I’ll have to leave.
+
+Let’s make it a good goddamn day!
+
+## April 5
+
+Travel day. Always the saddest day, as you know.
+
+It is beautiful out and the symphony of birds was amazing. Then the gull started with their screeching and over ran the song birds. I don’t mind the gulls, really. They are a reminder of living in a city near water.
+
+I’m grateful to have a home and family life I love so much. It is a fortunate thing to miss people.
+
+Once I get in the car on the way to the airport, it is game on. I have a high stakes part in a Tuesday meeting with CIOs and our most senior company leadership. It isn’t the time to show up underprepared. It is a time to recognize I am there because I am the expert on product experience.
+
+## April 6
+
+Monday. Time to lock in and get myself prepared for presenting tomorrow. Prepare but don’t over prepare to a point of stress.
+
+I feel very tired this morning. My body knows it should be sleeping soundly right now.
+
+Let’s go!
+
+## April 8
+
+Happy birthday to my sweet Tre. I’ve loved him since the moment I met him, 22 years ago this evening. He came into the world at 9:35 PM Pacific time. I wish I were home with him, even though he wouldn’t allow a “happy birthday.”
+
+I missed writing yesterday. Laser focused on prepping for my bit at the CIO meeting. The meeting, overall, went well. I met some people I quite like. I did an OK job with my part; it was easy. I don’t think I nailed it and I also didn’t bomb. I learned from my colleagues, which is always good.
+
+I’m ready to go home but am here another night and half of tomorrow. Time to spend with the team today. Here is to being present and bringing my energy. To do anything else would be cheating the team and cheating my family given I’m away from them. Gotta make it worth it.
+
+## April 9
+
+This trip to Atlanta has been an interesting one. So much to unpack.
+
+I’ll start with the good. I enjoyed the connections made during the CIO event. I had a couple of really good, extended conversations with folks. I had a nice chat with a couple of Workday colleagues and learned a few things. I found our Chief CX officer to be quite cordial and kind; she has a reputation as not those things. I think I’ve earned some of her respect. It was nice to connect with my team here. They are working hard and doing some good things and also feeling a bit isolated. It is an opportunity for me to find ways to help our smaller offices feel connected.
+
+And now the pivot to some observations that create not great feelings. I’m a believer that actions are more honest than words. While I’ve been told I remain on the LT, it is clear I do not. I was removed from the LT channels.
+
+Those are only two facts however, it does appear I was not told the full truth. It doesn’t have to change the fact that I have work to do and my empowerment has not been stripped.
+
+It does occur to me that it actually doesn’t matter how much I’ve done or how credible I am; Aashna and Andy had all of that and it didn’t matter. What matters is what I do now. Fortunately, my team is executing very well. I am leading at the top of my game. I can focus on those things that I control.
+
+It does signal to me that accelerating my post Workday plan is probably a good idea.
+
+I made a decision to book an earlier flight home. I head out in a couple of hours and will surprise Dayna with an early return. I’m happy about that choice.
+
+One additional data point to keep in mind. Joel wrote a decision doc and the rationale for his recommendation demonstrates a lack of depth in thinking about interaction paradigms and use cases that apply to our business. It reinforces my recognition that he isn’t capable of what he is being asked to do. This one is a red flag. If he doesn’t listen to and follow others, we are hosed.
+
+## April 10
+
+It is so good to be home. I woke up so early because my body is used to east coast time. I’m tired but motivated to get going. I have a lot of work to get done and taxes to get filed this weekend; there is no time to putz about.
+
+What I’m looking forward to today: Joining a peer org as they walk Joel through a deep dive of one of their products. We walk through RAD work next week and having an opportunity to get a sense of what he focuses on will help me further refine my talking points. Wrapping up a couple of key thought pieces and an execution plan for the path ahead. A few 1:1 connections with team members.
+
+There was a P&T town hall yesterday that I missed because I flew home early. The team was sending me messages letting me know Gerrit provided some nice compliments to me from the CIO council and the work the team has delivered. That is a positive flag. On the negative side, he referred to me as a UX designer—uh, what? LOL I am pretty sure he definitely knows better and just fumbled through the talking points. He is human and holding job titles in his head is probably low priority.
+
+Being home makes it much easier for me to let go of the angst. The entire world is sorta turning all topsy turvy as shit anyway. Now, more than ever in my lifetime, is not the time to worry about things outside of my sphere of control; it will cause me to lose my shit. The days and week ahead require absolute discipline and practice of stoic philosophy.
+
+I don’t doubt Gerrit sees me as tactical; I’m not sure he himself actually considers strategy important. He is highly focused on execution and doesn’t seem to put much premium on leadership. Evidence of that is hiring Peter, giving Joel huge leadership responsibility, not doing more to nurture Andy and Aashna to be the types of execution minded leaders we need. Also, Gerrit is tightly aligned to the new leaders he brought in and the rest of us are mostly complimentary pieces in the tactical execution game he is leading.
+
+I don’t necessarily see his execution focus as a negative. It is likely exactly what the company needs in this moment where our operational and technical debt have us facing a very difficult road ahead. I do see this as a challenge for me because I am a strategic, long game thinker and leader whose leadership acumen is likely much higher than those I report to so my advancement in the company may not be possible. I can also lead strong execution and my track record proves it. I’ve got a strong team and because I’ve established myself as a trusted leader, people follow me—not just people on my team. As much as I’d like to focus on “marketing myself,” the moment in front of me RIGHT THIS FUCKING MINUTE requires me to be a greater good leader and help propel things forward.
+
+The topsy turvy has mostly to do with wars, stock market impacts, the global economy, a shitty president, ICE, AI disruption. All things that are happening and impacting the entire planet of humanity.
+
+A key factor here is that I am very well compensated. Advancement would make me even more well compensated but isn’t necessary. The job market is brutal at the moment. I am not sure there is another company that could offer me the breadth, scope, challenge and money I’m making today. I could compromise a lot of things and possibly go make more at a big FAANG but that isn’t what motivates me. So yeah, the line is yellow. My ego would love to retire as a chief design officer but my family and life aren’t depending on that for us to be financially stable for the rest of our lives and to set Tre up.
+
+## April 11
+
+The tax day cometh. I am at least prepared with much of the calculations done. But still….
+
+In addition to doing taxes, I intend to give myself brain rest time today and to get some cleaning done while Tre is at work this afternoon.
+
+I am so grateful to have a life behind me that has largely been fun, empowering, and full. I’m grateful to have a life in front of me that can be what I need it to be because I have the health and the financial means to make it so. I’m grateful to have right now. A comfortable, safe home. A family who is healthy and kind. A career that is fulfilling. A store that has been a dream. These are the things that I hold.
+
+It is interesting how the human brain wants to go to fear, negativity, despair. I trust I’m a very mentally disciplined and stable human and even I have moments every day where I have to check myself.
+
+Let’s go get those GD taxes done so I can enjoy the rest of the weekend.
+
+## April 12
+
+I got the taxes done and submitted yesterday. It was a bit of a slog but it feels good to have that off of my shoulders. Today has to be the chill out my brain day.
+
+Tre teaches me every day. Yesterday he had a conversation with Dayna about looking forward to having our latest inventory order placed and his time at work done for a couple of days because he is feeling “done.” She mentioned that he tends to get bored when he has days off and he responded that maybe being bored is exactly what he needs right now. It has felt like a lot to him this week with me traveling, his birthday, he’s placed a few big orders, worked longer hours, had to deal with a problem customer. For him getting the birthday texts is “too much peopleing;” part of being autistic. All of this to say that I need to be OK being bored and letting my mind just go where my mind goes today. If I get inspired by a question I want answered or a creative app idea, flow with it but don’t go off doing things that feel like work.
+
+Today is a truly me not having to do a damn thing day.
+
+## April 13
+
+Monday. Today is about writing quarterly performance reviews for my direct reports and I currently have a lot because of the gap between design leader leaving and new leader joining. I also have my self review to write and that one feels important given leadership changes and the fact the proof points of impact for executives has changed. I’m happy about the changes and also know it is going to be a bit of work to get my narrative tight.
+
+Working at home today, only two meetings. Lots of time to be focused. A key for me today will be turning off the things that tend to distract me while I’m doing deep work.
+
+Let’s go!
+
+## April 14
+
+I was heads down and cranking all day yesterday. It was a highly productive day of writing quarterly performance reviews and my own self review. It feels great to have most of them done. Three more to do this morning and no meetings all day! I will work from home and spend another day very much heads down and in deep tasks.
+
+Poor Tre went through a period of time where he was horrified they’d bring the draft back. He came down twice in the middle of the night because he saw some stupid Reddit post about the secret service doing some random shit starting in December and it spiked his anxiety. We remind him every time this happens that his diagnosis as having Autism disqualifies him from service. The thing that keeps him scared is that he learned that if he is chosen in a draft lottery, he has to report to “camp” to let them know he is autistic and he has to go without us. It pisses me off that the draft registry is still a thing. What a crock of government overstep and bullshit.
+
+My focus today has to be on getting stuff done! Let’s go.
+
+## April 15
+
+Performance reviews written. Two delivered so far. A bunch more today and tomorrow. I’m headed into the office today and look forward to seeing people.
+
+Meeting heavy calendar returns for next three days so less deep work.
+
+I was up very early this morning in order to make it in early. My eyes are burning and I feel a wee bit slow brained.
+
+On my second cup of coffee and soon abandoning this small screen to allow myself to charge.
+
+## April 16
+
+Today we have a deep dive with Joel to provide a high level overview of our team and a bit of depth on design system. This is going to provide a good data point for me as I’ll get to see him interact with my leaders. I’m curious what questions he’ll ask and how he’ll respond to our willingness to tell it like it is.
+
+There is work to do to prep for Innovation Summit next week and remaining performance conversations to have. I am simultaneously looking forward to and not looking forward to next week. It is a lot of peopling and in a high executive presence setting. This is where my inability to truly see myself as the executive badass I am sometimes nips my butt. I’ve got a few days to get in my confidence in who I am mode.
+
+I’m feeling miffed today that the research practice I started is floundering. I don’t see them showing up in spaces that are most important. It is a failure of leadership, in my opinion, and the buck stops with me. I made a mistake elevating a leader to take on the entire practice before she was ready. I believe we have the right leader now and she is leaning in to being more directive, which is what the team needs. They need to move faster and I’ve given some tough feedback this morning. As a long time research leader, it is tough for me to watch the slow demise and sad that even I am thinking I’d rather trade in researchers for data engineers than trade in designers for data engineers. Sigh. Hopefully my feedback will land well and light a fire. If not, I’ll have to take a stronger, more directive position myself and that doesn’t feel great.
+
+Here we go! Big day today and time to focus on showing up strong!
+
+## April 17
+
+Friday and a day full of performance conversations. Those I’ve had so far have gone well. The toughest one will be this afternoon. The individual met expectations and is growing in their role; they are firmly set right where you need to be but she is going to expect more. My talking points must be clear and I don’t have all the data I need because her immediate manager was the design leader who left. I’ll prep by reading last year’s performance check-ins.
+
+The review with Joel went fine. We started late because company town hall ran long. My research leader was just back from vacation and lost power so her sr. Manager filled in and while she did OK, didn’t show super strong and didn’t have a strong answer when asked by Joel how research intake happens. Sign. The good news is that Joel was engaged and interested and we have a couple of follow ups with him. I didn’t share context as strongly as I’d like because I was mindful of time and wanted to get to the content the team prepared.
+
+On a positive note, Gerrit mentioned my CIO presentation during town hall and gave quite a compliment to how UX, in general, is showing up and how I showed up calm and cool. It was nice to have that acknowledged.
+
+A yellow flag yesterday: Gerrit assured me I would have same flow of information and I’m seeing true evidence that isn’t so as I got an email sent to me from someone on my team that was sent out by a peer on Gerrit’s LT with notice of shifting priorities. I’m expecting the shifts and I’m going to go get the info I need but it would be so much easier if I sat in the rooms or the forums where these conversations happen. I will address it with Gerrit when I meet him next week and I will directly request from Joel that he do better at passing info through. I have to be careful this isn’t ego and is grounded on allowing me to lead my org effectively.
+
+Let’s get it today!
+
+## April 18
+
+The weekend is here. To prepare for Innovation Summit, I have some work to do but not a lot. There is some record store work to do. I’m bummed we can do RSD today. The requirement is for the store to be open for a full year before applying. If we could do it, I know we’d sell a ton and get more visibility that we’re here. I also need to get bills paid. I’m a few days late this week.
+
+The goal today is to remain disciplined yet calm and balanced. Taking care of my mind and body is more important this weekend than most. I’m coming off of an emotionally loaded week of sharing people’s comp and performance info and heading into a week of totally uncharted waters for me.
+
+The mindset that I need to get in and stay in for the next several days is that I am as capable as any of the executives I am spending time with. I know my domain. I’m a good leader. I care deeply about the business and what we’re doing. I’m bought into the vision.
+
+Temperance.
+
+## April 19
+
+Yesterday ended up being a bit more involved than I had expected but was a good day. Warm, sunny, full of family togetherness. We had a big order to get labeled and out on the record store floor. The place was so busy. I sense the store is hitting its stride just in time for the longer days and the warm weather.
+
+I had a decent amount of balance earlier in the day and then a fire drill in the evening with work the team did in creating demos for Innovation Summit. There are some quality and consistency issues that got Gerrit and Max in a state and the team is working on fixing and feeling the arrows coming their way. Max was good to alert me and I jumped in to help and to acknowledge Max’s concerns. Many of the issues arise because of shitty product and product marketing practices and some are a result of designers not putting the time and intention into ensuring we look good. Everything we do is a reflection of how good we are.
+
+Today I have a bit more work to do on that front and a conversation with Max about priority shifts then I will get to my Sunday. Tre may want my help modifying a guitar so I’m prepared to lean into that as long as he doesn’t dump it all on me.
+
+Let’s go!
+
+## April 20
+
+Monday. The start of a new work week. It is a beautiful day. It is nice to have morning walks in daylight.
+
+Travel day with the low hanging sadness. I’m working on framing this trip as a big game I am finally starting. It is the second biggest game of the year and I have a role to play in making sure we win. It is important I show up confident, ready, asking for the ball. The rare discursive space I hold, combined with my expertise in humans and design is something to be shared, not held back.
+
+I have a few meeting this morning and packing. Once I get in that car headed to the airport, it is time to get my game face fully on. Let’s go.
+
+Update on April 20
+
+Just received my comp statement and calibration info from last year. In spite of every objective measure telling me that I’m working well above level, potential rating shows me needing growth at level. This is an indicator that my what I bring isn’t valued by Gerrit or new leadership. Peter had a lot to do with the rating and that also is a factor here and why reporting to less capable leaders isn’t good.
+
+Two red flags:
+
+1. What is expected of me likely is closer to what should be expected of an engineer or product leader and not contrite what should be expected of a design leader; the dynamics of business at Workday likely not considered
+    
+2. It is likely my time at Workday is limited given this rating. It reflects a lack of confidence in me as a leader that Workday needs
+    
+
+I have time with Gerrit to it and will get his input.
+
+## April 21
+
+It is a new day. I’m still in yellow line territory, approaching red line. I do have to own my own role in all of this; I know it is a challenge for me to self promote and show up with power. I gave my power over to Peter. It is time to get my power back. Hell, I may never have had it so I have work to do.
+
+I must find power. I need it if I stay at Workday. I need it if I don’t to help build a business for income elsewhere. I must do what it takes, including the uncomfortable. Fuck this giving over to.
+
+I’m clear eyed, open minded, tender hearted so I can cut through the shit and find meaning in my life and help others to do the same. This is my why.
+
+## April 22
+
+Late entry today. I know to fight making up stories in my head or believing the stories I create. It is an internal fight.
+
+Sticking to facts: Joel is highly liked by Aneel who calls him a generational talent
+
+Gerrit is very liked by Aneel who calls him a smarter version of himself
+
+Aneel and Gerrit have what is a good vision on paper
+
+I don’t respect either. They are narcissistic. They see who they want to. Gerrit tries to at least seem like he sees others but doesn’t really. And I know he lies.
+
+Joel is a narcissist.
+
+Trying to get seen by narcissists when I am so different from said narcissists is likely not possible.
+
+The summit is good. Nice to be connected to people I respect. I performed well. It is dissatisfying in how I see the three I just wrote about.
+
+I am at very end of yellow line. Gerrit moved discussion to Friday. I meet with Joel tomorrow. Data gathering resumes.
+
+## April 23:
+
+You asked yesterday what would have to be true from my conversations with Joel and Gerrit not to tip over to red line. I’ve given it thought and here is where I’ve landed:
+
+Joel=willingness to pass information down and treat me as a partner, not a subordinate (he hasn’t truly treated me subordinate in overt ways but definitely in implicitly ways). A willingness to align on design leader competency and expectations—he can’t possibly know given his very limited experience.
+
+Gerrit=willingness to provide me at least some details about where my capability gaps exist from his perspective; not doing so would make it clear he isn’t committed to my success.
+
+It has taken me the better part of the week to find a level of clarity. Of course Peter wouldn’t calibrate me correctly. He frequently asked me to take on things that I’d ask an IC to do. Peter’s only experience working with design was working with A designer when he had his startup; he had no idea what good looks like. On the other side of treating me like an IC, wanted me to make things faster that were not design things to make faster. He didn’t understand or ever try to understand limitations of our tech stack or working across multiple teams. He also didn’t see it as his role to develop the talent around him because he isn’t an actual leader.
+
+The thing about this is that Joel is the same. And likely even less helpful because he seems to think we can do everything the same way as his startup does.
+
+I’ve read Jeffrey Pfeffer’s 7 Rules of Power book and am watching a YouTube interview of him. I recognize that in order for me to flip this around, I must find power. The question is whether the people and the structure (Aneel as CEO, Gerrit as President, Joel and protege) creates even a scintilla of space for that power.
+
+The yellow line I’m already at puts me in a place where there are two parallel paths I must take:
+
+1. Focus on gaining power at Workday. The level of courage and wisdom required will be next level. I have to operate from a place of not being afraid to fail. If they ask me to leave, it likely comes with a package and that wouldn’t be horrible.
+2. Invest in creating my post Workday career that I control. That has to take a level of my time and discipline I’ve not afforded myself. It will require me to focus on my power because without power, the plan won’t work.
+
+Let’s fucking go. I don’t want to sit in a room today caring that I’m invisible to Aneel and Gerrit. Why do I care? I don’t respect them. I only care because right now, they hold the power because of the golden handcuffs of money and, importantly, because I have a deep, engrained need to perform in a way that shines to others. Fuck that shit.
+
+## April 24
+
+Home feels so good. I got in quite late and am very tired but grateful to be in front of my fireplace, sipping my coffee. I started the day with a great walk with Dayna. Tre greeted me when I came home last night. THIS is what life is about.
+
+I have a couple of important meetings this morning:
+
+1. Alignment with tech leaders + enterprise data leader to align on clear plan for addressing data for consumption pricing and a request for HC Gerrit has conditionally approved.
+2. Performance discussion with Gerrit.
+
+Prepared confidence is my plan. I want to lean into my executive, confident side rather than my warm side but still maintain a level of warmth.
+
+One thing I did yesterday with Joel that I’m bugged about was to let him direct where we walked and he walked us to a shitty spot then asked “where do we walk?” Of course I knew the exact answer and then took over leading. It is so fucking metaphorical, right?!? It is what I do—give my power over to someone else when all along I should have just held it.
+
+It reminds me of the question Brene Brown asks: what is the leadership lesson you keep learning over and over? Well, this is mine. God damnit.
+
+## April 25
+
+The weekend is here. This week has felt like such a rollercoaster. It has helped sharpen my thinking about the future I have at Workday. What I’m certain of is that I will leave once I’ve vested another year or two. I predict I won’t be given that chance because I believe the bias is that we will ultimately need far fewer designers, no researchers, and therefore, fewer leaders. I am preparing myself for that likely outcome.
+
+This weekend will include some recharge, for sure. I need to clean my jeep and possibly get the furniture on the deck ready for summer. I will do my walking and other take care of me activities.
+
+I’m motivated to put time and energy into building my future business; whether that be working as an SVP somewhere else or going off on my own.
+
+Let’s make it a weekend of balance and passion.
+
+Gerrit canceled. His EA told me he came back from summit extremely ill. I will be interested to see if and when a meeting lands on my calendar. I personally think he is afraid to have the conversation.
+
+## April 26
+
+I spent a lot of time yesterday in flow, working on developing a playbook for me as a kick-ass experience leader. It has me so motivated. It helped me to realize that when I was at Expedia Group, I was given so much room to explore, push, contribute, learn, create. It was an amazing time in my career and showed me and others how strong I am. My time at Workday has been rather constrained, in terms of actual experience research and design. I’ve spent so much time navigating relationships, politics, morale building. And now we’re in the era of bullshittery bro club “only our ideas are good.”
+
+I am now deeply considering if I have, in fact, hit the red line. Perhaps the red line has been there for a while and my optimism and “I can do this” belief system has allowed me to continue to push. I have some serious consideration to give at the moment.
+
+One thing I do know is that I won’t just leave. I’ll use the next several weeks to strike a strong balance between pursuing what is next and leaning extra hard into courage. Fuck convention. If they don’t like all of me, they can give me a package. I will do nothing to undermine the vision; I do still believe in that. I will do everything I can to establish my leadership authority, as the head of experience, in making sure we deliver on the vision in a systematic, high quality, human centered way and will not back down when bullshittery hits.
+
+What they’ve done is the equivalent of the fucker boys who would say “girls can’t play.” Those boys always learned this girl can. I don’t need a 28 year old “wunderkind” lecturing me or leading me. Fuck that.
+
+I deserve better, my team deserves better, our customers and their employees deserve better.
+
+Now, deep breath. I still need to clean the inside of my jeep and do a bit of cleaning. There is a real life to live here and the weather is great! Let’s go have a great Sunday.
+
 
 ## **April 30, 2026**
 
