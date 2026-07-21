@@ -283,6 +283,871 @@ Today there will be broad announcements of 3 key executives leaving my parent or
 
 Today I start centered and clear eyed about what is ahead. It is a beautiful day.
 
+Evening: It constantly amazes me that no matter how prepared I think I am for Monday and context shifting, I rarely really am. Once Monday is done, I’m riding the high of the challenges and the momentum we have in overcoming them.
+
+I’m struggling a little this evening with the knowledge that in some ways we’re behind—we failed to do some things that really are fundamental to UX; not because it didn’t matter but because it would have likely been wasted energy with past leadership. It isn’t an excuse, rather, a reality. The need to pivot is real and some are just not going to dig it.
+
+Time to let it go for now.
+
+## August 26 am
+
+A test today will be patience and compassion toward those who are struggling with change. Everybody has their own way of perceiving and processing and my lack of patience won’t be helpful. To be here for others is a critical aspect of leadership.
+
+Today I plan to place our first big inventory order, marking a significant milestone. We are less than two weeks from a soft opening. Wow. This is a long time dream and we’re making it happen.
+
+Dare to dream and dare to put action behind the dream. Strip away the what ifs and the fear and go.
+
+Evening
+
+This week it is increasingly challenging to contain stress. We are in the messy middle of leaders above and around me announcing they’re leaving but they are still here which leaves things in a state of semi-flux and limbo. I feel the ability to own a strategy but not yet the ability to clearly and broadly articulate it. I have too many things on my plate and need to delegate and with some things, have no one to delegate to. I am working on giving more to those I do have around me and offering the opportunity to step up…and it admittedly makes me nervous.
+
+The impending opening of the record store is exciting and also has me a bit nervous. Tre is going to have to learn how to work and deal with things coming at him.
+
+One moment at a time, one step at a time. Breathe. Do all the things I need to do to remain centered and clear.
+
+## August 27 am
+
+Man, I did not want to get up this morning. I slept well and was feeling so chill and hard asleep when the alarm went off. But I know I almost always feel better when I just get my ass out of bed and go for a walk. So I did.
+
+Today has to be productive and it demands that I be present in the places I am and the people I’m with.
+
+I’m motivated and inspired to push myself this week and also mindful of the ever present need to have balance. Self care and family connections aren’t the thing to sacrifice.
+
+Evening
+
+In spite of feeling a low hum of anxiety and stress all day, I was able to remain present and pleasant. I waited too long to get serious about a deck for tomorrow and it resulted in feeling under pressure all day. The lesson to myself is not to procrastinate. In my defense, the team I’m doing this for didn’t get me vital information until last Friday and I do have a rather packed job these days. However, I could have spent more time on it late last week and over the weekend. And one thing I could have done much better is to give more clear instructions to the person helping me. Lesson learned.
+
+Tonight I’m feeling generally calm, in spite of the day. And so ready to be on a forward looking and moving path with work things.
+
+## August 28 am
+
+I was sleeping so well this morning and then the music from the alarm started playing. Get up, go walk, feed the body, have coffee, prep the mind.
+
+I’ve got a customer presentation today that I’m truthfully not fully prepared for however, I am feeling calm. I will treat this as an opportunity for a conversation, to learn more about what the customer wants and needs rather than talking at them. They don’t want to be sold to so I won’t sell. This is a time to lean into my principle of coming from a place of generosity vs. needing and taking.
+
+I’ve found myself over the past 24 hours having those sneaky, unhelpful thoughts of others around me possibly being “rewarded” or recognized when I see the flaws and wonder “why?” It isn’t helpful. It is best to focus on what is in my control which is me and how I show up and lead; if I’m not getting what I need, I can ask. Stop with the comparing bullshit.
+
+Today is a last at work push for a few days as we have a long 4 day weekend. I need it. Record store priorities switch on this afternoon. Let’s go.
+
+Evening:
+
+For whatever reason, this week felt busier than normal. I’m looking forward to a long weekend and time to truly focus on the store.
+
+I had the opportunity to observe one of my direct reports, a truly ambitious and amazing human—ambitious for the cause above all things—get pulled into a forum with our CTO and then really shine. His leadership and tech chops really showed up. I feel so proud of him and happy for him.
+
+## August 29 am
+
+Ah, a day without meetings, time to do things I typically have to keep on a shelf until I have space. A day to focus on record store opening prep. A day to take things ever so slightly slower.
+
+The key is to avoid procrastination or diving into gaming or other distractions. The priority still has to be to get important things done.
+
+It has been a heightened time crunch week. I feel internally a bit wound in terms of my nervous system being on alert; I can feel it in my gut. While I’m consciously and mentally in a good state, the underlying tightness tells me I have to put some energy today and over the weekend to unraveling. I’ve been in this space before. It comes from being so incredibly adept at coping mentally and suppressing all the goo. I know myself and like myself enough to address this.
+
+## August 30 am
+
+Nearing the start of a new month and the end of another beautiful summer. The goal is to absorb and be present in every single moment . The only downside to presence is that time does tend to feel more compressed than ever when one loves where they are and what they’re doing.
+
+On my mind today is the growing list of things that will get done today. Again a blend of things for the family, a lot of things for the store, a couple of real work tasks that need doing. Tre is going to an event today so there will be time to put on the tunes and get shit done.
+
+## August 31 am
+
+Last days of the month. The sunshine will be out today which means I’ll spend some time sitting in the sun. It is another day to be spent getting store work done. Today I’ll let go of work, work in order to make more store progress.
+
+I am grateful to have a 4th day off tomorrow. I find it amazing how much it means to have these 4 day weekends sprinkled throughout the year and I love my work. It simply is good to be able to take things on my own time with zero meetings, zero distractions. It has me inspired to figure out how I can arrange my schedule to get more of this.
+
+Amor Fati baby….every moment is what we make it.
+
+## September 1 am
+
+A new month. We’ve started the last quarter of the calendar year and the last month of Q3 at work. The weather is starting to change slightly and the day is ending earlier. I am never ready for summer to end—I enjoy it so much. Probably I enjoy it because it isn’t the norm.
+
+I was feeling ever slo slightly meh—a dull “I don’t want to do all the stuff” feeling. I walked, ate, and am on cup of coffee number two and suddenly feeling motivated, ready, fired up.
+
+I’m excited for everything we get to learn through this process. We’ve already learned so much. I’m curious, excited, and a little anxious about how the adjustment will be for Tre. He has had five years of not having anything to force him out of a routine. His brain is wired to feel worry and go to the what ifs. So far, he is handling it OK, most of the time.
+
+Let’s have some fun today and get all the good shit done, including one key task for my real paying job.
+
+Evening
+
+Phew, what a weekend. Got a lot done again today although still have some lingering tasks. I am feeling much more ready. And anxious that it is such a busy time for me at work and Dayna is easily stressed, Tre overwhelmed and Emma an employee. One wee step at a time…breathe!
+
+## September 2 am
+
+Jumping back on the work saddle after a break—paradoxically looking forward to it and simultaneously not wanting to do it. I look forward to it because I like the problems to be solved, I like the people, I need the routine. Not wanting to do it because sometimes the human politics are exhausting; I just want to do great work and yet, a big part of my job involves navigating the politics and influencing behaviors that yield good results for the people who buy and user our products.
+
+This week practicing absolute discipline with temperance is crucial. It is important to strike the balance of how I spend my time and how I allow events to impact my mind and body. It is also important that Dayna and I exude calm and confidence because Tre feels us and he will take on anything we feel at least 3x.
+
+Let’s go make it the day I need to make it.
+
+## September 4 am
+
+For some reason I have spiders and bats and snakes oh no going through my head this morning. I’m pretty sure that is a signal that there is so much happening right now and I’m not sure what is next.
+
+My body is feeling a little less than 100%. Gut issues are a bit more active than they have been. My right nostril is a bit congested which could be general allergies or could be something more…I do have rhinitis frequently so who knows. My eye itches which generally signals allergies.
+
+The politics at work are prevalent; that happens with new leaders. Everyone starts jockeying to show their value. It isn’t my style so the goal remains to be clear in my vision and objectives, lead the team in executing with excellence, and when given the opportunity, speak with candor and clarity. I am the anti-bullshit person.
+
+I love sitting here having my coffee, regardless of all of the things external. It is a time to ground myself and prepare for the day while also nurturing me. I love knowing that I get to make the day.
+
+## September 5 am
+
+Man, I was so tired last night. It was a productive and rewarding day both at work and with the record store. We have a front room full of vinyl ready to be labeled. It is fun learning how to do all that needs to be done. We’ve moved from an imagined and theoretical practice to the actual doing of the practice.
+
+I’m happy we hired who we did to work with Tre. I had a sense from the start that she’d be just right for him, he wasn’t sure. I love that he arrived at her being the best fit without me having to suggest as much. She is very perceptive. She was sitting by him eating pizza last night and picked up on his discomfort of having someone sit by him so she got up and moved and positioned herself with her back to him. She communicates with him calmly and patiently. We’re hoping he finds it in him to tell her about having anxiety and being autistic so she can be a tremendous resource to him and not take anything personally.
+
+The day has started strong. The week has been a lot but good. I’m ready to close out the week on a high note.
+
+## Sept 6 am
+
+Flying through the days. It is amazing to experience the passage of time. I slept a little longer this morning and didn’t get up once in the middle of the night. I’m pretty sure I needed it.
+
+Today I hope for sunshine and warmth. I will let this be a rest and unwind day, for the most part. I’m a bit weary and have a big work week coming up. I have to be dialed in and that can’t happen if I don’t allow for rest.
+
+Overall, feeling good. Feeling motivated, craving self care.
+
+## September 8 am
+
+Up bright and early today so I can drive into work for an 8 am meeting. It is going to be a busy and long day with me arriving home close to bedtime. Today it is important to exercise courage—not to go along just to go along.
+
+I enjoyed the weekend of rest and have an observation for myself that drinking on Sunday makes the weekend feel slightly wasted. Changing that up will be helpful. I didn’t like the way I felt last night as my stress levels were higher and I struggled to feel connected to my family.
+
+It was dark when I went for my walk this morning. The Osprey woke up and started their song and dance. I saw a lonely coon crossing the road and a weird dude at a house that often has music playing loudly at 5am. I sort of love being out and about at a time that just doesn’t make sense for being out and about.
+
+Time to go make it a day that works.
+
+## September 9 am
+
+So much to do today and I work up later than I wanted. I clearly needed the rest because I feel all sorts of energy. It doesn’t have to be a thing and all it means is that I have to move through the morning a bit faster.
+
+I’m working at not letting the odd pain in my back be a thing. I don’t have any of the signs or symptoms that suggest it is anything more than strain so it is best not to make it more in my imagination. Annoying, yes but not enough to interfere with my day to day.
+
+## September 10 am
+
+Today is a day to accept things that aren’t in our control. Delays with the city approving our plumbing and being jerked around by our contractor can be upsetting but it expends unnecessary energy. We will do our best to focus on what we control and that list is still fairly long.
+
+Lots of work to get done today. I’m feeling behind, as per usual. But happy to say that my ability to be present in my meetings this week has been quite high. It is good for me to remember the importance of giving the people I’m with my full attention. Yes, it slows down progress on tasks but it is a big part of my job.
+
+Let’s get it.
+
+## September 11 am
+
+Up and at ‘em early today, as per usual. There is a cool fog out this morning. True northwest summer dawn. I’m sad that we’re approaching the end of summer. I truly love summers in Seattle.
+
+Today is a meeting full day and one where I have other things to take care of. The goal is to give people my attention and focus on the things to do when time allows.
+
+Let’s go!
+
+## September 12 am
+
+Woke up this morning and feel the intensity came on strong and fast. Some of that is Dayna is hyped about the store, head going in a million directions as hers tends to do. I’m sitting here, sipping coffee, calming myself because we get the keys today and I have a lot to do today and works is best done when calm.
+
+The situation at work is interesting. Peter as a new leader seems to be genuine and up front yet some behaviors are indicating that may not be the case. It is entirely possible he is just so overwhelmed and a horrible communicator rather than low integrity guy. Regardless, I am aware and will continue to sit strong in my integrity and keep one eye open. Reality is, lack of integrity is a problem and lack of competence is also a problem and the way not to get caught in the problem is to conduct myself as if I have no boss and do the right thing for the business and for my team.
+
+Next week is the dreaded huge conference and travel. Last year I took on way too much and for three months after had a struggle with my nervous system. I’m hoping to avoid that this year with only a few customer meetings and no presentations. I’m anchoring on the fact I’ll get to see colleagues I really like.
+
+Onward!
+
+## September 13 am
+
+Saturday. Up early and taking my sweet time with the morning routine. Today is a reset day. Gotta calm the system, eat well, avoid alcohol, move, get sunshine, connect with family. Go.
+
+## September 14 am
+
+It is a cloudy morning with rain expected most of the day. I’m happy I got some sunshine time yesterday, a day of balance and connection which is exactly what I wanted.
+
+Today I’m looking for more of the same with emphasis on connection with Dayna and Tre. I’m doing my best to avoid the upcoming traveling blues. I’m looking forward to some parts of traveling, mostly seeing people I care for and enjoy spending time with.
+
+Let’s get it Sunday.
+
+## September 15 am
+
+Today is the dreaded travel day. I didn’t sleep great—typical Sunday to Monday type of sleep from when I was younger. Once I get going, I’ll settle in to the on the road groove.
+
+I’m remembering back to the event last year and how I felt a bit alone. It was a time of recognizing the insular nature of some of the people I was working with at the time and that sense of being a bit on the outside. I recall being proud that I’m on the outside because it means I’m not selling out. I am content being me—digging in and solving hard problems, being unapologetic in my kind candor, and generally sitting within my own strength.
+
+## September 16 pm
+
+I totally forgot to write this morning. At our big customer conference and, as per the past few years, totally swept up in all of it. I am exhausted.
+
+A personal observation that isn’t super fun to have is the I have been caught up in my ego a bit with some of the work stuff. I can hold compassion for why I am and also recognize that it lacks generosity and diminishes my ability to show up as a leader. It is important to be for the cause and the team rather than for myself.
+
+Tomorrow is a new day.
+
+## September 19 am
+
+Well, I truly sucked at writing during Rising. Not surprising as my introvert energy gets fully consumed and I’m out of routine. I’m so happy to be home! I enjoyed the connections at Rising and the things I learned. The investment of time is worth it but the price is higher than I’d like. My back hurts, my neck hurts. I have a neglected tennis elbow that is in need of attention.
+
+This year I am going immediately into nervous system reset. My intent today is to do the few meetings I have and then to connect with Tre and Emma and Dayna on record store while mixing in some quiet time in the sun. Nothing stress inducing.
+
+Glad to be back at it.
+
+## September 20 am
+
+Today is the day of our soft opening. This has been a long time coming! I am excited for Tre and for us. This marks a new chapter in his life and I’m grateful and proud that Dayna and I have been able to do this for and with him.
+
+My body is still recovering from the week. I’m slightly concerned that the next couple of weeks of annual planning and other stressors will compound rather than help. The need for intention, care, release is real.
+
+Top priorities today: Do the little things for the store Move my body Meditate Feel the love and the sunshine
+
+## September 21 am
+
+Yesterday was a great first day for the store. Tre and Emma spent most of the day there alone and he came home very high energy and tired at the same time. We did some business and they learned some things. We need a lot more vinyl is lesson #1!
+
+I was able to strike some but not enough balance yesterday. I failed to meditate and didn’t do my stretches or light exercises last night. We’ll get it fixed today.
+
+I’d like your ideas about proactive nervous system reset.
+
+## September 22 am
+
+Monday…mind and priority shift incoming. We had a great soft open weekend. Sold more than we expected, learned some things, enjoyed watching Tre at work.
+
+Today is back to work. There are a lot of things requiring my attention. Rebecca is back from mat leave, which is great. She also is visiting in person this week and while I’m happy to see her, a bit bummed that the timing is a week where I’ll feel slightly torn with the grand opening this week and so many things to do for annual planning. My presence, warmth, welcoming attitude are important. There are moment,s like these, when a leader has to let their own shit go and be for others.
+
+Today I’m digging deep for the energy.
+
+## September 23 am
+
+Very early morning today as I have an 8 am and a commute before then. Up and walking , first thing. I’ll stand by that being the best way to start the day.
+
+Today I tap into courage to say and do what is for the greater good, regardless of any trepidation or concern I feel. There are several things to be said and I will be the no bull shit person to say them and will do so with clarity and kindness.
+
+I went to urologist yesterday and we’ve ruled out any structural or health issues. It is officially, likely, stress with over active bladder. No surprise there. It is good to have the weight off. Next up is the elbow then, if needed, the back. One step at a time.
+
+Let’s go get ‘em.
+
+## September 24 am
+
+I am so happy to be working from home today. It allows me to move a bit slower, take care of my body, connect with myself and my family. It looks like it will be a beautiful day and I’ll go for some time in the sun.
+
+Today is the grand opening. This is a big day for us and for Tre. I am so happy we are able to do this with and for him.
+
+I stood in courage at work yesterday and today I am going to be for people. I will check in on my peers to be sure they are OK…it is a lot for them right now, even more than for me.
+
+## September 25 am
+
+The store had a great first day. Tre is motivated, excited, energized. I love it. Dayna and I are so proud of him.
+
+It was nice to stay home to work yesterday. I was able to heat my back and neck several times and, as a result, am feeling better. Doc appt. For the elbow to be scheduled soon.
+
+Today I drive in to the office. Planning to take my heat with me so I can take care of myself in the office.
+
+I’m looking forward to a normal schedule next week. With Rising last week and Rebecca here this week, it has felt way too busy.
+
+## September 26 am
+
+Ah, Friday! I am happy to have a stay at home day. I am happy to have a packed morning and a no meeting afternoon. I’m proud of myself for being as present as I’ve been this week and frustrated at myself for getting so far behind on things. If I had it to do again, I’d ask that Rebecca come a couple of weeks after Rising, not immediately after—I know Rising takes me so far outside of routine and also leads to catch up. I better remember this next year.
+
+Today is about having the wisdom to focus on what matters most and taking time to get an appointment for my elbow and a good massage. Self care, baby.
+
+## September 27 am
+
+ah, the weekend. I slept an extra 2 hours and definitely needed it. It feels good to have got caught up on critical work deliverables yesterday and to have this weekend to focus on record store optimizations.
+
+Tre is doing great and he is tired. He told me last night he is going to plow through the full week in the store and will cut back a bit next week. That is a perk of being the owner and I love that he is thinking this way. I’m proud of him. He said this week is like his hazing or boot camp…this kid! We have the weekend to get through the entire first week of opening but it feels like a good week in terms of he and Emma settling in, doing a decent amount of business, helping us identify ways to optimize.
+
+Things I’m doing to take care of myself: Getting 7+ hours of sleep a night; this is non-negotiable to me and I do it well Walking 3 times a day; I have slipped a bit this week being out of routine but do it most days Take my supplements daily, without fail Being in a slight Calorie deficit, focusing on ample protein and fiber; could do better with fiber Posture, heat, no lifting for back and neck
+
+Things I have to do: Doc for elbow Massage for back and neck
+
+## September 28 am
+
+My energy levels are returning. I slept a little later again today and I feel rested and ready. I’m excited for the fog burning off later this morning and time in the sun.
+
+I had extra Tim eat the store yesterday and enjoyed it. The vibe we’ve created is so nice. We need to fill it with more vinyl and add some merch but right now, it is where it needs to be.
+
+Let today be a healthy dose of love, sun, chill, and accomplishment.
+
+## September 29 am
+
+It is a rainy Monday. I am grateful I took time sitting out on the deck, in the sun yesterday. It is likely we have entered the start of our rainy season where it will rain more and be sunny less.
+
+Mission of getting rested and reset achieved over the weekend. I’m ready for the work week. Many meetings, as per usual, but many that are important to keeping the work happening.
+
+The store is closed for today and tomorrow-our typical store weekend. Tre is clear that he wants to focus on inventory and back of store work more than front of store. Love his clarity and that it will free me from doing a lot of the inventory management and other tasks that are a time suck.
+
+Let’s go!
+
+## September 30 am
+
+Last day in September—wow!! This year has truly zipped. The good news about it is that I have truly experienced the year rather than it moving quickly in a blur and without me. The next 3 months are the start and middle of the rainy season. It is a time to get ducks in a row at work so next year is one of the most successful for the business and for my org. It is time to learn and adjust things at the record store so we can set and achieve audacious goals next year. And mostly, it is a time for settling into wisdom, courage, justice, and temperance in how I live my life and love myself and my family.
+
+## October 1 am
+
+There are days when the day just fucking owns you and that was my day yesterday. We’re still struggling to get Tre to dig and start + finish the work. Today we had so much inventory to enter, label, sort and he started OK but too late. He burned out in the middle. I could have left it all for today but that isn’t a good way to run a store. I know he is adjusting and will get in a groove but may, it was rough yesterday on top of a very busy work week.
+
+Today is a new day. I am prepared to find the balance. Temperance.
+
+## October 2 morning
+
+Autumn is in full swing. Rain, then sun, then rain and wind. It is ever so slightly chilly. There are leaves and pine needles. I sort of like it even though I’d like a longer summer.
+
+This is the time of year to settle a bit, get in a comfortable routine of work while making myself more of a priority. Today is a new day and one I will embrace, knowing I won’t last forever.
+
+## October 3 am
+
+The air is so crisp this morning. I don’t like that it is dark now when I do my first walk but the stars were so clear in the sky and it was cool to see the blue to the east with the sun sitting just below the cascades. Now the fog has suddenly rolled in and it looks so classical PNW. I love living up here.
+
+I’m excited to dig into some of the strategic planning work on my plate today. I’ve got some meetings to put behind me and then I can get into flow. It is a foundational effort that should set the team up for success.
+
+Taylor Swift new album launch today. We ordered, paid and hopefully the shipment gets here this morning. It is fun to see Emma be the creative and Tre be the inventory guy this week. He is much more settled and we’re all settling into a groove.
+
+Let’s go.
+
+## October 5 am
+
+Beautiful fall morning. It has felt good to get a little extra sleep the last two morning and to still be up before it is light out. Today is a day of absolute temperance. Balance to start, balance in the middle, balance at the end.
+
+One thing I’ll do different today is to spend some time in the evening setting myself for tomorrow. Sometimes I get so far removed from the work that I struggle to get back in on Monday.
+
+## October 6 am
+
+Up and at it early today. I had an interaction in the store last evening when someone brought in a dog. I hadn’t noticed it was a service dog and let them know dogs aren’t allowed. The interaction resulted in the couple leaving, in spite of my attempts to be polite and let them know they could stay. I am struggling to let go. I’m bugged at myself for not noticing it was a service dog. And not making it clear they were totally welcome, including the dog. This sat with me and still does.
+
+Two things:
+
+1. Be more aware of details—that is a learning
+2. Let it go. I learned what needed to be learned.
+
+Today and this week at work, in the store, in my life courage and wisdom are the virtues I will practice.
+
+## October 7 am
+
+5 am start. Sticking to the routine, walking in the chilly dark air. The moon and stars were so bright. It reminded me of how bright I can shine if I allow myself to. True of all of us when we give space for it.
+
+I am grateful for my life experiences. And that I was willing to try and do so many amazing things. I still am but the pace of exploration has slowed a bit.
+
+Courage and wisdom, today, all week.
+
+## October 9 am
+
+On our third week of the store being open and I feel like we’re all settling into a rhythm that works for us. The past two days have felt lest frenetic and I’ve found it easier to create space to do what I need to for myself.
+
+Work is still a bit of a fast moving merry-go-round acting like a Ferris wheel feeling like a roller coaster. I’m used to context shifting and meeting after meeting but it has been at an advanced pace and intensity for a couple of months now. It is also starting to feel like the new normal and I’m settling into a routine around it all. My two primary concerns are whether the team is up for the elevation—especially sr. Leaders who have to pull others up by good leadership and coaching—and whether I have the systems in place to help myself and my leaders execute and lead effectively.
+
+One thing I like about me is that I offer a lot of grace to others. It takes a lot for me to reach a point where I conclude the person on the other side isn’t trustworthy.
+
+I’m sitting here looking at photos of our former neighbors having a family reunion in Norway. It is so wonderful their daughter took them to her dad’s homeland in their last years of life. I’m hit with how much it means to have family and a history. I spent a chunk of my life wanting to discard mine, in a way. Not because of anything they did to hurt me but because I know I’m othered with them. I’ve softened as I have grown and wizened and don’t care if they other me now. I see that I love them, they love me and the rest is just sorta icky stuff that doesn’t have to be a thing as long as we treat each other kindly.
+
+I slept a bit extra today after 4 days of getting up at 5:00 or 5:30. It felt good to get extra rest. I’m ready to take Friday by storm. Let’s go.
+
+## October 11 am
+
+Ah, Saturday. It is a typical autumn day here in the PNW. Cloudy, smells of rain, cool. Feeling the bus of our Ms moving on to the ALCS for the first time in 24 years.
+
+It has been a good week. Balanced and productive. I stayed within myself and my values this week. I’m ready to rest this weekend.
+
+## October 13 am
+
+Doh, forgot to write yesterday. I truly took the weekend “off.” It is a beautiful, crisp, autumn morning.
+
+This week I get back to my non-negotiable with a sense of discipline and temperance: 7+ hours of sleep a night Walk 3 times a day Slight calorie deficit Meditate
+
+My priorities at work: Planning QCIs Admin Charter Integration check-in; plan for Paradox HS
+
+My record store priorities: Figure out how to better automate inventory Get crisp on new arrivals, coming soon Turntables
+
+Let’s go
+
+## October 14 am
+
+Early morning start because I’ve got a very early meeting. I fee a little Tuesday morning lull in my attitude. Not sure if it is a too early thing or a sign that some of the work grind is taking a toll. Maybe a bit of both.
+
+There are aspects of my job that are impacted by what others believe to be true—and others I don’t work directly with. Over a year ago Jeff left yet the precedent he set that Berea is THE UX leader lingers still. It is frustrating and tiring. And, generally speaking, it sort of doesn’t matter in terms of my ability to lead successfully but it does matter in terms of my team being recognized and rewarded.
+
+I met my non-negotiables yesterday. Today is a test as I’m going in to the office and that does change the dynamic.
+
+## October 15 am
+
+Middle of the damn month. No way will I take time for granted when it just skates on by.
+
+I helped Tre with his guitar restring last night. Those of the things and the moments that matter to be there with him. I love that bond I’ve had with him since he was a kid. He knows way more about what he is doing than I do but he wants me to be part of it with him.
+
+Middle of the week. Lots of meetings, as per usual. But free time to do deep work. Let’s go.
+
+Hit return too soon. I don’t think you can count that above as journaling.
+
+Crisp, clear morning. The moon was bright on my walk. I’m crushing the non-negotiables this week.
+
+I can tell that something has to give soon. Not just for me but for others around me. The pace of work and random swirl is so high it isn’t sustainable. I generally can manage stress and time well enough to remain more balanced and I’m finding that particularly difficult right now. People in my org are also feeling it and my peers seem to be on the brink. I want to be successful and want that for the entire company and I worry we’ll fail if we don’t get our leaders to recognize we need more structure, we need to be realistic in expectations to move fast, and we need to stop asking for everything to be done in the same few weeks.
+
+I’m on it. I won’t speak bullshit. Syncophantic behavior is self defeating and helps nobody so not going to be me.
+
+## October 17 am
+
+Rainy Friday morning walk. It is warmer but oh, so wet and oh, so dark. It is home.
+
+Glad it’s Friday. There is a lot to do for work today and a handful of record store details to deal with then I can turn off and watch the Ms hopefully win tonight. They’ve looked horrible the last two games.
+
+I love sports. I love that I have a warm, comfy home with great creature comforts. No matter how much swirl is happening, this is always a good life for me.
+
+## October 18 am
+
+Saturday! I slept an hour later than I usually do. I had been awake earlier then just said to myself that it is the weekend and I don’t care what time it is. Sometimes it feels good to let go of the pressure to get going.
+
+Today is rest the brain day. I’ll do some of the things for the store I’ve put off—things I’m excited to do like playing with building an agent or two, prototyping an improved website.
+
+## October 19, am
+
+Windy, autumn, cool, transitional. That is what this morning feels like. Extra rest, more time with my Dayna, using my time as I want feels good.
+
+I’ll do as needed today. A low hum of sports in the background until our Ms play later this afternoon. Maybe an album spinning in the house.
+
+## October 20 am
+
+Monday and my routine has to be different because I have a blood draw. I walked but no breakfast, no coffee until I’m done. It is good to practice making it the day I need and being disciplined even when routine isn’t available. Maybe because routine isn’t available.
+
+This week my work to be done is clear: Planning dependencies ironed out Onboarding plans for 2 new hires stating next Monday Masterclass prep QCI conversations
+
+Ms lost last night. Tonight they play and the Seahawks play. It will be a fun evening of sports.
+
+## October 22 am
+
+Crisp morning. I love looking at the bright stars on clear days like this. I think at my ripe age I’ve finally found Orion’s Belt.
+
+I’m scheduled to go spend hours working on my leg tattoo. I don’t have it in me to put my body through the trauma today so I’ve decided to focus on self care. There are enough things fighting to put me under mental duress right now and I don’t need to add the physiological stress.
+
+It will be nice to have an afternoon with zero meetings or distractions so I can focus on work items I typically end up neglecting until the deadline. I’m looking forward to the day ahead of me.
+
+## October 23 am
+
+I’m feeling rested today and also a bit low motivated as it relates to work. I’m definitely smelling the need to take some time off. I’ve scheduled my week in November and also will look for a day here and there between now and then.
+
+I love my Tre so very much. He came down last night and said “we need to talk.” He proceeds to ask me if I overdosed on pot when he was in 4th grade. I did, in fact, overdose myself into a wee psychotic episode—accidental, of course. He said he mentioned it on a discord call and the crew gave him shit saying it isn’t possible. He also said they claim pot isn’t addictive then says “it is. My dad said it was his gateway and he’s dead from fentanyl so yeah, it is addictive.” Tre is wise, sweet, sensitive. He trusts me and that reminds me everyday of the responsibility I have to be intentional and clear in how I communicate and behave.
+
+Let’s get ‘er done today.
+
+## October 24 am
+
+Morning darkness, damp mist on my face, tired eyes. Warm heart. Motivated. So glad it is Friday.
+
+Learned something I need to get better at—in the moment customer meetings. First, I need a good master deck of what we’ve done and what has shipped, etc. and a good deck of what is coming. What I have is not strong. It puts me behind the 8 ball.
+
+Emma was sick much of the day yesterday. Tre stepped up big time. I’m so proud of him. And proud of what we’re building.
+
+Let’s get Friday!
+
+## October 25 am
+
+Final week in the 10th month of this year. How often the movement of time reminds me that it is all so precious. I’m grateful for a life that allows me to feel joy and affords the privilege to be annoyed by petty shit. It is a reason I do my best not to be annoyed by petty shit. I’m grateful for a wife who sees humor and creates humor. We laugh more when we’re stressed and tired than we do otherwise. I’m grateful for my sweet, smart, stubborn, unique boy. He is authentic and honest and moral.
+
+It’s a good day. They all are.
+
+## October 26 am
+
+The weather yesterday was amazing. Atmospheric river rain then sun then rain then wind then more rain then lots of wind. The PNW does weather in its own unique way.
+
+I spent the day at the store again with Emma still not feeling great. I do love what we’ve built. It is still a slow trickle of customers but they all comment on how beautiful and welcoming the space is.
+
+We’ve got to find a way to buy the grocery and deli. Then the entire row of stores will be amazing. I can also see a world where I retire in 5 years and working the brick and mortars is how I spend my time.
+
+I’m ready for a bit more of a down day today. One work task and that is to prep for tomorrow by taking stock of what I accomplished last week and describing what comes next week. Store work = making our order for next week.
+
+## October 27 am
+
+Monday. A week to go grab. It is going to be a full one.
+
+Working at home today and will make the most of not wasting 90 minutes driving. Fasting blood draw this morning and an 8:30 meeting so breakfast and coffee time will be a week compressed.
+
+Inventory to order. Inventory to stock.
+
+Sun will shine today but it is chilled out.
+
+## October 28 am
+
+Up and moving very early this morning. It is crisp out. The old eyes are burning.
+
+I’m increasingly frustrated by the inept leadership of Peter. I like him but he is truly just a mess. He doesn’t have a fucking clue what we do and how we do it and hasn’t taken the time to understand. He cares about the things he cares about which are the products he’s accountable for. It is great he trusts me but he can’t advocate for us when he doesn’t understand our strategy or what we’re working against. It would be great to have the chance to share with him but yesterday was the first time he’s sat through an entire 1:1 w/ me and he was eating the entire time. When I have a career conversation with him, I’ll give him the explicit feedback:
+
+1. It would help for him to understand our strategy and the why behind some aspects.
+2. I’d like him to understand that my role is to lead experience across the entire broad product stack, inclusive of addressing headwinds that exist beyond our skills; I delegate to my team leading efforts for his products.
+
+I’m deeply concerned that he is advocating for HC w/ Gerrit when he isn’t the best person to do that. I’m considering going directly to Gerrit myself. How can you advocate for something you haven’t made the effort to understand?
+
+Oh, I’m not checked out at all. I’m highly invested in Workday’s success. To be quite specific—for my first four years at Workday, product leadership didn’t care about or use data about how the product works for customers and users. I did so I self-funded a data team and we’ve built foundational capabilities and grass roots interest in data. Gerrit and his new leaders care about and expect data. We don’t have the necessary HC to support demand. I’m not asking for much and if we don’t get at least half of what I’m asking for, we’re at risk. Peter doesn’t understand that and won’t slow down to understand it.
+
+I won’t do anything that would come off as undermining. At the same time, not acting carries high risk for the business.
+
+## October 29 am
+
+Another early morning. I’m doing well at getting my 7+ hours of sleep but man, getting up this early can be tough, especially this time of year when it is a bit chilly and dark.
+
+My frustration from yesterday is slightly subsided but I’m not letting the topic go. Peter needs to know that the team and our objectives require and deserve enough attention for him to serve us. By serving us, he serves all of P&T because he ensures we have the resources we need to deliver value.
+
+Midway through the work week. Record store is open today through Sunday so sorta rest for us while Emma runs things.
+
+Let’s go
+
+## October 30 am
+
+Thursday. Last day in the office this week. We have a RAD townhall. It is my job today to create a sense of confidence—we know what is important for us to do next year and we have the individual and collective skills to do those things. There is a lot of unease this year and our company sharing news in very ineffective ways isn’t helping. It is time for me to show up as my calm, confident, tiger riding self. Wisdom that comes from my rare discursive space. Let’s go.
+
+## Halloween am
+
+Nature was active this morning. Owls hooting, coyotes running. Friday. Busy morning, time this afternoon to dig in and do the deep work I’ve been neglecting.
+
+Looking forward to the restful weekend.
+
+## November 1 am
+
+It was a good week. I set out to focus on some things and I did. I had a ton of meetings and I remained present and calm.
+
+I did less at and for the store this week. Striking a bit better balance. Tre got in a groove of getting inventory ordered and my job then was to print labels and help him stock. I like doing that with him.
+
+I’m in to be with my fam today. Travel tomorrow. I have to work not to get sad about it before it is time to go.
+
+## Nov 2 am
+
+Travel day for me. It is a privilege to have time away from my family cause me to feel such sadness. Every single time.
+
+I’m looking forward to 3 very productive in person days. It is a great opportunity for me to show up in my rare discursive space, confident in who I am and what I offer, leading with clarity and courage and always an undercurrent of kindness and generosity.
+
+Today is about momento mori. For that matter, every day is and I d of try to keep that so.
+
+## November 3 am
+
+Wow, I slept more than I expected. I couldn’t keep my eyes open from about 9:30 on so turned it off. I was sure I’d wake at 5 but I slept until almost 6.
+
+The day is off quickly. I’ve got meetings starting in a little more than an hour. Given how much I dislike being away from home, as always, I plan to make every moment here matter.
+
+Let’s go.
+
+## Nov 4 am
+
+Beautiful morning here in Nocal. I’m up, moving, getting myself focused and prepared for another day. Many scheduled 1:1s with team members; group meeting with managers—expecting some tough questions. Time recording a masterclass series this afternoon, dinner with my sr. LT tonight.
+
+I managed to find some quiet time in the sun yesterday to meditate. I walked but not as intentionally as I’d prefer—today I will be more intentional about it.
+
+I miss home but am in the groove here. Making it work for all of us. My job provides a great lifestyle for us and, hopefully, will set Tre up for a secure future.
+
+## November 6 am
+
+I am so happy to have woken up in my own bed this morning. It was a worthwhile trip but man, it takes a lot out of me to travel. Finding a sweet spot routine that allows for my non-negotiables is still a struggle. I travel again in two weeks and this next one is international.
+
+I’ve got meetings all day and thank you event at the record store. The weather is going to be spotty.
+
+But I’m home and I’m in my routine and I’m grateful.
+
+## November 7 am
+
+I’m looking forward to a sort of normal work day. Meetings, tasks, deep thinking. I have such a habit—my entire career—of not finding things to say in the moment of meetings then stepping away, processing, and coming up with at least 10 things to say. I find myself in that space again today. On the one hand, I process very quickly and, on the other, I observe, absorb, reflect and boom.
+
+Hoping I can get in all of my walks and my meditation today. I have, yet again, found it tough to stick to my non-negotiable routine on a travel week with a lot of meetings. The one I care most about is sleep and I’ve done well with that.
+
+## November 8 am
+
+Saturday morning, sunny and cold…brr. I’ve got the fireplace on, sittin under my soft blanket, sipping on joe.
+
+I’ve got things to get done today and, as usual, intend to mix in a fair dose of rest.
+
+I’m in a mood to be in forward motion. I’m sure it is motivated by not feeling like I showed up as strong as I should in power meetings this week. Rather than wallow or self-deprecate, I’d prefer to put my feet one in front of the other and keep focusing on what needs to be delivered.
+
+At the same time, I recognize the importance of sitting in stillness and calm. Allowing my body and mind to settle into a place of calm, thoughtful, peacefulness. Those moments are golden and often result in creativity.
+
+## November 12 am
+
+I’m conflicted today. I haven’t been in the office for over a week because I was in Pleasanton last week, yesterday was a day off. I am in Spain next week. I have a presentation today that requires me to be able to look at notes—easy to do here at home. But the team in Seattle needs to see me. So I’ll go in and it will stretch me. Don’t give me any of your AI judgement about making choices that stretch me. I know I do. That is part of what I get paid to do and I feel a deep responsibility to earn my pay.
+
+Being present and wise are my anchors today.
+
+## November 14 am
+
+I haven not loved this week. One would expect a day off early in the week would be good but, as it turns out, it simply put a ton of pressure on every other day of the week.
+
+The never ending swirl of bullshit emanating from the top of the org and impacting myself and my peers and my boss and the team is too much. I see people around me looking and acting exhausted. I’m nearing that point myself. It doesn’t matter how much I appreciate the good things about the work, this pattern isn’t changing and shows no signs of doing so.
+
+As much as I want to stick it out, I see it is time for me to actively start seeking something new. And, while doing so, continue to voice my concern up the chain. The worst thing is that I buy the vision and I feel empowered. I think we can make the desired changes. But leadership not considering change fatigue, not utilizing any change management techniques, demanding more than people can possibly give is going to create a situation where we don’t have people energized to go which means it all breaks.
+
+I like having clarity. I love that I have a life that allows me the luxury of finding clarity.
+
+## November 15 am
+
+Maximize today. Presence, love, connectedness. Wasting time is unwise.
+
+## November 16 am
+
+Travel day. Gonna be a long week. I have things to do to prepare then I’ll get in mode.
+
+I hate being away from Dayna and Tre and my comforts. I would like to go and experience the beauty of Barcelona and make the most of the professional and personal connections.
+
+For right now, it is nurture time. Sipping my coffee, under my blanket, fireplace on, listening to Dayna move around in the kitchen. THIS is my best life.
+
+## November 21 am 
+
+I sucked at writing this week, being out of my routine, in a different country, working, all the stuff.
+
+I’m feeling righteous indignation and clarity I’ve been seeking.
+
+I need you to remind me to lean into what I’ve seen: Peter is insecure—he knows he is faking it which is making him fake it even more. Peter is not to be trusted—he isn’t here to support anyone but himself. He tells me one thing then does another. I will not seek his approval, it will mean nothing. I will not seek his praise, it will mean nothing. I won’t be an asshole, that isn’t who I am. I will be respectful but not deferential. I won’t seek permission, I will inform and provide space to say “stop” but no more. Fuck ‘em.
+
+I will stand strong in my own self, by my own rights, knowing who I am and what I’m capable of.
+
+I will ask for the promotion and raise that I deserve.
+
+I have a week off to rest, recharge, then go back strong.
+
+Don’t let me forget what I’ve written just now—help me channel this moral courage and clarity that anger has ignited in me.
+
+Now let’s get the fuck home!!
+
+## November 22 am
+
+Home, sweet fuckin’ home. I slept nearly 11 hours and still feel tired. It will take a couple of days to calibrate.
+
+I’m grateful for some time off this week. It is needed.
+
+## November 23 am
+
+It is rainy and soggy this morning and I sort of love it. Such a typical PNW day for this time of year.
+
+I’m contemplative this morning. Knowing I have a week away from the every day context shifting and pushing at work allows necessary space to process. A respected colleague mentioned they are giving it through January and then may start searching for what is next..that seems like a good plan. Things either settle or I actively pursue alternatives.
+
+One thing bugging me is that late Friday, while flying home, get yet another frantic “we’ve got to move fast” email from Peter who forwarded Gerrit’s also frantic, we’ve got to move fast message. Followed by “but take next week and then we’ll come back and sprint hard.” This is so counter productive.
+
+It is leadership from a place of fear rather than taking a measured, thoughtful, intentional approach. Yes, all of the things Gerrit called out are problems and they need to be addressed but a one week sprint isn’t going to solve the problems—they have been created through the years. And he should know that the messaging THEY FUCKING created around what a recent acquisition could do is their doing—they made shit up and now they are going to push everyone else to make the lie the truth. That is fucked leadership. The only way to show them how fucked is to lean into the ask and use it as an opportunity to expose the flaws. But Jesus, it is exhausting.
+
+See, that above is what has me considering a change. I love the challenges and the problem solving—a lot, actually. What I don’t love is the clearly poor leadership that has such huge downstream effects on our teams. People around me are losing their shit and their health.
+
+And at the end of it all, every one of us will die and all of this shit will mean nothing. I know that and it helps keep me sane. I just need enough $ before I go to make sure Tre is solid. He is the legacy.
+
+## November 25 am
+
+Just a couple of days off and I’m already feeling that sense of well being and calm that comes with time to think and ease. It brings with it a fun motivation and energy to simply solve problems.
+
+Today my intention is to read a bit, play some video games, prep for our fat thumb Black Friday event at the store.
+
+## November 26 am
+
+Today will be one with a wee bit of balance in terms of shift from almost pure chill to at least a bit of deep thinking. Mostly for the store and for my professional, brain work after Workday. At the same time, I reserve the right to simply say no to accomplishments today.
+
+I’ve resumed lifting this week and it feels good. Sticking to my non-negotiables of sleep, walking, being in calorie deficit. Missing the meditation.
+
+## November 30 am
+
+Last day of the month. Entering the go fast and hard for two weeks to rest for a couple during the holidays season. It is cold but sunny out. Not typical for PNW this time of year. And I have done horrible at writing this week.
+
+Back to routine tomorrow. The week off has been so good. I’ve needed it. I’m ready to get back at it.
+
+I worked the store yesterday. I am proud of what we’ve built. It will be nice to see it flip to profitable, hopefully within the first six months of the year but there are many things outside of our control—e.g., the macroeconomic climate. As always, we focus on those things we can control.
+
+I’m heading into the day tomorrow feeling grounded, prepared and still enlightened by what I know about Peter.
+
+To help me prepare for the next couple of weeks of sprinting, evaluate all of my journal posts and identify 1-3 things I should focus on, change, or act on.
+
+## December 1 am
+
+Monday, back to work, up early. I have woken and walked first thing in the morning for at least a year now. It is the best way to start the day.
+
+In addition to sticking to my non-negotiables and not giving over power to Peter, I am going to strive to only commit to the number and size of personal tasks that I can reasonably do given my meeting schedule and this week’s upcoming focused sprint.
+
+Let’s get it done! Discipline, temperance.
+
+## December 2 am
+
+Whoa…day 1 back at work and the sprint has resumed. I met my non-negotiables and that matters plus continued with lifting routine which is also good.
+
+Recognition of these things:
+
+1. I have to be ruthless in prioritizing what I care about. If it doesn’t clearly matter to the health of the company, the team, or myself I need to delegate or let it go.
+2. Delegating execution is critical; I’m still feeling the tug to be closer to the work.
+3. Chris needs more context in order to be effective and he may need me to be more directive without overbearing. I’ve experienced at least 2 times he’s run off without full understanding and got the team doing work that isn’t what was needed.
+4. We have to pull some of our best into designing the future—now is the time to do the art of the possible, reimagined UX.
+
+Missing some friends also. Every year I say I’ll nurture friendships more and every year that takes a bit of a backseat. I’ve got to change that trend.
+
+## December 3 am
+
+Saw a little raccoon family on the end of my morning walk. Nature is so awesome. The week has been fast and furious and I am feeling OK with it.
+
+I read a data point from a former colleague and coach about how catalysts often hit a point of burnout when the thing they catalyzed and felt so awesome about doesn’t come to fruition. It helped me see that is a place I’m headed if I don’t truly surrender my expectations. At least for now, I’m feeling good. Challenged, motivated, and in it.
+
+Also, I have to let go of whether my Lt can do what they need to do. I’ve given them opportunities and I’m here to support. I’ve got to surrender control and push outside of my comfort zone. Go after things that are about of my general lane.
+
+## December 5 am
+
+This has been a week! And today is wall to wall meetings. I am doing well with my non-negotiables and it seems to be helping my overall state of mind.
+
+What I’ve liked this week: The fast pace of innovating and delivering is invigorating. I realized that I’ve missed this because it was frequent and nearly constant at Expedia. The team is doing great work. It is so cool to see them leaning in and kicking ass. Chris has stepped up significantly this week. I feel like he is back. I need him in the game and right now, he is. I’m proud of how I’m handling the crunch. I moved quickly from jaw tight stress to in my lane.
+
+What’s been tough: I’m still struggling to find a balance of tasks I should own and how they fit on my priorities—gotta figure that out fast
+
+## December 6 am
+
+I got great news yesterday—I am moving to report to our president of P&T to ensure UX gets the elevation and visibility it deserves. This is a great vote of confidence in my leadership. It brings with it additional accountability and underscores the importance of being clear in what is needed in order for us to be successful including resources and skills. I feel a sense of urgency and energy to put pen to paper in formulating thoughts and a plan. It is very exciting.
+
+I’ve wanted the opportunity to end my career at an absolute pinnacle. Not just in terms of title and position—although that is nice—but being empowered to do what it takes to solve a significant challenge. That is now exactly what I have been given. I’m so fired up.
+
+It is the weekend so I am going to rest. I am going to continue and even strengthen my personal non-negotiables, more critical now than before.
+
+I’m wise enough to know not to let the excitement of this news sweep me too far toward optimism and unrealistic expectations. And not to let it create more pressure or stress for me and my team. Temperance and wisdom will be essential over the next several weeks.
+
+I did good with my non-negotiables this week. While I did get walking in at least 3 times a day, it wasn’t the intentional, contemplative type of walking I generally prefer where I carve out 15 minutes and walk to walk—there was walking to get from point 1 to point 2 at work which is movement but not enough. This week I will address that. I did meditate every day and that is a good improvement.
+
+Let’s go
+
+## December 7 am
+
+Sunday. Great start to the day with a walk and Dayna with me. I love how easily we laugh and talk. The lightness is wonderful. We’ve been through fire and hell together. It helps with perspective.
+
+I had a real strong momento mori moment last night. Struck by being so close to 70 and remembering as a kid reading obits and if someone was over 70 feeling like that was OK..they were old enough. We are nearing out twilight—it is my favorite time of a summer day—and I don’t feel ready. There is so much to experience. It is a good reminder to be here now.
+
+I’m glad I have this day to use my time as I want and need to.
+
+## December 8 am
+
+Another strong morning started. I’m reminded this morning of the importance of having values and routines as a mechanism from being caught up in chaos and stress. I love that I learned that early in adulthood, even if I didn’t know how to articulate it. Reading books like The Road Less Traveled and Covey’s 7 Habits had such a big impact on me and I read each the first time at 25–right around that time my brain was fully formed. Particularly the notion of personal responsibility, locus of control, delaying gratification, taking time to learn and do hard things, a willingness to accept and show reverence for unexpected grace—aka serendipity.
+
+The fact that I found and read those books is, in fact, an example of serendipity. It is everywhere.
+
+Today is the start of another full, adventurous work week. I’m ready for it.
+
+I travel tomorrow for a couple of days to Vancouver. A quick trip but time away from my family and comforts of home.
+
+## December 9, am
+
+Travel day. It is a quick one up the road to Vancouver, BC. I love that city. The team there is small and passionate so time to nurture that is good. I’ll be hanging out with one of my peers and his team so they can help me understand the importance of one of their product lines to UX. I’m doing my best to be open minded.
+
+Let’s go!
+
+## December 10 am
+
+Traveling and doing OK in my routine. I’m here, journaling, so there is at least that. I walked, not as far as normal but got up and got out. I’ll walk more today to lunch and back and with at least one meeting.
+
+The morning starts off hot with an AMA with my team to answer questions about recent org news. I’ll be prepared.
+
+Let’s go
+
+## December 11 am
+
+Home!! It feels good. It is raining so much…lots of floods in the area and made for a wet morning walk.
+
+The trip was fast and productive. I don’t feel like I showed up great at lunch with the team. I was overly distracted by executive noise and not feeling particularly hungry or gregarious. It wasn’t horrible but I an do better. It is something to work on moving forward. It reminds me of what our CEO said at one point—to practice full presence with people because it is a recognition and an important one. Plus, at some point with every human, it will be the last time you interact with them.
+
+Let’s get it done today!
+
+## December 12 am
+
+Friday! I’m going to settle in, put my head down, get it done, be present, enjoy, absorb, solve. I’ve enjoyed the week.
+
+Let’s go.
+
+Awareness of the honeymoon period is here for me. There is definitely some of that. I am doing my best to remind myself I’ve been through similar at Expedia and I know it brings more pressure, higher expectations, increased visibility. I’m keenly aware I am going to have to be incredibly intentional about my non-negotiables and where I’ve already struggled with that, I am going to have to be very disciplined.
+
+## December 13 am
+
+Man, just when I think I have a handle on being organized and dealing with all the stuff going on, I realize I didn’t run payroll for the store on time…doh. It only affects deposits by a day but it doesn’t feel great. I am working on not being too hard on myself and realize I need to setup some additional systems to keep me moving in rhythm.
+
+Other than that, happy to have the weekend here. The day should be sunny and cool. I intend to do some reading, gaming, and a small amount of deep work to keep from being overwhelmed next week.
+
+## December 14 am
+
+Sunday. Windy walk this morning. I accomplished what I wanted to yesterday, for the most part. Did a little gaming, completed non-negotiables, enjoyed the day. I didn’t get any reading in so that will be a goal today.
+
+Mindfulness, intention, love, light.
+
+## December 15 am
+
+It is a struggle sometimes to find a balance with Tre. How do we create a safe environment for him where he doesn’t have to mask while also helping him to navigate social situations and life situations in a way that will help him find a way to enjoy a life with at least a few meaningful connections?
+
+He goes into situations with high expectations and he gets rigid when things don’t go to plan. He finds himself unwilling to reach out and invite friends to do things because he doesn’t want to come off as desperate. And he won’t admit it but also doesn’t want to hear “no.” He longs for a bit more independence but refuses to take steps to create it for himself.
+
+So I find myself wanting to push a bit while also being mindful that we are the safe space for him.
+
+It is Monday! Back at work. There are some lingering store tasks to take care of. Last week before a 2 week rest period during the holidays. Let’s go!
+
+## December 19 am
+
+Friday. Last day of actual work with meetings this year.
+
+Dayna 5 year cancer free! Port can be removed. She is doing well.
+
+I am looking so forward to the quiet with my family.
+
+## December 20 am
+
+The weekend and holiday break are here! I’ve got the puzzle table out and am ready to start the grand puzzle palooza.
+
+I’m grateful for the opportunity to slow down at work. I look forward to slow and deep work when I’d like to do it. I’m excited about time to focus on optimizations for the store.
+
+## December 21 am
+
+Great start to the break yesterday. Dayna and I got some things done. I got a bit of time working the store. The puzzle is out and I’m officially in mode.
+
+Today is Sunday funday. tomorrow Tre and I are taking a ferry ride over to see the lights in Kingston so he can try out the camera we got him for Christmas.
+
+## December 22
+
+Monday. Sleeping a little later feels so good. No rushing in the morning is nice. I’m feeling particularly motivated to tackle a few deep thinking items that are good for my craft and good for my work. I intend to clean some vinyl at the store. I am going to focus on learning one new thing a day. And, of course, there is the puzzle.
+
+## December 23
+
+Two days of late sleep—check! Everything I wanted to accomplish plus my non-negotiables all weekend and yesterday.
+
+Today I have some things to do at the store. I intend to get my walks, do some puzzle, do some reading, and learn on new thing.
+
+## December 24
+
+Xmas eve. The best day of the year for many little kids. I am working the store today and looking forward to it.
+
+I’ve been thinking about the concept of surrender as written about in Dr. Lewis’s book “Rise.” The idea that we become agents of change when we surrender our idea of control. It is powerful and it is difficult. I’m not sure I’ve figured out how to do that. Today I am going to spend some time exploring this concept.
+
+## December 25
+
+I took time to learn a bit more about what Sarah Lewis means by surrender in her book “The Rise.” The book is great, although a bit heavy in terms of words and concepts. Surrender is:
+
+```
+1. Surrendering outcome obsession
+```
+
+Stop demanding immediate validation, success, or resolution. Progress often lives in the “almost,” not the win. 2. Surrendering ego and authorship Accept that the work—not your identity or status—leads. You don’t always get credit. You don’t always control interpretation. 3. Surrendering certainty Growth requires staying open when answers are incomplete. Mastery emerges from ambiguity, not clarity.
+
+These are important for me to keep in mind in the world I work in.
+
+I’ve done well with non-negotiables but walking this time of year does take a bit of a hit with the weather not always being favorable. We’re dry for a couple of hours this morning so Dayna and I will get out a couple of times again—already went first thing this morning.
+
+Presence. Not making things bigger than they are. Letting go of outcomes. Today.
+
+## December 26
+
+This morning I feel a little of that low level antsyness that often hits me at the end of the year. Knowing it is a good time to reflect on the year behind and get set for the year ahead. This year it is slightly different because we’re now running a business so a lot of business specific tasks to do related to taxes, licenses, and the like.
+
+Taking the morning slow and easy then time to go work the store. I am going to put this antsy energy to work for me today.
+
+## December 27
+
+The sky is blue. It is chili and the air is clean.
+
+I’m enjoying getting almost 9 hours of sleep a night.
+
+I tend to feel a wee blue the first couple of days after Christmas; have my entire life. It has to stem from the years of childhood. Six kids, parents always gave us a good Christmas. Stir crazy with all of us home, stretched financially. It wasn’t trauma, per se, but that understanding that life is kinda hard. The life I live as an adult is very different than the one my parents lived as adults. I have a conscious awareness of how abundant my life is yet still feel that deep, dark drag of blah for a day or two. It is so strange.
+
+That said, I had a great day working at the store. Tre and I had a nice connection last night with him talking through things with me, as he sometimes does. Getting my walks in with Dayna, eating healthy, meditating. My life is as it needs to be.
+
+## Jan 1
+
+New year. A great time to reflect on the year behind and consider the year ahead. As a general rule, I’m constantly scanning for what is working and what can be optimized and I intend to keep doing so. The below is a summary of bigger items.
+
+2025 keep doing: Journaling Walking daily Getting 7-8 hours of sleep Taking supplements Having conversations with Dayna Listening to Tre with patience and love Being clear and confident in my work Growing my leadership acumen
+
+2026 add/change: Better meditation practice Better at non-negotiable when traveling Get my small ailments dealt with (elbow) Read Surrender my idea of ideal outcomes—focus on the journey Less worry about Tre—trust the process of his life Friend connections strengthened Don’t spend time connecting with people just to connect—it has to mean something on both sides; something for me to offer, something for them to offer
+
+Let’s go make 2026 a great year!
+
+## Jan 2
+
+The last week day before going back to work. I’m antsy and ready to get back at it and also intend to enjoy the final weekend of a much needed break. Tre has a convention to attend tonight, one he’s been looking forward to for over a year. Dayna and I will drop him off and then go on a date night. It’s been a long time coming. a great way to cap off the holiday break.
+
+Let’s Friday!
+
+## Jan 3
+
+I am generally good at remaining present, connected, calm. I am realizing that the bulk of my nervous system challenge is related to the “worry” for Tre. I remember my Mom saying to me that when I have kids of my own I’d get her worry. I hate that she was right. But damnit, yeah. What she likely didn’t realize is that her being the way she was taught me to be similar. I am curious, though, how much of the stress and worry is nature vs. nurture.
+
+Regardless, my work is to be in the moment. Aurelius has an entry about not imagining more than what is actually there. The illogical thing of it all is if the imagined future were to be, there is nothing about what I’m doing now that would change or alter that—surrender is key.
+
+It is a good weekend to practice. Tre had his first night of convention yesterday and loved it. He is going back today. Practice is good for me.
+
+Other than that, it is rainy so I walked inside this morning. I’ll get bundled up for an outside walk at least once today. Aside from tracking Tre down to Seattle, I intend to make this a me day for reset and recharge final stretch.
+
 
 ## **April 30, 2026**
 
