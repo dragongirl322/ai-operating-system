@@ -2139,7 +2139,47 @@ I deserve better, my team deserves better, our customers and their employees des
 
 Now, deep breath. I still need to clean the inside of my jeep and do a bit of cleaning. There is a real life to live here and the weather is great! Let’s go have a great Sunday.
 
+## April 27
 
+Well, my morning has started off with a bang. Already have a Slack message from Joel saying that there were 11 versions of our AI UX at Innovation Summit and Gerrit wants speed of light plan to solve. His designers are working on that. OK, then.
+
+I can see the way this is playing out. A part of me wants to stand down and see how this plays out for Joel and his team. Maybe 2 guys can solve it across the entire stack but I doubt it.
+
+If I step in and help, Joel gets to be the hero. If I stand down and let him take this one I don’t think they will achieve what they think they will achieve.
+
+Regardless, this is a sign that red line is crossed. I am being intentionally iced out. There has been a decision made that RAD can’t solve the problems but Sana can.
+
+Here we go. Now the challenge is how much energy do I invest in Workday vs. investing in my next move? There is a balance that must be struck but what I know is that 10 - 12 hour days for Workday isn’t going to be my norm.
+
+I need to take a deep breath. Not take this personally. When there are flawed perceptions, it is impossible to look good, regardless of how well we’ve done. If I take this personally, I’ll let it suck my fire. Gerrit, Joel, Aneel don’t deserve to suck my fire. Aneel and his leaders build this mess and never gave me what was needed to fix it. That isn’t a failing on my part, it is a failing on theirs.
+
+Let’s fucking go.
+
+## April 28
+
+Yesterday was exhausting. Mondays are always a bit of a cluster because I start the day thinking I’m going to keep things so zen and inevitably the day ends up exploding with extra things to do and so much noise coming at me on Slack, email, etc. The day was particularly difficult given all the background power dynamic shit going on.
+
+I am standing down on what Joel is doing. He is using this moment to try to move all new experiences to Sana. That is his circus. It actually works well because I can focus on strengthening the core. We’ll see how customers and their employees lean. I continue to think Sana as the big bet is a mistake. Time will tell and maybe I’ll be around, maybe I won’t.
+
+I had a great 1:1 with our SVP of engineering, a long time Workmate. He has felt all of this himself. He pretty much encouraged me to remember Joel is just a kid who doesn’t know what he is doing and to help where I can but keep myself grounded in what I know needs to be done. If they want me out, I’ll get a package.
+
+My work is to continue to prepare myself for an exit. I don’t experience these new leaders as good people. I also don’t experience them as being able to lead. They are simply utilizing their power for themselves and operate as if they can use force of will to make the impossible happen. It is leading to poor decisions and low quality solutions that will end up biting the company in the long run. Then what? If enough of the steady, thoughtful, willing to do different but do different with integrity and intention are around, maybe we’ll save the company. That is a big maybe.
+
+I also have to apply will to not creating imagined realities. I see things and it is easy to assume it means something. Unless I have clear evidence, it means nothing.
+
+One thing I’m watching closely is a distinguished designer who reports to me. I learned sideways yesterday that he is going to Stockholm to hang with Sana next week; he didn’t say a word to me about it. I sent a message asking about it and silence. This is a flag. He is good friends with our head of product and I was, essentially, compelled by Gerrit to hire him. I haven’t trusted him fully from the start. I certainly don’t at the moment.
+
+## April 29
+
+Yes, I did my power pose before interacting with Joel and yes, I used I statements as much as possible in writing and in communication. We had a positive and fun townhall. I was able to get myself in a positive, strong, let’s go space.
+
+I have a realization that I’ve framed questions from leadership as them coming on the attack and getting defensive vs. simply answering the question with clarity and facts. I have fallen into the trap of making things they are not. Marcus Aurelius wrote about this, saying let the thing be what it is and don’t make it into more.
+
+With this in mind, I have a meeting with Joel at 9 to update him on a P0 program I’ve been leading. He genuinely needs to know about it. I have a perspective that I will share with confidence and clarity, giving Joel a chance to simply be my partner not making him into my adversary. Framing is so important.
+
+I have an informational interview with an executive recruiter from Walmart. They are looking for an SVP of experience who can work across the entire massive enterprise and bring coherence across the multiple sides of their business. I am so well suited for the job. I know of only 3 other design leaders in industry who work at the scale I do. It will be great practice for me. I need to go get prepared and read the notes I’ve written.
+
+Let’s go.
 ## **April 30, 2026**
 
 Jesus, I feel like I'm on one of those kiddy merry go rounds that is spinning about 100 mph one direction then suddenly jerked the other. It is borderline comical.
