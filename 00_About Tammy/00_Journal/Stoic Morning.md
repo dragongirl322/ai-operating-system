@@ -3232,3 +3232,14 @@ I am grateful for long, summer days. I will enjoy each one as much as I can.
 I am finally appreciating the freedoms to define what I do, where I spend my intellectual energy, how I feed my soul. The week ahead is one I get to architect. Today is focused on TNT music. In an attempt to get myself better focused, my days won't have mixed themes, rather there will be one.
 
 I'm grateful to be alive and to live in a beautiful part of the world. I'm grateful I was born in a country that allows for freedom, even when things are a bit nutty it is a good place to live.
+
+## July 21, Tuesday
+
+I love summer. I’ve loved it more living in the PNW. It is so distinctly wonderful here. Not too hot but warm. Rarely rainy and when it is, the slight change is welcome. The air is so fresh and clear. The green trees amazing, the mountains being out a reminder of how wonderful nature is. 
+
+Today is a URI day. It will be good to have the in person interactions. it is also good to collect and gather more info for myself. It is part of the exploration. A reminder to myself to remember surrender, not giving up but giving over to a power that I can’t see but exists and moves me where I need to go. There is no need to make a firm decision of permanence. Permanence is an illusion anyway. 
+
+I’ve had Suraj and Patrick reach out to me over the past 5 days or so with “news” and rumors related to Workday. For the most part, it hasn’t sucked me in. I find myself wanting to reach back out to Suraj to offer a steer but it isn’t my job. 
+
+I’ve moved my Journal out of Claude and into Obsidian. It has more stability here plus, I was getting a bit annoyed with the constant affirmations and ass kissing and the 
+
