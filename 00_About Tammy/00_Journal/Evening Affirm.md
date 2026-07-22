@@ -378,7 +378,7 @@ I have gone down the Jason rabbit hole today. I listened to some of his last rec
 
 1. I am proud of my confidence. I'm not always confident, for sure, but I usually have a belief in myself and I've worked on that. 2. I am proud of the fact that I am willing to work on things.
 
-Monday July 20
+## Monday July 20
 
 I got most of the things for TNT that I needed to get done. I need to make a call to GoDaddy sales for their POS system. I’m annoyed that the guy didn’t just send an email because I want the estimates in writing. I’ll call him back and ask him to send via email.
 
@@ -389,3 +389,9 @@ Salesforce wants to move me to the next stage. Today I am in a state of mind whe
 I am going to trim down to one affirmation, brag per night. Coming up with two is sometimes a challenge.
 
 I’m proud of how I can see and experience beauty and awe, even when I’m feeling a bit less tolerant or energetic. 
+
+## Tuesday July 21
+
+More data at URI today. Talking to Trinh, it sounds like she and Justin and their PE owner would like me to take lead however, it is unclear to me if that has been communicated to the team; I suspect not. I also learned they are still figuring out equity and should know by end of week. So, I’ll continue to hold back a bit. At the same time, I’m jumping in and playing a bit more as well.
+
+I’m proud of my writing. When I take the time and give myself space, I’m a good writer. 

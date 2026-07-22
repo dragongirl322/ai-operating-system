@@ -3241,5 +3241,5 @@ Today is a URI day. It will be good to have the in person interactions. it is al
 
 I’ve had Suraj and Patrick reach out to me over the past 5 days or so with “news” and rumors related to Workday. For the most part, it hasn’t sucked me in. I find myself wanting to reach back out to Suraj to offer a steer but it isn’t my job. 
 
-I’ve moved my Journal out of Claude and into Obsidian. It has more stability here plus, I was getting a bit annoyed with the constant affirmations and ass kissing and the 
+I’ve moved my Journal out of Claude and into Obsidian. It has more stability here plus, I was getting a bit annoyed with the constant affirmations and ass kissing and the occasional challenge without context. 
 
