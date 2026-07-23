@@ -3245,10 +3245,16 @@ I’ve moved my Journal out of Claude and into Obsidian. It has more stability h
 
 ## July 22, Wednesday
 
-Today is my writing and creative day. At least for this week. I’m diving into Jason’s timeline today and brainstorming some concepts for the story—it can’t just be a linear tell it all. I’m looking forward to it today. I will likely devote at least an hour or two to my leadership writing as well. 
+#Today is my [writing]() and creative day. At least for this week. I’m diving into Jason’s timeline today and brainstorming some concepts for the story—it can’t just be a linear tell it all. I’m looking forward to it today. I will likely devote at least an hour or two to my leadership writing as well. 
 
 We are in a bit of a heat wave today and tomorrow. I sort of love it. If it were every day of the summer I wouldn’t but two or three days a year in the high 80s, which is Seattle heat wave, is OK. 
 
 I love the little morning routine that I’ve established. Had it for at least the last four years and it works. I tried to keep it as close to same even when I traveled. Being an athlete taught me to appreciate routine. Being Tre’s mom taught me to cherish it. He has always needed it and thrives with it. 
 
 Looking forward to my day.
+
+## July 23 Thursday
+Today is deep work on next move for my career. The key work for me to do is to define what I want to present to panel at Salesforce and to write an outline. I’m sort of jazzed to narrow on a decision. Choosing two that are meaningful and adequately demonstrate my leadership skills along with my strengths as a strategic systems thinker who builds strong trust based relationships is what I desire. 
+
+I’m grateful for the time I have right now to explore. I’m still a bit all over the place…unsure what I want to be when I grow up….hahaha. Identifying the things that bring me energy is important. 
+
