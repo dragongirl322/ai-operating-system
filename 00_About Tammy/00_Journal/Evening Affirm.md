@@ -395,3 +395,13 @@ I’m proud of how I can see and experience beauty and awe, even when I’m feel
 More data at URI today. Talking to Trinh, it sounds like she and Justin and their PE owner would like me to take lead however, it is unclear to me if that has been communicated to the team; I suspect not. I also learned they are still figuring out equity and should know by end of week. So, I’ll continue to hold back a bit. At the same time, I’m jumping in and playing a bit more as well.
 
 I’m proud of my writing. When I take the time and give myself space, I’m a good writer. 
+
+## Wednesday July 22
+
+It was an informative day. I spent most of my time today going deep on Jason’s story. Reviewed a bunch of his notes he left, dug into Ancestry and other online resources. There are still significant gaps but I feel closer to having a concept. 
+
+I got more details on the URI work. Trinh is saying one thing and Justin said the exact opposite today in terms of roles and what he would like from me. It confirmed what I’ve been sensing. I have low confidence in the service product they are building and will continue to give feedback but will hold onto my IP until I have in writing what compensation will look like. Regardless, URI can provide a platform for launching my advisory practice. And Salesforce is still in the mix. 
+
+Today I’ve been playing little imaginary stories in my head about Workday which tells me I’m still in process of letting go. Probably because of posting on LinkedIn yesterday and seeing so many of my former Workmates responding. 
+
+I am proud of my ability to practically break down a situation and challenge and look for solutions from a first principles point of view. 
