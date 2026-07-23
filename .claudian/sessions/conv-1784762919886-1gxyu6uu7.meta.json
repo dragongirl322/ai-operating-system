@@ -4,8 +4,8 @@
   "title": "Review Osprey notes for synthesis updates",
   "titleGenerationStatus": "success",
   "createdAt": 1784762919887,
-  "updatedAt": 1784763074687,
-  "lastResponseAt": 1784763074687,
+  "updatedAt": 1784776195476,
+  "lastResponseAt": 1784776195476,
   "sessionId": "06693405-b427-44d0-880f-065beca5f102",
   "providerState": {
     "providerSessionId": "06693405-b427-44d0-880f-065beca5f102"
@@ -13,11 +13,11 @@
   "usage": {
     "model": "sonnet",
     "inputTokens": 1,
-    "cacheCreationInputTokens": 24665,
-    "cacheReadInputTokens": 15345,
+    "cacheCreationInputTokens": 8155,
+    "cacheReadInputTokens": 47040,
     "contextWindow": 200000,
-    "contextTokens": 40011,
-    "percentage": 20,
+    "contextTokens": 55196,
+    "percentage": 28,
     "contextWindowIsAuthoritative": true
   }
 }
