@@ -3245,7 +3245,7 @@ I’ve moved my Journal out of Claude and into Obsidian. It has more stability h
 
 ## July 22, Wednesday
 
-#Today is my [writing]() and creative day. At least for this week. I’m diving into Jason’s timeline today and brainstorming some concepts for the story—it can’t just be a linear tell it all. I’m looking forward to it today. I will likely devote at least an hour or two to my leadership writing as well. 
+Today is my [writing]() and creative day. At least for this week. I’m diving into Jason’s timeline today and brainstorming some concepts for the story—it can’t just be a linear tell it all. I’m looking forward to it today. I will likely devote at least an hour or two to my leadership writing as well. 
 
 We are in a bit of a heat wave today and tomorrow. I sort of love it. If it were every day of the summer I wouldn’t but two or three days a year in the high 80s, which is Seattle heat wave, is OK. 
 
@@ -3257,4 +3257,19 @@ Looking forward to my day.
 Today is deep work on next move for my career. The key work for me to do is to define what I want to present to panel at Salesforce and to write an outline. I’m sort of jazzed to narrow on a decision. Choosing two that are meaningful and adequately demonstrate my leadership skills along with my strengths as a strategic systems thinker who builds strong trust based relationships is what I desire. 
 
 I’m grateful for the time I have right now to explore. I’m still a bit all over the place…unsure what I want to be when I grow up….hahaha. Identifying the things that bring me energy is important. 
+
+## July 24 Friday
+
+It is so good to be alive and awake and ready for the day. It is great to have options. It is gratifying to have so many people responding to my LinkedIn post about taking the leap. 
+
+The challenge, of course, is getting clear on what is likely to bring me the greatest joy and energy. I know from experience that we can’t project the future or how we’ll feel or respond. What I can go on is observing how I feel in the present. 
+
+So where I’m sitting today is that the eval work with Justin and URI doesn’t do it for me. The idea of leading workshops and courses is kinda meh. That is telling me something. 
+
+What I know matters to me is:
+The flexibility to work from home at least 3X a week.
+The freedom to step aside from work to be with my family whenever; few afternoon meetings
+Ability to put work aside after a full day
+A little bit of travel but not too much and not Willy nilly like it became at Workday
+Ability to take time off without feeling like I’ve fallen behind by weeks or months
 
