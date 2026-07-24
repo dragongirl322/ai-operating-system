@@ -24,17 +24,11 @@
 > 
 > Leading leaders was the hard crossing. What changed the most was proximity. I could no longer carry all of the details about depth work, and holding it anyway made my leaders smaller. The work became building a vision an entire organization could carry, then making my leaders great at carrying it.
 > 
-> Here's what took me most of 25 years to say plainly. What produces results is elevating other people, ambition for the cause instead of for myself, and building the conditions where people reach what they're capable of.
+> What I've learned over and over again in my life is that what produces results is elevating other people, and ambition for the cause instead of for myself.
 > 
-> Three things I lead by.
+> I lead through trust, build for capability rather than dependence, and hold a hard line on clarity that's grounded in evidence — because that's what makes an organization better after I leave than it was when I arrived.
 > 
-> Honor people first. Before strategy, before outcomes, before the work.
-> 
-> Default to trust. When someone falls short I look for a gap in knowledge or support before I look for a gap in character.
-> 
-> Create value in sequence. For each other first. For the company second. For customers always.
-> 
-> Most recently, Workday. I lead a global, multidiscipline UX team of 300 across Workday's entire suite of products.
+> Most recently, Workday. I led a global, multidiscipline UX team of 300 across Workday's entire suite of products.
 > 
 > Two stories that show you how I show up as a leader.
 

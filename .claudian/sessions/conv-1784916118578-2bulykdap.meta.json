@@ -1,0 +1,23 @@
+{
+  "id": "conv-1784916118578-2bulykdap",
+  "providerId": "claude",
+  "title": "Do these two paragraphs compliment one another or ...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1784916118579,
+  "updatedAt": 1784916323653,
+  "lastResponseAt": 1784916118845,
+  "sessionId": "99726f2c-8546-491e-983f-5739c55a3f93",
+  "providerState": {
+    "providerSessionId": "99726f2c-8546-491e-983f-5739c55a3f93"
+  },
+  "currentNote": "01_Knowledge/00_About Tammy/Salesforce Portfolio Review.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}
