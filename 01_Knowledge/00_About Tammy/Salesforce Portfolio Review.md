@@ -376,7 +376,7 @@ That last one needed teeth. Guidance tells a team how to build well. It doesn't 
 > 
 > It was short-lived. Early on we promoted three people he had never been able to get promoted under the old structure. He watched that and drew his own conclusion. I didn't have to convince him. The system did.
 > 
-> The other came from a product VP upset he'd lost control of his design resources. We dug in and found he'd laid off his design resources. There was nothing to lose control of. My head of design handled that conversation and I coached him on how to talk about it, because the easy version embarrasses the VP and the useful version doesn't. He de-escalated it and the relationship held.
+> The other came from a product VP upset he'd lost control of his design resources. We dug in and found he'd laid off his design resources. There was nothing to lose control of. My head of design handled that conversation and I coached him on how to talk about it. He de-escalated it and the relationship held.
 
 ## 6 · Deliver
 
