@@ -38,69 +38,59 @@
 
 ## 1 · The claim
 
-> In September of 2024 at their Rising conference, Workday announced their AI strategy. This moment marked a shift from building generative and conversational AI toward planning for and building agents. The true pivot to agentic AI kicked off in early 2025. As part of this pivot, I shifted some of my organization's capacity off improving products our customers were already using and onto making sure we could help teams build AI that delivered real value and that people would trust.
-> 
-> I made that decision before anyone asked me to. If I had been wrong, I'd have taken capacity away from live products for a bet that never paid off.
+>When Workday's AI push started, I didn't ask for budget or headcount. I started small and organic, and I only spent real capacity once the need had proven itself.
+
+That turned out to be the right way to build it, and it's the through-line of this story. Start small. Prove it. Then resource it.
 
 ## 2 · Diagnose
 
->  In conversations with product leadership, the group GMs and our CPO, I recognized two problems my team was well suited to help with.
+>  In conversations with product leadership during this timeframe, the group GMs and our CPO, I recognized two problems my team was well suited to help with.
 > 
-> First, there was real concern about how to decide where agents would actually be valuable, and how to make sure we applied the right kind of AI to a given problem. Conversational, in context, autonomous. Those are different tools and they solve different things.
+> First, there was real concern about how to decide where AI would be valuable, and how to make sure we applied the right kind of AI to a given problem. Generative, Conversational, anticipatory, agentic. Those are different tools and they solve different things.
 > 
 > Second, our product teams had always worked at the feature level. That's how they scoped, staffed, and shipped. And there was general recognition among those leaders that agentic AI doesn't work that way. An agent has to understand the whole journey and what the user is actually trying to accomplish. A team that thinks in features can't build that.
 > 
 > Nobody asked my organization to solve either one. I heard both problems in the course of those conversations and recognized we already had what they needed.
 > 
-> Two things.
+>  We knew who the users were, what they were trying to achieve, and how they went about achieving it. My team built the user typology and jobs-to-be-done framework when I first arrived at Workday, years before any of this, because the company talked in features instead of user outcomes. We'd already had success helping teams operate beyond feature silos and instead focusing on complete flows.
 > 
-> We knew who the users were, what they were trying to achieve, and how they went about achieving it. My team built the user typology and jobs-to-be-done framework when I first arrived at Workday, years before any of this, because the company talked in features instead of user outcomes. Product teams stopped organizing around feature silos and started organizing around complete flows.
-> 
-> And we'd already proven we could help teams design cohesive solutions across multiple features, because we'd applied that framework. The clearest example is the manager work. Findability, task completion, workflow efficiency, cutting across a dozen different places in the product. That included a fix to change job that cut the time to move an employee from one location to another by 47%.
+> We'd already proven we could help teams design cohesive solutions across multiple features, because we'd applied that framework. The clearest example is work we had led the previous year to address key manager jobs to be done and to improve Findability. That included a fix to one of the most difficult manager tasks that cut the time to move an employee from one location to another by 47%.
 > 
 > So we were ready when the moment called for it. The capability gap that was about to slow the company down was the one my team already had.
 
 ## 3 · Architect
 
-> Three things I architected.
-> 
-> **One. The org structure.**
-> 
-> I carved out a small AI-focused team. Ten people. No new headcount.
-> 
-> I picked them on two things. They were already early adopters of AI tools on their own, and they'd expressed real interest in working in that space. Very few people anywhere had deep AI expertise at that point. Appetite and aptitude were the available signal and they turned out to be the right ones. Deeper expertise came in when I brought over a design leader from our Evisort acquisition, which was AI-native.
-> 
-> To get them I went to the group GMs and we went through their roadmaps together. We deprioritized product improvement work we agreed AI was likely to displace anyway.
-> 
-> We also agreed up front on what success looked like, and it wasn't design output. It was whether their teams shipped AI that was valuable, trustworthy, and cohesive. I wanted to be measured on their outcome, not mine.
-> 
-> I centralized on purpose. The instinct would have been to spread AI capability across the product teams. Nobody had that expertise yet, and ten people spread across a dozen teams produces a dozen different answers. I wanted one answer.
-> 
-> **Two. The operating model.**
-> 
-> This is the part I'd point to if you asked me what I'm actually good at.
-> 
-> The centralized team owned the guidelines, principles, patterns, and design system components. One source.
-> 
-> My embedded design leaders, the directors and their leadership teams, owned adoption. Their accountability was that their teams knew the assets well enough and were comfortable enough with them to actually use them. Not awareness. Use.
-> 
-> And we knew going in that a central team could never anticipate every use case. So I built a contribution model. When an embedded team hit a need the central assets didn't cover, they pushed the pattern back up and it became part of the shared body of work.
-> 
-> That's the piece I care about most. The system got better without me in it, and it got better because the people closest to the problem had a way in.
-> 
-> **Three. The assets.**
-> 
-> Human-centered AI guidelines, so that responsible meant something specific a designer could apply on a Tuesday.
-> 
-> UX paradigms for five distinct AI modalities. **⟨CUT candidate: the clause explaining why⟩** A conversational assistant, an embedded suggestion, and an agent acting on your behalf are three different trust problems wearing the same costume.
-> 
-> Interaction patterns built into the design system rather than into documents, so the standard was the path of least resistance.
-> 
-> Measurement infrastructure, which I'll come back to.
-> 
-> And a readiness rubric. A defined bar for whether an AI experience was fit to put in front of a customer, evidenced by user testing, with design sign-off written into definition of done. That last part is what made it real. It meant clearing the bar wasn't a favor anyone did us.
-> 
-> Which let teams make three decisions well. Where AI could actually help a user finish a job. What kind of AI to apply. And how to build it so what came out was cohesive, trustworthy, and worth using.
+> While we had the capabilities the company needed, we hadn't yet applied it to delivering AI. This happened in stages, over about two years. I'm going to walk the stages, because how it got built matters as much as what got built.
+
+**Early 2023. Organic, almost free.**
+
+I pulled two thought leaders off the edges of their day jobs to run organic learning and research on AI. And I tasked one designer with defining human-centered AI guidelines. Not a program. A few curious people and a clear assignment.
+
+Those guidelines were the principles. What we believe about how AI should treat a human. They landed in the summer of 2023, before Rising.
+
+**April 2024. The principles weren't enough.**
+
+By then it was clear our product teams were struggling with something the guidelines didn't solve. They didn't know how to _think_ about AI. Principles tell you what to value. They don't tell a team where to start on a Tuesday.
+
+So I wrote a thought piece myself and handed it to that organic group with an assignment. Turn this into a guidance kit product teams can actually use.
+
+The kit did what the guidelines couldn't. For each AI modality it defined the interaction paradigms and patterns — when, where, and how AI shows up for a user. How often. The content and visual patterns. And the feedback mechanisms that let a user's response refine the underlying model. Wherever it made sense, it lived as documented guidance and design system tokens, not as a memo.
+
+V1 went to teams in September 2024.
+
+I want to be precise about my role, because it's the pattern I'd point to. I wrote the piece that set the direction. My team built the system that made it usable. I didn't build the kit. I made sure the kit got built, and that it got built from the right point of view.
+
+**Early 2025. Now I spend the capacity.**
+
+Once V1 had proven the need and the appetite, I carved off a small horizontal AI team. Ten people. No new headcount.
+
+I picked them on two things. They were already early adopters of AI tools on their own, and they'd expressed real interest in working in that space. Appetite and aptitude were the available signal and they turned out to be the right ones. Deeper expertise came in when I brought over a design leader from our Evisort acquisition, which was AI-native.
+
+To get them, I went to the group GMs and we went through their roadmaps together. We deprioritized product improvement work we agreed AI was likely to displace anyway. And we agreed up front on what success looked like, and it wasn't design output. It was whether their teams shipped AI that was valuable, trustworthy, and cohesive. I wanted to be measured on their outcome, not mine.
+
+Their job was to keep the guidance current and drive adoption across the product teams.
+
+That's the sequence. Two people and a designer in 2023. A thought piece and a kit in 2024. A funded team in 2025, only after the thing had earned it. I never made a big bet. I made a small one, watched it work, then made it bigger.
 
 ## 4 · Align
 
