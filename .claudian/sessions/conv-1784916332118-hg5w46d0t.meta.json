@@ -4,8 +4,8 @@
   "title": "Confirm agent responsiveness",
   "titleGenerationStatus": "success",
   "createdAt": 1784916332121,
-  "updatedAt": 1784916476106,
-  "lastResponseAt": 1784916476106,
+  "updatedAt": 1784923091974,
+  "lastResponseAt": 1784923091974,
   "sessionId": "457f6ffa-8c7a-440d-bc59-ae0531ae6fc6",
   "providerState": {
     "providerSessionId": "457f6ffa-8c7a-440d-bc59-ae0531ae6fc6"
@@ -14,10 +14,10 @@
   "usage": {
     "model": "sonnet",
     "inputTokens": 2,
-    "cacheCreationInputTokens": 2687,
-    "cacheReadInputTokens": 37541,
+    "cacheCreationInputTokens": 133,
+    "cacheReadInputTokens": 43931,
     "contextWindow": 1000000,
-    "contextTokens": 40230,
+    "contextTokens": 44066,
     "percentage": 4,
     "contextWindowIsAuthoritative": true
   }

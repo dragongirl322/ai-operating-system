@@ -60,19 +60,19 @@ That turned out to be the right way to build it, and it's the through-line of th
 
 ## 3 · Architect
 
-> While we had the capabilities the company needed, we hadn't yet applied it to delivering AI. This happened in stages, over about two years. I'm going to walk the stages, because how it got built matters as much as what got built.
+> While we had the capabilities the company needed, we hadn't yet applied it to delivering AI. This happened in stages, over about two years. 
 
 **Early 2023. Organic, almost free.**
 
-I pulled two thought leaders off the edges of their day jobs to run organic learning and research on AI. And I tasked one designer with defining human-centered AI guidelines. Not a program. A few curious people and a clear assignment.
+I pulled two thought leaders, one designer and one researcher, off the edges of their day jobs to run organic learning and research on AI. And I tasked the designer with defining human-centered AI guidelines. We didn't structure this as a team wide initiative or reorg rather as an organic effort with one clear deliverable, the AI UX guidelines.
 
-Those guidelines were the principles. What we believe about how AI should treat a human. They landed in the summer of 2023, before Rising.
+Those guidelines were the principles. What we believe about how AI should treat a human. They landed in the summer of 2023, before Workday's big customer event, Rising.
 
 **April 2024. The principles weren't enough.**
 
-By then it was clear our product teams were struggling with something the guidelines didn't solve. They didn't know how to _think_ about AI. Principles tell you what to value. They don't tell a team where to start on a Tuesday.
+By then it was clear our product teams were struggling with something the guidelines didn't solve. They didn't know how to _think_ about AI. Principles tell you what to value. They don't tell a team where to start.
 
-So I wrote a thought piece myself and handed it to that organic group with an assignment. Turn this into a guidance kit product teams can actually use.
+So I wrote a thought piece and handed it to that organic group with an assignment. Turn this into a guidance kit product teams can actually use.
 
 The kit did what the guidelines couldn't. For each AI modality it defined the interaction paradigms and patterns — when, where, and how AI shows up for a user. How often. The content and visual patterns. And the feedback mechanisms that let a user's response refine the underlying model. Wherever it made sense, it lived as documented guidance and design system tokens, not as a memo.
 
@@ -84,31 +84,33 @@ I want to be precise about my role, because it's the pattern I'd point to. I wro
 
 Once V1 had proven the need and the appetite, I carved off a small horizontal AI team. Ten people. No new headcount.
 
-I picked them on two things. They were already early adopters of AI tools on their own, and they'd expressed real interest in working in that space. Appetite and aptitude were the available signal and they turned out to be the right ones. Deeper expertise came in when I brought over a design leader from our Evisort acquisition, which was AI-native.
+I picked them on two things. They were already early adopters of AI tools on their own, and they'd expressed real interest in working in that space. Appetite and aptitude were the available signal and they turned out to be the right ones. Their job was to keep the guidance current and drive adoption across the product teams.
 
-To get them, I went to the group GMs and we went through their roadmaps together. We deprioritized product improvement work we agreed AI was likely to displace anyway. And we agreed up front on what success looked like, and it wasn't design output. It was whether their teams shipped AI that was valuable, trustworthy, and cohesive. I wanted to be measured on their outcome, not mine.
+Before moving these resources to the horizontal team, I went to the group GMs and we aligned on which projects we could deprioritize in order to allocate resources to AI--we all agreed that a horizontal team focused on guidelines, paradigms, patterns made sense. And we agreed up front on what success looked like, and it wasn't design output. It was whether their teams shipped AI that was valuable, trustworthy, and cohesive. I wanted to be measured on their outcome, not mine.
 
-Their job was to keep the guidance current and drive adoption across the product teams.
+Jim Collins calls it firing bullets before cannonballs. Two people and a designer in 2023. A thought piece and a kit in 2024. Small, cheap, low-risk — until the pattern proved itself. Then the cannonball: a funded team in 2025.
 
-That's the sequence. Two people and a designer in 2023. A thought piece and a kit in 2024. A funded team in 2025, only after the thing had earned it. I never made a big bet. I made a small one, watched it work, then made it bigger.
+The way the central team related to the rest of the organization is an important part of this story. 
+
+The central team owned the guidelines, the guidance, the patterns, and the design system components. 
+
+That last one needed teeth. Guidance tells a team how to build well. It doesn't stop something bad from shipping. So we defined an AI experience checklist — a specific, agreed set of things an AI experience had to clear before it went to a customerand we got it written into definition of done, which meant clearing was a gate.
 
 ## 4 · Align
 
 ### Agent Factory
 
-> Product leadership made a move at the same time. They knew they didn't have the engineering and product talent to deliver AI at the speed we needed, so they stood up a team called Agent Factory. They put the founder and CEO of one of our AI acquisitions in charge and gave him headcount to hire engineers and product managers who had actually built AI before.
+> > Product leadership made a move at the same time. They knew they didn't have the engineering and product talent to deliver AI at the speed we needed, so they stood up a team called Agent Factory. They put the founder and CEO of one of our AI acquisitions in charge and gave him headcount to hire engineers and product managers who had actually built AI before.
 > 
-> Two centralized teams, both with a claim on every product team in the company. That's usually a turf war.
+> Two centralized teams, both with a claim on every product team in the company. That can result in a turf war. It went the other way.
 > 
-> It went the other way.
-> 
-> First meeting, he told me he'd heard from the head of financials and a few other leaders that mine was the most successful matrixed organization at Workday. Then he asked me how it was structured. **⟨Flat. Keep moving. It's why the conversation happened, not a compliment you're relaying.⟩**
+> First meeting, he told me he'd heard from the head of financials and a few other leaders that mine was the most successful matrixed organization at Workday. Then he asked me how it was structured. 
 > 
 > So I walked him through it. Central team owns the standard. Embedded leaders own adoption. Contribution model pushes what the teams learn back up.
 > 
-> He told me he was going to build Agent Factory the same way. He did. It became one of the stronger matrixed organizations at the company.
+> He told me he was going to build Agent Factory the same way. He did. That model allowed Agent Factory team to scale more effectively while simultaneously building better relationships with product teams and leveraging subject matter and domain expertise.
 > 
-> Then we settled the thing that would have caused the fight if we'd left it alone. Decision rights.
+> We also aligned on decision rights to ensure we avoided unnecessary conflict down the road. 
 > 
 > My organization held authority on experience quality. His held authority on data quality and how the agents were built and structured from an ML standpoint.
 > 
@@ -116,9 +118,9 @@ That's the sequence. Two people and a designer in 2023. A thought piece and a ki
 
 ### Bottom-up adoption
 
-> Adoption ran two ways.
+> With an org structure, an operating model, and alignment in place, executing the work became the job.
 > 
-> Bottom up was the operating model doing its job. My embedded directors knew their role. Know the central guidance and patterns, apply them, contribute back what the central team hadn't covered. And they were empowered and expected to hold the quality bar on AI experiences.
+> My embedded directors knew their role. Know the central guidance and patterns, apply them along with your domain expertise, contribute back what the central team hadn't covered. And they were empowered and expected to hold the quality bar on AI experiences.
 > 
 > That last part wasn't mine to grant alone. I'd aligned with Agent Factory and with the group GMs that design held authority on experience quality. So when one of my directors pushed back in a room, she wasn't offering an opinion. She was doing the job this company's leadership had agreed she would do.
 > 
@@ -162,14 +164,8 @@ That's the sequence. Two people and a designer in 2023. A thought piece and a ki
 > 
 > I picked the person in my organization who was best at telling the story of the work. Not the most senior. The one who could explain what to do, why, and how, and have a room believe him.
 > 
-> The two of us got ourselves invited to the business-level leadership meetings. Core HCM and financials. That wasn't a hard sell. The group GMs were glad to have us, because they understood we were bringing their organizations a gift.
-> 
-> Then we asked each GM to invite us to their own leadership meeting one level down. That's where it turned from information into a call to action.
-> 
-> I did not attend most of those. I delegated them to my head of design and to two or three principal designers I trained to deliver the presentation.
-> 
-> Three reasons I sent him instead of going myself. He was closer to the work than I was and could speak to it with more precision and more conviction than I could. He was looking for growth and stretch, and this was one I could hand him. And he'd earned it.
-
+> The two of us got ourselves invited to the business-level leadership meetings. Core HCM and financials. That wasn't a hard sell. The group GMs were glad to have us, because they understood we were bringing their organizations a gift. Three reasons I had the designer present instead  instead of me: He was closer to the work than I was and could speak to it with more precision and more conviction than I could. He was looking for growth and stretch, and this was one I could hand him. And he'd earned it.
+>
 ## 5 · Measurement
 
 > I want to back up, because none of this works without something we built years earlier.
@@ -190,41 +186,38 @@ That's the sequence. Two people and a designer in 2023. A thought piece and a ki
 > 
 > I didn't know that had happened. My director of analytics sent me a note telling me our CEO had just used our data on an earnings call.
 > 
-> That's the proudest I've been at Workday. When I joined, the company wasn't talking about product data at all. It couldn't. And the reason it could now was my vision, his strategy, and his team's execution. In that order, and none of the three works without the other two. **⟨Beat of silence. Don't explain what an earnings call means to this room.⟩**
+> That's the proudest I've been at Workday. When I joined, the company wasn't talking about product data at all. It couldn't. And the reason it could now was my vision, his strategy, and his team's execution. In that order, and none of the three works without the other two. 
 > 
 > The second is the one I'd want you to remember. When Workday decided to move to consumption-based pricing, there was a moment of _we have to go build the data system for this._ Then somebody realized it already existed. My organization had built it, for a completely different reason, years before anyone needed it for that.
 > 
-> A business model change didn't get delayed because a design organization had been measuring the right thing since 2022.
+> A business model change didn't get delayed because my organization had been measuring the right thing since 2022.
 > 
-> That's the argument I make when an executive asks me what design is worth. Not the artifact. What the artifact makes possible.
 
 ## 6 · The hard call
 
-> Back to the readiness rubric.
-> 
-> That was the bar. Evidence from user testing against a defined standard, design sign-off in definition of done, before an AI experience went to a customer.
-> 
-> It worked once. It didn't hold the second time.
-> 
-> First agent, first review. The rubric said not ready. I made the case to the President of Product and Technology and he held the release. We fixed it. When it shipped, usage rose 73% in three weeks, driven by improvements we could see because the measurement system was already running.
-> 
-> Same agent, next milestone. Still under the bar. My team had the evidence from user testing. Agent Factory was aligned with me. The head of product decided to ship anyway.
-> 
-> His reasoning was sound and I want to give it its full weight. We were behind. The market expected Workday to have an organic agent in the field and we didn't have one. And he was trying to change something real about our culture. Workday held things at a hundred percent before shipping. He wanted eighty percent and iterate. Speed of light was his mantra and he meant it.
-> 
-> What I said to him was that he was right, we do have to get more comfortable moving faster. We hadn't yet figured out what eighty percent actually is. This was the chance to define it, and I was glad we were going to do that together.
-> 
-> He shipped it. Adoption grew. Quality improved. It also had more quality issues than we'd anticipated and produced customer escalations we had to deal with.
-> 
-> Here's what I did after I lost.
-> 
-> First, I went to my team and recognized them. They'd held the line, they'd brought evidence, and they'd done it without damaging their relationship with Agent Factory. That mattered more to me than the outcome. If holding the bar costs you the room and your relationships, nobody holds it next time.
-> 
-> Then my leadership team and I sat down with Agent Factory and built the iteration plan, using the agent measurement framework as the improvement mechanism. Which is what it was built for.
-> 
-> Then I went to the head of engineering and we agreed on how the two of us would hold teams to improvement in tandem, so it wasn't design asking on its own.
-> 
-> By the time I left, that agent was green. More useful than that, the teams had gotten good at noticing when they'd slipped to yellow and fixing it fast.
+>Back to the AI experience checklist. The gate we'd agreed to and written into definition of done.
+
+It worked once. It didn't hold the second time.
+
+First agent, first review. The checklist said not ready. I made the case to the President of Product and Technology and he held the release. We team made some improvements, which we could see in our measurement dashboard with earl, usage rose 73% in three weeks, driven by improvements we could see because the measurement system was already running.
+
+Same agent, next milestone. Still under the bar. My team had the evidence from user testing. Agent Factory was aligned with me. The head of product decided to ship anyway.
+
+His reasoning was sound and I want to give it its full weight. We were behind. The market expected Workday to have an organic agent in the field and we didn't have one. And he was trying to change something real about our culture. Workday held things at a hundred percent before shipping. He wanted eighty percent and iterate. Speed of light was his mantra and he meant it.
+
+What I said to him was that he was right, we do have to get more comfortable moving faster. We hadn't yet figured out what eighty percent actually is. This was the chance to define it, and I was glad we were going to do that together.
+
+He shipped it. Adoption grew. Quality improved. It also had more quality issues than we'd anticipated and produced customer escalations we had to deal with.
+
+Here's what I did after I lost.
+
+First, I went to my team and recognized them. They'd held the line, they'd brought evidence, and they'd done it without damaging their relationship with Agent Factory. That mattered more to me than the outcome. If holding the bar costs you the room and your relationships, nobody holds it next time.
+
+Then my leadership team and I sat down with Agent Factory and built the iteration plan, using the agent measurement framework as the improvement mechanism. Which is what it was built for.
+
+Then I went to the head of engineering and we agreed on how the two of us would hold teams to improvement in tandem, so it wasn't design asking on its own.
+
+By the time I left, that agent was green. More useful than that, the teams had gotten good at noticing when they'd slipped to yellow and fixing it fast.
 
 ## 7 · Deliver
 
