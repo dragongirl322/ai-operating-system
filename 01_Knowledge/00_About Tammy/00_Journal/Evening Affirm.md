@@ -405,3 +405,12 @@ I got more details on the URI work. Trinh is saying one thing and Justin said th
 Today I’ve been playing little imaginary stories in my head about Workday which tells me I’m still in process of letting go. Probably because of posting on LinkedIn yesterday and seeing so many of my former Workmates responding. 
 
 I am proud of my ability to practically break down a situation and challenge and look for solutions from a first principles point of view. 
+
+## Thursday July 23
+
+It was a good day. I spent so many hours working on my Salesforce portfolio and I sort of enjoyed it. I’m finding it interesting to observe what energizes me and what doesn’t. My leaning today is to give over to the Salesforce opportunity should it pan out. The work with URI is OK and it does afford me a lot of freedom but it doesn’t excite me. I don’t actually feel respect for Justin..he’s nice enough but meh. Dalien is not someone I enjoy working with. It feels very elementary and haphazard. I adore Trinh and appreciate what she is trying to do and, at the same time, am reminded that she is so used to telling people what they want to hear that she isn’t trustworthy. 
+
+The one caveat with Salesforce is I have to get a strong signal that I can maintain clear boundaries and keep my family life and self care high. 
+
+I’m proud of me for giving a damn about doing excellent work. 
+
