@@ -38,7 +38,7 @@
 
 ## 1 · The claim
 
-> When Workday started its pivot to AI, I shifted some of my organization's capacity off improving products our customers were already using and onto making sure we could help teams build AI that delivered real value and that people would trust.
+> In September of 2024 at their Rising conference, Workday announced their AI strategy. This moment marked a shift from building generative and conversational AI toward planning for and building agents. The true pivot to Shortly after this announcement, I shifted some of my organization's capacity off improving products our customers were already using and onto making sure we could help teams build AI that delivered real value and that people would trust.
 > 
 > I made that decision before anyone asked me to. If I had been wrong, I'd have taken capacity away from live products for a bet that never paid off.
 
