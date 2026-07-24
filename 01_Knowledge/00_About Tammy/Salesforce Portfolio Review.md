@@ -28,7 +28,7 @@
 > 
 > I lead through trust, build for capability rather than dependence, and hold a hard line on clarity that's grounded in evidence — because that's what makes an organization better after I leave than it was when I arrived.
 > 
-> Most recently, Workday. I led a global, multidiscipline UX team of 300 across Workday's entire suite of products.
+> Most recently, Workday. I led a global, multidiscipline UX team of 300 across Workday's entire suite of products. For a bit of additional context that will help the stories I share make more sense, Workday has 3 primary businesses and a platform organization (show diagram). From the beginning of my leadership, my org worked in a centralized partnership where the majority of our designers and researchers were embedded with product pillars and a smaller percentage worked horizontally, e.g., design system and measurement. 
 > 
 > Two stories that show you how I show up as a leader.
 
@@ -38,17 +38,15 @@
 
 ## 1 · The claim
 
-> In September of 2024 at their Rising conference, Workday announced their AI strategy. This moment marked a shift from building generative and conversational AI toward planning for and building agents. The true pivot to Shortly after this announcement, I shifted some of my organization's capacity off improving products our customers were already using and onto making sure we could help teams build AI that delivered real value and that people would trust.
+> In September of 2024 at their Rising conference, Workday announced their AI strategy. This moment marked a shift from building generative and conversational AI toward planning for and building agents. The true pivot to agentic AI kicked off in early 2025. As part of this pivot, I shifted some of my organization's capacity off improving products our customers were already using and onto making sure we could help teams build AI that delivered real value and that people would trust.
 > 
 > I made that decision before anyone asked me to. If I had been wrong, I'd have taken capacity away from live products for a bet that never paid off.
 
 ## 2 · Diagnose
 
-> Nobody in the industry had much experience building this. Not at Workday, not anywhere. That was the backdrop.
+>  In conversations with product leadership, the group GMs and our CPO, I recognized two problems my team was well suited to help with.
 > 
-> In conversations with product leadership, the group GMs and our CPO, I recognized two problems my team was well suited to help with.
-> 
-> First, there was real concern about how to decide where AI would actually be valuable, and how to make sure we applied the right kind of AI to a given problem. Conversational, in context, autonomous. Those are different tools and they solve different things.
+> First, there was real concern about how to decide where agents would actually be valuable, and how to make sure we applied the right kind of AI to a given problem. Conversational, in context, autonomous. Those are different tools and they solve different things.
 > 
 > Second, our product teams had always worked at the feature level. That's how they scoped, staffed, and shipped. And there was general recognition among those leaders that agentic AI doesn't work that way. An agent has to understand the whole journey and what the user is actually trying to accomplish. A team that thinks in features can't build that.
 > 
