@@ -193,31 +193,6 @@ That last one needed teeth. Guidance tells a team how to build well. It doesn't 
 > A business model change didn't get delayed because my organization had been measuring the right thing since 2022.
 > 
 
-## 6 · The hard call
-
->Back to the AI experience checklist. The gate we'd agreed to and written into definition of done.
-
-It worked once. It didn't hold the second time.
-
-First agent, first review. The checklist said not ready. I made the case to the President of Product and Technology and he held the release. We team made some improvements, which we could see in our measurement dashboard with earl, usage rose 73% in three weeks, driven by improvements we could see because the measurement system was already running.
-
-Same agent, next milestone. Still under the bar. My team had the evidence from user testing. Agent Factory was aligned with me. The head of product decided to ship anyway.
-
-His reasoning was sound and I want to give it its full weight. We were behind. The market expected Workday to have an organic agent in the field and we didn't have one. And he was trying to change something real about our culture. Workday held things at a hundred percent before shipping. He wanted eighty percent and iterate. Speed of light was his mantra and he meant it.
-
-What I said to him was that he was right, we do have to get more comfortable moving faster. We hadn't yet figured out what eighty percent actually is. This was the chance to define it, and I was glad we were going to do that together.
-
-He shipped it. Adoption grew. Quality improved. It also had more quality issues than we'd anticipated and produced customer escalations we had to deal with.
-
-Here's what I did after I lost.
-
-First, I went to my team and recognized them. They'd held the line, they'd brought evidence, and they'd done it without damaging their relationship with Agent Factory. That mattered more to me than the outcome. If holding the bar costs you the room and your relationships, nobody holds it next time.
-
-Then my leadership team and I sat down with Agent Factory and built the iteration plan, using the agent measurement framework as the improvement mechanism. Which is what it was built for.
-
-Then I went to the head of engineering and we agreed on how the two of us would hold teams to improvement in tandem, so it wasn't design asking on its own.
-
-By the time I left, that agent was green. More useful than that, the teams had gotten good at noticing when they'd slipped to yellow and fixing it fast.
 
 ## 7 · Deliver
 
@@ -225,19 +200,18 @@ By the time I left, that agent was green. More useful than that, the teams had g
 > 
 > Twenty-plus agents by the time I left. Not all generally available, but every one in front of at least early adopters.
 > 
-> Every one built on the same guidelines, patterns, and design system components. All of them. No exceptions.
-> 
+> Every one built on the same guidelines, patterns, and design system components. 
 > Every one measured in the same framework.
 > 
-> Every one gated by the readiness rubric, written into definition of done.
+> Every one gated by the experience checklist, written into definition of done.
 > 
 > I reviewed almost none of them personally.
 > 
-> Delivery timelines came down roughly fifty percent.
+> Delivery timelines came down roughly fifty percent. Usage of had increased by ~73% across agents. Importantly, multi-turn conversations and return visits had also increased by over 50% across agents.
 > 
 > Our first organic agent, self-service across employee and manager tasks, shipped in three months. Historically that took over a year.
 > 
-> I want to be precise about why it was fast, because it wasn't me. It was alignment between my organization, Agent Factory, and the platform team, decision rights that were already settled, and a team that decided it was going to happen.
+> The reason it sent so fast is because of strong alignment between my organization, Agent Factory, and the platform team, decision rights that were already settled, and a group of people that were committed to make it happen.
 > 
 > My part was three things. Making sure my team understood that moving fast was the expectation, not a compromise. Making sure we had evidence fast enough to be useful, which meant research that returned in days. And holding the quality bar while both of those were true.
 > 
@@ -255,21 +229,18 @@ By the time I left, that agent was green. More useful than that, the teams had g
 > 
 > I had evidence. Research showed most customers weren't ready to adopt at the pace we were building. The agents being prioritized weren't likely to deliver value. And I was hearing privately from product leaders that their teams didn't have the skills to build what was being asked of them.
 > 
-> I raised it diplomatically. One concern at a time, in writing, over weeks. I waited for him to invite the bold assertion, and that invitation was never going to come.
+> I raised it diplomatically. One concern at a time, in writing, over weeks. I waited for him to invite the bold assertion, and that invitation never came.
 > 
-> I never asked for the room. I never traveled to make the meeting happen. I never walked in with the complete picture: the problem, the risk, a proposal, and the product leaders who trusted me but weren't going to say it themselves.
-> 
-> He couldn't make the case upward. He eventually left. The teams tried and failed to build agents they weren't ready to build. **⟨Stop at what was yours. Don't imply you could have saved him.⟩**
+> The gift of hindsight tells me it would have been worth traveling to his office, in Boulder, to have an in person meeting to share the complete picture: the problem, the risk, a proposal.
 > 
 > The answer isn't that I needed better evidence. I had the evidence.
 > 
 > I was holding back. I was so focused on being diplomatic that I didn't lead boldly in a moment that required it. I chose the version of myself that was easier to be in the room with.
 > 
-> What I know now is that at the top, the architecture of how you deliver a hard truth carries as much weight as the truth does. Fragmented communication signals peripheral concern. A complete, in-person case signals organizational urgency. The medium is part of the argument.
+> What I know now is that at the top, the architecture of how you deliver a hard truth carries as much weight as the truth does. Fragmented communication signals peripheral concern. A complete, in-person case signals organizational urgency.
 > 
-> Where I used that was the release hold I just described. I asked for the room. I went in with the complete picture: the rubric, the user research, my team's evidence, and Agent Factory aligned with me. I didn't send a note.
+> Where I used this lesson was in advocating for a release of our first organic agent to be held because it didn't hit our quality bar. I showed up in person. I went in with the complete picture: the rubric, the user research, my team's evidence, and Agent Factory aligned with me. 
 > 
-> He held the release.
 
 ---
 
@@ -297,7 +268,7 @@ By the time I left, that agent was green. More useful than that, the teams had g
 > 
 > No trust between design leadership and product and engineering leadership. No credibility. Reorgs and priority shifts had landed in a vacuum for years, so there was no reason to believe the next commitment would hold.
 > 
-> And no clear expectations. Nobody had built an environment where excellence, development, and quality were the standard, and people were being measured against a bar nobody had named.
+> And no clear expectations set within the design team. Nobody had built an environment where excellence, development, and quality were the standard, and people were being measured against a bar nobody had named.
 > 
 > Underneath all of it, a legacy technology stack that created real design constraints.
 > 
@@ -309,7 +280,7 @@ By the time I left, that agent was green. More useful than that, the teams had g
 > 
 > The quantifiable version came after. We ran employee sentiment weekly, and within two months of my taking the team it was up more than fifty percent. Some of that was relief. A change after a bad stretch produces a bump no matter who shows up.
 > 
-> But it held. Through layoffs. Through centralizing the teams. A dip, a fast rebound, then steady. A bump is relief. Holding it through a reduction in force is something else.
+> But it held. Through layoffs. Through centralizing the teams. A dip, a fast rebound, then steady. 
 
 ## 3 · Architect
 
@@ -319,25 +290,23 @@ By the time I left, that agent was green. More useful than that, the teams had g
 > 
 > What I told them was this. There are some things I'm not allowed to share, for a variety of reasons. If you ask me a question I can't answer, I'll be candid about that.
 > 
-> That matters more than it sounds. People can work with a door that's closed. What they can't work with is not knowing which doors are the closed ones.
-> 
-> **Then a clear strategy.** An org-wide strategy with objectives, delivered in my first 90 days, tied directly to what the company and the product organization were trying to do. `[See appendix for contents.]`
+> **Then a clear strategy.** An org-wide strategy with objectives, delivered in my first 90 days, tied directly to what the company and the product organization were trying to do. 
 > 
 > Every person could find themselves in it. I made the what and the why unmistakable. I did not tell them how. An organization that's been treated as hands doesn't become an organization of designers because you say so. It becomes one when you hand it a problem and get out of the way.
 > 
 > **Then cross-functional trust.** I had this already as the research leader, so this wasn't building from nothing. It was making sure every one of those leaders knew they'd get the same from me as a design leader, and more.
 > 
-> That one was a mechanism, not a posture. I was in the room when the group GMs set their OKRs and I gave input. They reviewed mine and gave input back. I wrote an engagement model so we could talk about resourcing during annual planning instead of as a series of emergencies. And when something needed to change mid-year, it changed by mutual agreement. Never unilaterally, in either direction.
+> That one was a mechanism, not a posture. I was in the room when the group GMs set their OKRs and I gave input. They reviewed mine and gave input back. I aligned with them on an engagement model so we could talk about resourcing and priorities as a matter of course rather than a series of emergencies. When something needed to change , it changed by mutual agreement. Never unilaterally, in either direction.
 > 
 > That last part is the whole thing. Every reorg and priority shift before me had been made in a vacuum. The fix wasn't a better decision. It was a standing agreement that no decision gets made that way again.
 > 
 > **Then expectations.** With our HR business partners I built new career frameworks, ten critical skills per discipline, promotion guidelines, and a calibration process.
 > 
-> I delegated the specifics to my discipline leaders. They defined what good looked like in their own craft and they owned it, because a standard handed down from me would have been one more thing happening to them.
+> I delegated the specifics to my discipline leaders. They defined what good looked like in their own practice and they owned it, because a standard handed down from me would have been one more thing happening to them.
 > 
 > **Then safety**, which could only happen once the other four were in place. People don't feel safe because you tell them they are. They feel safe when they know what's going on, know where they're headed, know what's expected, and watch you keep your word to people outside the room.
 > 
-> Then it's the human stuff. Office hours twice a week, fifteen minutes, any level, any topic. Knowing every name and every face. Being the boss who hugs or fist-bumps.
+> Then it's the human stuff. Regular 1:1s with my team. Quarterly town halls. Office hours twice a week, fifteen minutes, any level, any topic. Knowing every name and every face. Being the boss who hugs or fist-bumps.
 > 
 > One more thing that made all of it work. I showed up the same way every single time. Consistent, on brand, no version of me that changed depending on the room. My team and my partners knew what they were getting, always, and they knew my objective was for all of us to be successful. I never deviated from that.
 
