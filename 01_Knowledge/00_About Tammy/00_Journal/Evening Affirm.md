@@ -414,3 +414,10 @@ The one caveat with Salesforce is I have to get a strong signal that I can maint
 
 I’m proud of me for giving a damn about doing excellent work. 
 
+## Friday July 24
+
+I owe my Mom a phone call. I generally suck at keeping in touch with her. It has been that way most of my life. I’m sure much of it stems from her rage when I was a kid. I don’t think I’m bitter and, at the same time, I love her and don’t like her. It is strange. 
+
+It has been a good week. I have enjoyed time with family. I am 80% sure that a long term engagement with URI isn’t in my cards. I’m motivated by the Salesforce opportunity, clearly, because I’ve spent the better part of two days working on it. 
+
+I’m proud of a week well spent.
