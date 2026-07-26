@@ -3273,7 +3273,7 @@ Ability to put work aside after a full day
 A little bit of travel but not too much and not Willy nilly like it became at Workday
 Ability to take time off without feeling like I’ve fallen behind by weeks or months
 
-Saturday July 25
+## Saturday July 25
 
 My intention today is to get Tre’s upstairs cleaned, including getting the bins out of there and to the storage unit. It has needed to happen for so long and now I’ve done the work to clear organize the storage unit, there is room for it. 
 

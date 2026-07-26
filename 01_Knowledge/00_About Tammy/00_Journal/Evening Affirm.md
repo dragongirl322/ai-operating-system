@@ -421,3 +421,9 @@ I owe my Mom a phone call. I generally suck at keeping in touch with her. It has
 It has been a good week. I have enjoyed time with family. I am 80% sure that a long term engagement with URI isn’t in my cards. I’m motivated by the Salesforce opportunity, clearly, because I’ve spent the better part of two days working on it. 
 
 I’m proud of a week well spent.
+
+## Saturday July 25
+
+[Great day](). A bit of this, a bit of that. The weather is amazing. Aside from some gut issues, felt great all day. High energy. Motivated. 
+
+I am proud of how well I communicate. Clear, direct, intentional. 
