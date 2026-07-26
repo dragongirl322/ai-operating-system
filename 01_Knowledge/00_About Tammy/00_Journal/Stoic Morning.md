@@ -3280,3 +3280,13 @@ My intention today is to get Tre’s upstairs cleaned, including getting the bin
 I also intend to get more food for cooking at home. I don’t love cooking. I especially don’t like having to work around Tre’s challenges. But I can deal with it by grilling and eating my bigger meal for lunch, since I’m not in an office. My gut will thank me for giving it some low inflammatory foods for a while. 
 
 I’m grateful for my mind. I’m grateful for the beauty I see every day.
+
+# Sunday July 26
+
+Today on our walk there was this old dude out, walking with his cane and smoking his cig. Never seen him before. On the one hand he was a tad creeper but he was nice enough. Said good morning and Happy Sunday. Most people we walk by at least say hi or something but often in an uncommitted way. Others just ignore us. At least this guy was equally pleasant to us and yet still gave us both a bit of the creep factor. Strange, right?
+
+I’m in that strange flow obsession with the Salesforce portfolio. My brain and my body are gravitating that way. Tre isn’t super happy about it because he sees it as me possibly going back to meeting after meeting. So I have to stick to the non-negotiable of keeping the meetings light, if I get the job and take the job. 
+
+Today I am grateful to be awake and experiencing the partly cloudy, warm, breezy morning. 
+
+Nnnn
