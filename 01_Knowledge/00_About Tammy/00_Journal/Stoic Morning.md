@@ -3289,4 +3289,10 @@ I’m in that strange flow obsession with the Salesforce portfolio. My brain and
 
 Today I am grateful to be awake and experiencing the partly cloudy, warm, breezy morning. 
 
-Nnnn
+Monday July 27
+
+Hard to believe we are in the last week of July. Time goes so quickly. 
+
+I’m a bit cranky at the moment. I ended the day with Tre in a rumination cycle that started in the afternoon. I started the day with Dayna wanting to talk about and have a plan for Tre’s rumination cycles during our first walk. My brain and nervous system can’t start the day that way. I will set the boundary through clarity. It is a good topic but it can’t be how the day gets set. 
+
+Now to point myself forward. I have things for the store I’d like t o get done today, including getting Tre to order important inventory. This will be an opportunity to establish with him that in order to be profitable, he has to be consistent or let me do it. I have a portfolio review to get prepared for. I’m into that which is a good signal.
