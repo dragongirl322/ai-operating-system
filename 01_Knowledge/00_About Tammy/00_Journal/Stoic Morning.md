@@ -3296,3 +3296,9 @@ Hard to believe we are in the last week of July. Time goes so quickly.
 I’m a bit cranky at the moment. I ended the day with Tre in a rumination cycle that started in the afternoon. I started the day with Dayna wanting to talk about and have a plan for Tre’s rumination cycles during our first walk. My brain and nervous system can’t start the day that way. I will set the boundary through clarity. It is a good topic but it can’t be how the day gets set. 
 
 Now to point myself forward. I have things for the store I’d like t o get done today, including getting Tre to order important inventory. This will be an opportunity to establish with him that in order to be profitable, he has to be consistent or let me do it. I have a portfolio review to get prepared for. I’m into that which is a good signal.
+
+## Tuesday July 28
+
+Today is the day I would typically go to URI. I’m not feeling it. I am into getting my portfolio done for Salesforce. I am dealing with some gut issues. And it is a beautiful day that warrants some time in the sun. So I’ll stay here and get a few things done for the Eval work—but still holding back because I’m not giving my IP away for free. If I don’t have legit details on equity by this time next week, I’ll work out terms for consulting with Trinh and forego the idea of equity. That will be my fallback. 
+
+I’m grateful that I can think critically. I’m so grateful for the time I have right now. It is OK to sit back, wait for what works. I’ve seen a couple of jobs that raise my eyebrows but the only one worth pursuing at the moment is Salesforce—reputable company, good terms. 
