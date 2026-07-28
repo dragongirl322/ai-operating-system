@@ -3289,7 +3289,7 @@ I’m in that strange flow obsession with the Salesforce portfolio. My brain and
 
 Today I am grateful to be awake and experiencing the partly cloudy, warm, breezy morning. 
 
-Monday July 27
+## Monday July 27
 
 Hard to believe we are in the last week of July. Time goes so quickly. 
 

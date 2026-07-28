@@ -427,3 +427,11 @@ I’m proud of a week well spent.
 [Great day](). A bit of this, a bit of that. The weather is amazing. Aside from some gut issues, felt great all day. High energy. Motivated. 
 
 I am proud of how well I communicate. Clear, direct, intentional. 
+
+## Monday July 27
+
+Today is the first time since leaving Workday that I had a moment of thinking it wouldn’t be horrible not to go back to work. I enjoy the time being spent how I choose. That said, I’m going for it with Salesforce and will seriously consider an offer if one comes. I do enjoy the challenge and the stimulation of my intellect. 
+
+My gut has been horrible the last week or so. Too much gluten exposure, I suspect. I need to tame the beast. 
+
+I am proud that I’m sort of tired of talking about being proud of me….LOL
