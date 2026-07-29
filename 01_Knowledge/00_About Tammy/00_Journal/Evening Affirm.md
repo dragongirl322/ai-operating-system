@@ -435,3 +435,9 @@ Today is the first time since leaving Workday that I had a moment of thinking it
 My gut has been horrible the last week or so. Too much gluten exposure, I suspect. I need to tame the beast. 
 
 I am proud that I’m sort of tired of talking about being proud of me….LOL
+
+## Tuesday July 28
+
+I realized the other day that I’ve spent a lot of time with a sense that I have to prove something. It hit me this evening that it is likely born from having competed in the boy’s leagues when I was younger. I was the girl mixing it up with them and I had to constantly be proving I was as capable as they were. Then carry that to a career where I dropped out of college and I led folks with advanced degrees. Then I became a design leader as a researcher by trade. It has served me but it is exhausting. And I wonder if it stopped serving me a long time ago. Maybe I would have accomplished more if I just got over that much earlier. Now that I’m aware, that is some good work to do. 
+
+I’m proud of me for introspection. 
