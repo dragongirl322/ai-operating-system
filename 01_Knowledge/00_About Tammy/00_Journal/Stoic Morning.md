@@ -3303,10 +3303,10 @@ Today is the day I would typically go to URI. I’m not feeling it. I am into ge
 
 I’m grateful that I can think critically. I’m so grateful for the time I have right now. It is OK to sit back, wait for what works. I’ve seen a couple of jobs that raise my eyebrows but the only one worth pursuing at the moment is Salesforce—reputable company, good terms. 
 
-Wednesday July 29
+## Wednesday July 29
 
 Today is my creative / writing day. I’ve got Jason’s book concept to work on and need to flesh out some depth on the 9 skills book. My thinking with that one is. To focus on how leaders foster those 9 skills with emphasis on the five that absolutely must be at play. I think there is something there for the leadership skill that makes it all possible. 
 
 Motivated this morning. 
 
-I’m grateful for sleep and re
+I’m grateful for sleep and rejuvenation. It is so good. 

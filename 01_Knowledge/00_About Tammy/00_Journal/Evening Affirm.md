@@ -441,3 +441,11 @@ I am proud that I’m sort of tired of talking about being proud of me….LOL
 I realized the other day that I’ve spent a lot of time with a sense that I have to prove something. It hit me this evening that it is likely born from having competed in the boy’s leagues when I was younger. I was the girl mixing it up with them and I had to constantly be proving I was as capable as they were. Then carry that to a career where I dropped out of college and I led folks with advanced degrees. Then I became a design leader as a researcher by trade. It has served me but it is exhausting. And I wonder if it stopped serving me a long time ago. Maybe I would have accomplished more if I just got over that much earlier. Now that I’m aware, that is some good work to do. 
 
 I’m proud of me for introspection. 
+
+Wednesday July 29
+
+The month flying by, again. I keep thinking about how to create a new mental model that I don’t actually have to work if I don’t want to. Because I want to be sure that whatever I did next feels right to me. That seems like a good thing to do. My intuition tells me I do want to resume my career or I wouldn’t be as invested in the Salesforce process as I am. I’m also certain that URI isn’t going to work. I don’t trust that I’m getting info I need. 
+
+Beat a dead horse, right :) 
+
+I’m proud that I have maintained getting out for a walk first thing in the morning for over a year now. It is habit. 
