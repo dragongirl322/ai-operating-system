@@ -3310,3 +3310,11 @@ Today is my creative / writing day. I’ve got Jason’s book concept to work on
 Motivated this morning. 
 
 I’m grateful for sleep and rejuvenation. It is so good. 
+
+## Thursday July 30
+
+I’m finding that I am very slow in the morning. Not that I mind. I can go whatever speed I want to, really. It is a luxury. 
+
+Today my priority is to prep for portfolio review with Salesforce tomorrow. The deck is ready and the narrative needs slight tweaks and timing check. 
+
+I am going to allow the rest of the day to flow as it will. I’d like to start writing articles soon. Focused on leadership as a craft that deserves the attention we often fail to give it. 

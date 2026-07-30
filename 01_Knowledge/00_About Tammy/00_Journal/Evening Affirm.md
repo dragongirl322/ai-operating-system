@@ -442,7 +442,7 @@ I realized the other day that I’ve spent a lot of time with a sense that I hav
 
 I’m proud of me for introspection. 
 
-Wednesday July 29
+## Wednesday July 29
 
 The month flying by, again. I keep thinking about how to create a new mental model that I don’t actually have to work if I don’t want to. Because I want to be sure that whatever I did next feels right to me. That seems like a good thing to do. My intuition tells me I do want to resume my career or I wouldn’t be as invested in the Salesforce process as I am. I’m also certain that URI isn’t going to work. I don’t trust that I’m getting info I need. 
 
