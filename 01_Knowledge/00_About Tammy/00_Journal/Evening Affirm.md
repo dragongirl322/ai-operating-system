@@ -449,3 +449,12 @@ The month flying by, again. I keep thinking about how to create a new mental mod
 Beat a dead horse, right :) 
 
 I’m proud that I have maintained getting out for a walk first thing in the morning for over a year now. It is habit. 
+
+
+## Thursday July 30
+I’m thinking there is something significant with two ideas:
+
+1. Wisdom and leadership
+2. Building a LEAP like benchmarking product
+
+I’m proud of me for thinking outside the box; now for follow through
