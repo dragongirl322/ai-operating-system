@@ -3318,3 +3318,11 @@ I’m finding that I am very slow in the morning. Not that I mind. I can go what
 Today my priority is to prep for portfolio review with Salesforce tomorrow. The deck is ready and the narrative needs slight tweaks and timing check. 
 
 I am going to allow the rest of the day to flow as it will. I’d like to start writing articles soon. Focused on leadership as a craft that deserves the attention we often fail to give it. 
+
+Friday July 31
+
+Last day of the month. There is no time o waste energy or attention on things that simply don’t matter. Momento Mori is telling me that feeling stress about what comes next in terms of me finding purpose isn’t worth it. We’ve made the money that sets us up. I get to choose. Stressing and fretting over things that have not happened and may not happen is pointless. 
+
+This morning is a portfolio review with Salesforce. I am ready. Instead of feeling like the people watching want to eat me or find fault with me, I’m going to go into this with teh spirit of generosity I like to have. I’m sharing a bit of me. I am safe and regardless of what they think, I have accomplished so much. The opinion others hold about me are not my business.
+
+I am grateful for the opportunity. 
