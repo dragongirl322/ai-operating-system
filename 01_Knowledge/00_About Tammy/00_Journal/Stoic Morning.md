@@ -3334,3 +3334,11 @@ It is a good day for a bit of cloud cover and a breeze. It is still warm. I like
 It is a good day to get things done around the house. That is my goal today along with reading and connections with my family.
 
 I’m grateful for a warm, comfortable, safe life
+
+Sunday August 2
+
+Today I have one real task and that is to call my mother. I’ve put it off for two weeks for fuck sake. Some things never change. 
+
+I went to sleep last night remembering that exchange with Joel and Caleb and Joel being so terrified to tell me they were booting me off the boat. I hated that moment, even though I knew it was coming. And yet I wake up this morning so GD grateful for it. I knew I had to leave because my values don’t align w/ the bro club narcissistic bullshit. All the same, it is hard to be pushed away from work I loved. It is good I let myself feel what I need to feel rather than stuff it deep to fester. 
+
+It is funny how I still love the weekend, even when not working. It just feels different. Sunday, in particular, just feels like it gets to be low key. 
