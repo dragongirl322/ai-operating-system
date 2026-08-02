@@ -464,3 +464,8 @@ I’m proud of me for thinking outside the box; now for follow through
 The day, the week, the month come to an end tonight. It has been a good July. The most free July I’ve had since I left Meta and took time off before starting at Workday. It has been a good month, a good week, and a good day. 
 
 I am proud of me for learning to enjoy the freedom. 
+
+## Saturday August 1
+
+I have been able to spend the past 4 or so weeks considering a variety of things I can do to keep myself busy, find purpose, and make money. I was feeling a bit angsty about it until tonight. The reality is that I’m privileged to have this opportunity. I’ve not been in a place to be able to do this since I was Tre’s age and living with my parents. And I’m honestly enjoying it. I don’t always feel accomplished at the end of the day but I’m exploring and learning and finding things out about myself and the world I live in. I made the mistake of stepping into this time thinking I have to stay disciplined and push myself and have a map and follow the map. Not true. The exploration is allowing me to gravitate to where I derive energy. 
+
