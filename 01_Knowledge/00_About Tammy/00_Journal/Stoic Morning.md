@@ -3335,10 +3335,20 @@ It is a good day to get things done around the house. That is my goal today alon
 
 I’m grateful for a warm, comfortable, safe life
 
-Sunday August 2
+## Sunday August 2
 
 Today I have one real task and that is to call my mother. I’ve put it off for two weeks for fuck sake. Some things never change. 
 
 I went to sleep last night remembering that exchange with Joel and Caleb and Joel being so terrified to tell me they were booting me off the boat. I hated that moment, even though I knew it was coming. And yet I wake up this morning so GD grateful for it. I knew I had to leave because my values don’t align w/ the bro club narcissistic bullshit. All the same, it is hard to be pushed away from work I loved. It is good I let myself feel what I need to feel rather than stuff it deep to fester. 
 
 It is funny how I still love the weekend, even when not working. It just feels different. Sunday, in particular, just feels like it gets to be low key. 
+
+## Monday August 3
+
+It frequently hits me that fixes we can apply to even simple things in tech make a big difference. I’ve seen it for several years, given what I have done for a living. I experienced it myself, right here in Obsidian. I was always having to scroll down this long doc and it is a pain in the ass. I asked perplexity for a fix and it pointed me to a community plugin that opens the page where i left off. It makes it easy to come here and write. 
+
+I am grateful for a week where I have one clear thing to accomplish—a fireside chat with Trinh at their first “connect” event. I need to spend time preparing, which I will do this afternoon and tomorrow; I’m mostly ready.
+
+Today is TNT music day. I’m determined to get our inventory entered in Shopify, get the hardware ordered and prepare ourselves to be up and running on the new system by next week.
+
+Being 

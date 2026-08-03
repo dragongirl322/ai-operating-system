@@ -469,3 +469,8 @@ I am proud of me for learning to enjoy the freedom.
 
 I have been able to spend the past 4 or so weeks considering a variety of things I can do to keep myself busy, find purpose, and make money. I was feeling a bit angsty about it until tonight. The reality is that I’m privileged to have this opportunity. I’ve not been in a place to be able to do this since I was Tre’s age and living with my parents. And I’m honestly enjoying it. I don’t always feel accomplished at the end of the day but I’m exploring and learning and finding things out about myself and the world I live in. I made the mistake of stepping into this time thinking I have to stay disciplined and push myself and have a map and follow the map. Not true. The exploration is allowing me to gravitate to where I derive energy. 
 
+## Sunday August 2
+
+I’m bugged at myself for not calling my mom today. It was the one thing I said I had to do and it just totally escaped me until tonight. I did, however, have a decently good day.
+
+I feel myself wanting to fall into that trap of creating arbitrary deadlines for myself. It makes no sense to do that. As long as I continue to make progress toward self improvement, learning, building, loving, I go my speed. 
