@@ -3352,3 +3352,11 @@ I am grateful for a week where I have one clear thing to accomplish—a fireside
 Today is TNT music day. I’m determined to get our inventory entered in Shopify, get the hardware ordered and prepare ourselves to be up and running on the new system by next week.
 
 Being alive and vital in 2026 is a great thing. 
+
+## Monday August 4
+
+I read a great article about the idea of emergence in one’s career vs. having a long term plan. Interestingly, as much as I enjoyed my time at Workday and overall allowed things to emerge, particularly because the demands of the team and the environment made that easy, I realize that I was much more focused on finding ways to advance myself and that created a sense of underlying insecurity and “performing” that I haven’t typically had. Fuck that shit. 
+
+and now I have the freedom of knowing that, in the big scheme, I don’t have to go back to work. I can chase the things that bring me joy and that are helpful to people around me…my wife, my son, my friends, my colleagues, my neighbors. 
+
+I’m grateful for little nuggets of wisdom like this that come when needed. 
