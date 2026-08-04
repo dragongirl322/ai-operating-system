@@ -474,3 +474,11 @@ I have been able to spend the past 4 or so weeks considering a variety of things
 I’m bugged at myself for not calling my mom today. It was the one thing I said I had to do and it just totally escaped me until tonight. I did, however, have a decently good day.
 
 I feel myself wanting to fall into that trap of creating arbitrary deadlines for myself. It makes no sense to do that. As long as I continue to make progress toward self improvement, learning, building, loving, I go my speed. 
+
+## Monday August 3
+
+I made a wee dent in getting our inventory over to Shopify today…it is going to take a bit more. It was a good day. 
+
+I am moving on to next steps with Salesforce, in spite of learning that they just hired someone who was at Expedia Group right after I left, and fired, to be chief experience officer. I have no doubt I can do the job as well as her but she is a good talk the talker. I feel less motivated now, for sure, but if I like the guys I’d be working with and the offer is strong, I will consider it. 
+
+I am proud of how I’m able to get Tre to do things he doesn’t want to do without being a nag or being too forceful. 

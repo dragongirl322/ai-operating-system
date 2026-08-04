@@ -3351,4 +3351,4 @@ I am grateful for a week where I have one clear thing to accomplish—a fireside
 
 Today is TNT music day. I’m determined to get our inventory entered in Shopify, get the hardware ordered and prepare ourselves to be up and running on the new system by next week.
 
-Being 
+Being alive and vital in 2026 is a great thing. 
