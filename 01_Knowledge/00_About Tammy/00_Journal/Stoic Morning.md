@@ -3353,7 +3353,7 @@ Today is TNT music day. I’m determined to get our inventory entered in Shopify
 
 Being alive and vital in 2026 is a great thing. 
 
-## Monday August 4
+## Tuesday August 4
 
 I read a great article about the idea of emergence in one’s career vs. having a long term plan. Interestingly, as much as I enjoyed my time at Workday and overall allowed things to emerge, particularly because the demands of the team and the environment made that easy, I realize that I was much more focused on finding ways to advance myself and that created a sense of underlying insecurity and “performing” that I haven’t typically had. Fuck that shit. 
 
@@ -3361,4 +3361,19 @@ and now I have the freedom of knowing that, in the big scheme, I don’t have to
 
 I’m grateful for little nuggets of wisdom like this that come when needed. 
 
-T
+## Wednesday August 5
+
+I just re-read Aman’s “SOUL” for accepting a job. It affirms to me that in terms of growth, the opportunity to work with Trinh is not the thing. It is teh thing if I’m willing to start the roll to retirement with a bit of safety net. 
+
+I have an appointment this morning to go renew my DL…not happy about it as it speeds up the day on me. That said, good to get it done. 
+
+URI connect event this afternoon. Trinh and I doing a fireside chat talking about the 9 skills this era demands. Let’s see if I remember them all :) 
+
+1. AI literacy
+2. Change management
+3. XFN influence
+4. Craft
+5. Systems thinking
+6. Product and business acumen
+7. Problem framing
+8. 
