@@ -1,3 +1,5 @@
+conceptual summary: 
+
 First person written in Jason's voice. Start here:
 
 **My name is Jason, I was born in 1971 in Brunswick, Ohio.**
