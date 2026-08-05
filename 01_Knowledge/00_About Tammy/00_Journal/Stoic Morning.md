@@ -3360,3 +3360,5 @@ I read a great article about the idea of emergence in one’s career vs. having 
 and now I have the freedom of knowing that, in the big scheme, I don’t have to go back to work. I can chase the things that bring me joy and that are helpful to people around me…my wife, my son, my friends, my colleagues, my neighbors. 
 
 I’m grateful for little nuggets of wisdom like this that come when needed. 
+
+T
