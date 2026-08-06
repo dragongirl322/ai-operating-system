@@ -3381,4 +3381,10 @@ URI connect event this afternoon. Trinh and I doing a fireside chat talking abou
 
 Ha!!! I do
 
-Thur
+## Thursday August 6
+
+The URI connect event was fun and good for me. It reminds me that I am a solid story teller. People want to listen to me. They want to follow me. They feel safe when they hear me speak. 
+
+I had a great impromptu meal with Nafisa and Trinh. My conversation with Nafisa, who got to a point of professional drain and stress that she collapsed, has particularly intrigued with the notion of leaning hard into supporting leaders, particularly female leaders, through this transformative period. I don’t know what it looks like but wonder if it is helping people design their leadership journey.
+
+We’ll see. I love that I get to swim in the ambiguity and sit with thoughts and ideas. 
