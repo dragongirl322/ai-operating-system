@@ -3380,3 +3380,5 @@ URI connect event this afternoon. Trinh and I doing a fireside chat talking abou
 9. Storytelling
 
 Ha!!! I do
+
+Thur
