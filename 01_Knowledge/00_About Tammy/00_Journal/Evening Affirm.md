@@ -482,3 +482,7 @@ I made a wee dent in getting our inventory over to Shopify today…it is going t
 I am moving on to next steps with Salesforce, in spite of learning that they just hired someone who was at Expedia Group right after I left, and fired, to be chief experience officer. I have no doubt I can do the job as well as her but she is a good talk the talker. I feel less motivated now, for sure, but if I like the guys I’d be working with and the offer is strong, I will consider it. 
 
 I am proud of how I’m able to get Tre to do things he doesn’t want to do without being a nag or being too forceful. 
+
+## Wednesday August 5
+
+The URI connect event went well. Very small, intimate group. The best thing was getting to see people who reported to me way back when I was just starting as a people leader. Trinh, Nafisa and I went for dinner after. Those two were my small little team for a bit of time in the early 2000’s. It felt good to share stories and to see it resonate with the small group. I keep feeling there is something there with human connection and stories to keep playing with. 

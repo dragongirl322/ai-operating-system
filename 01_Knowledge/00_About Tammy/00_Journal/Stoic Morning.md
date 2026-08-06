@@ -3376,4 +3376,7 @@ URI connect event this afternoon. Trinh and I doing a fireside chat talking abou
 5. Systems thinking
 6. Product and business acumen
 7. Problem framing
-8. 
+8. Data literacy
+9. Storytelling
+
+Ha!!! I do
