@@ -486,3 +486,9 @@ I am proud of how I’m able to get Tre to do things he doesn’t want to do wit
 ## Wednesday August 5
 
 The URI connect event went well. Very small, intimate group. The best thing was getting to see people who reported to me way back when I was just starting as a people leader. Trinh, Nafisa and I went for dinner after. Those two were my small little team for a bit of time in the early 2000’s. It felt good to share stories and to see it resonate with the small group. I keep feeling there is something there with human connection and stories to keep playing with. 
+
+## **Thursday August 6**
+
+I believe that using AI to help me write strategic or framework docs is actually slowing me down. It writes things in such a strange yet sort of compelling but not at all like me way that I find I’m spending so much time reworking what I could have just written the way I wanted in half the time. 
+
+I am going to experiment a bit 
