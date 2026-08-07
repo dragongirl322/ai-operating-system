@@ -3388,3 +3388,9 @@ The URI connect event was fun and good for me. It reminds me that I am a solid s
 I had a great impromptu meal with Nafisa and Trinh. My conversation with Nafisa, who got to a point of professional drain and stress that she collapsed, has particularly intrigued with the notion of leaning hard into supporting leaders, particularly female leaders, through this transformative period. I don’t know what it looks like but wonder if it is helping people design their leadership journey.
 
 We’ll see. I love that I get to swim in the ambiguity and sit with thoughts and ideas. 
+
+## Friday August 7
+
+It has been a stimulating and diverse week for me. I’m looking forward to finishing strong with a diverse day. I have something to wrap for URI implementation services. I want to get inventory in Shopify—I’m maybe half way done. I’d like to spend some time on the Jason book today since Wednesday ended up being a URI day. 
+
+I’m grateful for a beautiful day and a life that allows me to enjoy the beautiful day.

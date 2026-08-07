@@ -491,4 +491,4 @@ The URI connect event went well. Very small, intimate group. The best thing was 
 
 I believe that using AI to help me write strategic or framework docs is actually slowing me down. It writes things in such a strange yet sort of compelling but not at all like me way that I find I’m spending so much time reworking what I could have just written the way I wanted in half the time. 
 
-I am going to experiment a bit 
+I am going to experiment a bit with this. 
