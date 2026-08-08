@@ -3394,3 +3394,7 @@ We’ll see. I love that I get to swim in the ambiguity and sit with thoughts an
 It has been a stimulating and diverse week for me. I’m looking forward to finishing strong with a diverse day. I have something to wrap for URI implementation services. I want to get inventory in Shopify—I’m maybe half way done. I’d like to spend some time on the Jason book today since Wednesday ended up being a URI day. 
 
 I’m grateful for a beautiful day and a life that allows me to enjoy the beautiful day.
+
+## Saturday August 8
+
+Time marches on, as it likes to do. I’m embracing it as much as I know how to. I see old people lately and realize that I’m just around the corner from old. It must be so strange to feel vital in your brain and realize that your body no longer allows for vitality. There was an old guy in front of us at the pharmacy yesterday. He needed some medicine for his wife but it seemed the pharmaceutical company decided it could no longer offer refills without a doctor asking. The poor guy kept his cool and the gal helping him actually did help him. It was interesting. What is more interesting is my reaction to it, internally. I would like to find a way to embrace that aspect of aging. 

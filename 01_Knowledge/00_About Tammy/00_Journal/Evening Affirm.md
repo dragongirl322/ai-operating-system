@@ -493,6 +493,6 @@ I believe that using AI to help me write strategic or framework docs is actually
 
 I am going to experiment a bit with this. 
 
-Friday August 7
+## Friday August 7
 
 tonight I just feel a deep sense of peace and gratitude. It has been a good week. I love my family, my friends, my colleagues. I know life isn’t always easy and accept that. But for right now, it feels good.
