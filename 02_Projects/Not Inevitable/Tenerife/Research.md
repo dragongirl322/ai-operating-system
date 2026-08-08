@@ -8,6 +8,10 @@ FAA / NTSB copy of official Spanish report: https://www.faa.gov/sites/faa.gov/fi
 Wikipedia: https://en.wikipedia.org/wiki/Jacob_Veldhuyzen_van_Zanten
 
 Medium article *# Apocalypse on the Runway: Revisiting the Tenerife Airport Disaster* by Admiral Cloudbird: https://admiralcloudberg.medium.com/apocalypse-on-the-runway-revisiting-the-tenerife-airport-disaster-1c8148cb8c1b
+
+# Events
+Up in the air, the crews of the Pan Am and KLM 747s received the unwelcome news that their destination airport was closed until further notice. All traffic, they were told, would be diverted to the neighboring island of Tenerife. The Pan Am crew protested, explaining that they had enough fuel to hold over Gran Canaria for several hours, but without any clear timeline for reopening the airport, the controller could not grant their request. Everyone would have to land on Tenerife, then make their way to Gran Canaria once the coast was clear — without exception. The airport was not unaccustomed to international traffic, but it usually served smaller jets operating for private low-cost and holiday-focused airlines from Europe, and generally in small numbers. It certainly was not built to accommodate Boeing 747s; it had no radar, no runway visibility measuring system, and no taxiway markings; and the centerline lights were out of service. To make matters worse, today was Sunday, and the control tower was short-staffed.[^1]
+
 # Pilots
 ## KLM
 **Jacob Louis "Jaap" Veldhuyzen van Zanten** (5 February 1927 – 27 March 1977)
@@ -23,3 +27,5 @@ And adds that: 
 
 # The Canary Islands
 Far to the southwest of Portugal, in the glistening subtropical waters off the coast of Morocco, lie the Canary Islands. A string of seven volcanic summits rising from the Atlantic, the Canaries have been a part of metropolitan Spain since the fifteenth century. Ever since the advent of air travel, their towering mountains, sun-blessed beaches, and active volcanoes have made the Canary Islands one of Europe’s top tourist destinations, a favorite among off-season travelers looking for a slice of summer during less pleasant times of year.
+
+[^1]: Medium Article referenced in Sources
