@@ -6,6 +6,8 @@ Official Spanish report, part 1: https://web.archive.org/web/20200608015805/http
 FAA / NTSB copy of official Spanish report: https://www.faa.gov/sites/faa.gov/files/2022-11/Spanish_AccReport.pdf
 
 Wikipedia: https://en.wikipedia.org/wiki/Jacob_Veldhuyzen_van_Zanten
+
+Medium article *# Apocalypse on the Runway: Revisiting the Tenerife Airport Disaster* by Admiral Cloudbird: https://admiralcloudberg.medium.com/apocalypse-on-the-runway-revisiting-the-tenerife-airport-disaster-1c8148cb8c1b
 # Pilots
 ## KLM
 **Jacob Louis "Jaap" Veldhuyzen van Zanten** (5 February 1927 – 27 March 1977)
@@ -17,3 +19,7 @@ Jan Bartelski, a KLM captain until 1978 and later president of the [Internation
 And adds that: 
 
 > He believed in partnership, to the extent that he insisted on his first officers addressing him during flight as "Jaap" and not "Captain Van Zanten".[[3]](https://en.wikipedia.org/wiki/Jacob_Veldhuyzen_van_Zanten#cite_note-book-3)
+
+
+# The Canary Islands
+Far to the southwest of Portugal, in the glistening subtropical waters off the coast of Morocco, lie the Canary Islands. A string of seven volcanic summits rising from the Atlantic, the Canaries have been a part of metropolitan Spain since the fifteenth century. Ever since the advent of air travel, their towering mountains, sun-blessed beaches, and active volcanoes have made the Canary Islands one of Europe’s top tourist destinations, a favorite among off-season travelers looking for a slice of summer during less pleasant times of year.
