@@ -13,10 +13,16 @@ Nova *The Final Eight Minutes*: https://www.pbs.org/wgbh/nova/planecrash/minutes
 
 NBC News clip shared by Pan Am Museum Foundation Youtube channel: https://www.youtube.com/watch?v=OIABxn0t-h8
 
+Aircraft Incident Report from Airline Pilots Association: https://skybrary.aero/sites/default/files/bookshelf/35.pdf
+
 # Events
 Pan American flight 1736 departed Los Angeles International Airport at 1729 local time  (129 in Tenerife) on March 26, 1977 with 16 crew and 380 passengers (total 396), aboard a Boeing 747. It landed in New York at JFK at 0117 local time to refuel and change crew. This was after just over 5 hours of travel. It departed JFK at 0242. One hour and eighteen minutes later, KLM flight 4805 departed Schiphol airport in Amsterdam. This was 900 am local time (800 in Tenerife) on March 27, 1977 with with 14 crew and 234 passengers (total 248) aboard a Boeing 747.  At this point, the Pan Am flight has been in route to for 6.5 hours. Both flights were bound for Gran Canaria in the Canary Islands, Spain. 
 
-Unbeknownst to the crews and travelers, in Gran Canaria an activist group had detonated a bomb in the airport (more details here). At x time, while both flights were in route, the crews of the Pan Am and KLM 747s received the unwelcome news that their destination airport was closed until further notice. All traffic, they were told, would be diverted to the neighboring island of Tenerife. 
+Unbeknownst to the crews and travelers, in Gran Canaria gerrorist group had detonated a bomb in the airport (more details here). At x time, while both flights were in route, the crews of the Pan Am and KLM 747s received the unwelcome news that their destination airport was closed until further notice. All traffic, they were told, would be diverted to Los Radios Airport on the neighboring island of Tenerife. The pilot of the Pan American flight, Captain Victor Grubb, asked if they could continue to circle Gran Canaria until all clear given and was told they had to go land at Los Radios 
+
+Planes lined up in holding area for runway 12 with KLM being closest to the runway. 
+
+There were two individuals working Air Traffic Control: the ground controller and the approach controller. The ground c
 
 All 248 on KLM fatal; 9 crew, 317 passengers PA fatal with 
 The Pan Am crew protested, explaining that they had enough fuel to hold over Gran Canaria for several hours, but without any clear timeline for reopening the airport, the controller could not grant their request. Everyone would have to land on Tenerife, then make their way to Gran Canaria once the coast was clear — without exception. The airport was not unaccustomed to international traffic, but it usually served smaller jets operating for private low-cost and holiday-focused airlines from Europe, and generally in small numbers. It certainly was not built to accommodate Boeing 747s; it had no radar, no runway visibility measuring system, and no taxiway markings; and the centerline lights were out of service. To make matters worse, today was Sunday, and the control tower was short-staffed.  Flying in a nose high position with its tail about two meters off the ground, KLM flight 4805 slammed broadside into Pan Am flight 1736 at a speed of 260 kilometers per hour. The four engines, landing gear, and rear fuselage tore through the right side of the Pan Am jet in a dozen places simultaneously. Engines, pieces of fuselage, and burning jet fuel flew in every direction. The KLM’s number four engine sliced off the Pan Am’s fully occupied upper deck and hurled it down the runway, instantly killing everyone inside. In the main cabin, the roof opened up to reveal a sky of blazing orange.[^1]
@@ -30,6 +36,8 @@ The Spanish Accident Board found that the fundamental cause of this accident was
 4. In reply to the flight engineer's query as to whether the Pan Am airplane had already left the runway, replied emphatically in the affirmative.
 
 # Pilots
+## PA
+
 ## KLM
 **Jacob Louis "Jaap" Veldhuyzen van Zanten** (5 February 1927 – 27 March 1977)
 
@@ -40,6 +48,14 @@ Jan Bartelski, a KLM captain until 1978 and later president of the [Internation
 And adds that: 
 
 > He believed in partnership, to the extent that he insisted on his first officers addressing him during flight as "Jaap" and not "Captain Van Zanten".[[3]](https://en.wikipedia.org/wiki/Jacob_Veldhuyzen_van_Zanten#cite_note-book-3)
+
+Had done a lot of his flying while instructing which are shorter flights that regular runs; some say may have been a factor.
+
+**Flight Engineer**
+Willem Schreuder, 54. Had Flight engineer license for 27 years, private pilot license for 4 years. 543 hours on 747. Not in favor of integrating functions of pilot and co-pilot into his role. Was known to be very positive and not shy about expressing his opinions.
+
+# Air Traffic Controllers
+
 
 
 # The Canary Islands
