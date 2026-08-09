@@ -76,6 +76,7 @@ KLM the new duty time requirements and concerns they would be further delayed
 PA tired, annoyed they had to wait for KLM to refuel--in a hurry
 ATC the bombing, the amount of traffic; a lot of pauses during conversation with both airlines
 Some concerns that Capt VZ's work as trainer could have effected how he responded to ATC regulations. In training, trainer is the controller and they don't use common ATC procedures. 
-PA had been told to take the 3rd turn to the left which is C-3. Two problems with this: 1)the airport didn't use signs for the taxiway turns; 2)the third turn on the left required two 148 degree turns but the width of the taxiway wouldn't accommodate that for a 747; C-4 would. Rather than cause further confusion, the PA crew opted to go with their plan to go to C-4. Interestingly, investigation shows that the PA would have been passing C-3 at the point in time when the papa beacon clearnace was being issued to the KLM so they may not have been paying attention to teh truns.
-
+PA had been told to take the 3rd turn to the left which is C-3. Two problems with this: 1)the airport didn't use signs for the taxiway turns; 2)the third turn on the left required two 148 degree turns but the width of the taxiway wouldn't accommodate that for a 747; C-4 would. Rather than cause further confusion, the PA crew opted to go with their plan to go to C-4. Interestingly, investigation shows that the PA would have been passing C-3 at the point in time when the papa beacon clearance was being issued to the KLM so they may not have been paying attention to the turns.
+Human factors involved 4 times that could have added to outcome:
+1. When controller said "Okay" when KLM said "we're at takeoff" or "we're taking off"--then paused; Dutch crew maybe never heard 
 [^2]: See NBC news in sources
