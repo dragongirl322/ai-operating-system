@@ -3398,3 +3398,9 @@ I’m grateful for a beautiful day and a life that allows me to enjoy the beauti
 ## Saturday August 8
 
 Time marches on, as it likes to do. I’m embracing it as much as I know how to. I see old people lately and realize that I’m just around the corner from old. It must be so strange to feel vital in your brain and realize that your body no longer allows for vitality. There was an old guy in front of us at the pharmacy yesterday. He needed some medicine for his wife but it seemed the pharmaceutical company decided it could no longer offer refills without a doctor asking. The poor guy kept his cool and the gal helping him actually did help him. It was interesting. What is more interesting is my reaction to it, internally. I would like to find a way to embrace that aspect of aging. 
+
+## Sunday August 9
+
+I am loving watching girls little league softball World Series all week. I would have loved being able to play at this level as a kid. How cool that we’ve reached the point we have.
+
+I’m grateful for a simple, straightforward, comfortable life. 
