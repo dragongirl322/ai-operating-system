@@ -24,6 +24,8 @@ Planes lined up in holding area for runway 12 with KLM being closest to the runw
 
 There were two individuals working Air Traffic Control: the ground controller and the approach controller. The ground controller directed PA taxi while approach controller issued KLM. The accent of the ground controller was such that the PA crew couldn't understand the taxi instructions issued and only cleared them up when talking to the approach controller. 
 
+When the KLM had completed the 180 degree turn at the end of the runway, the fog had lifted (they turned off their windshield wipers which had been going the previous two minutes). The next cloud was 900 meters away coming toward the aircraft at about 12 knots. 
+
 All 248 on KLM fatal; 9 crew, 317 passengers PA fatal with 
 The Pan Am crew protested, explaining that they had enough fuel to hold over Gran Canaria for several hours, but without any clear timeline for reopening the airport, the controller could not grant their request. Everyone would have to land on Tenerife, then make their way to Gran Canaria once the coast was clear — without exception. The airport was not unaccustomed to international traffic, but it usually served smaller jets operating for private low-cost and holiday-focused airlines from Europe, and generally in small numbers. It certainly was not built to accommodate Boeing 747s; it had no radar, no runway visibility measuring system, and no taxiway markings; and the centerline lights were out of service. To make matters worse, today was Sunday, and the control tower was short-staffed.  Flying in a nose high position with its tail about two meters off the ground, KLM flight 4805 slammed broadside into Pan Am flight 1736 at a speed of 260 kilometers per hour. The four engines, landing gear, and rear fuselage tore through the right side of the Pan Am jet in a dozen places simultaneously. Engines, pieces of fuselage, and burning jet fuel flew in every direction. The KLM’s number four engine sliced off the Pan Am’s fully occupied upper deck and hurled it down the runway, instantly killing everyone inside. In the main cabin, the roof opened up to reveal a sky of blazing orange.[^1]
 
@@ -69,5 +71,11 @@ In December of 1976, the Dutch government created new duty time rules. Prior to 
 Visibility both before and during the accident was variable. While runway visibility was reported to be 2 to 3 kilometers 17 minutes prior to the accident, visibility reduced to just 300 meters 12 minutes later. Just after the accident, visibility had improved to one kilometer.
 Tenerife airport is accustomed to many international flights but almost always smaller aircraft; not setup for 747. There was also a lot of congestion because all flights had been diverted to Tenerife. 
 Language differences played a role. KLM Dutch, PA English, ATC Spanish.
+All three groups experiencing stress:
+KLM the new duty time requirements and concerns they would be further delayed
+PA tired, annoyed they had to wait for KLM to refuel--in a hurry
+ATC the bombing, the amount of traffic; a lot of pauses during conversation with both airlines
+Some concerns that Capt VZ's work as trainer could have effected how he responded to ATC regulations. In training, trainer is the controller and they don't use common ATC procedures. 
+PA had been told to take the 3rd turn to the left which is C-3. Two problems with this: 1)the airport didn't use signs for the taxiway turns; 2)the third turn on the left required two 148 degree turns but the width of the taxiway wouldn't accommodate that for a 747; C-4 would. Rather than cause further confusion, the PA crew opted to go with their plan to go to C-4. Interestingly, investigation shows that the PA would have been passing C-3 at the point in time when the papa beacon clearnace was being issued to the KLM so they may not have been paying attention to teh truns.
 
 [^2]: See NBC news in sources
