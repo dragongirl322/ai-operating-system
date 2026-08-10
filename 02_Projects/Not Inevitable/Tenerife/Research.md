@@ -24,6 +24,18 @@ Los Rodeos is a single runway, single parallel taxiway. No ground radar. Had to 
 
 Planes lined up in holding area for runway 12 with KLM being closest to the runway. when Gran Canaria opened, PA was ready to depart but access to runway was blocked by the KLM plane; the first officer and flight engineer got out of the plane and paced it off and discovered there was no way to get by. (the written commentary in the Skybrary human factors report is really good; maybe reuse?)
 
+Cockpit recording:
+
+1705:41.5 KLM 2 Wait a minute, we don't have an ATC clearance.
+
+KLM 1 No, I know that. Go ahead, ask.
+
+1705:44.6 KLM RT Uh, the KLM 4805 is now ready for takeoff and we're waiting for our ATC clearance.
+
+1705:53.4 APP KLM 8705 [sic] uh you are cleared to the Papa beacon. Climb to and maintain flight level 90 ... right turn after takeoff proceed with heading 040 until intercepting the 325 radial from Las Palmas VOR.
+
+1706:09.6 KLM RT Ah, roger, sir, we're cleared to the Papa beacon flight level 90, right turn out 040 until intercepting the 325, and we're now (at takeoff).
+
 Flight to Las Palmas (Gran Canaria) about 25 minutes.
 
 There were two individuals working Air Traffic Control: the ground controller and the approach controller. The ground controller directed PA taxi while approach controller issued KLM. The accent of the ground controller was such that the PA crew couldn't understand the taxi instructions issued and only cleared them up when talking to the approach controller. 
