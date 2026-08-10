@@ -3404,3 +3404,11 @@ Time marches on, as it likes to do. I’m embracing it as much as I know how to.
 I am loving watching girls little league softball World Series all week. I would have loved being able to play at this level as a kid. How cool that we’ve reached the point we have.
 
 I’m grateful for a simple, straightforward, comfortable life. 
+
+Monday August 10
+
+It is a PNW morning with a fairly thick marine layer. Pleasant. Today is TNT day. One big goal = get inventory fixed in Shopify. 
+
+I’m full in on building out a podcast. It is great brain work, if nothing else, and it is helping me learn things. 
+
+Grateful for low pressure mornings. 
