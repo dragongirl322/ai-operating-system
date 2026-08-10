@@ -496,3 +496,6 @@ I am going to experiment a bit with this.
 ## Friday August 7
 
 tonight I just feel a deep sense of peace and gratitude. It has been a good week. I love my family, my friends, my colleagues. I know life isn’t always easy and accept that. But for right now, it feels good.
+
+## Sunday August 9
+For the first time since leaving Workday I find myself on Sunday night wishing I were going to work tomorrow. I am craving the routine and the regimen and I miss Mel and the team. It will pass, just something I’m feeling tonight. 
