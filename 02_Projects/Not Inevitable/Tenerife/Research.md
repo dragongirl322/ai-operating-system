@@ -36,6 +36,8 @@ KLM 1 No, I know that. Go ahead, ask.
 
 1706:09.6 KLM RT Ah, roger, sir, we're cleared to the Papa beacon flight level 90, right turn out 040 until intercepting the 325, and we're now (at takeoff).
 
+"There he is ... look at him! Goddamn, that [expletive deleted] is coming!" and his copilot yells "Get off! Get off! Get off!" The Pan Am pilot guns the engines but it's too late. At 1706:47.44, the KLM pilot screams, and the collision occurs.
+
 Flight to Las Palmas (Gran Canaria) about 25 minutes.
 
 There were two individuals working Air Traffic Control: the ground controller and the approach controller. The ground controller directed PA taxi while approach controller issued KLM. The accent of the ground controller was such that the PA crew couldn't understand the taxi instructions issued and only cleared them up when talking to the approach controller. 
