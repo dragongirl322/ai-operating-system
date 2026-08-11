@@ -499,3 +499,11 @@ tonight I just feel a deep sense of peace and gratitude. It has been a good week
 
 ## Sunday August 9
 For the first time since leaving Workday I find myself on Sunday night wishing I were going to work tomorrow. I am craving the routine and the regimen and I miss Mel and the team. It will pass, just something I’m feeling tonight. 
+
+## Monday August 10
+
+So many hours entering inventory today. It is monotonous and brainless work but necessary. It will be nice to dive in to intellectual pursuits tomorrow.
+
+I was thinking about Mel today and what a lovely and wonderful woman she is. She texted tonight. She is looking for work. I’d love to hire her, if given the chance. 
+
+Time to rest. 
