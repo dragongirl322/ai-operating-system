@@ -3405,10 +3405,14 @@ I am loving watching girls little league softball World Series all week. I would
 
 I’m grateful for a simple, straightforward, comfortable life. 
 
-Monday August 10
+## Monday August 10
 
 It is a PNW morning with a fairly thick marine layer. Pleasant. Today is TNT day. One big goal = get inventory fixed in Shopify. 
 
 I’m full in on building out a podcast. It is great brain work, if nothing else, and it is helping me learn things. 
 
 Grateful for low pressure mornings. 
+
+## Tuesday August 11
+
+Today I am grateful that I got to work with so many amazing women in my career. They have persevered and pushed and proven over and over and over again. I wish our collective were able to acquire more power in the tech industry. For some reason, we don’t mobilize and operate that way. Also, in order to have the power, more of us need to be invited into the conversations; doesn’t happen because we logically choose people like us and men are drawn to like them which is men. 
