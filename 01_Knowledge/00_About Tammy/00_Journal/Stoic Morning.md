@@ -3418,3 +3418,9 @@ Grateful for low pressure mornings.
 Today I am grateful that I got to work with so many amazing women in my career. They have persevered and pushed and proven over and over and over again. I wish our collective were able to acquire more power in the tech industry. For some reason, we don’t mobilize and operate that way. Also, in order to have the power, more of us need to be invited into the conversations; doesn’t happen because we logically choose people like us and men are drawn to like them which is men. 
 
 All of that said, I love what I have met so many.
+
+Wednesday August 12
+
+I’m officially starting to see the bottleneck I create for myself by splitting my focus across 4+ projects. I’m not going to change it just yet. The only reason I would is if one of them required more in order to solidify our financial comfort. For now, the creative and intellectual freedom is fun. I find that I’m currently most drawn to the podcast research but it is the newest so let’s see. The biggest energy drain is the work with / for URI, which is a signal. It feels like a chore at the moment and I’m not sure entirely why. 
+
+I am grateful for the beauty of summe
