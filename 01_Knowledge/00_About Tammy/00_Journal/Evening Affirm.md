@@ -507,3 +507,7 @@ So many hours entering inventory today. It is monotonous and brainless work but 
 I was thinking about Mel today and what a lovely and wonderful woman she is. She texted tonight. She is looking for work. I’d love to hire her, if given the chance. 
 
 Time to rest. 
+
+## Tuesday August 11
+
+I caught up with Julie Lauzon, one of the best researchers I have worked with. She was on my team at Expedia. She’s been retired for just under a year. It was really nice to laugh, talk and get caught up. I love knowing that I’m not alone in the mental model shift of being financially OK — she struggles with it too. It is also so nice to see her just out enjoying her life. 

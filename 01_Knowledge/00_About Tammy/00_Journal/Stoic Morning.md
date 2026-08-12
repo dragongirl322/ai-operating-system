@@ -3416,3 +3416,5 @@ Grateful for low pressure mornings.
 ## Tuesday August 11
 
 Today I am grateful that I got to work with so many amazing women in my career. They have persevered and pushed and proven over and over and over again. I wish our collective were able to acquire more power in the tech industry. For some reason, we don’t mobilize and operate that way. Also, in order to have the power, more of us need to be invited into the conversations; doesn’t happen because we logically choose people like us and men are drawn to like them which is men. 
+
+All of that said, I love what I have met so many.
