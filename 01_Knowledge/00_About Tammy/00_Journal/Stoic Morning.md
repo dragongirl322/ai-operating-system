@@ -3431,8 +3431,16 @@ Today I am grateful that I got to work with so many amazing women in my career. 
 
 All of that said, I love what I have met so many.
 
-Wednesday August 12
+## Wednesday August 12
 
 I’m officially starting to see the bottleneck I create for myself by splitting my focus across 4+ projects. I’m not going to change it just yet. The only reason I would is if one of them required more in order to solidify our financial comfort. For now, the creative and intellectual freedom is fun. I find that I’m currently most drawn to the podcast research but it is the newest so let’s see. The biggest energy drain is the work with / for URI, which is a signal. It feels like a chore at the moment and I’m not sure entirely why. 
 
-I am grateful for the beauty of summe
+I am grateful for the beauty of summer
+
+## Thursday August 13
+
+Having options is a beautiful and wonderful thing. It is also a thing that creates a bit of ADD in me. I’m working on being OK with the fact that I spend a week dabbling in multiple places. It is a mental model shift. 
+
+I keep coming back to two things:
+1. A lot of people in tech, particularly in design, are suffering right now. It is a tough go in corporate America and I have something to offer here. There is a dearth of compassionate, sane leadership. 
+2. Tre doesn’t want to lose me to corporate again. If I take a role in corporate, my boundaries must be solid. I won’t give 100% of me to that again. It would be primarily due to two things: There is something there for me to build and solidify and it provides that last bump for financial stability for Tre’s entire life. 
