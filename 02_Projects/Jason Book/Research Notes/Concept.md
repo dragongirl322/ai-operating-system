@@ -19,3 +19,7 @@ His girlfriend and an engaged social worker help challenge the shape of his stor
 The strongest version of the concept is not "Did he kill her?" but "What did he see that night that his mind could not let him know?" The external mystery gives the novel momentum. The trauma story gives it gravity. By the end, remembering is not just a way to solve the case. It becomes an act of rescue, justice, and self-reclamation. It is the one thing that keeps him from doing what he thought he would do for a long time--take his own life.
 
 **
+
+## Related
+
+- [[02_Projects/Jason Book/Research Notes/Theme.md]]

@@ -1,9 +1,24 @@
 {
   "id": "conv-1786590731282-h7e76tcb8",
   "providerId": "claude",
-  "title": "Read the concept and give me some options of what ...",
-  "titleGenerationStatus": "pending",
+  "title": "Generate book theme options",
+  "titleGenerationStatus": "success",
   "createdAt": 1786590731282,
-  "updatedAt": 1786590731286,
-  "sessionId": null
+  "updatedAt": 1786591311190,
+  "lastResponseAt": 1786591311190,
+  "sessionId": "2a4ce8c7-3cf7-45d4-9c59-2cedf3917bd2",
+  "providerState": {
+    "providerSessionId": "2a4ce8c7-3cf7-45d4-9c59-2cedf3917bd2"
+  },
+  "currentNote": "02_Projects/Jason Book/Research Notes/Concept.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 564,
+    "cacheReadInputTokens": 20016,
+    "contextWindow": 1000000,
+    "contextTokens": 20582,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
 }
