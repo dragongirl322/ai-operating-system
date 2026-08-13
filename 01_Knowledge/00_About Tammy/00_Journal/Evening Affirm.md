@@ -511,3 +511,7 @@ Time to rest.
 ## Tuesday August 11
 
 I caught up with Julie Lauzon, one of the best researchers I have worked with. She was on my team at Expedia. She’s been retired for just under a year. It was really nice to laugh, talk and get caught up. I love knowing that I’m not alone in the mental model shift of being financially OK — she struggles with it too. It is also so nice to see her just out enjoying her life. 
+
+## Wednesday August 12
+
+It has been a day of variety, exploring diverse topics. Writing, meetings, time in the sun. I enjoyed it. I heard from Justin Pante. He said things are rough. He is worried about Mel. I am as well but I’m keeping in touch with her and trust she knows how much I care and also that she is strong. It is a tough time for people. Lot’s of suffering in the world. 
