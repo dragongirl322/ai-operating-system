@@ -515,3 +515,7 @@ I caught up with Julie Lauzon, one of the best researchers I have worked with. S
 ## Wednesday August 12
 
 It has been a day of variety, exploring diverse topics. Writing, meetings, time in the sun. I enjoyed it. I heard from Justin Pante. He said things are rough. He is worried about Mel. I am as well but I’m keeping in touch with her and trust she knows how much I care and also that she is strong. It is a tough time for people. Lot’s of suffering in the world. 
+
+## Thursday August 13
+
+Every now and then I’ll have these glimpses of how wonderful and miraculous I am (as is every living being) and the reality that I occupy a rare discursive space sits with me. I am intent on finding a way to use myself as a vessel for goodness and light. I don’t know how, exactly, it manifests beyond what I already do but I am continuing to explore. 

@@ -332,24 +332,24 @@ The risk is taking rooms that want your clarity but not your people work. You wo
 
 ### Thought Leadership Roadmap
 
-| Channel                  | Direction                                                                                                                                                                      |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Monthly / bi-monthly** | LinkedIn essays. Your position on the human side of AI adoption, organizational change, and the business value of evidence. Positions, not advice columns.                     |
-| **Speaking**             | Rooms where technology decisions meet human consequences. Not pure design conferences. You are there to translate, not to preach to the choir.                                 |
-| **The book**             | Your turnaround experience, the strong-to-superb method, and the case for building human conditions as a business driver. A business publisher, not a design publisher.        |
-| **Mentorship**           | Formalize a small number of relationships each year. Helping one person find their value, worth, and voice is not a side activity. It is the closest thing to the whole point. |
+| Channel                  | Direction                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Monthly / bi-monthly** | Essays making the case for the seat between the C-suite and the team, at the exact moment AI-driven restructuring is making that seat harder to hold than it's been in years. This is about what AI-driven disruption is doing to the people trying to lead through it, and what it takes to hold that line. Backed by evidence: manager engagement and burnout data, what happens to teams when the buffer fails. Positions, not advice columns. |
+| **Speaking**             | Rooms built for the people holding the seat between the C-suite and their teams: leadership offsites, people-strategy and HR conferences, internal leadership summits. Not AI conferences, not design conferences. You're not there to translate technology to a room — you're there to name what AI-driven disruption is doing to the humans caught in the middle, and what it takes to hold that line.                                          |
+| **The book**             | The skills nine skills leaders need to build in the people they lead right now, and the case that those skills get built through clarity and support, not fear and demand. Not a methodology book — a book for the leader in the middle: how to hold your team to a real standard without leading by threat.                                                                                                                                      |
+| **Mentorship**           | Formalize a small number of relationships each year. Helping one person find their value, worth, and voice is not a side activity. It is the closest thing to the whole point.                                                                                                                                                                                                                                                                    |
 
 ### Professional Narrative Arc
 
 The story you tell about yourself should follow this arc consistently:
 
-| Stage           | Narrative                                                                                                                                            |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Origin**      | Research as foundation. You have always seen the human on the other side of the work more clearly than the work itself.                              |
-| **Development** | Leading distressed and complex organizations through clarity, trust-building, and accountability.                                                    |
-| **Proof point** | The Workday Research turnaround. Tangible, verifiable, referenceable.                                                                                |
-| **Thesis**      | Technology should make people more capable. Building the conditions for that is the work, and it is organizational work more than it is design work. |
-| **Forward**     | Building the method, and the evidence behind it, for organizations that want AI to amplify their people rather than route around them.               |
+| Stage           | Narrative                                                                                                                                                                                   |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Origin**      | Research as foundation. You have always seen the human on the other side of the work more clearly than the work itself.                                                                     |
+| **Development** | Leading distressed and complex organizations through clarity, trust-building, and accountability.                                                                                           |
+| **Proof point** | The Workday Research turnaround. Tangible, verifiable, referenceable.                                                                                                                       |
+| **Thesis**      | Technology should make people more capable. Building the conditions for that is the work, and it is organizational work more than it is design work.                                        |
+| **Forward**     | The evidence-based case for the leaders holding their teams together while AI reshapes the ground under everyone — absorbing the disruption so the people who report to them don't have to. |
 
 ## 07 · Quick Reference
 
