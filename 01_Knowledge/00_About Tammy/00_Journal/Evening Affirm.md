@@ -519,3 +519,7 @@ It has been a day of variety, exploring diverse topics. Writing, meetings, time 
 ## Thursday August 13
 
 Every now and then I’ll have these glimpses of how wonderful and miraculous I am (as is every living being) and the reality that I occupy a rare discursive space sits with me. I am intent on finding a way to use myself as a vessel for goodness and light. I don’t know how, exactly, it manifests beyond what I already do but I am continuing to explore. 
+
+## Saturday August 15
+
+I did a bit of a computer detox today, spent most of the day off of my computer and my devices aside from an occasional scroll through the socials. It was nice and needed. I am so grateful for this time I have right now. I definitely feel discomfort in not having a solid plan while simultaneously enjoying the exploration. What an adventure this fucking life is! 
