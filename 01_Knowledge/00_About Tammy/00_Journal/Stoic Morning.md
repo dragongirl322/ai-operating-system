@@ -3449,3 +3449,9 @@ I keep coming back to two things:
 ## Friday August 14
 
 One thing I have kept up with very well in the weeks since leaving Workday is making sure I connect with someone at least once a week. It is good for me. Today I am connecting with Mark Churchill who I met in the Taipei airport on the way to Singapore. I saw he had an Expedia tag on his bag and struck up conversation with him and we became friends. He is now a CEO of a production company and we’ve been trying to connect for a while. I am also meeting up with Michelle BS, who I hired as Sr. Director of research. We’re doing the underground tour and grabbing lunch. The funny thing is that I know it is good for me and part of me looks forward to it and another part wouldn’t’ be disappointed if they cancelled…LOL. 
+
+## Sunday August 16
+
+I’m walking in a bit of self doubt this morning. Likely stemming from conversation with Michelle on Friday as it pulled me back to thinking about my last bit at Workday. It isn’t productive or helpful and I know not to ruminate. 
+
+Today I have life things to take care of and reading I’d like to continue from yesterday. I am coming to realize that I was very likely hitting early stage burnout and am definitely benefitting from the break. It is OK for me to let this thing take as long as it needs to. 
