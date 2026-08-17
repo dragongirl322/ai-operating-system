@@ -3455,3 +3455,7 @@ One thing I have kept up with very well in the weeks since leaving Workday is ma
 I’m walking in a bit of self doubt this morning. Likely stemming from conversation with Michelle on Friday as it pulled me back to thinking about my last bit at Workday. It isn’t productive or helpful and I know not to ruminate. 
 
 Today I have life things to take care of and reading I’d like to continue from yesterday. I am coming to realize that I was very likely hitting early stage burnout and am definitely benefitting from the break. It is OK for me to let this thing take as long as it needs to. 
+
+## Monday August 17
+
+I am feeling the mood of the PNW today. A layer of marine fog sitting over us. It is cool but not cold. I watched a video of me talking to Dayna last night and oh my god, I am so much like my dad. My initial, gut response is “ick” because there was something about his detached intelligence that was such a turn off to me. I’m sitting with it and two things are standing out. First, what I interpreted as arrogance was likely just his way of communicating with clarity. Second, he was highly respected and regarded by the people he led in the church I grew up in. They loved his compassion and his clarity. Much like how I’m perceived. It is strange to both hate and love something. It is important to embrace this about me because to continue to hate it is to undermine myself. 
