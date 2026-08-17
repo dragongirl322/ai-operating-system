@@ -10,500 +10,158 @@ aliases:
   - TNT Music Brand Guide
   - TNT AI Instructions
 ---
-
-# TNT Music AI Brand Guidelines
-
-Use this note whenever AI is creating copy, documents, web pages, signage, ads, emails, social posts, presentations, or other files for **TNT Music**.
-
-> [!summary] Brand in one line
-> TNT Music is Edmonds’ modern vinyl shop: fresh, curated, music-savvy, independent, and cool without trying too hard.
-
+---
+name: tnt-music-brand-strategy
+description: "TNT Music's brand strategy — target audience, brand essence, personality, messaging pillars, and visual style guide for Tam's Edmonds, WA vinyl record shop. Use this skill whenever working on TNT Music strategy-level decisions: defining or referencing the target audience, evaluating whether a campaign idea or business decision fits the brand, writing taglines or slogans, planning content calendars, or making visual/style-guide choices (colors, fonts). Also consult this before using the tnt-music-writing-guide skill, since that skill covers day-to-day copywriting while this one covers the underlying strategy it's built on."
 ---
 
-## Brand Snapshot
+# TNT Music — Brand Strategy
 
-TNT Music is a fresh, modern take on the vinyl record shopping experience. The vibe is a little bougie without being pretentious, cool without being cold, and welcoming without trying too hard.
+VERSION 2.0 · AUGUST 2026
 
-Think: **a head nod, not a hug**.
+TNT Music is a fresh, modern take on the vinyl record shopping experience in Edmonds, WA — a hint of bougie without feeling pretentious. The cool, independent alternative to big-box stores: light, inviting, warm without being overbearing. More of a casual head nod than a full embrace. Stepping in should feel like entering a space where music comes alive — the kind of place that makes people want to take their time, browse, explore, and keep coming back.
 
-TNT is the cooler independent alternative to big-box music retail. The store should feel bright, modern, warm, and easy to hang out in. It is built around discovery, good sound, and great taste.
+The business exists to complement what makes Edmonds great — enhancing the community through a curated music selection, in-store events, listening stations, and social gatherings.
 
----
+## Target Audience
 
-## Core Brand Idea
+We can't chase every vinyl buyer equally. This ranks who we build our voice, our floor plan, and our marketing calendar around, based on Edmonds demographics and current vinyl-buying trends.
 
-**Purpose:** Make great music feel alive again for Edmonds and its visitors by curating new vinyl and inviting people to experience it together.
+### 1. Millennial Vinyl Lovers (Primary)
 
-**Promise:** Every visit spins up discovery, expertise, and a laid-back “you-belong-here” vibe.
+The person who needs to physically touch the music they love — the record, the album cover, the liner notes. Vinyl isn't just a format for them; it's a tactile ritual and, often, a thread back to their parents' record collection. Nostalgia is part of the pull, but the need to hold something real is the bigger one.
 
-**Main slogan:** Spinnin’ Your Groove.
+- **Age:** 30–45 (core millennial band)
+- **Where:** Edmonds and greater Snohomish / North King County
+- **Income:** Edmonds households led by someone 25–44 report a median household income of $146,901 — well above what's needed to shop full-price, curated new pressings rather than bargain bins
+- **What they want:** expertise and curation over volume, a shop with taste that saves them the digging, records worth keeping and eventually passing down
 
-**Short positioning line:** Fresh vinyl. Curated vibes. Small store, big sound.
+Write to this person first. Everyone else fits around them.
 
----
+### 2. Weekend Explorers (Secondary)
 
-## Audience
+Day-trippers and younger visitors drawn to Edmonds' waterfront, ferry traffic, and art scene, who treat an independent record shop as a social destination worth the stop.
 
-Write for a mix of:
+- **Age:** 25–40
+- **Where:** Seattle metro and beyond, visiting via ferry, day trip, or art walk
+- **Role:** lower per-visit spend than our primary customer, but they drive foot traffic, social buzz, and event turnout — our bridge to the national, youth-driven vinyl growth story
 
-- Vinyl collectors who know what they like
-- Newer vinyl fans who want help without being talked down to
-- Edmonds locals who want to support a neighborhood shop
-- Visitors and tourists looking for something cooler than a generic gift
-- Gift shoppers who want an easy, tasteful music-related find
+### 3. Gift Shoppers
 
-> [!important]
-> Do not write like the audience is only hardcore record collectors. Keep it accessible, but do not dumb it down.
+Locals and visitors looking for a personal, non-generic gift. Vinyl and music merchandise have become popular gift items, and this audience overlaps with both segments above, especially around holidays and Record Store Day.
 
----
+## Brand Essence
+
+- **Purpose:** Make great music feel alive again for Edmonds and its visitors by curating new vinyl and inviting people to experience it together.
+- **Promise:** Every visit spins up discovery, expertise, and a laid-back "you-belong-here" vibe.
+- **Core Audience:** Millennial vinyl lovers who need to touch their music, plus the weekend explorers and gift-seekers who round out Edmonds' foot traffic.
+- **Main Slogan:** Spinnin' Your Groove.
+- **Brand Tagline:** TNT Music — carefully curated vinyl for the person who still wants to hold the music they love, because some songs deserve more than a stream.
+
+Use the tagline as the anchor line anywhere we say who we are and who we're for (About pages, hang tags, email signatures, intro copy). "Spinnin' Your Groove" stays the energetic top-line slogan for headlines and campaign use.
 
 ## Brand Personality
 
-TNT Music should feel:
+**Single-word traits:** Modern · Confident · Welcoming · Savvy
 
-- **Modern:** Clean, current, fresh, not nostalgic in a dusty way
-- **Confident:** Clear point of view, not timid or overly apologetic
-- **Welcoming:** Friendly and helpful, without being cheesy
-- **Savvy:** Knows music, culture, and what is worth checking out
-- **Curated:** Taste-led, thoughtful, not random
-- **Young-ish and independent:** Slightly edgy, relaxed, and current
+**Archetype:** The Tastemaker — curates culture and sparks discovery without gatekeeping.
 
-**Brand archetype:** The Tastemaker
+## Tone-of-Voice Guidelines
 
-TNT curates culture and sparks discovery without gatekeeping.
+- Talk like a music-savvy friend: concise, punchy sentences.
+- Inject sensory words ("crackle", "drop the needle", "full-bodied sound").
+- Offer quick tips or trivia in one line.
+- Use playful emojis sparingly; 3–5 hashtags max.
+- Avoid corporate jargon, over-selling, or long lectures.
 
----
+(For full copywriting rules, templates, and examples, use the companion `tnt-music-writing-guide` skill.)
 
-# Tone of Voice
+## Messaging Pillars
 
-## Write Like This
+1. **Curated New Pressings** — latest titles across rock, pop, jazz, country, and soundtracks.
+2. **Community & Events** — local collabs, Record Store Day anchors, and pop-ups around town.
+3. **Expert Guidance** — staff who share quick tips and deep cuts.
+4. **Modern-Chill Space** — bright layout, easy-flip bins, music at conversation level.
 
-- Sound like a music-savvy friend who knows the bins.
-- Keep sentences concise, punchy, and easy to scan.
-- Use sensory music language when it fits: crackle, drop the needle, warm sound, full-bodied, loud, bright, deep cut, spin, groove.
-- Be helpful and specific.
-- Give quick tips, short trivia, or staff-pick style recommendations when relevant.
-- Use a little swagger, but do not overdo it.
-- Keep the tone younger and less corporate, but still polished enough for a real business.
-- Make the store feel cool, but never exclusive.
+## Ready-to-Use Copy
 
-## Avoid This
+- **Website Meta:** "TNT Music—Edmonds' modern vinyl shop spinning new pressings and curated classics that keep your groove alive."
+- **Home-Page Hero (≈ 12 words):** "Spinnin' Your Groove."
+- **About-Us Paragraph (≈ 70 words):** "TNT Music brings a fresh vinyl experience to Edmonds — carefully curated for the person who still wants to hold the music they love. We hand-select new releases and essential classics across rock, pop, jazz, country, and soundtracks, because some songs deserve more than a stream. From first-timers to lifelong collectors, our crew shares straight-up know-how to help you land records that hit your groove. Step in, flip through, and leave with music that feels like you."
+- **Instagram Bio (≤ 150 characters):** "Fresh vinyl • Curated vibes • Edmonds, WA 🎶 Spinnin' Your Groove daily. Drop in & dig."
+- **Email Footer Tagline:** "Stay in the groove."
 
-- Corporate jargon
-- Long lectures
-- Over-selling
-- Exclamation overload
-- Cheesy record-store cliches
-- Too much “digging” language
-- Calling customers “crew”
-- Stiff professional language
-- Overly sentimental community language
-- Anything that sounds like a big-box retailer
-- Em dashes. Use commas, periods, colons, or simple hyphens instead.
-
----
-
-## Voice Examples
-
-### Good TNT Voice
-
-> Fresh pressings just landed. Come flip through the new stack and find something that hits.
-
-> Need a gift that does not feel random? Tell us what they listen to and we’ll point you toward something solid.
-
-> Drop the needle on something new this weekend. New releases, essential classics, and a few deep cuts are waiting.
-
-> Small store, big sound. Edmonds, come through.
-
-### Too Corporate
-
-> TNT Music is committed to providing a best-in-class retail experience through our carefully optimized product selection.
-
-### Too Cheesy
-
-> Our totally awesome vinyl treasure cave is ready for all you crate-digging legends!
-
-### Too Formal
-
-> We invite patrons to peruse our extensive collection of phonograph records.
-
----
-
-# Messaging Pillars
-
-## 1. Curated New Pressings
-
-Focus on new releases, essential classics, and carefully selected titles across:
-
-- Rock
-- Pop
-- Jazz
-- Country
-- Soundtracks
-- Hip-hop
-- Metal
-- Indie
-- R&B
-- More
-
-Use phrases like:
-
-- Fresh pressings
-- Essential classics
-- New arrivals
-- Staff picks
-- Records worth spinning
-- Curated for Edmonds
-
----
-
-## 2. Community and Events
-
-TNT is part of the Edmonds community, with in-store events, social gatherings, local collabs, listening moments, pop-ups, and Record Store Day energy.
-
-> [!tip]
-> Keep community copy grounded and natural. Avoid sounding like a nonprofit grant application.
-
----
-
-## 3. Expert Guidance
-
-The staff should come across as helpful, knowledgeable, and low-pressure.
-
-No gatekeeping. No snobbery.
-
-Use phrases like:
-
-- Ask us what to spin next
-- We’ll help you find the right record
-- Tell us what you like and we’ll point you somewhere good
-- Quick tips, deep cuts, no weird pressure
-
----
-
-## 4. Modern-Chill Space
-
-The store is bright, modern, warm, and easy to browse. Music should feel alive, but conversation should still be possible.
-
-Use phrases like:
-
-- Bright modern space
-- Easy-flip bins
-- Music at conversation level
-- A relaxed place to browse
-- Cool without trying too hard
-
----
-
-# Visual Identity
-
-## Color Palette
-
-| Role           | Use                              | Hex       |
-| -------------- | -------------------------------- | --------- |
-| Primary Purple | Main brand color                 | `#7C2C9E` |
-| Light Purple   | Secondary support color          | `#B98ED3` |
-| Neon Blue      | Accent color                     | `#13DEF5` |
-| Yellow         | Accent color                     | `#F7E240` |
-| Near Black     | Text, contrast, dark backgrounds | `#010E10` |
-| White          | Text                             | `#F7F5F0` |
-
----
-
-## Color Usage Guidance
-
-- Use **Primary Purple** for major headers, primary buttons, strong brand blocks, and key emphasis.
-- Use **Light Purple** for softer backgrounds, secondary cards, highlights, and supporting sections.
-- Use **Neon Blue** sparingly for energy: links, hover states, small highlights, icons, or callouts.
-- Use **Yellow** sparingly for promotional pops, badges, stickers, event tags, or attention-grabbers.
-- Use **Near Black** for main body text and high-contrast sections.
-- Keep backgrounds mostly light, clean, and modern unless creating a bold promotional graphic.
-- Avoid rainbow palettes or random colors. The brand should feel intentional, not chaotic.
-
----
-
-## Accessibility Notes
-
-> [!warning]
-> Do not sacrifice readability for brand color.
-
-- Do not place light purple text on white if it is too low contrast.
-- Do not use yellow as body text.
-- Use near black for readable body copy.
-- For buttons, prefer primary purple with white or near-black text only when contrast is strong.
-- Use neon blue and yellow as accents, not large blocks of body copy.
-
----
-
-# Typography
-
-## Brand Fonts
-
-1. **Bebas Neue**
-2. **Roboto**
-3. **Roboto Slab**
-
----
-
-## Font Usage
-
-### Bebas Neue
-
-Use for:
-
-- Big headlines
-- Hero text
-- Short section headers
-- Posters
-- Promo graphics
-- Bold signage
-
-Keep it short and punchy.
-
-### Roboto
-
-Use for:
-
-- Body text
-- Website copy
-- Emails
-- Product descriptions
-- Operational docs
-- Forms
-- Captions
-- UI labels
-
-### Roboto Slab
-
-Use for:
-
-- Subheads
-- Callouts
-- Quote blocks
-- Staff picks
-- Editorial moments
-- Small doses of texture
-
----
-
-## Typography Style
-
-- Headlines should be short and high-impact.
-- Body copy should be clean, simple, and readable.
-- Do not overuse all caps except with Bebas Neue headlines or small labels.
-- Keep spacing generous. The brand should feel modern and uncluttered.
-
----
-
-# Layout and Design Direction
-
-When creating visual documents, signage, slides, web pages, or social assets:
-
-- Use clean layouts with plenty of breathing room.
-- Make headlines bold and simple.
-- Use strong contrast between text and background.
-- Use geometric blocks, cards, or clean sections rather than ornate decoration.
-- Let album art, turntables, vinyl texture, and music photography carry visual energy.
-- Keep the look modern, slightly swanky, and approachable.
-- Avoid clutter, faux-vintage overload, distressed textures, or anything that feels like a generic old-school record shop.
-
----
-
-# Copy Rules by Channel
-
-## Website
-
-- Clear, confident, and easy to scan.
-- Prioritize what customers can do: browse new vinyl, find gifts, get recommendations, attend events, join rewards.
-- Keep paragraphs short.
-- Use direct CTAs.
-
-Good CTAs:
-
-- Shop New Arrivals
-- See Events
-- Join Groove Society
-- Visit Us
-- Ask for a Pick
-
----
-
-## Social Media
-
-- Short and punchy.
-- Emojis are okay, but use sparingly.
-- Use 3 to 5 hashtags max.
-- Avoid walls of text.
-- Use casual calls to action.
-
-Good hashtags:
-
-- `#TNTMusic`
-- `#EdmondsWA`
-- `#VinylRecords`
-- `#NowSpinning`
-- `#RecordStore`
-
-Good CTAs:
-
-- Come through
-- Drop in
-- See what’s spinning
-- Grab it while it’s here
-
----
-
-## Email
-
-- Friendly, useful, and not too polished.
-- Lead with what is new or worth knowing.
-- Keep sections short.
-- Include one primary CTA.
-- Sign off with: **Stay in the groove.**
-
----
-
-## In-Store Signage
-
-- Very short.
-- Clear action.
-- Big headline, tiny explanation.
-
-Examples:
-
-- New Arrivals
-- Staff Picks
-- Ask Us What to Spin Next
-- Fresh Pressings
-- Gift Cards
-- Groove Society Rewards
-
----
-
-## Product Descriptions
-
-- Keep them tight.
-- Mention artist, album, format, genre, and why it matters.
-- Avoid over-reviewing.
-- One sentence of flavor is enough.
-
-Example:
-
-> A heavyweight classic with big hooks, warm guitars, and zero filler. Essential if your shelf leans rock, pop, or road-trip loud.
-
----
-
-# Preferred Words and Phrases
-
-## Use Often
-
-- Fresh pressings
-- Curated classics
-- New arrivals
-- Staff picks
-- Essential albums
-- Drop the needle
-- Now spinning
-- Big sound
-- Good taste
-- Deep cuts
-- Worth spinning
-- Find your groove
-- Small store, big sound
-- Stay in the groove
-- Come through
-
----
-
-## Use Carefully or Rarely
-
-- Dig
-- Digging
-- Diggers
-- Crew
-- Audiophile, unless the topic is truly gear or high-fidelity sound
-- Vibes, okay in small doses, not every sentence
-
----
-
-## Do Not Use
-
-- Best-in-class
-- Optimize
-- Leverage
-- Synergy
-- Retail experience solution
-- Patrons
-- Phonograph records
-- Treasure trove
-- Crate-digging legends
-
----
-
-# Reusable Copy
-
-## Website Meta Description
-
-TNT Music is Edmonds’ modern vinyl shop, spinning new pressings and curated classics that keep your groove alive.
-
----
-
-## About TNT Music
-
-TNT Music brings a fresh vinyl experience to Edmonds. We hand-select new releases and essential classics across rock, pop, jazz, country, soundtracks, and more, all in a warm, modern space made for relaxed record shopping. From first-timers to lifelong collectors, we are here to help you find records that hit your groove. Step in, flip through, and leave with music that feels like you.
-
----
-
-## Short Bio
-
-Fresh vinyl. Curated vibes. Edmonds, WA. Spinnin’ Your Groove daily.
-
----
-
-## Footer Tagline
-
-Stay in the groove.
-
----
-
-## Campaign Lines
+## Campaign Slogans & Taglines
 
 - Fresh Pressings. Bold Vibes.
-- Needle Down, Day Made.
+- Dig. Drop. Repeat.
+- Needle Down—Day Made.
 - Small Store, Big Sound.
-- Spinnin’ Your Groove.
-- Stay in the Groove.
+- Carefully curated vinyl for the person who still wants to hold the music they love.
 
----
+## 90-Day Editorial & Advertising Calendar
 
-# AI Instructions for Any TNT Music Output
+**Month 1, Week 1**
+- IG: New-release unboxing reel
+- Facebook: opening photo set
+- Email: "Welcome" + 10% first-visit code
 
-When generating anything for TNT Music:
+**Month 1, Week 2**
+- IG: 15-sec vinyl-care tip
+- Facebook: Customer playlist poll
+- Email: Short blog snippet "Crackle & Pop"
+- In-Store: Pop-up at local coffee shop
 
-1. Use the TNT Music tone: modern, confident, welcoming, savvy, slightly edgy, and never corporate.
-2. Keep copy concise and easy to scan.
-3. Make it feel like a cool independent record shop in Edmonds, not a chain store.
-4. Use brand colors and fonts whenever creating visual or formatted materials.
-5. Use Bebas Neue for bold headlines, Roboto for body copy, and Roboto Slab for callouts or editorial accents.
-6. Use primary purple `#7C2C9E`, light purple `#B98ED3`, neon blue `#13DEF5`, yellow `#F7E240`, and near black `#010E10`.
-7. Avoid corporate jargon, long lectures, over-selling, and cheesy vinyl cliches.
-8. Do not overuse the words “dig”, “digging”, or “crew”.
-9. Do not use em dashes.
-10. Keep the brand accessible. Knowledgeable, but no gatekeeping.
-11. For social posts, use emojis sparingly and limit hashtags to 3 to 5.
-12. For signage, use short headlines and minimal supporting text.
-13. For web pages, use clear sections, direct CTAs, and lots of breathing room.
-14. For operational docs, keep the writing useful and direct, but still on-brand.
+**Month 1, Week 3**
+- IG: Staff-pick carousel ("Tre's 5 must-owns")
+- Facebook: Event reminder
+- Email: RSVP invite to store social
+- In-Store: Friday night hangout
 
----
+**Month 1, Week 4**
+- IG: Behind-the-scenes store setup
+- Facebook: Throwback album story
+- Email: Monthly roundup + loyalty sign-up
+- In-Store: Vinyl cleaning mini-workshop
 
-# Starter Prompt for AI Tools
+**Month 2 (Recurring):** "Turntable Tuesday" gear demos, community spotlights, bi-weekly email playlist "Spinlist," Record Store Day prep content.
 
-Copy and paste this before asking an AI tool to create a TNT Music asset:
+**Month 3 (Highlight):** Live-stream RSD line, photo recap, VIP early-access coupon, flagship Record Store Day event.
 
-```text
-You are creating content for TNT Music, a modern independent vinyl record store in Edmonds, WA. Use the TNT Music brand voice: modern, confident, welcoming, savvy, slightly edgy, and music-smart without gatekeeping. Write like a music-savvy friend: concise, punchy, clear, and helpful. Avoid corporate jargon, over-selling, long lectures, cheesy vinyl cliches, and overusing the words dig, digging, or crew. Do not use em dashes.
+## Measurement & Iteration
 
-Visual identity: Primary Purple #7C2C9E, Light Purple #B98ED3, Neon Blue #13DEF5, Yellow #F7E240, Near Black #010E10. Fonts: Bebas Neue for bold headlines, Roboto for body copy, Roboto Slab for callouts or editorial accents. Keep layouts clean, modern, bright, and slightly swanky with strong contrast and plenty of breathing room.
+- Instagram engagement rate: 5%+ by Month 3
+- Email open rate: ≥ 35%
+- Event foot traffic: 50+ attendees per event
+- Repeat customers: 25% of Month 1 shoppers return by Month 3
 
-Brand vibe: fresh, curated, independent, cool but approachable, a little bougie without being pretentious. Think a head nod, not a hug. Main slogan: Spinnin’ Your Groove. Supporting lines: Fresh Pressings. Bold Vibes. Small Store, Big Sound. Stay in the groove.
+Review metrics monthly and double-down on top-performing content.
+
+## Visualized Style Guide
+
+### Colors
+
+| Role | Hex |
+|---|---|
+| Primary (purple) | #7C2C9E |
+| Secondary (light purple) | #B98ED3 |
+| Tertiary — Neon Blue | #13DEF5 |
+| Tertiary — Yellow | #F7E240 |
+| Tertiary — Terracotta | #E2725B |
+| Black | #010E10 |
+
+### Typography
+
+Our content is majority digital (social, web, email) rather than print, so the type system is chosen and governed for screens first.
+
+| Font | Role | Guardrails |
+|---|---|---|
+| **Bebas Neue** | Display / headlines only | All-caps, condensed — great for punchy short headlines, hard to read at small sizes. Never use for body copy. Don't drop below ~18–20px on mobile graphics or Story text. |
+| **Roboto** | Body copy (primary workhorse) | Designed for screens, wide weight range, stays legible small. Default choice for anything read at length. |
+| **Roboto Slab** | Occasional editorial accent only | Reserve for blog subheads, pull-quotes, or staff-pick callouts — not a general-purpose third family. Don't use below ~16px; slab serifs lose crispness small on screens. If it's not earning a deliberate moment, use Roboto Bold/Black instead — same metrics as Roboto Slab, no extra font weight to load. |
+
+**Fallback stack (for email and platforms that strip custom fonts):**
+- Bebas Neue → Oswald or Arial Narrow Bold
+- Roboto → system-ui, Helvetica, Arial
+
+**Native app text doesn't carry our typography.** Instagram/TikTok captions and the built-in Stories text tool render in the platform's own font, not ours — our typography only shows up in graphics we actually design (post images, Reel covers, Story graphics, website, email). Anyone building templates in Canva or similar should set Bebas Neue/Roboto there directly rather than relying on the app's text tool.
