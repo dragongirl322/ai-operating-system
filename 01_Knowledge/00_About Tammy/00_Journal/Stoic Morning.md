@@ -3459,3 +3459,14 @@ Today I have life things to take care of and reading I’d like to continue from
 ## Monday August 17
 
 I am feeling the mood of the PNW today. A layer of marine fog sitting over us. It is cool but not cold. I watched a video of me talking to Dayna last night and oh my god, I am so much like my dad. My initial, gut response is “ick” because there was something about his detached intelligence that was such a turn off to me. I’m sitting with it and two things are standing out. First, what I interpreted as arrogance was likely just his way of communicating with clarity. Second, he was highly respected and regarded by the people he led in the church I grew up in. They loved his compassion and his clarity. Much like how I’m perceived. It is strange to both hate and love something. It is important to embrace this about me because to continue to hate it is to undermine myself. 
+
+## Tuesday August 18
+
+I’m grateful for the warmth. I’m grateful for the sunshine. I’m grateful for all of the things there are to learn. I’m grateful for being loved. I’m grateful I love who I’m with. There are so many damn things to be incredibly grateful for. 
+
+Today is a day of focused URI work for me. What I’d like by end of day is to have better clarity on what I want from advisory practice—what feeds me? 
+
+I’m also reminding myself that two things are true:
+
+1. I am not prepared to commit my heart and soul while the Salesforce opportunity is outstanding.
+2. This is a time to be off and exploring. It is important for me to embrace that. 
