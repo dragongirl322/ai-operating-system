@@ -11,6 +11,7 @@ aliases:
   - TNT AI Instructions
 ---
 ---
+---
 name: tnt-music-brand-strategy
 description: "TNT Music's brand strategy — target audience, brand essence, personality, messaging pillars, and visual style guide for Tam's Edmonds, WA vinyl record shop. Use this skill whenever working on TNT Music strategy-level decisions: defining or referencing the target audience, evaluating whether a campaign idea or business decision fits the brand, writing taglines or slogans, planning content calendars, or making visual/style-guide choices (colors, fonts). Also consult this before using the tnt-music-writing-guide skill, since that skill covers day-to-day copywriting while this one covers the underlying strategy it's built on."
 ---
@@ -56,7 +57,7 @@ Locals and visitors looking for a personal, non-generic gift. Vinyl and music me
 - **Promise:** Every visit spins up discovery, expertise, and a laid-back "you-belong-here" vibe.
 - **Core Audience:** Millennial vinyl lovers who need to touch their music, plus the weekend explorers and gift-seekers who round out Edmonds' foot traffic.
 - **Main Slogan:** Spinnin' Your Groove.
-- **Brand Tagline:** TNT Music — carefully curated vinyl for the person who still wants to hold the music they love, because some songs deserve more than a stream.
+- **Brand Tagline:** Curated vinyl for the person who wants to spin their music.
 
 Use the tagline as the anchor line anywhere we say who we are and who we're for (About pages, hang tags, email signatures, intro copy). "Spinnin' Your Groove" stays the energetic top-line slogan for headlines and campaign use.
 
@@ -87,7 +88,7 @@ Use the tagline as the anchor line anywhere we say who we are and who we're for 
 
 - **Website Meta:** "TNT Music—Edmonds' modern vinyl shop spinning new pressings and curated classics that keep your groove alive."
 - **Home-Page Hero (≈ 12 words):** "Spinnin' Your Groove."
-- **About-Us Paragraph (≈ 70 words):** "TNT Music brings a fresh vinyl experience to Edmonds — carefully curated for the person who still wants to hold the music they love. We hand-select new releases and essential classics across rock, pop, jazz, country, and soundtracks, because some songs deserve more than a stream. From first-timers to lifelong collectors, our crew shares straight-up know-how to help you land records that hit your groove. Step in, flip through, and leave with music that feels like you."
+- **About-Us Paragraph (≈ 65 words):** "TNT Music brings a fresh vinyl experience to Edmonds — carefully curated for the person who wants to spin their music. We hand-select new releases and essential classics across rock, pop, jazz, country, and soundtracks. From first-timers to lifelong collectors, our crew shares straight-up know-how to help you land records that hit your groove. Step in, flip through, and leave with music that feels like you."
 - **Instagram Bio (≤ 150 characters):** "Fresh vinyl • Curated vibes • Edmonds, WA 🎶 Spinnin' Your Groove daily. Drop in & dig."
 - **Email Footer Tagline:** "Stay in the groove."
 
@@ -97,7 +98,7 @@ Use the tagline as the anchor line anywhere we say who we are and who we're for 
 - Dig. Drop. Repeat.
 - Needle Down—Day Made.
 - Small Store, Big Sound.
-- Carefully curated vinyl for the person who still wants to hold the music they love.
+- Curated vinyl for the person who wants to spin their music.
 
 ## 90-Day Editorial & Advertising Calendar
 

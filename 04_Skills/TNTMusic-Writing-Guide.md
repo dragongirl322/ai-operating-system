@@ -22,6 +22,7 @@ tags:
 
 ---
 ---
+---
 name: tnt-music-writing-guide
 description: "TNT Music's copywriting guide — voice, tone rules, messaging pillars, post/blog/ad templates, approved phrases, and an editing checklist for Tam's Edmonds, WA vinyl record shop. Use this skill whenever writing TNT Music social posts, captions, blog posts, emails, or ad copy, or when editing/reviewing existing TNT Music copy for brand fit. For audience research, taglines, or higher-level strategy decisions, pair this with the companion tnt-music-brand-strategy skill."
 ---
@@ -52,13 +53,13 @@ Spinnin' Your Groove.
 
 ### Brand Tagline
 
-Carefully curated vinyl for the person who still wants to hold the music they love, because some songs deserve more than a stream.
+Curated vinyl for the person who wants to spin their music.
 
 Use the tagline anywhere copy needs to say who we are *and* who we're for — About pages, hang tags, email signatures, intro copy. "Spinnin' Your Groove" stays the shorter, energetic line for headlines and campaign use.
 
-### About-Us Paragraph (≈ 70 words)
+### About-Us Paragraph (≈ 65 words)
 
-"TNT Music brings a fresh vinyl experience to Edmonds — carefully curated for the person who still wants to hold the music they love. We hand-select new releases and essential classics across rock, pop, jazz, country, and soundtracks, because some songs deserve more than a stream. From first-timers to lifelong collectors, our crew shares straight-up know-how to help you land records that hit your groove. Step in, flip through, and leave with music that feels like you."
+"TNT Music brings a fresh vinyl experience to Edmonds — carefully curated for the person who wants to spin their music. We hand-select new releases and essential classics across rock, pop, jazz, country, and soundtracks. From first-timers to lifelong collectors, our crew shares straight-up know-how to help you land records that hit your groove. Step in, flip through, and leave with music that feels like you."
 
 ## Audience
 
@@ -316,8 +317,8 @@ Our content is majority digital, so type only shows up where we actually design 
 Use these as headlines, captions, sign-offs, or campaign lines:
 
 - Spinnin' Your Groove.
-- Carefully curated vinyl for the person who still wants to hold the music they love, because some songs deserve more than a stream.
-- ...for the person who still wants to hold the music they love. *(short form)*
+- Curated vinyl for the person who wants to spin their music.
+- ...for the person who wants to spin their music. *(short form)*
 - Stay in the groove.
 - Fresh Pressings. Bold Vibes.
 - Dig. Drop. Repeat.
