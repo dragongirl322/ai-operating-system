@@ -80,15 +80,19 @@ Jack sees Stephen Tate's car pull up across the street. Stephen's arrival gives 
 
 ## Scene 2: Jack's House
 
-### Beat 8: Jack Performs Normal
+Beat 8: Jack Performs Normal
 
 Jack greets Stephen and brings him inside the house next door to Tyler and Megan. Jack offers him a drink, possibly a beer, trying to make the visit ordinary.
 
 **Optional Stephen move:** Stephen declines with a mild superiority edge: "Little early for me."
 
+During the small talk, Stephen mentions an upcoming charity appearance with a little self-satisfied puffery. He does not need to overexplain it; the point is to seed that he will be away and to show how much he enjoys being publicly recognized as generous, successful, and steady.
+
+**Possible line energy:** "Everett Youth Foundation asked me to say a few words at their dinner. They like the whole self-made local business angle."
+
 **Jack's internal shift:** Jack starts managing himself, trying to look steady in front of Stephen.
 
-**Story function:** Shows Jack's learned performance around his brother. The threat does not need to be loud to control him.
+**Story function:** Shows Jack's learned performance around his brother. The threat does not need to be loud to control him. Also plants Stephen's charity trip, which can later prompt Jack and Simone to ask whether Mona can stay with them while Stephen is gone.
 
 ### Beat 9: The Empty Fridge
 
