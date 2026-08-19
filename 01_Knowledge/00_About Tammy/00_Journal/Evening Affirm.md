@@ -523,3 +523,11 @@ Every now and then I’ll have these glimpses of how wonderful and miraculous I 
 ## Saturday August 15
 
 I did a bit of a computer detox today, spent most of the day off of my computer and my devices aside from an occasional scroll through the socials. It was nice and needed. I am so grateful for this time I have right now. I definitely feel discomfort in not having a solid plan while simultaneously enjoying the exploration. What an adventure this fucking life is! 
+
+## Tuesday August 18
+
+Bad gut day today. I don’t know if it is gluten exposure from cross contaminated fries or just shitty high inflammatory foods or going back on a supplement. Gonna drop the supplement to see if that fixes.
+
+Emma called in sick so I spent a long, slow day at the store. I’ve got a marketing plan and we’re close to the cut over to Shopify. I’m hopeful we can get into a high awareness, high foot traffic rhythm. 
+
+Action creates information :) 
