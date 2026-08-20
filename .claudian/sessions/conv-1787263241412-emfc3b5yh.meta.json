@@ -1,0 +1,24 @@
+{
+  "id": "conv-1787263241412-emfc3b5yh",
+  "providerId": "claude",
+  "title": "Review summary for manager burnout gaps",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787263241412,
+  "updatedAt": 1787263526663,
+  "lastResponseAt": 1787263526663,
+  "sessionId": "c94aa13e-2888-4ef1-a413-5d77b34833ee",
+  "providerState": {
+    "providerSessionId": "c94aa13e-2888-4ef1-a413-5d77b34833ee"
+  },
+  "currentNote": "02_Projects/Writing/Research/Corporate Suffering.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 4682,
+    "cacheReadInputTokens": 16064,
+    "contextWindow": 1000000,
+    "contextTokens": 20748,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}
