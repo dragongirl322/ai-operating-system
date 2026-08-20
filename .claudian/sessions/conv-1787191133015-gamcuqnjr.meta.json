@@ -1,0 +1,24 @@
+{
+  "id": "conv-1787191133015-gamcuqnjr",
+  "providerId": "claude",
+  "title": "Verify technology quote origin",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787191133016,
+  "updatedAt": 1787191436851,
+  "lastResponseAt": 1787191436851,
+  "sessionId": "956da253-ee8f-40bc-b49f-91d2d4403ef6",
+  "providerState": {
+    "providerSessionId": "956da253-ee8f-40bc-b49f-91d2d4403ef6"
+  },
+  "currentNote": "02_Projects/Writing/Drafts/Uniquely human.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 875,
+    "cacheReadInputTokens": 19176,
+    "contextWindow": 1000000,
+    "contextTokens": 20053,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}
