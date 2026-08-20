@@ -531,3 +531,9 @@ Bad gut day today. I don’t know if it is gluten exposure from cross contaminat
 Emma called in sick so I spent a long, slow day at the store. I’ve got a marketing plan and we’re close to the cut over to Shopify. I’m hopeful we can get into a high awareness, high foot traffic rhythm. 
 
 Action creates information :) 
+
+## Wednesday August 19
+
+I had what might have been a final interview at Salesforce with the SVP of product for Informatica. It was a good conversation with some tough questions. My answers were OK but not as solid as I’d like. It is OK. If I get an offer that is strong, I will consider. At the same time, I am not in love with tech and, in fact, a bit disillusioned a I keep seeing more and more news of layoffs and bullshittery of engineering running the show. it feels like the inmates are running the asylum. It is hard for me to imagine a world where we truly have headless, non managed agents running all over the place doing things. 
+
+I came across a job that I’m truly intrigued by. It pays much less than a tech job. It is VP of visitor experience and earned revenue for the Museum of Flight. We spent so much time there when Tre was young. The CEO needs someone on the leadership team to help lead the transformation of their experience. I applied. We’ll see. 
