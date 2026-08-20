@@ -143,7 +143,7 @@ The opposing force argues that forgetting is mercy, silence is loyalty, and the 
 
 **Craft note:** Use James sparingly unless he has an active present-day function. His strongest purpose may be to explain why Jack learned that even escape routes could become violent.
 
-### Evan Price
+### Owen Price
 
 **Role:** Jack's younger half-brother, biological son of Mona and James Price.
 
@@ -161,7 +161,7 @@ The opposing force argues that forgetting is mercy, silence is loyalty, and the 
 
 **Relationship to Jack:** Evan can occasionally show warmth, making Jack hope for a brotherly connection. Then he repeats Stephen's worldview without realizing it.
 
-**Relationship to theme:** Evan shows how the alibi spreads through a family. He did not create the lie, but he benefits from it and carries it forward.
+**Relationship to theme:** Owen shows how the alibi spreads through a family. He did not create the lie, but he benefits from it and carries it forward.
 
 **Typical echo language:**
 
@@ -227,7 +227,7 @@ The opposing force argues that forgetting is mercy, silence is loyalty, and the 
 
 **James Price:** Violence after supposed refuge; expulsion and erasure.
 
-**Evan Price:** The child the family chose to protect and coddle.
+**Owen Price:** The child the family chose to protect and coddle.
 
 ### Present-Day System
 
@@ -235,7 +235,7 @@ The opposing force argues that forgetting is mercy, silence is loyalty, and the 
 
 **Mona:** Lives next door to Stephen in a home he bought; her early dementia makes her both dependent and potentially dangerous.
 
-**Evan:** Repeats Stephen's version of reality without fully understanding its harm.
+**Owen:** Repeats Stephen's version of reality without fully understanding its harm.
 
 **Jack:** Experiences symptoms that the family can use as evidence that he is unstable.
 
@@ -251,10 +251,10 @@ Use these questions to keep the characters consistent:
 2. Does Stephen's cruelty look like concern, competence, generosity, or responsibility from the outside?
 3. Does Simone believe Jack while still challenging incomplete certainty?
 4. Does Mona mix tenderness and harm, especially through music, dependence, or cutting remarks?
-5. Does Evan echo Stephen without fully understanding that he is doing it?
+5. Does Owen echo Stephen without fully understanding that he is doing it?
 6. Does Megan's attraction to Stephen make emotional sense based on her past need for stability?
 7. Does Tyler's vulnerability awaken Jack's protective instinct and grief for his own younger self?
-8. Does each family interaction reinforce the old hierarchy: Stephen as credible, Jack as unstable, Mona as dependent, Evan as protected?
+8. Does each family interaction reinforce the old hierarchy: Stephen as credible, Jack as unstable, Mona as dependent, Owen as protected?
 9. Does the mystery pressure the emotional wound instead of running beside it?
 10. Does remembering become increasingly necessary to protect someone living?
 
