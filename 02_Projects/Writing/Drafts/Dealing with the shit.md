@@ -1,0 +1,30 @@
+## LinkedIn post
+
+Over the past year I've had so many conversations about how people in tech roles are suffering. I've not only heard about it, I've observed it and, to a certain degree, experienced it. Things are rough out there right now. 
+
+Week after week we see posts on LinkedIn about another round of layoffs. Every day we're inundated with AI hype or AI fear or AI slop. Even those of us who enjoy learning about and using AI find it tough to distinguish what is real and what is noise. 
+
+It isn't our imaginations. The data tell us, clearly and without ambiguity, that things are difficult. Burnout is climbing. 55% of U.S. workers say they're experiencing it right now, and 72% say it's actively cutting into their efficiency. AI is intensifying work, not reducing friction. People are working longer hours, doing more things, under more pressure, and not getting any relief that AI hype promises. Microsoft's Work Trend Index own shows that 80% of the global workforce says they don't have the time or energy to do their job, and the average worker gets interrupted by a meeting, email, or ping every two minutes.
+
+What makes this situation extra problematic is that managers, particularly those stuck between executives and their teams (aka "middle managers") are cracking harder than their teams. Gallup's numbers show the engagement gap between managers and the people they lead has collapsed from +11 points in 2022 to just +3 points in 2025. Managers are now barely more engaged than their own teams and Gallup ties a meaningful chunk of this year's overall global engagement decline directly to that drop. If managers are disengaged they are less able to support their teams leading to more disengagement. 
+
+I've written a short post with practical tips on how managers and ICs can deal with the swirl and chaos they are experiencing right now. If you find yourself in need of a bit of additional support, feel free to schedule some time with me.
+
+By the way, all of this points to a leadership problem. C-Suite and executive leaders need to pay particular attention to the Gallup "State of the Global Workplace: 2026 report" that shows global engagement is its lowest since 2020 at 20%. This is tied to roughly $10 trillion lost in productivity annually, about 9% of global GDP. This is an entirely different topic for a separate post but leaders, if you want profitability, you better start giving a damn about the people who work for you.
+
+## Substack
+A little over two months ago, I left a job and a team that I love because I could no longer stand to be part of the system I see as creating suffering. I am a big fan of AI but have experienced the hype as creating a level of profit chasing and disengenuous "care for employee" narrative I could no longer tolerate. I can't think of any large tech company that isn't full of employees who are working from a place of fear, burnout, and disengagement right now. This certainly isn't good for employees and it can't be good for business. 
+
+Week after week we see posts on LinkedIn about another round of layoffs. Every day we're inundated with AI hype or AI fear or AI slop. Even those of us who enjoy learning about and using AI find it tough to distinguish what is real and what is noise. 
+
+It isn't our imaginations. The data tell us, clearly and without ambiguity, that things are difficult. Burnout is climbing. 55% of U.S. workers say they're experiencing it right now, and 72% say it's actively cutting into their efficiency. AI is intensifying work, not reducing friction. People are working longer hours, doing more things, under more pressure, and not getting any relief that AI hype promises. Microsoft's Work Trend Index own shows that 80% of the global workforce says they don't have the time or energy to do their job, and the average worker gets interrupted by a meeting, email, or ping every two minutes.
+
+What makes this situation extra problematic is that managers, particularly those stuck between executives and their teams (aka "middle managers") are cracking harder than their teams. Gallup's numbers show the engagement gap between managers and the people they lead has collapsed from +11 points in 2022 to just +3 points in 2025. Managers are now barely more engaged than their own teams and Gallup ties a meaningful chunk of this year's overall global engagement decline directly to that drop. If managers are disengaged they are less able to support their teams leading to more disengagement.
+
+I'm no guru but, I do have a lot of years of experience in tech and as a manager and have a few tips that you might find helpful. You'll likely notice that every one of the tips below have to do with focusing on you. That is intentional. There is a reason why the airline safety videos tells you to put the oxygen mask on yourself first and why there are a number of cliches about filling your own cup or basket. 
+
+Tip #1: There are certain physiological needs that are absolutely non-negotiable. Our brains and bodies need at least 7 or 8 hours of sleep. Make sure you're getting that. If someone wants you to stay up to meet a deadline, fuck that shit. Get your sleep. Eat enough healthy food to give you energy. Calories (especially healthy ones) = energy. Eat your damn protein and fiber! Move your body. At a minimum, get up and walk to the bathroom or the kitchen to get water at least once every hour. If you can do more, do more. When my wife was going through chemo for stage 4 cancer, she walked at least 3 times a day. Six years later she is cancer free and going strong. MOVE!
+
+Tip #2: Find time every week to do at least one thing you love. Keep it simple so it is easy. For me, it is gaming. Even at my busiest I've been able to find at least 30 minutes a day to turn on my Xbox and decompress. Find your thing and take time to do your thing. 
+
+Tip #3: Vent. Find someone safe who you can talk to candidly and without reservation. For me it was three people: 1)a trusted peer at work who didn't report to me but 
