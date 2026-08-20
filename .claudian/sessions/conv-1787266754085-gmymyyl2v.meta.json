@@ -4,8 +4,8 @@
   "title": "Refine writing voice for LinkedIn and Substack",
   "titleGenerationStatus": "success",
   "createdAt": 1787266754086,
-  "updatedAt": 1787267073232,
-  "lastResponseAt": 1787267073232,
+  "updatedAt": 1787267853225,
+  "lastResponseAt": 1787267853225,
   "sessionId": "19644bdc-2146-42ac-9dc0-e30b80cd3d82",
   "providerState": {
     "providerSessionId": "19644bdc-2146-42ac-9dc0-e30b80cd3d82"
@@ -14,11 +14,11 @@
   "usage": {
     "model": "sonnet",
     "inputTokens": 2,
-    "cacheCreationInputTokens": 1191,
-    "cacheReadInputTokens": 27014,
+    "cacheCreationInputTokens": 1816,
+    "cacheReadInputTokens": 39397,
     "contextWindow": 1000000,
-    "contextTokens": 28207,
-    "percentage": 3,
+    "contextTokens": 41215,
+    "percentage": 4,
     "contextWindowIsAuthoritative": true
   }
 }
