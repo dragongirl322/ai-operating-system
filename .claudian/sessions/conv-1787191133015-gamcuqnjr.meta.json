@@ -4,13 +4,12 @@
   "title": "Verify technology quote origin",
   "titleGenerationStatus": "success",
   "createdAt": 1787191133016,
-  "updatedAt": 1787191436851,
+  "updatedAt": 1787244922369,
   "lastResponseAt": 1787191436851,
   "sessionId": "956da253-ee8f-40bc-b49f-91d2d4403ef6",
   "providerState": {
     "providerSessionId": "956da253-ee8f-40bc-b49f-91d2d4403ef6"
   },
-  "currentNote": "02_Projects/Writing/Drafts/Uniquely human.md",
   "usage": {
     "model": "sonnet",
     "inputTokens": 2,
