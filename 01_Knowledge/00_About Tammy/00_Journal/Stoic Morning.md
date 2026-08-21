@@ -3471,6 +3471,10 @@ I’m also reminding myself that two things are true:
 1. I am not prepared to commit my heart and soul while the Salesforce opportunity is outstanding.
 2. This is a time to be off and exploring. It is important for me to embrace that. 
 
+## Thursday August 20
+
+Today I intend to do exactly what my brain tells me to do every single moment. No preconceived expectations, other than my lunch get together with former colleagues. The rest will be absolute flow. Why? Because we only have the moment. I am certain the path I need to take has already unfolded and I’m walking it. I love my life, my wife, my son, my family, my friends. 
+
 Thursday August 20
 
 Today I intend to do exactly what my brain tells me to do every single moment. No preconceived expectations, other than my lunch get together with former colleagues. The rest will be absolute flow. Why? Because we only have the moment. I am certain the path I need to take has already unfolded and I’m walking it. I love my life, my wife, my son, my family, my friends. 

@@ -537,3 +537,11 @@ Action creates information :)
 I had what might have been a final interview at Salesforce with the SVP of product for Informatica. It was a good conversation with some tough questions. My answers were OK but not as solid as I’d like. It is OK. If I get an offer that is strong, I will consider. At the same time, I am not in love with tech and, in fact, a bit disillusioned a I keep seeing more and more news of layoffs and bullshittery of engineering running the show. it feels like the inmates are running the asylum. It is hard for me to imagine a world where we truly have headless, non managed agents running all over the place doing things. 
 
 I came across a job that I’m truly intrigued by. It pays much less than a tech job. It is VP of visitor experience and earned revenue for the Museum of Flight. We spent so much time there when Tre was young. The CEO needs someone on the leadership team to help lead the transformation of their experience. I applied. We’ll see. 
+
+Thursday August 20
+
+It is so helpful and fun and good to connect with people. I had a great lunch with Monya and Jen who I worked with at Expedia. Monya is a talker and a good story teller. I enjoyed it. 
+
+I’m feeling an investment now in the Salesforce job and I like it and hate it at the same time. It is hard to want something knowing it may not happen. And even more intrigued and interested in the Museum of Flight job. Enough so that I had hoped to see a response from them today. I know it is so soon. To temper myself, I keep busy. 
+
+I love my wind down time in the evenings. So nice. 

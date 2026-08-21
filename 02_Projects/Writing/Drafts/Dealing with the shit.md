@@ -6,11 +6,11 @@ This is a big leadership problem. C-Suite and executive leaders need to pay part
 
 You don't have to look far to see it playing out. Week after week we see posts on LinkedIn about another round of layoffs. Every day we're inundated with AI hype or AI fear or AI slop. Even those of us who enjoy learning about and using AI find it tough to distinguish what is real and what is noise. 
 
-It isn't our imaginations. The data tell us, clearly and without ambiguity, that things are difficult. Burnout is climbing. 55% of U.S. workers say they're experiencing it right now, and 72% say it's actively cutting into their efficiency. AI is intensifying work, not reducing friction. People are working longer hours, doing more things, under more pressure, and not getting any relief that AI hype promises. Microsoft's Work Trend Index now shows that 80% of the global workforce says they don't have the time or energy to do their job, and the average worker gets interrupted by a meeting, email, or ping every two minutes.
+It isn't our imaginations. 55% of U.S. workers say they're burned out right now, and Microsoft's Work Trend Index shows 80% of the global workforce doesn't have the time or energy to do their job. AI is intensifying work, not relieving it.
 
-What makes this situation extra problematic is that managers, particularly those stuck between executives and their teams (aka "middle managers") are cracking harder than their teams. Gallup's numbers show the engagement gap between managers and the people they lead has collapsed from +11 points in 2022 to just +3 points in 2025. Managers are now barely more engaged than their own teams and Gallup ties a meaningful chunk of this year's overall global engagement decline directly to that drop. If managers are disengaged they are less able to support their teams leading to more disengagement. 
+And managers, stuck between executives and their teams, are cracking harder than anyone. Gallup's engagement gap between managers and their teams has collapsed from +11 points in 2022 to just +3 points in 2025 — less-engaged managers means less-supported teams.
 
-I've written a short post with practical tips on how managers and ICs can deal with the swirl and chaos they are experiencing right now. If you find yourself in need of a bit of additional support, feel free to schedule some time with me.
+I've written a short post with the full data and practical tips on how managers and ICs can deal with the swirl and chaos they are experiencing right now. If you find yourself in need of a bit of additional support, feel free to schedule some time with me.
 
 ## Substack
 A little over two months ago, I left a job and a team that I love because I could no longer stand to be part of the system I see as creating suffering. I am a big fan of AI but have experienced the hype as creating a level of profit chasing and disingenuous "care for employee" narrative I could no longer tolerate. I can't think of any large tech company that isn't full of employees who are working from a place of fear, burnout, and disengagement right now. This certainly isn't good for employees and it can't be good for business. 
@@ -21,7 +21,7 @@ It isn't our imaginations. The data tell us, clearly and without ambiguity, that
 
 What makes this situation extra problematic is that managers, particularly those stuck between executives and their teams (aka "middle managers") are cracking harder than their teams. Gallup's numbers show the engagement gap between managers and the people they lead has collapsed from +11 points in 2022 to just +3 points in 2025. Managers are now barely more engaged than their own teams and Gallup ties a meaningful chunk of this year's overall global engagement decline directly to that drop. If managers are disengaged they are less able to support their teams leading to more disengagement.
 
-I'm no guru, but I do have a lot of years of experience in tech and as a manager and have a few tips that you might find helpful. You'll likely notice that every one of the tips below have to do with focusing on you. That is intentional. There is a reason why the airline safety video tells you to put the oxygen mask on yourself first and why there are a number of cliches about filling your own cup or basket. 
+I'm no guru, but I do have a lot of years of experience in tech and as a manager and have a few tips that you might find helpful. You'll likely notice that every one of the tips below has to do with focusing on you. That is intentional. There is a reason why the airline safety video tells you to put the oxygen mask on yourself first and why there are a number of cliches about filling your own cup or basket. 
 
 ### Tip #1: Physiological Needs
 
@@ -37,12 +37,17 @@ I'm no guru, but I do have a lot of years of experience in tech and as a manager
 
 **Spend time with people.** Social connection is a basic human need. Being with people we feel loved by and cared for is nurturing. I have to admit this is the one thing I neglected most when I was busiest. Outside of my wife and son, I didn't spend much time with people who weren't work colleagues. 
 
-**Seek support.** Find at least one person you can talk to about what you're experiencing. Ideally someone who will listen without judgment while also supporting you in taking steps to solve the problems in front of you. For me it was a great professional coach who listened, cared, and pushed me to go beyond my comfort zone.
+**Seek support.** Find someone safe to talk to candidly and without reservation — ideally someone who will listen without judgment while also supporting you in taking steps to solve the problems in front of you. For me it was three people: a trusted peer at work who didn't report to me, was my same level, and knew the context; a professional coach who knew my strengths and weaknesses and had enough context to be genuinely helpful; and my wife, who loves me but also has a strong propensity toward not blowing smoke.
 
 ### Tip #3: Be You
 
- **Focus on mastery.** Most of us are in the profession we are in because we enjoy our craft. Nobody can rob us of that unless we let them. Take time to practice and continue to improve the things that you enjoy doing. This will likely help you improve your confidence in addition to developing skills.
+**Focus on mastery.** Most of us are in the profession we are in because we enjoy our craft. Nobody can rob us of that unless we let them. Take time to practice and continue to improve the things that you enjoy doing. This will likely help you improve your confidence in addition to developing skills.
 
 **Own your superpower.** Know what it is you do very well. For a researcher, it is likely you are the person in the room who knows the most about the people who use your products. If you're a designer, you are likely the person in the room who is best at figuring out how to design solutions that work the way users need them to work. 
  
- To Wrap it al
+### To Wrap it all up
+
+A few years back I learned about the Stockdale Paradox, the discipline of holding two things at once: unwavering faith that you'll ultimately prevail, no matter how hard it gets, combined with a clear-eyed acceptance of your current reality. As hard as things are right now, and they are as brutal as I've ever seen, we're gonna be OK. 
+
+If you've read this far, chances are you're feeling some of this too. Take good care of yourself, and if you'd like a bit of additional support, feel free to reach out — I'd love to help.
+
