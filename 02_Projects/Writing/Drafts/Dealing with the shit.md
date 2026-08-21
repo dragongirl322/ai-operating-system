@@ -53,3 +53,184 @@ A few years back I learned about the Stockdale Paradox, the discipline of holdin
 
 If you've read this far, chances are you're feeling some of this too. Take good care of yourself, and if you'd like a bit of additional support, feel free to reach out — I'd love to help.
 
+Alternative framing
+
+# Leadership in Uncertain Times
+
+## North Star
+
+> **Everyone who encounters my leadership should walk away more capable than they were before.**
+
+## Leadership Stance
+
+> **In a world obsessed with speed and performance, lead yourself with courage and clarity, and lead others with kindness and love.**
+
+This is the stance I want to bring to leadership, coaching, and thought leadership—especially in moments of uncertainty, burnout, fear, and rapid change.
+
+The goal is not to eliminate fear or pretend that everything is fine. It is to help ourselves and others respond to uncertainty intentionally: grounded in who we are, focused on what we can control, committed to our craft, and deeply human in how we show up for one another.
+
+---
+
+## The Framework
+
+### 1. Start with self
+
+Before we can lead others well, we have to manage ourselves well.
+
+Fear is natural. Everyone feels it. The goal is not to suppress fear, but to notice it without allowing it to make our decisions for us.
+
+That means creating enough space between what we feel and how we respond so that we can act with intention rather than simply react.
+
+It also means tending to the whole self. Drawing from Stephen Covey's work, that includes continual renewal across the physical, mental, social/emotional, and spiritual dimensions of life.
+
+When the environment around us becomes chaotic, this foundation matters even more.
+
+---
+
+### 2. Focus on what you can control: mastery
+
+One of the most useful responses to uncertainty is to return to mastery.
+
+Mastery is not about arriving at some final state of expertise. It is the continual pursuit of improvement—the willingness to keep reaching toward something that is just beyond our current ability.
+
+In Dr. Sarah Lewis's framing of mastery, the pursuit itself matters. We keep moving the target. We keep developing.
+
+When so much around us feels outside our control, our willingness to learn, practice, stretch, and improve remains ours.
+
+---
+
+### 3. Anchor in your superpower
+
+For design and research practitioners, our distinctive strength is our ability to deeply understand people:
+
+- the needs, motivations, and behaviors of the people we serve;
+- the systems in which they operate;
+- the context surrounding those systems; and
+- how that understanding should influence the products, services, and experiences we create.
+
+Other disciplines bring their own strengths. Ours is this depth of human and contextual understanding.
+
+When the industry feels uncertain, it is easy to become distracted by whatever capability or technology appears to be winning the moment. Instead, remember the craft you have spent years developing.
+
+Combine that superpower with a commitment to mastery.
+
+Keep getting better at the thing you are uniquely positioned to contribute.
+
+---
+
+### 4. Know your values—and know the organization's direction
+
+In a corporate environment, uncertainty often creates another question:
+
+**How do I demonstrate value when everything around me is changing?**
+
+Before answering that, get clear on your own values and principles.
+
+Know what you are unwilling to compromise.
+
+Then look honestly at the vision and direction of the organization you work for.
+
+Ask yourself:
+
+**Is this a direction I can genuinely support without violating my principles?**
+
+If the answer is no, then staying indefinitely serves neither you nor the organization. Be willing to leave and find a place where your work and principles can coexist. That takes courage.
+
+If the answer is yes, then make a conscious choice to commit.
+
+You are being paid to help the organization succeed. That remains true even when:
+
+- you do not particularly like the leaders;
+- you are afraid;
+- the environment is chaotic; or
+- you know you could be laid off in a few weeks.
+
+Commitment does not mean blind loyalty. It means deciding, deliberately, that while you are there, you will contribute fully.
+
+---
+
+### 5. Lead with kindness, compassion, and love
+
+Leaders carry an additional responsibility.
+
+Leadership is not limited to formal authority. It includes managing teams, leading across functions, shaping thinking, influencing decisions, and affecting the emotional climate around us.
+
+In moments of instability, people are tired. They are scared. Some are grieving colleagues, careers, identities, or futures they thought were secure.
+
+This is exactly when leadership needs more humanity, not less.
+
+The technology industry currently places enormous emphasis on speed, performance, competition, AI, productivity, and winning. Those things are not inherently wrong. But they are incomplete.
+
+What deserves equal emphasis is our ability to care for one another.
+
+To listen.
+
+To understand.
+
+To show compassion.
+
+To help someone regain a sense of agency when they are overwhelmed.
+
+To treat people with dignity even when circumstances are difficult.
+
+To lift people rather than diminish them.
+
+Especially in the face of job loss.
+
+The distinctly human contribution is not simply what we produce. It is how we encounter one another.
+
+---
+
+## The Through Line
+
+These ideas are connected.
+
+**Start with self.**  
+Manage fear rather than allowing fear to manage you.
+
+**Know what you stand for.**  
+Be clear about your principles and whether your environment allows you to honor them.
+
+**Choose consciously.**  
+If you stay, commit. If you cannot commit without compromising yourself, have the courage to leave.
+
+**Pursue mastery.**  
+Keep developing your craft and stretching toward what you are capable of becoming.
+
+**Remember your superpower.**  
+Anchor in the distinctive value you bring rather than chasing every signal of uncertainty around you.
+
+**Lead humanely.**  
+Offer kindness, compassion, honesty, and love—particularly when people are struggling.
+
+And measure the impact of your leadership by what happens to the people around you:
+
+> **Do they leave an encounter with you more capable than they were before?**
+
+That is the standard.
+
+---
+
+## A Simple Conversational Version
+
+When talking with someone who is burned out, afraid, or unsure what to do next, the framework can become a conversation rather than a prescription:
+
+1. **Start with them.** How are they doing? What is fear making difficult to see clearly?
+2. **Return to what is controllable.** Where can they invest in their own mastery?
+3. **Reconnect them to their strengths.** What do they know how to do exceptionally well?
+4. **Clarify their values.** What are they unwilling to compromise?
+5. **Examine alignment.** Can they genuinely support the direction of their organization?
+6. **Make the choice conscious.** If they stay, what would wholehearted contribution look like? If they cannot, what would courage look like?
+7. **Expand the lens beyond themselves.** Who around them could use steadiness, kindness, or support right now?
+
+The intent is not to give everyone the same answer.
+
+The intent is to offer a consistent way of helping people find **their** answer.
+
+---
+
+## In One Sentence
+
+> **In a world obsessed with speed and performance, lead yourself with courage and clarity, lead others with kindness and love, and leave people more capable than they were before they encountered your leadership.**
+
+
