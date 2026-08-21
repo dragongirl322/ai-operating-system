@@ -538,7 +538,7 @@ I had what might have been a final interview at Salesforce with the SVP of produ
 
 I came across a job that I’m truly intrigued by. It pays much less than a tech job. It is VP of visitor experience and earned revenue for the Museum of Flight. We spent so much time there when Tre was young. The CEO needs someone on the leadership team to help lead the transformation of their experience. I applied. We’ll see. 
 
-Thursday August 20
+## Thursday August 20
 
 It is so helpful and fun and good to connect with people. I had a great lunch with Monya and Jen who I worked with at Expedia. Monya is a talker and a good story teller. I enjoyed it. 
 

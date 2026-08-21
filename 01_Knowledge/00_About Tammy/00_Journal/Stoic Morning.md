@@ -3478,3 +3478,7 @@ Today I intend to do exactly what my brain tells me to do every single moment. N
 Thursday August 20
 
 Today I intend to do exactly what my brain tells me to do every single moment. No preconceived expectations, other than my lunch get together with former colleagues. The rest will be absolute flow. Why? Because we only have the moment. I am certain the path I need to take has already unfolded and I’m walking it. I love my life, my wife, my son, my family, my friends. 
+
+## Friday August 21
+
+There are so many things I love about summer. I love that it is warmer. I love that I can wear shorts most days. I love the smells in the PNW. I love how vibrant the plants in my yard are and the fullness of the trees. I love the birds singing and flying and flitting. I love the long days. I am incredibly grateful I’ve had the chance to enjoy this one. It has been over 40 years since I’ve had true time off during the summer. What a gift. 

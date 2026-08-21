@@ -1,3 +1,5 @@
+
+This deserves a bit more “raw”; something to articulate choosing profit over humanity. What people are feeling is that underlying current that the people making choices don’t actually give a shit—we are commodities. How do we deal with that? And maybe that needs to be its own post because it goes to knowing we have a choice. We can be clear on what our boundary is—what is the line? And be clear that we always have a choice, even if both options are difficult. 
 ## LinkedIn post
 
 Over the past year I've had so many conversations about how people in tech roles are suffering. I've not only heard about it, I've observed it and, to a certain degree, experienced it. Things are rough out there right now. 
