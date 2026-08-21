@@ -31,17 +31,18 @@ I'm no guru, but I do have a lot of years of experience in tech and as a manager
 
 **Move your body.** At a minimum, get up and walk to the bathroom or the kitchen to get water at least once every hour. If you can do more, do more. When my wife was going through chemo for stage 4 cancer, she walked at least 3 times a day. Six years later she is cancer free and going strong. MOVE!
 
-### Tip #2: Feed your Passion
+### Tip #2: Feed your Soul
 
 **Find time every week to do at least one thing you love.** Keep it simple so it is easy. For me, it is gaming. Even at my busiest I've been able to find at least 30 minutes a day to turn on my Xbox and decompress. Find your thing and take time to do your thing. 
 
-### Tip #3: Talk it out. 
+**Spend time with people.** Social connection is a basic human need. Being with people we feel loved by and cared for is nurturing. I have to admit this is the one thing I neglected most when I was busiest. Outside of my wife and son, I didn't spend much time with people who weren't work colleagues. 
 
-Find someone safe who you can talk to candidly and without reservation. For me it was three people
-**A trusted peer at work.** who didn't report to me, was my same level, and knew the context; 
+**Seek support.** Find at least one person you can talk to about what you're experiencing. Ideally someone who will listen without judgment while also supporting you in taking steps to solve the problems in front of you. For me it was a great professional coach who listened, cared, and pushed me to go beyond my comfort zone.
 
-2) a professional coach who knew my strengths and weaknesses and had enough contextual information to be helpful; 3) my wife who loves me but also has a strong propensity toward not blowing smoke. 
+### Tip #3: Be You
 
-Tip #4: Focus on the things you can control. For me this has been two specific things. 1) I can control my own focus on mastery. I love that I've spent many years getting paid to learn while simultaneously delivering value to the business and customers. What a gift! 2) Remember what your superpower is and use that to create as much value as possible. Chances are you'll have fun doing it because you're probably passionate about it and it will enhance your opportunities to learn. 
+ **Focus on mastery.** Most of us are in the profession we are in because we enjoy our craft. Nobody can rob us of that unless we let them. Take time to practice and continue to improve the things that you enjoy doing. This will likely help you improve your confidence in addition to developing skills.
 
-Hopefully you find something helpful in this content. If you've read this far, chances are you are feeling some of the suffering. Take good care of yourself and feel free to reach out if you'd like a bit of additional support and think I can help. 
+**Own your superpower.** Know what it is you do very well. For a researcher, it is likely you are the person in the room who knows the most about the people who use your products. If you're a designer, you are likely the person in the room who is best at figuring out how to design solutions that work the way users need them to work. 
+ 
+ To Wrap it al
