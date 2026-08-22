@@ -1,5 +1,7 @@
 
 This deserves a bit more “raw”; something to articulate choosing profit over humanity. What people are feeling is that underlying current that the people making choices don’t actually give a shit—we are commodities. How do we deal with that? And maybe that needs to be its own post because it goes to knowing we have a choice. We can be clear on what our boundary is—what is the line? And be clear that we always have a choice, even if both options are difficult. 
+
+Jessica Tarlov quote: But eventually I learned the fear doesn’t go away. You just decide it’s not going to stop you. You learn to live with it. To feed off the energy and, hopefully, to find a way to express it that doesn’t sap your strength, but makes you stronger. When your fear is harnessed, no matter what it’s about, you become a more complete, self-aware person.
 ## LinkedIn post
 
 Over the past year I've had so many conversations about how people in tech roles are suffering. I've not only heard about it, I've observed it and, to a certain degree, experienced it. Things are rough out there right now. 

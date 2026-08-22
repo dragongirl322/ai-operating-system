@@ -3482,3 +3482,8 @@ Today I intend to do exactly what my brain tells me to do every single moment. N
 ## Friday August 21
 
 There are so many things I love about summer. I love that it is warmer. I love that I can wear shorts most days. I love the smells in the PNW. I love how vibrant the plants in my yard are and the fullness of the trees. I love the birds singing and flying and flitting. I love the long days. I am incredibly grateful I’ve had the chance to enjoy this one. It has been over 40 years since I’ve had true time off during the summer. What a gift. 
+
+## Saturday August 22
+Summer rain. That is the morning. I love the smell. I love the mood. It makes me want to sit out on the front porch and read a good book. That is exactly what I plan to do today. 
+
+I feel this constant nagging to somehow show up for people vs. “lecture” people in my posts. To share stories, thoughts, ideas in a way that is real and grounded and caring. Figuring out what that looks like is evolving.
