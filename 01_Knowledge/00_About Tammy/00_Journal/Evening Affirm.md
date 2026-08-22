@@ -545,3 +545,9 @@ It is so helpful and fun and good to connect with people. I had a great lunch wi
 I’m feeling an investment now in the Salesforce job and I like it and hate it at the same time. It is hard to want something knowing it may not happen. And even more intrigued and interested in the Museum of Flight job. Enough so that I had hoped to see a response from them today. I know it is so soon. To temper myself, I keep busy. 
 
 I love my wind down time in the evenings. So nice. 
+
+## Friday August 21
+
+It was a good end to what felt like a productive week. I’ve written more this week and connected with friends and colleagues. I’ve enjoyed time with Dayna, time in the son, and time with myself. 
+
+I go through every day with occasional doubt and uncertainty and every now and then a wave of fear. I don’t ruminate, which is good. I generally work through it quickly. Today I’m particularly disillusioned with the tech world. It is one I know well but it is also less recognizable. Hanging out in this space is likely not productive however, if it helps me be clear eyed as I make decisions about my future livelihood, it is good. 
