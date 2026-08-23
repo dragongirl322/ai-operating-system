@@ -3488,8 +3488,8 @@ Summer rain. That is the morning. I love the smell. I love the mood. It makes me
 
 I feel this constant nagging to somehow show up for people vs. “lecture” people in my posts. To share stories, thoughts, ideas in a way that is real and grounded and caring. Figuring out what that looks like is evolving.
 
-Sunday August 23
+## Sunday August 23
 
 I spent way too much time on my computer yesterday. I got excited about Grokbot and then got carried away with creating a stupid video using AI. As a result, I felt a bit bogged down by the ordinary-ness of me last night. Sitting in a stew of uncertainty and insecurity and fear rather than love, hope, creativity. 
 
-Today is a detox day. The objective is to read, sit in the sun, listen to content that feeds me—probably one of the Brene episodes or some Ted talks. Hopefulness and confidence 
+Today is a detox day. The objective is to read, sit in the sun, listen to content that feeds me—probably one of the Brene episodes or some Ted talks. Hopefulness and confidence is important. 
