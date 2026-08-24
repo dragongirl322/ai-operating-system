@@ -100,7 +100,7 @@ Assume the reader is curious, not always expert. Invite them in without gatekeep
 
 1. Keep sentences short and rhythmic.
 2. Use active verbs: dig, spin, drop, flip, find, cue, bring, land.
-3. Use sensory vinyl language: crackle, warm sound, drop the needle, full-bodied, bright, deep cut, fresh pressing.
+3. Use sensory vinyl language: crackle, warm sound, put a record on, full-bodied, bright, deep cut, fresh pressing.
 4. Add one helpful detail when possible: a genre note, staff tip, care tip, event reminder, or gift idea.
 5. Use emojis sparingly on social. One is plenty. Skip them in blog posts unless the format is casual.
 6. Use 3 to 5 hashtags maximum.
@@ -116,7 +116,7 @@ Focus on new vinyl, essential classics, and carefully selected records across ro
 
 Use when writing about: new arrivals, album spotlights, staff picks, genre features, giftable records.
 
-Example angle: "Fresh pressings just hit the bins. Flip through, find your sound, and take home something that feels like yours."
+Example angle: "Fresh pressings just hit the bins. Find your sound, and take home something that feels like yours."
 
 ### Community & Events
 
@@ -136,11 +136,11 @@ Example angle: "Not sure where to start with jazz? Ask us for one bright, one sm
 
 ### Modern-Chill Space
 
-Focus on the bright layout, easy-flip bins, warm energy, relaxed browsing, and music at conversation level.
+Focus on the bright layout, easy browsing, warm energy, relaxed browsing, and music at conversation level.
 
 Use when writing about: store experience, opening announcements, photos of the shop, browsing invitations, in-store moments.
 
-Example angle: "Easy-flip bins, fresh sound, and room to take your time. That's the TNT way."
+Example angle: "Easy browsing, fresh sound, and room to take your time. That's the TNT way."
 
 ## Core Copy Ingredients
 
@@ -162,7 +162,7 @@ Use this structure when you need a reliable starting point:
 
 Example:
 
-Fresh pressings just landed in the bins. Rock, pop, jazz, country, and a few soundtrack gems are ready for a needle drop. Swing by, flip through, and find the one that hits your groove.
+Fresh pressings just landed in the bins. Rock, pop, jazz, country, and a few soundtrack gems are ready for a needle drop. Stop by, take your time, and find the one that hits your groove.
 
 ## Social Media Post Templates
 
@@ -172,7 +172,7 @@ Fresh pressings just hit the bins.
 
 This week's stack brings [genre/artist/style] with [sound or mood detail]. If your shelf needs something [feeling], this is a good place to start.
 
-Drop in and dig.
+Come find something you love.
 
 Hashtags: #TNTMusic #EdmondsWA #VinylRecords #[Genre] #SpinninYourGroove
 
@@ -216,7 +216,7 @@ Edmonds, this one's for you.
 
 [Local collaboration/event/store moment] brings together good sound, good people, and a reason to slow down for a minute.
 
-Drop in and be part of the spin.
+Come be part of it.
 
 ## Blog Post Guidelines
 
@@ -272,7 +272,7 @@ Ads should feel crisp, confident, and invitation-first. Do not over-explain. Lea
 
 #### Store Visit Ad
 
-Primary text: Fresh vinyl, easy-flip bins, and a laid-back space built for discovery. TNT Music is Edmonds' modern spot to dig, listen, and find your groove.
+Primary text: Fresh vinyl, easy browsing, and a laid-back space built for discovery. TNT Music is Edmonds' modern spot to dig, listen, and find your groove.
 
 Headline: Spinnin' Your Groove
 
@@ -290,7 +290,7 @@ CTA: Shop Now
 
 Primary text: Good records sound even better with good company. Join us for [event name] at TNT Music in Edmonds.
 
-Headline: Needle Down. Night Made.
+Headline: Good sound. Good company.
 
 CTA: RSVP
 
@@ -321,11 +321,11 @@ Use these as headlines, captions, sign-offs, or campaign lines:
 - ...for the person who wants to spin their music. *(short form)*
 - Stay in the groove.
 - Fresh Pressings. Bold Vibes.
-- Dig. Drop. Repeat.
-- Needle Down. Day Made.
+- Fresh vinyl. Real time.
+- Good sound. Good company.
 - Small Store, Big Sound.
-- Drop the needle.
-- Flip through the bins.
+- Put a record on.
+- Take your time in the shop.
 - Fresh vinyl, curated vibes.
 - Find the record that hits your groove.
 - Good sound. Good company.
@@ -333,11 +333,13 @@ Use these as headlines, captions, sign-offs, or campaign lines:
 
 ## Words and Phrases to Use
 
-Fresh · Curated · Groove · Dig · Spin · Needle · Pressing · Crackle · Full-bodied · Warm · Bright · Deep cut · Staff pick · Essential classic · New release · Soundtrack gem · Conversation-level · Easy-flip bins · Edmonds · Local · Community
+Fresh · Curated · Groove · Dig · Spin · Needle · Pressing · Crackle · Full-bodied · Warm · Bright · Deep cut · Staff pick · Essential classic · New release · Soundtrack gem · Conversation-level · Easy browsing · Edmonds · Local · Community
 
 ## Words and Phrases to Avoid
 
 Revolutionary · Disruptive · Premium lifestyle destination · Best-in-class · Consumer journey · Exclusive experience · For true audiophiles only · If you know, you know · Hurry before it is too late · You need this · We are obsessed · The ultimate record store
+
+**Slang Tre does not want in TNT copy:** drop the needle · needle down · dig the bins · drop in and dig · dig. drop. repeat. Prefer: come in, take your time, put a record on, find something you love.
 
 ## Hashtag Guidance
 
@@ -349,7 +351,7 @@ Good options: #TNTMusic #SpinninYourGroove #EdmondsWA #EdmondsMusic #VinylRecord
 
 Use CTAs that feel casual and inviting:
 
-- Drop in and dig.
+- Come find something you love.
 - Swing by and flip through.
 - Ask us for a staff pick.
 - Bring a friend.
@@ -381,15 +383,15 @@ Before publishing any TNT Music copy, check:
 
 Fresh pressings just landed.
 
-This week's bins are stacked with bright pop, deep-cut rock, smoky jazz, and a few soundtrack gems made for late-night needle drops.
+This week's bins are stacked with bright pop, deep-cut rock, smoky jazz, and a few soundtrack gems made for late-night plays.
 
-Drop in, flip through, and find the one that hits your groove.
+Come in, take your time, and find the one that hits your groove.
 
 #TNTMusic #EdmondsWA #VinylRecords #SpinninYourGroove
 
 ### Facebook: Store Invitation
 
-TNT Music is built for relaxed digging: fresh vinyl, easy-flip bins, and music at conversation level.
+TNT Music is built for relaxed digging: fresh vinyl, easy browsing, and music at conversation level.
 
 Whether you are hunting for a classic, shopping for a gift, or just letting the bins decide, we are here to help you find your groove.
 
@@ -409,7 +411,7 @@ Ask us for more records in this lane.
 
 ### Blog Intro: Vinyl Care
 
-A little care goes a long way. Records are built to be played, loved, shared, and played again, but they sound their best when they get the basics: clean hands, clean sleeves, upright storage, and a quick brush before the needle drops.
+A little care goes a long way. Records are built to be played, loved, shared, and played again, but they sound their best when they get the basics: clean hands, clean sleeves, upright storage, and a quick brush before the plays.
 
 Here is how to keep the crackle charming and the sound full-bodied.
 

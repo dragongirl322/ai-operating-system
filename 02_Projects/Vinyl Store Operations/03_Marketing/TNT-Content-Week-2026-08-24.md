@@ -1,12 +1,18 @@
 ---
 title: TNT content week of Aug 24, 2026
-status: draft for Tam approval
+status: IG/FB in motion (as of 8/24 afternoon)
 cadence: 3 social posts + 1 Reel + 2 Google (Year Two / working agreement)
 ---
 
 # Week of Aug 24, 2026 — Social + Google
 
 Store hours this week: **Tue–Sat 11–7**. Closed Sun/Mon.
+
+**Publish status (Tam, Meta Business Suite, 8/24):**
+- New arrivals IG+FB: **LIVE today (Mon 8/24)** — scheduled for Tue, published early. Leave it.
+- Hisaishi staff pick: **scheduled Wednesday 8/26** (was Thu in draft)
+- Weekend digging: **scheduled Saturday 8/29**
+- Google posts: not published yet
 Do **not** publish Shopify dry run / Groove Society ops (Tue 8/25 is internal).
 
 No live events on the calendar. Do not announce a listening party until we pick a date.
@@ -28,7 +34,7 @@ No live events on the calendar. Do not announce a listening party until we pick 
 
 ---
 
-## Tuesday 8/26 — IG + Facebook (feed) + Reel
+## New arrivals — IG + Facebook (LIVE Mon 8/24)
 
 **Pillars:** Curated new pressings + modern-chill space
 **Asset:** 15-sec Reel of a slow bin flip / stack on the counter. Still from the Reel for the static post.
@@ -50,7 +56,7 @@ Drop in and dig. Tue–Sat 11–7 in 5 Corners.
 
 ---
 
-## Thursday 8/27 — IG + Facebook (feed)
+## Hisaishi staff pick — IG + Facebook (scheduled Wed 8/26)
 
 **Hook:** Staff pick — Joe Hisaishi *A Big Bold Beautiful Journey* (in stock; Tam named it a favorite). Do **not** post Pearl Jam *Ten* (not in stock).
 **Pillars:** Curated new pressings + expert guidance
@@ -59,9 +65,9 @@ Drop in and dig. Tue–Sat 11–7 in 5 Corners.
 **IG caption:**
 Staff pick: Joe Hisaishi, *A Big Bold Beautiful Journey*.
 
-Why it spins: his first American film score, still that full-bodied Hisaishi warmth — the kind you want the room to hold.
+Why we chose it: his first American film score, still that full-bodied Hisaishi warmth. 
 
-Best played when the day needs to slow down and the needle has somewhere beautiful to go.
+Best played when you want to slow down and let the music take you.
 
 Ask us. It's in the bins.
 
@@ -79,7 +85,7 @@ Ask us. It's in the bins.
 **IG caption:**
 Weekend digging, Edmonds-style.
 
-Easy-flip bins, music at conversation level, and a crew that will help you land the one that fits — first collection or next staple.
+Easy-flip bins, music at conversation level, and Emma here to help you land the music you want.
 
 Here till 7. Closed Sunday, back Tuesday.
 

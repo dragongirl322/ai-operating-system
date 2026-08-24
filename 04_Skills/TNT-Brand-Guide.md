@@ -70,7 +70,7 @@ Use the tagline as the anchor line anywhere we say who we are and who we're for 
 ## Tone-of-Voice Guidelines
 
 - Talk like a music-savvy friend: concise, punchy sentences.
-- Inject sensory words ("crackle", "drop the needle", "full-bodied sound").
+- Inject sensory words ("crackle", "warm sound", "full-bodied"). Do not use "drop the needle" or "dig the bins" (Tre).
 - Offer quick tips or trivia in one line.
 - Use playful emojis sparingly; 3–5 hashtags max.
 - Avoid corporate jargon, over-selling, or long lectures.
@@ -82,21 +82,20 @@ Use the tagline as the anchor line anywhere we say who we are and who we're for 
 1. **Curated New Pressings** — latest titles across rock, pop, jazz, country, and soundtracks.
 2. **Community & Events** — local collabs, Record Store Day anchors, and pop-ups around town.
 3. **Expert Guidance** — staff who share quick tips and deep cuts.
-4. **Modern-Chill Space** — bright layout, easy-flip bins, music at conversation level.
+4. **Modern-Chill Space** — bright layout, easy browsing, music at conversation level.
 
 ## Ready-to-Use Copy
 
 - **Website Meta:** "TNT Music—Edmonds' modern vinyl shop spinning new pressings and curated classics that keep your groove alive."
 - **Home-Page Hero (≈ 12 words):** "Spinnin' Your Groove."
-- **About-Us Paragraph (≈ 65 words):** "TNT Music brings a fresh vinyl experience to Edmonds — carefully curated for the person who wants to spin their music. We hand-select new releases and essential classics across rock, pop, jazz, country, and soundtracks. From first-timers to lifelong collectors, our crew shares straight-up know-how to help you land records that hit your groove. Step in, flip through, and leave with music that feels like you."
-- **Instagram Bio (≤ 150 characters):** "Fresh vinyl • Curated vibes • Edmonds, WA 🎶 Spinnin' Your Groove daily. Drop in & dig."
+- **About-Us Paragraph (≈ 65 words):** "TNT Music brings a fresh vinyl experience to Edmonds — carefully curated for the person who wants to spin their music. We hand-select new releases and essential classics across rock, pop, jazz, country, and soundtracks. From first-timers to lifelong collectors, our crew shares straight-up know-how to help you land records that hit your groove. Step in, take your time, and leave with music that feels like you."
+- **Instagram Bio (≤ 150 characters):** "Fresh vinyl • Curated vibes • Edmonds, WA 🎶 Spinnin' Your Groove daily. Come find yours."
 - **Email Footer Tagline:** "Stay in the groove."
 
 ## Campaign Slogans & Taglines
 
 - Fresh Pressings. Bold Vibes.
-- Dig. Drop. Repeat.
-- Needle Down—Day Made.
+- Fresh vinyl. Real time.
 - Small Store, Big Sound.
 - Curated vinyl for the person who wants to spin their music.
 
