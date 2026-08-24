@@ -24,7 +24,6 @@ Use this as Emma's printed weekly task list. Update the week/date at the top bef
 
 ### Saturday
 
-- [ ] Post about the micro-event or theme coming up next week.
 - [ ] Confirm next week's micro-event details are ready for Tuesday's post.
 
 ## Monthly Newsletter

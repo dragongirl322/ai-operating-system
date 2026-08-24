@@ -11,10 +11,20 @@ Do **not** publish Shopify dry run / Groove Society ops (Tue 8/25 is internal).
 
 No live events on the calendar. Do not announce a listening party until we pick a date.
 
+**This week's confirmed new arrivals (from Tam, 8/24 retry — album by artist):**
+- Gracie Abrams (album title not specified)
+- Angine de Poitrine (Tam said "Jean D'Apoitrine")
+- *A Big Bold Beautiful Journey* — Joe Hisaishi (staff favorite)
+- *Foreign Tongues* — The Rolling Stones
+- *Reality Awaits* — The Strokes
+- TBD: "Paving Bridges" (no matching sleeve; likely Phoebe Bridgers). Do not post until confirmed.
+- and more
+
 **Needs from the shop (phone pics):**
-1. New-arrivals bin / stack (Tue post + Reel)
-2. Any Seattle / Pearl Jam / Ten copy on the floor (Thu) — if none, use a shop interior + we won't claim it's in stock
-3. Cleaning station or a record on the counter (Fri Google + optional Story)
+1. New-arrivals bin / stack showing as many of the above as will fit (Tue post + Reel)
+2. Joe Hisaishi / soundtrack cover if we want it as the Reel hero
+3. Any Seattle / Pearl Jam / Ten copy on the floor (Thu). If none, shop interior. Do not claim stock we don't have.
+4. Cleaning station or a record on the counter (Fri Google + optional Story)
 
 ---
 
@@ -26,7 +36,7 @@ No live events on the calendar. Do not announce a listening party until we pick 
 **IG caption:**
 Fresh pressings just hit the bins.
 
-Rock, pop, jazz, country, and a few soundtrack gems ready for a needle drop. Easy-flip, conversation-level, no rush.
+Gracie Abrams. Angine de Poitrine. Joe Hisaishi's *A Big Bold Beautiful Journey*. The Rolling Stones' *Foreign Tongues*. The Strokes' *Reality Awaits*. And more.
 
 Drop in and dig. Tue–Sat 11–7 in 5 Corners.
 
@@ -35,6 +45,7 @@ Drop in and dig. Tue–Sat 11–7 in 5 Corners.
 **Facebook:** same body, skip hashtags (or keep #EdmondsWA only). Add: 8416 Bowdoin Way.
 
 **Reel cover text (Bebas, all caps):** FRESH IN THE BINS
+**Reel note:** Slow flip across that stack. Linger a beat on Hisaishi if it's in the shot.
 
 ---
 
@@ -87,7 +98,7 @@ Here till 7. Closed Sunday, back Tuesday.
 ## Stories (don't need a full caption review)
 
 - **Tue:** "Open 11–7" + hours graphic
-- **Thu:** Staff pick sticker — Emma or Tre fills album title; Groove can write the one-liner once we have it
+- **Thu:** Staff pick sticker — default: Joe Hisaishi *A Big Bold Beautiful Journey* ("a staff favorite"). Swap if Emma/Tre want a different title.
 - **Sat:** Vinyl-care tip: "Brush before you drop the needle. Charming crackle stays charming." Point to in-store cleaning.
 
 ---
@@ -112,7 +123,7 @@ Tue–Sat 11–7. TNT Music, 5 Corners Plaza.
 **Photo:** Exterior / purple door / OPEN neon
 **Button:** Call or Learn more
 
-Fresh pressings in the bins this week. Rock, pop, jazz, country, soundtracks.
+New this week: Gracie Abrams, Joe Hisaishi's *A Big Bold Beautiful Journey*, The Rolling Stones' *Foreign Tongues*, The Strokes' *Reality Awaits*, and more.
 
 Open Tue–Sat 11–7. Closed Sunday. 8416 Bowdoin Way, Edmonds.
 
@@ -125,4 +136,5 @@ Drop in and dig.
 - Groove Society signup (wait until Shopify dry run is real)
 - Listening party date (none set)
 - Sept 23 anniversary (too early; save for early September)
-- Specific album titles besides *Ten*, unless Tam/Tre confirm they're on the floor
+- Don't add album titles beyond the confirmed arrivals list unless Tam/Tre say they're on the floor
+- *Ten* still needs a yes/no on stock before Thursday

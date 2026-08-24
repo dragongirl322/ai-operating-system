@@ -3493,3 +3493,11 @@ I feel this constant nagging to somehow show up for people vs. “lecture” peo
 I spent way too much time on my computer yesterday. I got excited about Grokbot and then got carried away with creating a stupid video using AI. As a result, I felt a bit bogged down by the ordinary-ness of me last night. Sitting in a stew of uncertainty and insecurity and fear rather than love, hope, creativity. 
 
 Today is a detox day. The objective is to read, sit in the sun, listen to content that feeds me—probably one of the Brene episodes or some Ted talks. Hopefulness and confidence is important. 
+
+## Monday August 24
+
+The days keep marching on. I intend to soak in the rest that summer has to offer. It was great to get out yesterday for a nice ferry ride. Dayna and I figure it has been a couple of years for us and for Tre a year and a half. We used to ride frequently. We all have missed it. We live in such a beautiful place. 
+
+I have to acknowledge that at this point, I want an offer from Salesforce. I’m not even sure I’d love it. This is one part ego, one part security, one part wanting to get back at it in a very routine way. I must prepare myself for not getting it, otherwise I may take it personally and that i a dangerous game. I am pretty sure that what I don’t want is chasing advisory work. I don’t want to be in the weeds executing. Not my strength, not my fuel. I am like a broken record.
+
+The key thing is to recognize that ego is the enemy. Attaching meaning to a job in a way that feeds my sense of self and well being was never a good idea. It is hard for that not to happen. But honestly, most of the world doesn’t care and it ultimately means nothing. What matters is what I give and what I am able to receive. 
