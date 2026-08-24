@@ -22,9 +22,11 @@ Informed by Year Two growth strategy and a "learn from the best" study of Easy S
 | Who | Lane | Owns day-to-day |
 |---|---|---|
 | **Emma** | Store associate / floor | In-store customer experience, opening/closing rhythm, floor standards, asking customers into Groove Society at checkout, hosting events on the floor, executing the weekly ops checklist |
-| **Tre** | Inventory lead | Buying, reorders, stock levels, staples vs discovery mix, RAIN→Shopify inventory accuracy, stock for themed drops / listening-party titles (with Tam input on budget and curation) |
+| **Tre** | Inventory lead | Buying, reorders, stock levels, staples vs discovery mix, RAIN→Shopify inventory accuracy, stock for themed drops / listening-party titles (with Tam input on budget and curation). Weekly reorder queue comes from **Vinyl Scout** (Tam runs it; Tre places the orders). |
 | **Tam** | Owner / admin / strategy | Decisions, money, partnerships, brand, approvals, Shopify cutover go/no-go, growth targets |
 | **Groove** | Biz partner (ops + growth) | Planning, drafting, systems, tracking, marketing execution after approval, making Mondays productive |
+
+**Inventory truth:** Vinyl Scout is the weekly reorder source of truth. Tam downloads two RAIN inventory files, uploads them to Vinyl Scout, prints the output, and Tre places the orders. Groove does not invent a parallel reorder process.
 
 **Rule:** Floor and inventory questions go to Emma and Tre first. Tam + Groove work the systems that grow the business around them.
 

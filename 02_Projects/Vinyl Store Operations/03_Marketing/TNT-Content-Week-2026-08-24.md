@@ -12,7 +12,8 @@ Store hours this week: **Tue–Sat 11–7**. Closed Sun/Mon.
 - New arrivals IG+FB: **LIVE today (Mon 8/24)** — scheduled for Tue, published early. Leave it.
 - Hisaishi staff pick: **scheduled Wednesday 8/26** (was Thu in draft)
 - Weekend digging: **scheduled Saturday 8/29**
-- Google posts: not published yet
+- Google cleaning post: **LIVE Mon 8/24** (station photo swapped on 8/24 afternoon)
+- Google new-arrivals post: **scheduled Fri 8/28 9:00 AM PT**
 Do **not** publish Shopify dry run / Groove Society ops (Tue 8/25 is internal).
 
 No live events on the calendar. Do not announce a listening party until we pick a date.
@@ -30,7 +31,7 @@ No live events on the calendar. Do not announce a listening party until we pick 
 1. New-arrivals bin / stack showing as many of the above as will fit (Tue post + Reel)
 2. Joe Hisaishi / soundtrack cover if we want it as the Reel hero
 3. Hisaishi *A Big Bold Beautiful Journey* jacket for Thursday staff pick
-4. Cleaning station or a record on the counter (Fri Google + optional Story)
+4. Cleaning station — **got it** (TNT-cleaning-station.jpg in this folder). Using on Google cleaning post.
 
 ---
 
@@ -103,10 +104,10 @@ Here till 7. Closed Sunday, back Tuesday.
 
 ---
 
-## Google Post 1 — Tuesday (Offer / What's new)
+## Google Post 1 — cleaning (LIVE Mon 8/24)
 
 **Type:** Update
-**Photo:** Cleaning station or a record on the counter
+**Photo:** TNT-cleaning-station.jpg (HumminGuru + vacuum cleaner, LP on platter)
 **Button:** Learn more → https://tntmusic.shop
 
 Bring tired vinyl back to life.
@@ -117,7 +118,7 @@ Tue–Sat 11–7. TNT Music, 5 Corners Plaza.
 
 ---
 
-## Google Post 2 — Friday (What's new / hours)
+## Google Post 2 — new arrivals (scheduled Fri 8/28 9:00 AM)
 
 **Type:** Update
 **Photo:** Exterior / purple door / OPEN neon
