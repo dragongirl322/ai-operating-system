@@ -17,13 +17,13 @@ No live events on the calendar. Do not announce a listening party until we pick 
 - *A Big Bold Beautiful Journey* — Joe Hisaishi (staff favorite)
 - *Foreign Tongues* — The Rolling Stones
 - *Reality Awaits* — The Strokes
-- TBD: "Paving Bridges" (no matching sleeve; likely Phoebe Bridgers). Do not post until confirmed.
+- Phoebe Bridgers (Tam confirmed; said "Paving Bridges")
 - and more
 
 **Needs from the shop (phone pics):**
 1. New-arrivals bin / stack showing as many of the above as will fit (Tue post + Reel)
 2. Joe Hisaishi / soundtrack cover if we want it as the Reel hero
-3. Any Seattle / Pearl Jam / Ten copy on the floor (Thu). If none, shop interior. Do not claim stock we don't have.
+3. Hisaishi *A Big Bold Beautiful Journey* jacket for Thursday staff pick
 4. Cleaning station or a record on the counter (Fri Google + optional Story)
 
 ---
@@ -36,7 +36,7 @@ No live events on the calendar. Do not announce a listening party until we pick 
 **IG caption:**
 Fresh pressings just hit the bins.
 
-Gracie Abrams. Angine de Poitrine. Joe Hisaishi's *A Big Bold Beautiful Journey*. The Rolling Stones' *Foreign Tongues*. The Strokes' *Reality Awaits*. And more.
+Gracie Abrams. Phoebe Bridgers. Angine de Poitrine. Joe Hisaishi's *A Big Bold Beautiful Journey*. The Rolling Stones' *Foreign Tongues*. The Strokes' *Reality Awaits*. And more.
 
 Drop in and dig. Tue–Sat 11–7 in 5 Corners.
 
@@ -45,35 +45,29 @@ Drop in and dig. Tue–Sat 11–7 in 5 Corners.
 **Facebook:** same body, skip hashtags (or keep #EdmondsWA only). Add: 8416 Bowdoin Way.
 
 **Reel cover text (Bebas, all caps):** FRESH IN THE BINS
-**Reel note:** Slow flip across that stack. Linger a beat on Hisaishi if it's in the shot.
+**Reel note:** Slow flip across that stack. Linger a beat on Hisaishi and *Foreign Tongues* if they're in the shot.
+**Reel audio:** Generic instrumental from Meta Business Suite Sound Collection (Tam's call, 8/24). Search vinyl / indie guitar / chill groove. Not a licensed Stones/Strokes track — Suite can't attach those, and this Reel is mixed arrivals not one album.
 
 ---
 
 ## Thursday 8/27 — IG + Facebook (feed)
 
-**Hook:** Pearl Jam *Ten* released Aug 27, 1991 — 35 years today.
-**Pillars:** Community + expert guidance
-**Asset:** Phone pic of Ten if we have it; otherwise shop interior / Seattle bin. Caption does not claim stock.
+**Hook:** Staff pick — Joe Hisaishi *A Big Bold Beautiful Journey* (in stock; Tam named it a favorite). Do **not** post Pearl Jam *Ten* (not in stock).
+**Pillars:** Curated new pressings + expert guidance
+**Asset:** Phone pic of the Hisaishi jacket on the counter / in hand.
 
-**IG caption (if we have a copy on the floor):**
-35 years of *Ten*.
+**IG caption:**
+Staff pick: Joe Hisaishi, *A Big Bold Beautiful Journey*.
 
-Released this day in 1991. Still the one a lot of us learned to drop a needle on.
+Why it spins: his first American film score, still that full-bodied Hisaishi warmth — the kind you want the room to hold.
 
-We've got a copy in the bins if you want to take it home. Or just come talk Seattle records with us.
+Best played when the day needs to slow down and the needle has somewhere beautiful to go.
 
-#TNTMusic #EdmondsWA #PearlJam #VinylRecords
+Ask us. It's in the bins.
 
-**IG caption (if we do NOT have Ten):**
-35 years of *Ten*.
+#TNTMusic #StaffPicks #EdmondsWA #VinylRecords
 
-Released this day in 1991. Still the record a lot of us learned to drop a needle on.
-
-Come flip the Seattle bin with us. If you tell us the era you love, we'll point you.
-
-#TNTMusic #EdmondsWA #PearlJam #VinylRecords
-
-**Facebook:** same, plus address. Softer CTA: Swing by 5 Corners and say hey.
+**Facebook:** same + 8416 Bowdoin Way. CTA: Swing by 5 Corners and we'll put it on.
 
 ---
 
@@ -98,7 +92,7 @@ Here till 7. Closed Sunday, back Tuesday.
 ## Stories (don't need a full caption review)
 
 - **Tue:** "Open 11–7" + hours graphic
-- **Thu:** Staff pick sticker — default: Joe Hisaishi *A Big Bold Beautiful Journey* ("a staff favorite"). Swap if Emma/Tre want a different title.
+- **Thu:** Hisaishi staff pick is the feed post — Story can be a still of the jacket + "in the bins."
 - **Sat:** Vinyl-care tip: "Brush before you drop the needle. Charming crackle stays charming." Point to in-store cleaning.
 
 ---
@@ -123,7 +117,7 @@ Tue–Sat 11–7. TNT Music, 5 Corners Plaza.
 **Photo:** Exterior / purple door / OPEN neon
 **Button:** Call or Learn more
 
-New this week: Gracie Abrams, Joe Hisaishi's *A Big Bold Beautiful Journey*, The Rolling Stones' *Foreign Tongues*, The Strokes' *Reality Awaits*, and more.
+New this week: Gracie Abrams, Phoebe Bridgers, Joe Hisaishi's *A Big Bold Beautiful Journey*, The Rolling Stones' *Foreign Tongues*, The Strokes' *Reality Awaits*, and more.
 
 Open Tue–Sat 11–7. Closed Sunday. 8416 Bowdoin Way, Edmonds.
 
@@ -137,4 +131,5 @@ Drop in and dig.
 - Listening party date (none set)
 - Sept 23 anniversary (too early; save for early September)
 - Don't add album titles beyond the confirmed arrivals list unless Tam/Tre say they're on the floor
-- *Ten* still needs a yes/no on stock before Thursday
+- Pearl Jam *Ten* — confirmed **not** in stock. Do not post it.
+- Don't add album titles beyond the confirmed arrivals list unless Tam/Tre say they're on the floor

@@ -1,6 +1,6 @@
 ---
 title: Monday TNT Day — Agenda
-updated: 2026-08-22
+updated: 2026-08-24
 owner: Tam + Groove
 ---
 
@@ -28,6 +28,13 @@ Default agenda (reorder if Tam redirects):
   - Local: `00_Objectives/2026 Objectives.md`
 - Adjust for current reality (Shopify cutover, ~$250/mo budget, Sept 23 anniversary)
 - Produce a short **plan of record** (what we're committing to for the next 90 days)
+
+
+## 4. Marshall estate-sale used albums (added 8/24)
+- Marshall emailed a list from an estate sale: used albums someone wants to sell
+- Groove reviews the list with Tam; Tre leads the buy decision (inventory lane)
+- Look for titles that fit TNT (curated new-leaning shop: staples, giftable, staff-pick adjacent — skip dead stock)
+- Outcome: buy / pass / need-to-see-in-person
 
 ## Prep notes (as of 2026-08-22)
 - `03_Marketing/` folder in tamknowledge is empty; live strategy lives in Google Drive
