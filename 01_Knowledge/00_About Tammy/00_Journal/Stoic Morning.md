@@ -3501,3 +3501,6 @@ The days keep marching on. I intend to soak in the rest that summer has to offer
 I have to acknowledge that at this point, I want an offer from Salesforce. I’m not even sure I’d love it. This is one part ego, one part security, one part wanting to get back at it in a very routine way. I must prepare myself for not getting it, otherwise I may take it personally and that i a dangerous game. I am pretty sure that what I don’t want is chasing advisory work. I don’t want to be in the weeds executing. Not my strength, not my fuel. I am like a broken record.
 
 The key thing is to recognize that ego is the enemy. Attaching meaning to a job in a way that feeds my sense of self and well being was never a good idea. It is hard for that not to happen. But honestly, most of the world doesn’t care and it ultimately means nothing. What matters is what I give and what I am able to receive. 
+
+## Tuesday August 25
+It has taken over two months to land in a place of genuine enjoyment of my current freedom from contractual obligations to a company or a boss. I’m still constantly seeking the quick dopamine hit. Now that I’ve chilled the fuck out from pushing myself to “figure it all out” I can play with losing that addiction. 
