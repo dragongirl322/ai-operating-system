@@ -1,67 +1,56 @@
 # Substack book list
 
-Working list for the rec stream. Stance: don't be the wise one; help people find their own wisdom. Alternate with the leadership series. First rec is Tue Sep 22.
+Working list for the rec stream. Stance: don't be the wise one; help people find their own wisdom. Alternate with the leadership series. First rec is Tue Sep 8 (*Dare to Lead*). Self-care posted Aug 25.
 
-## Your list (top of mind)
+## In
 
 | Book | Author | Notes |
 |---|---|---|
-| The 7 Habits of Highly Effective People | Stephen Covey | Already in the Sep 8 self-care close |
+| The 7 Habits of Highly Effective People | Stephen Covey | Named in the Aug 25 self-care post |
 | The 8th Habit | Stephen Covey | |
 | BE 2.0 | Jim Collins (and Bill Lazier) | In Readwise |
-| The Road Less Traveled | M. Scott Peck | Already in the Sep 8 close |
+| The Road Less Traveled | M. Scott Peck | Named in the Aug 25 self-care post |
 | Man's Search for Meaning | Viktor Frankl | |
-| The Greatest Salesman in the World | Og Mandino | You said World's Greatest Salesman |
+| The Greatest Salesman in the World | Og Mandino | |
 | Dare to Lead | Brené Brown | |
+| Daring Greatly | Brené Brown | Confirmed read |
 | The Infinite Game | Simon Sinek | |
-| The Blueprint | ? | Confirm author |
-| The Rise | Sarah Lewis | Mastery — already in your leadership framework |
-| Who Do You Want to Be? | ? | Close to Wheatley's *Who Do We Choose to Be?* |
+| Leaders Eat Last | Simon Sinek | Confirmed read |
+| The Blueprint | Doug Conant | Confirmed |
+| The Rise | Sarah Lewis | Mastery — already in the leadership framework |
+| Who Do We Choose to Be? | Meg Wheatley | Confirmed (was "Who Do You Want to Be?") |
 | Leadership and the New Science | Margaret Wheatley | |
 | Meditations | Marcus Aurelius | |
 
-## In your Readwise, not on the list above
-
-Worth considering for the same stream:
+## In Readwise, not on the list above
 
 - *Thinking in Systems* — Donella Meadows (sits next to Wheatley)
-- *Move Fast. Break Shit. Burn Out.* — Tracey Lovejoy and Shannon Lucas (change agents, burnout, cites Covey)
+- *Move Fast. Break Shit. Burn Out.* — Tracey Lovejoy and Shannon Lucas
 - *Build* — Tony Fadell
 - *Holding Your Own*
 - *Reality Is Broken* — Jane McGonigal
 - *What Your Customer Wants and Can't Tell You*
 
-## Close cousins you may have sat with
+## Not read (parked)
 
-Same neighborhood as what you named. Strike any you haven't read.
-
-**Covey / Collins / meaning**
-- *Good to Great* — Jim Collins (Stockdale Paradox lives here; you already use it)
+- *Good to Great* — Jim Collins
 - *First Things First* — Covey
 - *Man's Search for Himself* — Rollo May
 - *Let Your Life Speak* — Parker Palmer
-
-**Brown / Sinek / courage**
-- *Daring Greatly* — Brené Brown
-- *Leaders Eat Last* — Simon Sinek
-
-**Wheatley / systems**
-- *Who Do We Choose to Be?* — Margaret Wheatley (if this isn't already "Who Do You Want to Be?")
 - *The Fifth Discipline* — Peter Senge
 
-**Mastery / The Rise**
+## Still unmarked
+
 - *Mindset* — Carol Dweck
 - *Drive* — Daniel Pink
-
-**Meditations / hard times**
 - *Letters from a Stoic* — Seneca
-- *Courage Under Fire* or *Thoughts of a Philosophical Fighter Pilot* — James Stockdale
+- *Courage Under Fire* / *Thoughts of a Philosophical Fighter Pilot* — James Stockdale
 
-## Rec calendar (from Substack schedule)
+## Rec calendar
 
-- Tue Sep 22 — Rec #1
-- Tue Oct 20 — Rec #2
-- Tue Nov 17 — Rec #3
-- Tue Dec 15 — Rec #4
-- Tue Jan 12 — Rec #5
-- Tue Feb 9 — Rec #6
+- Tue Sep 8 — Rec #1 *Dare to Lead*
+- Tue Oct 6 — Rec #2 *Man's Search for Meaning*
+- Tue Nov 3 — Rec #3 *Who Do We Choose to Be?*
+- Tue Dec 1 — Rec #4 *The Rise*
+- Tue Dec 29 — Rec #5 *Meditations*
+- Tue Jan 26 — Rec #6 *The Road Less Traveled*

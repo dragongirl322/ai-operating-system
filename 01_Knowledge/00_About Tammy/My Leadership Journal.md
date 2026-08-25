@@ -345,3 +345,8 @@ Solving a functional imperative is not enough; our designs should say we give a 
 Bringing order to chaos is our goal with simplicity
 
   
+
+
+"The inner drive to find your own voice and inspire others to find theirs is fueled by one great overarching purpose: serving human needs. It is also the best means of achieving both. Without reaching out and meeting human needs, we really don't expand and develop our freedom to choose as we otherwise could. We grow more personally when we are giving ourselves to others. Our relationships improve and deepen when together we attempt to serve our family, another family, an organization, a community, or some other human need." --Stephen R. Covey, The Eighth Habit
+
+"Courage is not the absence of fear, but rather the judgment that something else is more important than fear." --Ambrose Redmond
