@@ -4,8 +4,8 @@
   "title": "Refine document flow and transitions",
   "titleGenerationStatus": "success",
   "createdAt": 1787690772280,
-  "updatedAt": 1787694667044,
-  "lastResponseAt": 1787694667044,
+  "updatedAt": 1787695420828,
+  "lastResponseAt": 1787695420828,
   "sessionId": "d1e1d8e4-6b15-4822-9390-b0880713e140",
   "providerState": {
     "providerSessionId": "d1e1d8e4-6b15-4822-9390-b0880713e140"
@@ -14,11 +14,11 @@
   "usage": {
     "model": "sonnet",
     "inputTokens": 2,
-    "cacheCreationInputTokens": 1235,
-    "cacheReadInputTokens": 32943,
+    "cacheCreationInputTokens": 1787,
+    "cacheReadInputTokens": 34178,
     "contextWindow": 1000000,
-    "contextTokens": 34180,
-    "percentage": 3,
+    "contextTokens": 35967,
+    "percentage": 4,
     "contextWindowIsAuthoritative": true
   }
 }
