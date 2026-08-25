@@ -1,0 +1,24 @@
+{
+  "id": "conv-1787690772279-ic1go8uv6",
+  "providerId": "claude",
+  "title": "Refine document flow and transitions",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787690772280,
+  "updatedAt": 1787690822208,
+  "lastResponseAt": 1787690822208,
+  "sessionId": "d1e1d8e4-6b15-4822-9390-b0880713e140",
+  "providerState": {
+    "providerSessionId": "d1e1d8e4-6b15-4822-9390-b0880713e140"
+  },
+  "currentNote": "02_Projects/Writing/Drafts/The Importance of Self-Care.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 1624,
+    "cacheReadInputTokens": 13791,
+    "contextWindow": 1000000,
+    "contextTokens": 15417,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}

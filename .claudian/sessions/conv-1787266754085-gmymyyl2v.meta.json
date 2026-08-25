@@ -4,13 +4,12 @@
   "title": "Refine writing voice for LinkedIn and Substack",
   "titleGenerationStatus": "success",
   "createdAt": 1787266754086,
-  "updatedAt": 1787280386287,
+  "updatedAt": 1787690695758,
   "lastResponseAt": 1787280386287,
   "sessionId": "19644bdc-2146-42ac-9dc0-e30b80cd3d82",
   "providerState": {
     "providerSessionId": "19644bdc-2146-42ac-9dc0-e30b80cd3d82"
   },
-  "currentNote": "02_Projects/Writing/Drafts/Dealing with the shit.md",
   "usage": {
     "model": "sonnet",
     "inputTokens": 2,
