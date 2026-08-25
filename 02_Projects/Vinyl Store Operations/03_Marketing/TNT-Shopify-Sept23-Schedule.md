@@ -28,7 +28,7 @@ Groove Society dry run waits until Tuesday payments/hardware work.
 - Date: **Wed Sept 23, 2026**, store hours 11–7.
 - Campaign line: **Year Two. Spinnin' Your Groove.**
 - Format (plan of record): customer-appreciation day, partners, prize wheel. No live music / no alcohol unless Tam changes that.
-- Draft day-shape in `TNT-Sept23-Year-Two.md` (customer appreciation, 11–7). Still open: Tam lock, partners, Emma/Tre brief by Fri 8/29.
+- **Locked:** customer appreciation, 11–7. See `TNT-Sept23-Year-Two.md` and `TNT-Sept23-Emma-Tre-One-Pager.md`. Still open: Tam names partners; Tam briefs Emma and Tre by Fri 8/29.
 
 ## How Groove pushes
 

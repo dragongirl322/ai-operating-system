@@ -1,6 +1,6 @@
 ---
 title: Sept 23 Year Two — Customer Appreciation
-status: draft for Tam 2026-08-24
+status: locked 2026-08-24
 date: 2026-09-23
 hours: 11–7
 campaign: Year Two. Spinnin' Your Groove.
@@ -8,7 +8,7 @@ campaign: Year Two. Spinnin' Your Groove.
 
 # Sept 23 — Year Two. Spinnin' Your Groove.
 
-Draft. Tam approves. No live music / no alcohol unless Tam changes that.
+Locked 8/24 (Tam). No live music / no alcohol unless Tam changes that.
 
 ## The day
 
@@ -37,6 +37,21 @@ All-day customer appreciation at TNT, Wed Sept 23, 11–7.
 
 Social announces. The store is the event.
 
+## Promo calendar
+
+| When | What | Who |
+|---|---|---|
+| Fri Aug 29 | Tam briefs Emma and Tre with the one-pager | Tam |
+| After Fri / early Sept | Partner asks (café / plaza coupon or pastry) | Tam (Groove drafts) |
+| Mon Sept 8 | Save-the-date IG/FB. Google post. In-store sign up. | Groove drafts, Tam posts |
+| Mon Sept 15 | What-to-expect post (wheel, hours, Year Two line). One shop photo. | Groove drafts; Emma/Tre photo |
+| Mon Sept 21 | Press tip to My Edmonds News / Beacon + 2 photos | Groove drafts, Tam sends |
+| Tue Sept 22 | Tomorrow reminder IG/FB/Google | Groove drafts, Tam posts |
+| Wed Sept 23 | Stories + Google. Host the day. | Emma floor, Tre stack, Tam thanks, Groove recap draft |
+| Thu Sept 24 | Thank-you recap | Groove drafts, Tam posts |
+
+Email only if Groove Society / Shopify Email is actually sending by then.
+
 ## Partners (Tam names them)
 
 Ask 1–2 plaza / café people for a coupon on the wheel or a pastry/coffee thank-you. Skip brewery unless Tam lifts the alcohol constraint.
@@ -45,10 +60,10 @@ Budget sketch from the plan of record: ~$50 prizes, ~$40 partner hospitality, op
 
 ## This week (Aug 24–29)
 
-- [ ] Tam locks the day-shape (or redirects)
+- [x] Tam locks the day-shape (8/24)
 - [ ] Tam names 1–2 partners to ask
-- [ ] Groove writes Emma/Tre one-pager + Sept promo calendar
-- [ ] Tam tells Emma and Tre their jobs by Friday
+- [x] Groove writes Emma/Tre one-pager + Sept promo calendar
+- [ ] Tam tells Emma and Tre their jobs Wed Aug 26 5:00pm (moved from Friday)
 - [ ] Partner asks go out after Friday (or sooner if Tam is ready)
 
 ## Not this event
