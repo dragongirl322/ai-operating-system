@@ -8,12 +8,11 @@ owner: Tam + Groove
 
 Default agenda (reorder if Tam redirects):
 
-## 1. Shopify hardware + online store + website
-- Test POS / hardware (reader, printer, cash drawer, iPad/register as applicable)
-- Confirm Shopify admin: products, payments, taxes, shipping/pickup, theme
-- Confirm customer capture / Groove Society flow (dry run target: **Aug 25, 2026**)
-- Website: tntmusic.shop alignment with Shopify Online Store (redirects, hours, cleaning service, contact)
-- Exit: checklist of ready / blocked / needs Tam decision
+## 1. Shopify (Tam owns admin; Groove holds the dates)
+- **Tue:** payments live + hardware test with Emma
+- **Fri:** site + limited online store
+- Groove Society dry run only after Tuesday works
+- Detail: `03_Marketing/TNT-Shopify-Sept23-Schedule.md`
 
 ## 2. Weekly social + Google content
 - Draft IG + Facebook + Google posts for the week (brand guide + writing guide + working agreement)
