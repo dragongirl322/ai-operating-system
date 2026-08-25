@@ -551,3 +551,7 @@ I love my wind down time in the evenings. So nice.
 It was a good end to what felt like a productive week. I’ve written more this week and connected with friends and colleagues. I’ve enjoyed time with Dayna, time in the son, and time with myself. 
 
 I go through every day with occasional doubt and uncertainty and every now and then a wave of fear. I don’t ruminate, which is good. I generally work through it quickly. Today I’m particularly disillusioned with the tech world. It is one I know well but it is also less recognizable. Hanging out in this space is likely not productive however, if it helps me be clear eyed as I make decisions about my future livelihood, it is good. 
+
+## Monday August 24
+
+The end of a day that felt productive and clears and full is a good end. I am tired but gratified. My mind and body and soul are all fed today. 
