@@ -34,6 +34,10 @@ The opposing force argues that forgetting is mercy, silence is loyalty, and the 
 
 **Wound:** The family system taught him that he is the damaged one, the unreliable one, the problem, the failure, and the person whose needs make others unsafe.
 
+**Voice and body compass:** Jack narrates like a man who can feel every wrong note in a room, but has been trained to believe the wrongness is him. He registers threat somatically before he can consciously interpret it: shaking hands, nausea, pressure, heat, headache, shame, the need to leave, the need to apologize, the urge to smoke, or the urge to make a joke.
+
+**Protective pattern:** Jack is fiercely protective of vulnerable people but almost never includes himself among them. He protects Tyler's confidence, Megan from judgment, Simone from the full weight of his fear, Mona from guilt, and even Owen from accountability because Owen does not fully know what he is echoing. Around Stephen, this protective instinct gets inverted: Jack does not consciously protect Stephen as a person, but he protects the story that keeps Stephen credible and himself suspect.
+
 **Symbolic function:** The body as witness. The designated damage. The person whose silence has protected everyone except himself.
 
 **Relationship to theme:** Jack embodies the theme under pressure. His arc moves from silence-as-survival to truth-as-rescue.
@@ -101,6 +105,20 @@ The opposing force argues that forgetting is mercy, silence is loyalty, and the 
 
 **Important line energy:** "I believe you did not kill her. But I do not think you remember that night as clearly as you think you do."
 
+### Leah Moreno
+
+**Role:** Jack's licensed therapist, accessed through social services because Jack no longer has steady income.
+
+**Age and presence:** Older than Jack, younger than Mona. Grounded, practical, and emotionally steady. She is very different from Mona: clear where Mona is manipulative, boundaried where Mona is needy, and direct without cruelty.
+
+**Therapeutic function:** Leah helps Jack stay with memory without drowning in it. She does not solve the mystery, diagnose the plot, or overinterpret clues. She notices patterns, asks precise questions, and helps Jack tolerate the next layer of truth.
+
+**Relationship to Jack:** Jack has been avoiding therapy and often returns frustrated or angry when he does go. His anger is partly resistance: therapy begins to unlock the survival equation that has kept him safe, or at least alive.
+
+**Symbolic function:** Safe witnessing. A non-family listener who can receive Jack's memories without needing them to protect the family story.
+
+**Relationship to theme:** Leah helps Jack experience memory as something he can survive. She makes it possible for him to touch truth without immediately being destroyed by it.
+
 ### Mona Price
 
 **Role:** Jack and Stephen's mother.
@@ -159,7 +177,7 @@ The opposing force argues that forgetting is mercy, silence is loyalty, and the 
 
 **Symbolic function:** The child the family chose to protect. Inherited narrative without original intent.
 
-**Relationship to Jack:** Evan can occasionally show warmth, making Jack hope for a brotherly connection. Then he repeats Stephen's worldview without realizing it.
+**Relationship to Jack:** Owen can occasionally show warmth, making Jack hope for a brotherly connection. Then he repeats Stephen's worldview without realizing it.
 
 **Relationship to theme:** Owen shows how the alibi spreads through a family. He did not create the lie, but he benefits from it and carries it forward.
 
