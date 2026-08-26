@@ -16,7 +16,9 @@
 
 [L9] "Hey, Tyler, thanks for letting me play. My brother's here so I gotta run," I said. "Anytime, Jack. Maybe you can teach me some things" he yelled as I jogged out of the garage toward my brother, Stephen. "Not likely," I thought to myself. 
 
-"Hey, brother!" I always feel so awkward greeting Stephen. He looks great, as always. Dressed in his chinos with a nice fitting polo. I've always felt a bit smaller than him. He's just over 6 feet tall and works out every day and he has that classic, handsome, Don Draper look. 
+"Hey, brother!" I always feel so awkward greeting Stephen. He looks great, as always. Dressed in his chinos with a nice fitting polo. I've always felt a bit smaller than him. He's just over 6 feet tall and works out every day and he has that classic, handsome, Don Draper look. As usual, he didn't acknowledge me and just walked in my front door like he owned the place.  
+
+"I'm doing okay. No luck on the work front but I started a business class at the business school." I lied. I couldn't stand him thinking I wasn't doing something. "Well, well little brother. That's something." I wanted that to feel good but somehow it didn't. 
 ## Scene 2: Jack's House
 
 Beat 8: Jack Performs Normal
