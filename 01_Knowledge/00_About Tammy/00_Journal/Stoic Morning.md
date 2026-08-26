@@ -3504,3 +3504,9 @@ The key thing is to recognize that ego is the enemy. Attaching meaning to a job 
 
 ## Tuesday August 25
 It has taken over two months to land in a place of genuine enjoyment of my current freedom from contractual obligations to a company or a boss. I’m still constantly seeking the quick dopamine hit. Now that I’ve chilled the fuck out from pushing myself to “figure it all out” I can play with losing that addiction. 
+
+Wednesday August 26
+
+I find myself this morning, questioning how I showed up in my final interview with Salesforce. I am not happy with the answer I gave about the role of design in a world of headless AI. I expect myself to be more “on it” and am berating myself for not being. I would not berate someone else. I would tell them that there are not perfect answers right now as we are all figuring it out. That the answer I gave was likely as good as anyone else would give. And if that is something that disqualifies me, that is a petty, small thing to anchor on. Also, this isn’t’ the only opportunity I have or will have and I’m not convinced a job where Rachel Kobetz is CDO is what I want right now. 
+
+I do like that I am hungry to continue working. I clearly desire being in the game still.
