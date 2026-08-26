@@ -555,3 +555,7 @@ I go through every day with occasional doubt and uncertainty and every now and t
 ## Monday August 24
 
 The end of a day that felt productive and clears and full is a good end. I am tired but gratified. My mind and body and soul are all fed today. 
+
+## Tuesday August 24
+
+A lot of context switching and computering today. My brain is tired. Now is a time to sit back, rest, recharge. 
