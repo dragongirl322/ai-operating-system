@@ -2,7 +2,7 @@
 title: Sept 23 — Emma and Tre meeting
 date: 2026-08-26 5:00pm
 owner: Tam
-status: run this tonight
+status: held 2026-08-26; decisions in TNT-Sept23-Year-Two-Decisions.md
 ---
 
 # Sept 23 meeting with Emma and Tre
@@ -105,3 +105,16 @@ If the wheel stays, lock tonight:
 - [ ] Who tells Groove the decisions after this meeting (Tam)
 
 Tam owns partners and money. Emma owns the floor. Tre owns the stack. Groove drafts promo after this meeting, does not invent a new day-shape.
+
+
+## Decisions from the meeting (Tam, after 5pm)
+
+See `TNT-Sept23-Year-Two-Decisions.md`. Short version:
+
+- Shape: day-of plus a raffle that starts Sept 1
+- Free item bin with any purchase (day-of)
+- SACDs moved; may sell wholesale
+- Vouchers with Five Corners Plaza
+- Raffle: full-price purchase enters; winner gets red turntable or a boombox, plus two floor albums of their choice
+- Prize wheel not named as the live mechanic; raffle is
+
