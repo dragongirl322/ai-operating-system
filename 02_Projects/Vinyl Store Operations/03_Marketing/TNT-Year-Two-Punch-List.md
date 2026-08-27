@@ -92,8 +92,17 @@ Daily: is raffle actually running? Entries happening? Sign still up?
 - [ ] Stories + Google
 - [ ] Emma: Groove Society ask
 
-### After
-- Fri Sept 25 thank-you recap (Groove drafts, Tam posts). Daily 10am punch list stops after Sept 24.
+### After Sept 24 (do not wait for November)
+
+Daily 10am punch list stops after opening day. These are the next season, locked Tam 8/27:
+
+- Fri Sept 25: thank-you recap. Same day, **start Halloween planning** (one bigger event + micro-events through much of October). Also sketch Thanksgiving through December so mid-October inventory has a list.
+- Mid-October (Mon Oct 12 TNT day): **holiday inventory ordered**. Tre/Vinyl Scout is still the weekly reorder source of truth; this is the extra holiday/giftable buy Tam approves. No parallel reorder process.
+- Thanksgiving through December: holiday events planned off that Sept 25 sketch, then executed. No live music / no alcohol unless Tam changes that.
+
+- [ ] Halloween: one bigger event + October micros (plan starts Sept 25)
+- [ ] Holiday inventory ordered mid-October
+- [ ] Tgiving–December holiday events planned and executed
 
 ## Voice
 

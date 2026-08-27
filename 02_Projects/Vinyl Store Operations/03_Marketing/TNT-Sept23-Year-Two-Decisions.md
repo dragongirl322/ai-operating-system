@@ -62,3 +62,10 @@ Tam: partners, budget, voucher ask, SACD price, approvals.
 Emma: floor, raffle entries, free bin, Groove Society ask.
 Tre: SACD move, Year Two stack from stock, restock.
 Groove: promo drafts from this file, press tip, voucher-ask draft. Does not invent a new day-shape.
+
+
+## After opening day (locked Tam 8/27)
+
+1. **Halloween.** Plan right after Sept 24 (start Fri Sept 25). One bigger event plus micro-events through much of October.
+2. **Holiday inventory.** Order mid-October (target Mon Oct 12). Vinyl Scout remains weekly reorder truth; this is Tam-approved holiday/giftable extras. Tre places the order.
+3. **Thanksgiving through December.** Plan off the Sept 25 sketch so the October order matches the events. Then execute. No live music / no alcohol unless Tam changes that.
