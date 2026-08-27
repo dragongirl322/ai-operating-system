@@ -3510,3 +3510,9 @@ It has taken over two months to land in a place of genuine enjoyment of my curre
 I find myself this morning, questioning how I showed up in my final interview with Salesforce. I am not happy with the answer I gave about the role of design in a world of headless AI. I expect myself to be more “on it” and am berating myself for not being. I would not berate someone else. I would tell them that there are not perfect answers right now as we are all figuring it out. That the answer I gave was likely as good as anyone else would give. And if that is something that disqualifies me, that is a petty, small thing to anchor on. Also, this isn’t’ the only opportunity I have or will have and I’m not convinced a job where Rachel Kobetz is CDO is what I want right now. 
 
 I do like that I am hungry to continue working. I clearly desire being in the game still. In one way or another.
+
+## Thursday August 27
+
+Waking up and being is such a good thing. It is easy to forget to be grateful for that simple miracle. I’ve been working on saying it out loud every day. It helps. I also realize that I wake every morning and for just a few minutes, feel a bit of sadness. I believe I’ve been this way my entire life. 
+
+I will make it the day I need it to be.
