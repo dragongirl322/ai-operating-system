@@ -18,11 +18,9 @@
 
 "Hey, brother!" I always feel so awkward greeting Stephen. He looks great, as always. Dressed in his chinos with a nice fitting polo. I've always felt a bit smaller than him. He's just over 6 feet tall and works out every day and he has that classic, handsome, Don Draper look. As usual, he didn't acknowledge me and just walked in my front door like he owned the place.  
 
-"What's up?" I asked, trying to sound confident but I know I sound like a pussy. "Not much. I just stopped by the Lynnwood lot and thought I'd stop by and see how you're doin'." 
+"What's up?" I asked, trying to sound confident but I know I sound like a pussy. "Not much. I just stopped by the Lynnwood lot and thought I'd stop by and see how you're doin'." "How's business these days?" I asked, not wanting the attention on me. "We're doing great. All three lots are selling more than we can keep up with." That was always his line. Things going great. Better than expected.  
 
-"How's business these days?" I asked, not wanting the attention on me. "We're doing great. All three lots are selling more than we can keep up with." That was always his line. Things going great. Better than expected. "Are you looking for work these days?" he asked. Even thought I knew the question was coming this one caused my gut to clench. "No. But I started a small business class at the community college." I lied. "Good. At least you're doing something." 
-
-In my awkwardness, I turned and opened the fridge "Wanna beer?" I asked. "It's a little early for me" he said, with just a wee bit of Stephen superiority. I'm used to it. I think. We stood around talking about nothing for a while before he said "I got invited to go to Florida next week to speak at a big charity foundation event. The Everett Youth Foundation asked me to talk a bit about how I've succeeded as a self-made business man." "Wow, that sounds like a big deal," I said "It is. I think it is going to be great for business." he said. 
+In my awkwardness, I turned and opened the fridge "Wanna beer?" I asked. "It's a little early for me" he said, causing my face to heat up again. To distract from my embarrassment I said "Hey, I talked to a buddy of mine last week about maybe coming and helping work at his detailing shop. It wouldn't pay great but at least I'd be making something." Stephen shrugged then quickly changed the subject. "I'm headed to Florida next week to speak at a big charity foundation event. The Everett Youth Foundation asked me to talk about how I've succeeded as a self-made business man." "Wow, that sounds like a big deal," I said "It is. I think it is going to be great for business." he said. 
 ## Scene 2: Jack's House
 
 Beat 8: Jack Performs Normal
