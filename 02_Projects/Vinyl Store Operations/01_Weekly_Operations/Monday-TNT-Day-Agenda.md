@@ -25,7 +25,7 @@ Default agenda (reorder if Tam redirects):
   - Google Doc: [TNT Music Brand and Marketing Strategy - Year Two Launch](https://docs.google.com/document/d/1PZveq9eWgSZfJaVb7SHp6cucTr9GebY8eAvBrbF9W7E)
   - Tracker: [TNT Music Growth Tracker](https://docs.google.com/spreadsheets/d/15nXsTRB9oH1mzKR6J-JLBnwrmxkrUBibtrdsjQZlpRE)
   - Local: `00_Objectives/2026 Objectives.md`
-- Adjust for current reality (Shopify cutover, ~$250/mo budget, Sept 23 anniversary)
+- Adjust for current reality (Shopify cutover, ~$250/mo budget, Sept 24 anniversary)
 - Produce a short **plan of record** (what we're committing to for the next 90 days)
 
 

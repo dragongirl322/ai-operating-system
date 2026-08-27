@@ -40,7 +40,7 @@ This pulls the marketing start earlier than the Sept 8 save-the-date. In-store r
 | After this meeting / early Sept | Five Corners Plaza voucher ask | Tam (Groove drafts) |
 | Mon Sept 8 | Save-the-date for Sept 24 (free bin, plaza vouchers, SACDs if we want them in the copy) | Groove drafts, Tam posts |
 | Mon Sept 15 | What-to-expect. One shop photo. | Groove drafts; Emma or Tre photo |
-| Mon Sept 21 | Press tip to My Edmonds News / Beacon + 2 photos | Groove drafts, Tam sends |
+| Mon Sept 21 | Local press (My Edmonds News / Beacon) + 2 photos | **Tam owns.** Groove drafts only if Tam asks |
 | Wed Sept 23 | Tomorrow reminder | Groove drafts, Tam posts |
 | Thu Sept 24 | Host the day. Draw the raffle. Stories + Google. | Emma floor, Tre stack, Tam thanks |
 | Fri Sept 25 | Thank-you recap | Groove drafts, Tam posts |
@@ -58,7 +58,7 @@ Email only if Groove Society / Shopify Email is actually sending by then.
 
 ## Owners
 
-Tam: partners, budget, voucher ask, SACD price, approvals.
+Tam: partners, budget, voucher ask, local press, SACD price, approvals.
 Emma: floor, raffle entries, free bin, Groove Society ask.
 Tre: SACD move, Year Two stack from stock, restock.
 Groove: promo drafts from this file, press tip, voucher-ask draft. Does not invent a new day-shape.

@@ -1,21 +1,21 @@
 ---
-title: Sept 23 — Emma and Tre meeting
+title: Year Two (Sept 24) — Emma and Tre meeting
 date: 2026-08-26 5:00pm
 owner: Tam
 status: held 2026-08-26; decisions in TNT-Sept23-Year-Two-Decisions.md
 ---
 
-# Sept 23 meeting with Emma and Tre
+# Year Two meeting with Emma and Tre (opening is Sept 24)
 Wednesday Aug 26, 5:00pm. Separate from the 3pm Shopify hardware block.
 
 Purpose: hear their ideas first, then lock three decisions so we can market a real day instead of a maybe.
 
 Line: **Year Two. Spinnin' Your Groove.**
-Day: Wednesday Sept 23, 11–7 (normal hours). Customer appreciation. Not a concert, not a bar.
+Day: Thursday Sept 24, 11–7 (Tre's date; not Sept 23). Customer appreciation. Not a concert, not a bar.
 
 ## Already locked (don't reopen unless someone has a hard no)
 
-- Date and hours: Wed Sept 23, 11–7
+- Date and hours: Thu Sept 24, 11–7
 - Shape: all-day customer appreciation
 - No live music, no alcohol (unless Tam changes that later)
 - Campaign line stays Year Two. Spinnin' Your Groove.
@@ -25,7 +25,7 @@ Day: Wednesday Sept 23, 11–7 (normal hours). Customer appreciation. Not a conc
 ## How to run the meeting
 
 1. Thank them. Year one happened because they ran the floor and the stock.
-2. Ask: what would make Sept 23 feel like TNT, for customers and for you two? Capture everything before pitching.
+2. Ask: what would make Sept 24 feel like TNT, for customers and for you two? Capture everything before pitching.
 3. Then the three decisions below.
 4. Walk out with owners and dates, not a vibe.
 
@@ -40,7 +40,7 @@ Draft (Groove). Social announces. The store is the event. Email only if Groove S
 | Mon Sept 15 | What-to-expect (hours, Year Two line, whatever we lock tonight). One shop photo. | Groove drafts; Emma or Tre photo |
 | Mon Sept 21 | Press tip to My Edmonds News / Beacon + 2 photos | Groove drafts, Tam sends |
 | Tue Sept 22 | Tomorrow reminder IG/FB/Google | Groove drafts, Tam posts |
-| Wed Sept 23 | Stories + Google. Host the day. | Emma floor, Tre stack, Tam thanks |
+| Thu Sept 24 | Stories + Google. Host the day. | Emma floor, Tre stack, Tam thanks |
 | Thu Sept 24 | Thank-you recap | Groove drafts, Tam posts |
 
 Ask them: anything missing, too much, or in the wrong order? If they want a photo or a staff-pick post, put a name on it tonight.
@@ -49,13 +49,13 @@ Ask them: anything missing, too much, or in the wrong order? If they want a phot
 
 Options to put on the table (all still no live music / no alcohol):
 
-- **A. Day-of only.** Sept 23 is the whole thing. Simplest. Matches what we locked Aug 24.
+- **A. Day-of only.** Sept 24 is the whole thing. Simplest. Matches what we locked Aug 24, date corrected to the 24th.
 - **B. Day-of plus a small surround.** Examples that fit TNT: a listening hour the Saturday before, a staff-favorites week on the floor, or a "bring a friend" weekend after. Not extra production. Not a second party.
 - **C. Something they invent.** If Emma or Tre has a better surround, hear it. Kill anything that needs a stage, a bar, or a special buy Tre cannot cover from stock.
 
 Decide: A, B, or C. If B or C, name the extra beat and who runs it.
 
-## Decision 3 — What we actually do in the store on Sept 23
+## Decision 3 — What we actually do in the store on Sept 24
 
 Tam proposes a **prize wheel** (partner coupons plus one TNT prize: sticker pack or a cleaning credit). That is a proposal, not a lock until they react.
 

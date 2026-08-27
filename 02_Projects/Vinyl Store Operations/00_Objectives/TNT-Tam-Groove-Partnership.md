@@ -32,7 +32,7 @@ Informed by Year Two growth strategy and a "learn from the best" study of Easy S
 
 ## What Tam + Groove own together
 
-Aligned to the Year Two growth system (~$4K/mo baseline → staged climb toward ~$7K/mo by Q4 2027; ~$250/mo marketing budget; Sept 23 anniversary as a brand milestone).
+Aligned to the Year Two growth system (~$4K/mo baseline → staged climb toward ~$7K/mo by Q4 2027; ~$250/mo marketing budget; Sept 24 anniversary as a brand milestone).
 
 Paid ads are seasoning. Events, partners, email, and Google are the meal.
 
@@ -64,7 +64,7 @@ Paid ads are seasoning. Events, partners, email, and Google are the meal.
   1. Monthly free listening party (IG RSVP, one raffle)
   2. Hyperlocal press habit — My Edmonds News / Beacon tip + 2 photos per event
   3. One plaza / café partner ritual per quarter (coffee for early RSD line; pastry day; shared posts)
-  4. One signature annual day near Sept 23 (scaled Customer Appreciation — partners, prize wheel with merchant coupons)
+  4. One signature annual day near Sept 24 (scaled Customer Appreciation — partners, prize wheel with merchant coupons)
 - **We do:** Calendar, promos, partner outreach drafts, press tips, measurement (turnout, repeat visitors).
 - **Emma:** Host/floor for events. **Tre:** Stock for themed drops / listening-party titles.
 
@@ -99,7 +99,7 @@ Paid ads are seasoning. Events, partners, email, and Google are the meal.
 | **Biweekly** | Social + Google metrics review → improvement proposals |
 | **Monthly** | Listening party (or equivalent anchor); revenue vs target; email performance |
 | **Quarterly** | Café/plaza partner ritual; partnership scorecard |
-| **Annually** | Sept 23 anniversary / customer-appreciation day; RSD hospitality |
+| **Annually** | Sept 24 anniversary / customer-appreciation day; RSD hospitality |
 | **As needed** | Partner outreach, paid boosts (budget-gated, ~$80/mo local social when used) |
 
 ## ~$250/mo marketing sketch

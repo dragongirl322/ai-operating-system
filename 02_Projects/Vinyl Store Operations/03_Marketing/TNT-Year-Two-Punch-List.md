@@ -1,6 +1,6 @@
 ---
 title: Year Two punch list
-updated: 2026-08-26
+updated: 2026-08-27
 opening: 2026-09-24
 hours: 11–7
 campaign: Year Two. Spinnin' Your Groove.
@@ -22,18 +22,20 @@ Check off in this file when done. Groove re-reads this before each 10am ping.
 - Day-of: free item with any purchase, SACDs moved (maybe wholesale), Five Corners Plaza vouchers
 - Tre: one Year Two stack from stock, no special buy unless Tam says
 - Emma: floor, raffle entries, Groove Society ask
-- Tam: partners, budget, approvals. Groove: drafts. Tam owns Shopify admin unless she asks Groove in.
+- Tam: partners, budget, approvals, **local press**. Groove: drafts. Tam owns Shopify admin unless she asks Groove in.
 
 ## Still open (work these on any slack day)
 
 - [ ] Five Corners Plaza voucher ask (who is on it, Groove drafts, Tam sends)
-- [ ] SACD wholesale price and where they sit (Tam/Tre)
+- [ ] SACD wholesale price and where they sit (Tre)
 - [ ] Free bin: what is in it, who restocks (Emma/Tre)
 - [ ] Raffle web app for Emma (due Fri Aug 28, live Tue Sept 1)
 - [ ] Dayna looks into sandwich board (Mon Aug 31)
 - [ ] One shop photo for Sept 15 post; two for press
 - [ ] Staffing 11–7 on Sept 24
 - [ ] How Emma logs entries / who draws
+- [ ] Give aways for day of
+- [ ] Local press (Tam): notify My Edmonds News / Beacon. Due Mon Sept 21. Groove drafts only if Tam asks.
 
 ## Day by day
 
@@ -81,7 +83,7 @@ Daily: is raffle actually running? Entries happening? Sign still up?
 - [ ] What-to-expect post. One shop photo from Emma or Tre.
 
 ### Mon Sept 21
-- [ ] Press tip to My Edmonds News / Beacon + 2 photos
+- [ ] **Tam:** send local press notice (My Edmonds News / Beacon) + 2 photos. Tam owns this. Groove drafts only if asked.
 
 ### Wed Sept 23
 - [ ] Tomorrow reminder IG/FB/Google (opening is Thursday 9/24)

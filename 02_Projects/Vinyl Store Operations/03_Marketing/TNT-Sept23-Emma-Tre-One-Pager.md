@@ -1,11 +1,11 @@
 ---
-title: Sept 23 — Emma and Tre one-pager
-date: 2026-09-23
+title: Sept 24 — Emma and Tre one-pager
+date: 2026-09-24
 hours: 11–7
 ---
 
 # Year Two. Spinnin' Your Groove.
-**Wed Sept 23 · 11–7 · customer appreciation**
+**Thu Sept 24 · 11–7 · customer appreciation**
 
 Thank people for year one. Easy browsing. Music at conversation level. Not a concert. Not a bar.
 

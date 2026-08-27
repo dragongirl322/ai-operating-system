@@ -44,7 +44,7 @@ Paid ads are seasoning, not the meal.
 5. **Google Business discipline** — weekly post, fresh photos, reply to every review in 48 hrs
 6. **Tease arrivals on IG; keep hottest used in-store only** (Millennium) to drive visits
 7. **Tourism / Visit Edmonds listing** (Next → Sonoma Tourism)
-8. **One signature annual day** near Sept 23 anniversary (scaled Customer Appreciation — partners bring food, prize wheel with merchant coupons)
+8. **One signature annual day** near Sept 24 anniversary (scaled Customer Appreciation — partners bring food, prize wheel with merchant coupons)
 
 **Budget sketch/mo:** ~$80 local boosts + ~$50 prizes + ~$40 partner hospitality + ~$30 Discogs/ship buffer + $0–15 email ≈ $250
 

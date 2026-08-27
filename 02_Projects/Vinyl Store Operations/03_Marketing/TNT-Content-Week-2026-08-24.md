@@ -136,7 +136,7 @@ Drop in and dig.
 
 - Groove Society signup (wait until Shopify dry run is real)
 - Listening party date (none set)
-- Sept 23 anniversary (too early; save for early September)
+- Sept 24 anniversary (too early; save for early September)
 - Don't add album titles beyond the confirmed arrivals list unless Tam/Tre say they're on the floor
 - Pearl Jam *Ten* — confirmed **not** in stock. Do not post it.
 - Don't add album titles beyond the confirmed arrivals list unless Tam/Tre say they're on the floor
