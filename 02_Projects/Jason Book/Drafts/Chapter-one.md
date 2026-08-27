@@ -20,7 +20,12 @@
 
 "What's up?" I asked, trying to sound confident but I know I sound like a pussy. "Not much. I just stopped by the Lynnwood lot and thought I'd stop by and see how you're doin'." "How's business these days?" I asked, not wanting the attention on me. "We're doing great. All three lots are selling more than we can keep up with." That was always his line. Things going great. Better than expected.  
 
-In my awkwardness, I turned and opened the fridge "Wanna beer?" I asked. "It's a little early for me" he said, causing my face to heat up again. To distract from my embarrassment I said "Hey, I talked to a buddy of mine last week about maybe coming and helping work at his detailing shop. It wouldn't pay great but at least I'd be making something." Stephen shrugged then quickly changed the subject. "I'm headed to Florida next week to speak at a big charity foundation event. The Everett Youth Foundation asked me to talk about how I've succeeded as a self-made business man." "Wow, that sounds like a big deal," I said "It is. I think it is going to be great for business." he said. 
+In my awkwardness, I turned and opened the fridge "Wanna beer?" I asked. "It's a little early for me" he said, causing my face to heat up again. It didn't help that the only food in the fridge was a small container of cottage cheese and a bag of wilted lettuce. When I turned around and caught his eye, my gut clenched. To distract from my embarrassment I said "Hey, I talked to a buddy of mine last week about maybe coming and helping work at his detailing shop. It wouldn't pay great but at least I'd be making something." Stephen shrugged then quickly changed the subject. "I'm headed to Florida next week to speak at a big charity foundation event. The Everett Youth Foundation asked me to talk about how I've succeeded as a self-made business man." "Wow, that sounds like a big deal," I said "It is. I think it is going to be great for business. It feels like all of my hard work is paying off." he said. "That's great, Stephen. Dad would be proud."
+
+I feel like I want something here about the dad? 
+
+
+
 ## Scene 2: Jack's House
 
 Beat 8: Jack Performs Normal

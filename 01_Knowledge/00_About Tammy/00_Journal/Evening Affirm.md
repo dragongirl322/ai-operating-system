@@ -559,3 +559,7 @@ The end of a day that felt productive and clears and full is a good end. I am ti
 ## Tuesday August 24
 
 A lot of context switching and computering today. My brain is tired. Now is a time to sit back, rest, recharge. 
+
+## Wednesday August 25
+
+It is clear from what is motivating me these days that I need to have good, challenging problems to solve. It fill my intellectual cup. I’m glad I have options on the table. Salesforce, URI, Nutanix, advisory work with Matt Stepanski’s buddy. Amazing!

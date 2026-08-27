@@ -44,6 +44,28 @@ The opposing force argues that forgetting is mercy, silence is loyalty, and the 
 
 **Opening image possibility:** Jack hears Tyler Holt playing guitar in a neighbor's garage. He encourages the boy, briefly plays something beautiful, then sees Tyler's aliveness and vulnerability. Jack's hand begins to shake. Stephen's car arrives, interrupting the moment.
 
+### Frank Stephen Tate
+
+**Role:** Jack and Stephen's father; original family regime.
+
+**Status:** Deceased four years before the present.
+
+**Core identity:** Blue-collar successful businessman who ran a small construction business and treated work, toughness, and control as measures of human worth.
+
+**Family position:** Frank had been estranged from Jack for several years before his death but remained close to Stephen. He favored Stephen, taught him how to dominate, humiliate, and control, and made Stephen feel like the rightful inheritor of the family's authority.
+
+**Relationship to Jack:** Frank was Jack's primary overt abuser. He taught Jack that power meant danger, home meant surveillance, and needing protection could make things worse.
+
+**Relationship to Stephen:** Stephen carries Frank's middle name and inherits the family posture Frank modeled: authority as competence, cruelty as discipline, control as responsibility, and weakness as failure.
+
+**Want:** Obedience, control, and a family hierarchy that confirmed his own strength.
+
+**Fear:** Weakness, exposure, loss of authority, and anything that challenged his version of manhood.
+
+**Symbolic function:** The original regime. Frank built houses and broke people; Stephen inherits the name, the posture, and the permission structure.
+
+**Relationship to theme:** Frank is the source system that made silence feel like survival. His abuse created the family logic Stephen later weaponizes into alibi.
+
 ### Stephen Tate
 
 **Role:** Antagonist. Jack's older brother.
@@ -233,7 +255,7 @@ The opposing force argues that forgetting is mercy, silence is loyalty, and the 
 
 ### Original Regime
 
-**Father:** Overt physical terror and original authority.
+**Frank Stephen Tate:** Overt physical terror and original authority.
 
 **Mona Price:** Beauty plus covert cruelty; the mother who gave music but not safety.
 
