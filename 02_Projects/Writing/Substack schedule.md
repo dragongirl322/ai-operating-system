@@ -41,3 +41,9 @@ Rec #1 is Brown, not Peck/Covey: the self-care post already named those two. Pec
 - Source draft for stream 1: `Drafts/Dealing with the shit.md`
 - Book list: `Substack book list.md`
 - Next draft window: week of Sep 1, for Sep 8
+
+## Fresh ideas (inbox)
+
+Unscheduled sparks. Append here. Do not put a date on them and do not edit the calendar table. Abby or Tam promotes an idea onto a Tuesday when it is ready.
+
+- **“I’ll never…”** (captured 2026-08-28) — Times I said I would never do a thing, then did it. Point: we don’t always know what we really want and need; sometimes the thing we thought we didn’t want is the best thing. Stay clear on the underlying values that did not move. Stance: help people find their own wisdom, don’t be the wise one. Kin to *What I’d Tell Early Me*.
