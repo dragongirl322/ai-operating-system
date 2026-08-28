@@ -21,7 +21,7 @@ Check off in this file when done. Groove re-reads this before each 10am ping.
 - Prize: red turntable or a boombox, plus two floor albums of their choice
 - Day-of: free item with any purchase, SACDs moved (maybe wholesale), Five Corners Plaza vouchers
 - Tre: one Year Two stack from stock, no special buy unless Tam says
-- Emma: floor, raffle entries, Groove Society ask
+- Emma: floor, raffle entries on https://tnt-raffle-machine-production.up.railway.app, Groove Society ask
 - Tam: partners, budget, approvals, **local press**. Groove: drafts. Tam owns Shopify admin unless she asks Groove in.
 
 ## Still open (work these on any slack day)
@@ -29,7 +29,7 @@ Check off in this file when done. Groove re-reads this before each 10am ping.
 - [ ] Five Corners Plaza voucher ask (who is on it, Groove drafts, Tam sends)
 - [ ] SACD wholesale price and where they sit (Tre)
 - [ ] Free bin: what is in it, who restocks (Emma/Tre)
-- [ ] Raffle web app for Emma (due Fri Aug 28, live Tue Sept 1)
+- [x] Raffle web app for Emma — live https://tnt-raffle-machine-production.up.railway.app (Tam built 8/28). Emma collects starting Tue Sept 1.
 - [ ] Dayna looks into sandwich board (Mon Aug 31)
 - [ ] One shop photo for Sept 15 post; two for press
 - [ ] Staffing 11–7 on Sept 24
@@ -45,7 +45,7 @@ Check off in this file when done. Groove re-reads this before each 10am ping.
 
 ### Fri Aug 28
 - [ ] Shopify limited online store, 10–12 (new vinyl, select CDs, gifts, accessories, bundles; not full used catalog)
-- [ ] Raffle web app for Emma. Groove offers to build if Tam wants.
+- [x] Raffle web app live (Tam, Railway): https://tnt-raffle-machine-production.up.railway.app
 - [ ] Short raffle copy ready: 1 ticket per album, 5 if they post and tag TNT.
 
 ### Sat Aug 29
