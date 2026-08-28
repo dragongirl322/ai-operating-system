@@ -37,8 +37,7 @@ I nodded, feeling a bit embarrassed that he felt like he had to take care of me.
 
 I could feel that familiar pounding behind my eyes. I looked down and my hands were shaking. My eyes started to water. Ah, shit. My heart was pounding and I didn't feel like I could breathe. I knew exactly what was happening. It wasn't the first time. I couldn't make it stop.
 
-I found my way to the bedroom and don't know how long I was there before Simone came in. "Jack? Oh honey, I'm here." She came to me and sat next to me, taking my hands in hers. "Look at me Jack." I looked up. "Take a slow breath in, like this." She breathed in deeply. I followed her. "Now let it out. Again, Jack. Keep breathing nice and slow. I'm here. You're going to be OK." After a few minutes, everything slowed down. The pounding in my chest. The hand shaking. The headache. "What happened, Jack?"
-
+I found my way to the bedroom and don't know how long I was there before Simone came in. "Jack? Oh honey, I'm here." She came to me and sat next to me, taking my hands in hers. "Look at me Jack." I looked up. "Take a slow breath in, like this." She breathed in deeply. I followed her. "Now let it out. Again, Jack. Keep breathing nice and slow. I'm here. You're going to be OK." After a few minutes, everything slowed down. The pounding in my chest. The hand shaking. The headache. "Do you want to talk about it?" She never pushed. It was one of the things I love most about her. She was strong without making me feel week. 
 
 ### Beat 14: Jack Names The Wrong Trigger
 
