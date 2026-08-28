@@ -35,16 +35,34 @@ I nodded, feeling a bit embarrassed that he felt like he had to take care of me.
 "Wow, that sounds like a big deal," I said 
 "It is. I think it is going to be great for business." he said. I nodded, not sure what to say. "When I get back, let's go grab a bite. I gotta go." He said, turning and setting a wad of $20s on the counter. "Go buy food. Actual food. Not strings, not smokes, not whatever gets you through an afternoon." He started toward the door then turned around and said "Simone's a good woman. Don't make her carry you too." He walked out the door and left me standing there seething. I couldn't tell if I was pissed, ashamed, or both. The shitty thing was, I knew he was right.  
 
-I could feel that familiar pounding behind my eyes. I looked down and my hands were shaking. My eyes started to water. Ah, shit. My heart was pounding and I didn't feel like I could breathe. I knew exactly what was happening. It wasn't the first time. I couldn't make it stop.
+[L14]I could feel that familiar pounding behind my eyes. I looked down and my hands were shaking. My eyes started to water. Ah, shit. My heart was pounding and I didn't feel like I could breathe. I knew exactly what was happening. It wasn't the first time. I couldn't make it stop.
 
-I found my way to the bedroom and don't know how long I was there before Simone came in. "Jack? Oh honey, I'm here." She came to me and sat next to me, taking my hands in hers. "Look at me Jack." I looked up. "Take a slow breath in, like this." She breathed in deeply. I followed her. "Now let it out. Again, Jack. Keep breathing nice and slow. I'm here. You're going to be OK." After a few minutes, everything slowed down. The pounding in my chest. The hand shaking. The headache. "Do you want to talk about it?" She never pushed. It was one of the things I love most about her. She was strong without making me feel week. 
+[L15]I found my way to the bedroom and don't know how long I was there before Simone came in. "Jack? Oh honey, I'm here." She came to me and sat next to me, taking my hands in hers. "Look at me Jack." I looked up. "Take a slow breath in, like this." She breathed in deeply. I followed her. "Now let it out. Again, Jack. Keep breathing nice and slow. I'm here. You're going to be OK." After a few minutes, everything slowed down. The pounding in my chest. The hand shaking. The headache. "Do you want to talk about it?" She never pushed. It was one of the things I love most about her. She was strong without making me feel weak. 
 
-### Beat 14: Jack Names The Wrong Trigger
+[L16]I took one last deep breath and said "I was out smokin' and I heard Tyler playing guitar. I went over there and he let me play for a minute. It felt good." I paused and took another breath. Simone didn't say anything. She held my hands and listened. "He looked at me like I'm somebody. Like I have something he wanted. I don't want him to talk like me. I don't want him to be like me." 
 
-Jack tells Simone about playing Tyler's guitar. He says Tyler looked at him with admiration, like Jack was somebody, like he had something Tyler wanted. Jack says the kid is good and should not look up to him because Jack is weak and has nothing. He likes Tyler and feels protective of him, but Tyler's aliveness and vulnerability did something to him.
+[L17]Simone took my face in her hands and held it so I couldn't look away from her. "Ah, Jack. Tyler likes you. You're a good guy."
+"I'm broken, Simone. I don't want that kid to be like me. I don't want him hurt."
+She didn't argue, just smiled at me gently and shook her head. "Come on, she said. Let me help you up." She stood and gave me a hand to my feet. "You okay?"
+"I am. I'm thirsty."
 
-**Possible line energy:** "It was the way he looked at me. Like I was somebody. Like I had something he wanted."
+[L18] We walked into the kitchen and while I was filling my glass of water I said "Oh yeah, STpehn stopped by"
+### Beat 15: Stephen Becomes An Afterthought
 
-**Jack's internal shift:** Jack can describe the emotional trigger but not the deeper reason it exists.
+Jack casually mentions, almost as an afterthought, "Oh yeah, and Stephen stopped by." He presents Stephen's visit as incidental, as if it had nothing to do with the panic attack.
 
-**Story function:** Keeps the central question alive: why does being admired by a vulnerable boy make Jack panic?
+**Jack's internal shift:** Jack unconsciously protects Stephen's place in the story. He can blame his own weakness more easily than he can name Stephen as a threat.
+
+**Story function:** Shows how deeply Jack has been trained to misread the family system.
+
+### Beat 16: Simone Sees The Money
+
+Simone sees the cash on the counter. She does not need to explain everything aloud. The money tells her Stephen happened inside the panic, not beside it.
+
+**Jack's internal shift:** Jack may not even register her looking at the money, or he may try to explain it away as help.
+
+**Story function:** Final button. Simone sees the pattern before Jack can name it. The scene ends with a quiet piece of evidence: Stephen's "help" has left Jack on the floor.
+
+## Final Image
+
+Simone standing between Jack's panic and Stephen's cash on the counter, understanding that the story Jack told her is incomplete.
