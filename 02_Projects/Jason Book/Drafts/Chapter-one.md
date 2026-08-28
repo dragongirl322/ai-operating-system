@@ -31,4 +31,21 @@
 "That's good. I'm glad to hear you're out there trying. Working will be good for you. How've you been feeling lately? Still getting the headaches?" 
 I nodded, feeling a bit embarrassed that he felt like he had to take care of me. "Yeah, I'm ok."  
 
-[L13]After a few minutes of silence, Stephen said "I'm headed to Florida next week to speak at a big charity foundation event. The Everett Youth Foundation asked me to talk about how I've succeeded as a self-made businessman." "Wow, that sounds like a big deal," I said "It is. I think it is going to be great for business." he said. I nodded, not sure what to say. "When I get back, let's go grab a bite. I gotta go." He said, turning and setting a wad of $20s on the counter. "Go buy food. Actual food. Not strings, not smokes, not whatever gets you through an afternoon." He started toward the door then turned around and said "Simone's a good woman. Don't make her carry you too." He walked out the door and left me standing there seething. I couldn't tell if I was pissed, ashamed, or both. The shitty thing was, I knew he was right.  
+[L13]After a few minutes of silence, Stephen said "I'm headed to Florida next week to speak at a big charity foundation event. The Everett Youth Foundation asked me to talk about how I've succeeded as a self-made businessman." 
+"Wow, that sounds like a big deal," I said 
+"It is. I think it is going to be great for business." he said. I nodded, not sure what to say. "When I get back, let's go grab a bite. I gotta go." He said, turning and setting a wad of $20s on the counter. "Go buy food. Actual food. Not strings, not smokes, not whatever gets you through an afternoon." He started toward the door then turned around and said "Simone's a good woman. Don't make her carry you too." He walked out the door and left me standing there seething. I couldn't tell if I was pissed, ashamed, or both. The shitty thing was, I knew he was right.  
+
+I could feel that familiar pounding behind my eyes. I looked down and my hands were shaking. My eyes started to water. Ah, shit. My heart was pounding and I didn't feel like I could breathe. I knew exactly what was happening. It wasn't the first time. I couldn't make it stop.
+
+I found my way to the bedroom and don't know how long I was there before Simone came in. "Jack? Oh honey, I'm here." She came to me and sat next to me, taking my hands in hers. "Look at me Jack." I looked up. "Take a slow breath in, like this." She breathed in deeply. I followed her. "Now let it out. Again, Jack. Keep breathing nice and slow. I'm here. You're going to be OK." After a few minutes, everything slowed down. The pounding in my chest. The hand shaking. The headache. "What happened, Jack?"
+
+
+### Beat 14: Jack Names The Wrong Trigger
+
+Jack tells Simone about playing Tyler's guitar. He says Tyler looked at him with admiration, like Jack was somebody, like he had something Tyler wanted. Jack says the kid is good and should not look up to him because Jack is weak and has nothing. He likes Tyler and feels protective of him, but Tyler's aliveness and vulnerability did something to him.
+
+**Possible line energy:** "It was the way he looked at me. Like I was somebody. Like I had something he wanted."
+
+**Jack's internal shift:** Jack can describe the emotional trigger but not the deeper reason it exists.
+
+**Story function:** Keeps the central question alive: why does being admired by a vulnerable boy make Jack panic?
