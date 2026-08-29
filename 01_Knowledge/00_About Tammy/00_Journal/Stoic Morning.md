@@ -3516,3 +3516,7 @@ I do like that I am hungry to continue working. I clearly desire being in the ga
 Waking up and being is such a good thing. It is easy to forget to be grateful for that simple miracle. I’ve been working on saying it out loud every day. It helps. I also realize that I wake every morning and for just a few minutes, feel a bit of sadness. I believe I’ve been this way my entire life. 
 
 I will make it the day I need it to be.
+
+Saturday August 29
+
+The rain is big and cool this morning. It is the end of summer, reminding me to embrace every joyous moment of sunshine I can. Thank you, nature, but I don’t need the reminder. I love the summer and the sun and the warmth and the long days. And I’m grateful for the rain and how it makes everything more beautiful and it wakes me up and it sounds peaceful falling on the skylights. Today is a good day.
