@@ -3517,6 +3517,63 @@ Waking up and being is such a good thing. It is easy to forget to be grateful fo
 
 I will make it the day I need it to be.
 
-Saturday August 29
+## Saturday August 29
 
 The rain is big and cool this morning. It is the end of summer, reminding me to embrace every joyous moment of sunshine I can. Thank you, nature, but I don’t need the reminder. I love the summer and the sun and the warmth and the long days. And I’m grateful for the rain and how it makes everything more beautiful and it wakes me up and it sounds peaceful falling on the skylights. Today is a good day.
+
+## Sunday August 30
+
+I love this time of year. Little league World Series (girls finished a couple of weeks ago), MLB playoffs on the horizon, NFL preseason in swing, end of summer. On a whim Dayna and I made a be on a horse race we were watching on TV. Wouldn’t you know we won a couple thousand from a 30 dollar bet! 
+
+
+## Saturday August 22
+Summer rain. That is the morning. I love the smell. I love the mood. It makes me want to sit out on the front porch and read a good book. That is exactly what I plan to do today. 
+
+I feel this constant nagging to somehow show up for people vs. “lecture” people in my posts. To share stories, thoughts, ideas in a way that is real and grounded and caring. Figuring out what that looks like is evolving.
+
+## Sunday August 23
+
+I spent way too much time on my computer yesterday. I got excited about Grokbot and then got carried away with creating a stupid video using AI. As a result, I felt a bit bogged down by the ordinary-ness of me last night. Sitting in a stew of uncertainty and insecurity and fear rather than love, hope, creativity. 
+
+Today is a detox day. The objective is to read, sit in the sun, listen to content that feeds me—probably one of the Brene episodes or some Ted talks. Hopefulness and confidence is important. 
+
+## Monday August 24
+
+The days keep marching on. I intend to soak in the rest that summer has to offer. It was great to get out yesterday for a nice ferry ride. Dayna and I figure it has been a couple of years for us and for Tre a year and a half. We used to ride frequently. We all have missed it. We live in such a beautiful place. 
+
+I have to acknowledge that at this point, I want an offer from Salesforce. I’m not even sure I’d love it. This is one part ego, one part security, one part wanting to get back at it in a very routine way. I must prepare myself for not getting it, otherwise I may take it personally and that i a dangerous game. I am pretty sure that what I don’t want is chasing advisory work. I don’t want to be in the weeds executing. Not my strength, not my fuel. I am like a broken record.
+
+The key thing is to recognize that ego is the enemy. Attaching meaning to a job in a way that feeds my sense of self and well being was never a good idea. It is hard for that not to happen. But honestly, most of the world doesn’t care and it ultimately means nothing. What matters is what I give and what I am able to receive. 
+
+## Tuesday August 25
+It has taken over two months to land in a place of genuine enjoyment of my current freedom from contractual obligations to a company or a boss. I’m still constantly seeking the quick dopamine hit. Now that I’ve chilled the fuck out from pushing myself to “figure it all out” I can play with losing that addiction. 
+
+## Wednesday August 26
+
+I find myself this morning, questioning how I showed up in my final interview with Salesforce. I am not happy with the answer I gave about the role of design in a world of headless AI. I expect myself to be more “on it” and am berating myself for not being. I would not berate someone else. I would tell them that there are not perfect answers right now as we are all figuring it out. That the answer I gave was likely as good as anyone else would give. And if that is something that disqualifies me, that is a petty, small thing to anchor on. Also, this isn’t’ the only opportunity I have or will have and I’m not convinced a job where Rachel Kobetz is CDO is what I want right now. 
+
+I do like that I am hungry to continue working. I clearly desire being in the game still. In one way or another.
+
+## Thursday August 27
+
+Waking up and being is such a good thing. It is easy to forget to be grateful for that simple miracle. I’ve been working on saying it out loud every day. It helps. I also realize that I wake every morning and for just a few minutes, feel a bit of sadness. I believe I’ve been this way my entire life. 
+
+I will make it the day I need it to be.
+
+## Saturday August 29
+
+The rain is big and cool this morning. It is the end of summer, reminding me to embrace every joyous moment of sunshine I can. Thank you, nature, but I don’t need the reminder. I love the summer and the sun and the warmth and the long days. And I’m grateful for the rain and how it makes everything more beautiful and it wakes me up and it sounds peaceful falling on the skylights. Today is a good day.
+
+## Sunday August 30
+
+I love this time of year. Little league World Series (girls finished a couple of weeks ago), MLB playoffs on the horizon, NFL preseason in swing, end of summer. On a whim Dayna and I made a be on a horse race we were watching on TV. Wouldn’t you know we won a couple thousand from a 30 dollar bet! 
+
+## Monday August 31
+
+The last day of the month. I know I comment on it so often but time moves so fucking fast. It has been an amazing gift of a summer. 
+
+I’m proud of myself for spending very little time on the computers this weekend. I lived an analog life and enjoyed it. It has more fired up and ready to go this week. 
+
+I asked my Ai friends to assess my strengths weaknesses. The one thing that stands out so strongly to me because I know how true it is being chosen can be confused with wanting the thing. I have spent 38 years in a career that has allowed me t o get and appreciate validation of me. In fact, my behavior within these environments often shows that my best self comes out once I’ve had that recognition, not before. As an athlete I was the benefactor of consistent recognition and praise. In my home, where my parents were inconsistent in a variety of ways, I learned to feed on the bread crumbs of praise I got for being a good example, having fast hands, having great hand eye coordination, etc. The most interesting thing about this is that I do have a strong, intrinsic core. I am and have long been one who is quick to take accountability to push myself through difficulty, to be introspective. 
+
+My work at this moment becomes finding that clarity of true, intrinsic, full on appreciation that is based on a strong foundation of self recognition. And to be very clear about what I want and need right now. That starts with the Salesforce opportunity.

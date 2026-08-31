@@ -30,7 +30,7 @@ Check off in this file when done. Groove re-reads this before each 10am ping.
 - [ ] SACD wholesale price and where they sit (Tre)
 - [ ] Free bin: what is in it, who restocks (Emma/Tre)
 - [x] Raffle web app for Emma — live https://tnt-raffle-machine-production.up.railway.app (Tam built 8/28). Emma collects starting Tue Sept 1.
-- [ ] Dayna looks into sandwich board (Mon Aug 31)
+- [x] Dayna on sandwich board; Emma has the design (Tam 8/31).
 - [ ] One shop photo for Sept 15 post; two for press
 - [ ] Staffing 11–7 on Sept 24
 - [ ] How Emma logs entries / who draws
@@ -41,7 +41,7 @@ Check off in this file when done. Groove re-reads this before each 10am ping.
 
 ### Thu Aug 27
 - [x] Shopify payments + hardware with Emma. Working as of Sat 8/29.
-- [ ] Emma solo test sale still open (not done 8/29).
+- [x] Emma set for Shopify (Tam 8/31). Solo sale off the list. (not done 8/29).
 - Groove stays out of admin unless Tam asks.
 
 ### Fri Aug 28
@@ -64,7 +64,7 @@ Rolled from Saturday (detox). Store closed. Desk day if she wants it.
 - [ ] SACDs: where they move, wholesale yes/no
 - [ ] Free bin contents
 - [ ] Short raffle copy before Tuesday’s post (1 ticket per album, 5 if they post and tag TNT)
-- [ ] Emma solo test sale still open
+- [x] Emma set for Shopify (Tam 8/31). Solo sale off the list.
 - ChatGPT/Bing stays parked for Monday 9am. Do not start it on Sunday unless Tam wants to.
 
 ### Mon Aug 31
@@ -73,8 +73,8 @@ Sunday items rolled again (Tam 8/30: none done). Lead with those, then Monday.
 - [ ] SACDs: where they sit, wholesale yes/no (Tre)
 - [ ] Free bin: what’s in it, who restocks
 - [ ] Short raffle copy before Tuesday’s post (1 ticket per album, 5 if they post and tag TNT)
-- [ ] Emma solo test sale still open
-- [ ] Dayna: sandwich board for raffle signage (9am one-shot too; don’t double-nag)
+- [x] Emma set for Shopify (Tam 8/31). Solo sale off the list.
+- [x] Dayna on sandwich board; Emma has the design ready (Tam 8/31).
 - [ ] ChatGPT/Bing stack at 9am with Osprey’s update
 - Raffle app is already live. Emma collects Tuesday.
 

@@ -563,3 +563,9 @@ A lot of context switching and computering today. My brain is tired. Now is a ti
 ## Wednesday August 25
 
 It is clear from what is motivating me these days that I need to have good, challenging problems to solve. It fill my intellectual cup. I’m glad I have options on the table. Salesforce, URI, Nutanix, advisory work with Matt Stepanski’s buddy. Amazing!
+
+## Saturday August 29
+
+Sometimes I find the raw words and feelings right there, just on the tip of my brain. Other times they get so muddled in all of the noise. And sometimes lost in the self-consciousness of wanting to “like” my own writing. Fuck that. 
+
+I need to be working. Without purposeful problem solving and doing I do see a leaning toward too much melancholy. A little bit is fine. I’m OK, just aware. 
