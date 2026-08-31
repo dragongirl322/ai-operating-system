@@ -19,12 +19,13 @@ Unlock the tablet and Shopify POS with that. If it fails, stop and text Tam. Do 
 1. Tap "TNT Music Gift Card" tile.
 2. Choose "Physical Gift Card"
 3. Choose denomination; if custom, choose "custom gift card" and enter amount
-4. Camera view will come up. In the top right of camera view there is what lo
+4. Camera view will come up. In the top right of camera view there is what looks like three rows of ..., tap that
+5. Scan the code on the back of the gift card; if it doesn't enter, type it in manually
+6. Choose "Add"
+7. Get customer info for tracking; OK if they don't want to give their info
 
-If Help does not make it obvious, pause and text Tam. Do not guess, and do not go back to RAIN.
+## Paying with Gift cards
 
-## If something looks off
-
-- Card will not apply: stop, do not charge twice, text Tam.
-- Customer has an old RAIN card: still go through Shopify Help first, then Tam if it will not load.
-- PIN will not unlock: text Tam. Do not keep guessing.
+1. Ring up as usual. In payment, choose "Gift card"
+2. Camera view appears; choose "Enter Code" on the right just above camera view
+3. Scan code w/ the scanner or type in manually
