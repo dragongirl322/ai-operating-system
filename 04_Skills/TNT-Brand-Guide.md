@@ -141,14 +141,14 @@ Review metrics monthly and double-down on top-performing content.
 
 ### Colors
 
-| Role | Hex |
-|---|---|
-| Primary (purple) | #7C2C9E |
+| Role                     | Hex     |
+| ------------------------ | ------- |
+| Primary (purple)         | #7C2C9E |
 | Secondary (light purple) | #B98ED3 |
-| Tertiary — Neon Blue | #13DEF5 |
-| Tertiary — Yellow | #F7E240 |
-| Tertiary — Terracotta | #E2725B |
-| Black | #010E10 |
+| Tertiary — Neon Blue     | #13DEF5 |
+| Tertiary — Yellow        | #F7E240 |
+| Tertiary — Terracotta    | #E2725B |
+| Black                    | #010E10 |
 
 ### Typography
 
