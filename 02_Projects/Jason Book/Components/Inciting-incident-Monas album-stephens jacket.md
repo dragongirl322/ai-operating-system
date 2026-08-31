@@ -12,6 +12,8 @@ This sequence turns the family control pattern from the opening into the story's
 
 The sequence should leave Jack believing the article caused his panic, while the deeper clue is the jacket.
 
+Before the request to visit Mona, Jack should briefly introduce himself and the family as he currently understands them: Stephen is the successful, responsible son; Mona needs looking after; and Jack is the troubled dependent. This should feel like Jack stating the obvious family order, not the narrative explaining the truth. The opening scenes and Jack's body should already have begun contradicting his account.
+
 ## Core Tracks
 
 **Body track:** Jack's body reacts to the jacket before his conscious mind can interpret it.

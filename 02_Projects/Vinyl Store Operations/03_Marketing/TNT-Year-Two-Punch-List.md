@@ -40,13 +40,14 @@ Check off in this file when done. Groove re-reads this before each 10am ping.
 ## Day by day
 
 ### Thu Aug 27
-- [ ] Shopify payments + hardware with Emma, 3–5 at Edmonds. Real test sale she can solo. Groove stays out of admin unless Tam asks.
-- If hardware slips, name the new date before the day ends.
+- [x] Shopify payments + hardware with Emma. Working as of Sat 8/29.
+- [ ] Emma solo test sale still open (not done 8/29).
+- Groove stays out of admin unless Tam asks.
 
 ### Fri Aug 28
-- [ ] Shopify limited online store, 10–12 (new vinyl, select CDs, gifts, accessories, bundles; not full used catalog)
+- [ ] Shopify limited online store. Not taking orders yet (Tam 8/29: maybe a week or two). Do not nag as missed this weekend.
 - [x] Raffle web app live (Tam, Railway): https://tnt-raffle-machine-production.up.railway.app
-- [ ] Short raffle copy ready: 1 ticket per album, 5 if they post and tag TNT.
+- [ ] Short raffle copy ready: 1 ticket per album, 5 if they post and tag TNT. Need before Tue Sept 1 post.
 
 ### Sat Aug 29
 Store is open. If weekday items slipped, do those first.
@@ -54,15 +55,28 @@ Store is open. If weekday items slipped, do those first.
 - [ ] SACDs: where they move, wholesale yes/no
 - [ ] Free bin contents
 
+### Sat Aug 29
+Tech detox (Tam). Do not ping more today. Items rolled to Sunday.
+
 ### Sun Aug 30
-Store closed. Desk day.
-- [ ] Finish anything still open from Sat (vouchers, SACDs, free bin, raffle copy)
-- [ ] ChatGPT/Bing is parked for Monday 9am (Bing Places, Webmaster, Foursquare, Yelp). Do not start it on Sunday unless Tam wants to.
+Rolled from Saturday (detox). Store closed. Desk day if she wants it.
+- [ ] Plaza voucher names / ask draft
+- [ ] SACDs: where they move, wholesale yes/no
+- [ ] Free bin contents
+- [ ] Short raffle copy before Tuesday’s post (1 ticket per album, 5 if they post and tag TNT)
+- [ ] Emma solo test sale still open
+- ChatGPT/Bing stays parked for Monday 9am. Do not start it on Sunday unless Tam wants to.
 
 ### Mon Aug 31
-- [ ] Dayna: sandwich board for raffle signage
-- [ ] ChatGPT/Bing stack at 9am with Osprey's update
-- [ ] Confirm raffle app will be live tomorrow. If not, that is today's job.
+Sunday items rolled again (Tam 8/30: none done). Lead with those, then Monday.
+- [ ] Plaza voucher names / ask draft
+- [ ] SACDs: where they sit, wholesale yes/no (Tre)
+- [ ] Free bin: what’s in it, who restocks
+- [ ] Short raffle copy before Tuesday’s post (1 ticket per album, 5 if they post and tag TNT)
+- [ ] Emma solo test sale still open
+- [ ] Dayna: sandwich board for raffle signage (9am one-shot too; don’t double-nag)
+- [ ] ChatGPT/Bing stack at 9am with Osprey’s update
+- Raffle app is already live. Emma collects Tuesday.
 
 ### Tue Sept 1 — raffle live
 - [ ] Emma collecting on the web app
