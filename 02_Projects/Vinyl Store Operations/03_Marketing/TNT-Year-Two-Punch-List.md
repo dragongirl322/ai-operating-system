@@ -1,6 +1,6 @@
 ---
 title: Year Two punch list
-updated: 2026-08-27
+updated: 2026-08-31
 opening: 2026-09-24
 hours: 11–7
 campaign: Year Two. Spinnin' Your Groove.
@@ -30,7 +30,8 @@ Check off in this file when done. Groove re-reads this before each 10am ping.
 - [ ] SACD wholesale price and where they sit (Tre)
 - [ ] Free bin: what is in it, who restocks (Emma/Tre)
 - [x] Raffle web app for Emma — live https://tnt-raffle-machine-production.up.railway.app (Tam built 8/28). Emma collects starting Tue Sept 1.
-- [x] Dayna on sandwich board; Emma has the design (Tam 8/31).
+- [ ] Sandwich board: Dayna is still working on getting one; not secured yet (Tam 8/31).
+- [ ] Emma in-store raffle sign this week (Tam asks Emma Tue Sept 1; Groove 11am reminder).
 - [ ] One shop photo for Sept 15 post; two for press
 - [ ] Staffing 11–7 on Sept 24
 - [ ] How Emma logs entries / who draws
@@ -74,13 +75,14 @@ Sunday items rolled again (Tam 8/30: none done). Lead with those, then Monday.
 - [ ] Free bin: what’s in it, who restocks
 - [ ] Short raffle copy before Tuesday’s post (1 ticket per album, 5 if they post and tag TNT)
 - [x] Emma set for Shopify (Tam 8/31). Solo sale off the list.
-- [x] Dayna on sandwich board; Emma has the design ready (Tam 8/31).
+- [ ] Sandwich board: Dayna still getting one; not secured (Tam 8/31).
+- [ ] Remind Tam 11am Tue Sept 1 to ask Emma for the in-store raffle sign.
 - [ ] ChatGPT/Bing stack at 9am with Osprey’s update
 - Raffle app is already live. Emma collects Tuesday.
 
 ### Tue Sept 1 — raffle live
 - [ ] Emma collecting on the web app
-- [ ] Sandwich board / in-store raffle sign up
+- [ ] In-store raffle sign up (Emma makes it this week). Sandwich board still not secured.
 - [ ] Short IG/FB/Google: album buy = 1 ticket, post and tag TNT = 5, prize is red turntable or boombox + two albums
 - [ ] Emma's ask sentence for the social post
 
