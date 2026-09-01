@@ -1,11 +1,14 @@
 ---
 title: TNT new-release buy criteria
 updated: 2026-09-01
-status: first pass for Tam
+status: superseded — waiting on Tam's actual buy rules (9/1)
 owner: Tam (curation/budget), Tre (buying), Groove (score and recommend)
 ---
 
 # TNT new-release buy criteria
+
+
+> Do not score with this file. Tam is sending the actual buy rules she already uses. Replace this document when they arrive.
 
 Use this when Groove scores **upcoming and new releases** so Tam knows what to invest in.
 
