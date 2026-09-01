@@ -570,7 +570,7 @@ Sometimes I find the raw words and feelings right there, just on the tip of my b
 
 I need to be working. Without purposeful problem solving and doing I do see a leaning toward too much melancholy. A little bit is fine. I’m OK, just aware. 
 
-Monday August 31
+## Monday August 31
 
 Not unexpectedly, I got world that Salesforce is not going to move forward with me. My reaction to it has been interesting. In an effort to distinguish between being chosen, and therefore affirmed, and wanting something, I had determined before getting the news that I didn’t have a strong leaning toward taking the role. Yet, when getting the news and throughout the day have felt let down. I’m trying to work out what it matters so much to be to be chosen, especially through a process where they really know so little about me. And especially when I have been chosen, repeatedly, when I have had the opportunity to demonstrate who I am, how I show up, what I deliver. I suspect, as is true with many things, it stems from events of childhood. 
 
