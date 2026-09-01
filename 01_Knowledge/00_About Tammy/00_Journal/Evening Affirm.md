@@ -569,3 +569,11 @@ It is clear from what is motivating me these days that I need to have good, chal
 Sometimes I find the raw words and feelings right there, just on the tip of my brain. Other times they get so muddled in all of the noise. And sometimes lost in the self-consciousness of wanting to “like” my own writing. Fuck that. 
 
 I need to be working. Without purposeful problem solving and doing I do see a leaning toward too much melancholy. A little bit is fine. I’m OK, just aware. 
+
+Monday August 31
+
+Not unexpectedly, I got world that Salesforce is not going to move forward with me. My reaction to it has been interesting. In an effort to distinguish between being chosen, and therefore affirmed, and wanting something, I had determined before getting the news that I didn’t have a strong leaning toward taking the role. Yet, when getting the news and throughout the day have felt let down. I’m trying to work out what it matters so much to be to be chosen, especially through a process where they really know so little about me. And especially when I have been chosen, repeatedly, when I have had the opportunity to demonstrate who I am, how I show up, what I deliver. I suspect, as is true with many things, it stems from events of childhood. 
+
+It is important for me not to allow short interview sessions with people who don’t’ know me to color how I see myself. This is not an indictment on me or even my skills or capabilities. It says that somehow, in this process, what they are looking for didn’t align with how I answered questions. And the honesty to myself is that I didn’t fully commit to being prepared. From the get go I treated it as something I was doing to practice vs. what I really wanted and I certainly wasn’t well prepared for the conversation with SVP of product and I believe he had the final word. The good news is I wouldn’t choose him either. 
+
+Tonight I write it and I feel it and tomorrow I get up and I put one foot in front of another. And I resolve to look for more rejection. I haven’t faced it much and I need practice.
