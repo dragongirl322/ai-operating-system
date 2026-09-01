@@ -1,6 +1,6 @@
 ---
 title: Sept 24 Year Two — locked after Emma/Tre
-updated: 2026-08-26
+updated: 2026-09-01
 status: locked from Tam 8/26 5pm
 campaign: Year Two. Spinnin' Your Groove.
 ---
@@ -12,7 +12,7 @@ Locked after Tam talked with Emma and Tre (Aug 26). Campaign line stays **Year T
 ## In the store on Sept 24
 
 - **Free item with purchase.** Anyone who buys something gets a free item from a free bin.
-- **SACDs.** Move them. May sell at wholesale that day (Tam/Tre pick the price and the new home on the floor).
+- **SACDs.** Stay where they are. Not moving for Year Two. Not selling at wholesale that day. (Tre decided 8/31 night, Tam agreed 9/1.)
 - **Five Corners Plaza vouchers.** Partner piece. Plaza businesses on the thank-you / voucher.
 - **Tre:** still one Year Two staff-favorites / giftable stack from stock. No special buy unless Tam says.
 - **Emma:** host the floor, Groove Society ask at checkout, run whatever prize mechanic is live that day.
@@ -40,7 +40,7 @@ This pulls the marketing start earlier than the Sept 8 save-the-date. In-store r
 | After this meeting / early Sept | Five Corners Plaza voucher ask | Tam (Groove drafts) |
 | Mon Sept 8 | Save-the-date for Sept 24 (free bin, plaza vouchers, SACDs if we want them in the copy) | Groove drafts, Tam posts |
 | Mon Sept 15 | What-to-expect. One shop photo. | Groove drafts; Emma or Tre photo |
-| Mon Sept 21 | Local press (My Edmonds News / Beacon) + 2 photos | **Tam owns.** Groove drafts only if Tam asks |
+| Mon Sept 21 | Press tip to My Edmonds News / Beacon + 2 photos | Groove drafts, Tam sends |
 | Wed Sept 23 | Tomorrow reminder | Groove drafts, Tam posts |
 | Thu Sept 24 | Host the day. Draw the raffle. Stories + Google. | Emma floor, Tre stack, Tam thanks |
 | Fri Sept 25 | Thank-you recap | Groove drafts, Tam posts |
@@ -49,7 +49,7 @@ Email only if Groove Society / Shopify Email is actually sending by then.
 
 ## Still open (does not block Sept 1)
 
-- Exact SACD wholesale price and where they sit
+- [done 9/1] SACDs stay where they are. Not wholesale.
 - What goes in the free bin (and who restocks it)
 - Which plaza shops are on the voucher, and the ask copy
 - Full-price definition at the register (sale / used / already-discounted)
@@ -58,9 +58,9 @@ Email only if Groove Society / Shopify Email is actually sending by then.
 
 ## Owners
 
-Tam: partners, budget, voucher ask, local press, SACD price, approvals.
+Tam: partners, budget, voucher ask, approvals.
 Emma: floor, raffle entries, free bin, Groove Society ask.
-Tre: SACD move, Year Two stack from stock, restock.
+Tre: Year Two stack from stock, restock. SACDs stay put.
 Groove: promo drafts from this file, press tip, voucher-ask draft. Does not invent a new day-shape.
 
 
