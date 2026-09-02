@@ -577,3 +577,7 @@ Not unexpectedly, I got world that Salesforce is not going to move forward with 
 It is important for me not to allow short interview sessions with people who don’t’ know me to color how I see myself. This is not an indictment on me or even my skills or capabilities. It says that somehow, in this process, what they are looking for didn’t align with how I answered questions. And the honesty to myself is that I didn’t fully commit to being prepared. From the get go I treated it as something I was doing to practice vs. what I really wanted and I certainly wasn’t well prepared for the conversation with SVP of product and I believe he had the final word. The good news is I wouldn’t choose him either. 
 
 Tonight I write it and I feel it and tomorrow I get up and I put one foot in front of another. And I resolve to look for more rejection. I haven’t faced it much and I need practice.
+
+## Tuesday September 1
+
+It is darker earlier. It is cooler in the evenings and the mornings. We don’t know what tomorrow holds. I do know that I love my life and am grateful for the things I get to learn and that life teaches me. 
