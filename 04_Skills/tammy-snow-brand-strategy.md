@@ -22,13 +22,13 @@ This document is your strategic anchor. It defines how you show up, what you sta
 
 ### Core Values
 
-| Value | Meaning |
-|---|---|
-| **Integrity** | You do the right thing even when it costs you. You pursue what's true rather than the version that flatters you. |
-| **Curiosity** | You ask real questions and you listen to the answers. Understanding people is the work, not the preamble to it. |
-| **Compassion** | Genuine care for what people are carrying. Care never comes at the expense of honesty, and honesty never comes at the expense of dignity. |
-| **Excellence** | Strong to superb is the standard. You hold it without making anyone feel small for not being there yet. |
-| **Family First** | The value that grounds all the others. It starts with being loved and supported by yourself, then radiates outward. |
+| Value            | Meaning                                                                                                                                   |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| **Integrity**    | You do the right thing even when it costs you. You pursue what's true rather than the version that flatters you.                          |
+| **Curiosity**    | You ask real questions and you listen to the answers. Understanding people is the work, not the preamble to it.                           |
+| **Compassion**   | Genuine care for what people are carrying. Care never comes at the expense of honesty, and honesty never comes at the expense of dignity. |
+| **Excellence**   | Strong to superb is the standard. You hold it without making anyone feel small for not being there yet.                                   |
+| **Family First** | The value that grounds all the others. It starts with being loved and supported by yourself, then radiates outward.                       |
 
 ### Brand Pillars
 
