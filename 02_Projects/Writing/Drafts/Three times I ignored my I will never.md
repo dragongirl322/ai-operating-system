@@ -11,4 +11,8 @@ You might be wondering if I learned from all of this to never say never. I doubt
 1. We humans really are horrible at predicting what our future behavior will be. As a researcher I've always *thought* this was true and I learned first hand that it is.
 2. It is a good thing to remain open to possibilities we haven't envisioned for ourselves. Sometimes the thing we didn't think we wanted ends up being exactly what we needed.
 
+I could ignore those "I'll nevers" because each opportunity lined up with values I already held and each one made those values clearer.
+
+People first. Get better, help others get better. Trust first, tell the truth. Say the thing plainly.
+
 
