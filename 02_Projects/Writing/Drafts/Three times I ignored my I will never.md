@@ -1,0 +1,1 @@
+In early September, 1996, I told my girlfriend, "I will never work for Bill Gates." I was full of conviction. I remember it so well. We were at a stop sign right in front of the house I grew up in. I don't remember how the topic of Bill Gates came up. At the time, I worked for Novell, the World l
