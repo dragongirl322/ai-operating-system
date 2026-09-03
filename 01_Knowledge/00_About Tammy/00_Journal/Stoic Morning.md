@@ -3589,3 +3589,13 @@ I have some questions to get answered from URI. Time with Trinh today to do that
 ## Wednesday September 2
 
 I expected to wake to a rainy morning but it is beautiful out. White, puffy clouds with blue sky. The Osprey were out, one of them watching over us on our walk. Today I seek some answers from Trinh regarding URI. My body continues to tell me this may not be for me. I need to know how much it matters to her and how much help she is willing to let me give. Then I decide. 
+
+## Thursday September 3
+
+My conversation with Trinh was helpful. She wants to transform the business. She wants me to be her partner in doing so. She isn’t aligned with Justin, Dan isn’t aligned with Justin. She and Dan are very aligned. I heard what I needed to hear from her and now I have a meeting with Dan next week. I was honest that taking this chance = me leaving opportunities for safe income behind. 
+
+My thinking is this: If Dan can articulate what needs to be true for us to sell at a substantial gain for me (over 2 million) it is probably well worth the chance. I will have more flexibility. I won’t be working for “the man” but literally for myself and for Trinh. I can likely make more in 18 months to 2 years than I could at a corporation. 
+
+I’m clear eyed enough to know that Justin is a problem. He is the founder and he will do what he wants. That is an anchor. There is an air of complacency that we have to fix. There is mediocrity that we have to fix. 
+
+I think I can genuinely help and have fun doing it. 
