@@ -13,7 +13,8 @@ How does the business operate from GTM->delivery?
 - What shouldn’t be changed because it is so good?
 
 Who are the best clients right now?
-- Who engages from client side?
+- Who is the buyer?
+- Who engages from client side most?
 - Who engages from URI side?
 
 What AI tooling does the team have access to?
