@@ -3586,6 +3586,6 @@ Interestingly, I wrote what I wrote yesterday then I did an assessment of the op
 
 I have some questions to get answered from URI. Time with Trinh today to do that, hopefully.
 
-Wednesday September 2
+## Wednesday September 2
 
-I expected to wake to a rainy morning but it is beautiful out. White, puffy clouds with blue sky. The Osprey were out, one of them watching over us on our walk. Today I seek some answers from Trinh regarding URI. My body continues to tell me this may not be for me. I need to know how much it matters to her and how much help s
+I expected to wake to a rainy morning but it is beautiful out. White, puffy clouds with blue sky. The Osprey were out, one of them watching over us on our walk. Today I seek some answers from Trinh regarding URI. My body continues to tell me this may not be for me. I need to know how much it matters to her and how much help she is willing to let me give. Then I decide. 

@@ -581,3 +581,7 @@ Tonight I write it and I feel it and tomorrow I get up and I put one foot in fro
 ## Tuesday September 1
 
 It is darker earlier. It is cooler in the  evenings and the mornings. We don’t know what tomorrow holds. I do know that I love my life and am grateful for the things I get to learn and that life teaches me. 
+
+## Wednesday September 2
+
+Remember, most decisions have a 2 way door. It is OK to decide one thing because it is what lands best, right now, then decide something different later. 
