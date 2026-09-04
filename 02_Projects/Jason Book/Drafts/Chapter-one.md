@@ -13,7 +13,7 @@
 
 [L6] The guitar felt so good in my hands. I started to play a few bars of "Master of Puppets," lost in how it felt to have my fingers moving across the strings and frets. For a second I thought I could keep going then realized Tyler was still standing there. I stopped and looked up at him. He nodded slowly and said "Dude, you're legit!" I should have laughed and maybe I did. My face felt hot. I hated that. I hated being looked at like I had anything to offer.
 
-[L7] I started playing again, lost in the notes, and my damn right hand twitched and I missed the chord. Shit. "Haha, see what happens when you don't practice enough?" I took the guitar strap off and handed the guitar back to Tyler. 
+[L7] I started playing again, lost in the notes, and my damn right hand twitched and I missed the chord. Shit. "Haha, see what happens when you don't practice enough?" I took the  strap off and handed the guitar back to Tyler. 
 
 [L8] I stood there, feeling embarrassed and awkward. Tyler is a good kid. He doesn't need to look up to someone like me. I was feeling like I should leave and wondering how to escape when I saw my brother's car pull up across the street, saving me.
 
