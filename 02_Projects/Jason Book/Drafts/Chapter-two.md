@@ -9,41 +9,9 @@
 [L3]I decided to go have a smoke and call while I was outside. I don't like to talk to Stephen in front of Simone, not because I want to hide from her but sometimes I'm so small with Stephen and I didn't want her to see that in me. Stephen picked up on the second ring.
 "What's up?" he asked.
 "Hey, since you're going to be gone next week, Simone and I were wondering if Mom could come spend the week with us? We have that extra room for her so she'd be comfortable." 
-Stephen didn't let a second pass before responding. "That's okay, I've asked Mr. "
+Stephen didn't let a second pass before responding. "That's okay, I've asked her friend Mr. Kessler from across the street to come and look in on her. Mom is more comfortable in her own house and she doesn't need the stress of taking care of you right now. "
+"Oh. That makes sense. Talk to you later." I tossed what was left of my cigarette in a puddle and stamped it out, hard, taking my anger out on that stupid butt. Stephen was right, as usual, but I still felt pissed and embarrassed. A grown ass man not even able to help his own Mother. That's how broken I am.
 
 
-### Beat 3: Stephen Blocks The Visit
 
-Stephen says no. He frames the refusal as concern for Mona, not control over Jack.
 
-**Stephen line:** "Mom doesn't need the stress of taking care of you right now. I've asked Mr. Kessler from next door to drop in and check on her every day."
-
-**Jack's internal shift:** Jack is humiliated and quietly enraged, but the wording traps him. If he objects, he looks selfish or unstable.
-
-**Story function:** Reinforces the hierarchy: Stephen is the responsible son, Mona is the fragile dependent, and Jack is the burden.
-
-### Beat 1: Jack Remembers Stephen Will Be Gone
-
-After the opening sequence, Jack remembers Stephen's charity trip. He and Simone talk about Mona. Simone may suggest that this is a chance for Mona to come stay with them for a few days. Jack wants this more than he wants to admit.
-
-**Jack's internal shift:** Jack feels a small, dangerous hope: maybe Mona could choose him for once, even briefly.
-
-**Story function:** Converts Stephen's trip from small-talk setup into an opportunity for Jack to seek connection and repair.
-
-### Beat 2: The Call To Stephen
-
-Jack calls Stephen and asks whether Mona can stay with him and Simone while Stephen is away. Jack tries to sound casual, but the ask costs him.
-
-**Jack's internal shift:** Jack is trying to act like an adult son with a legitimate claim to his mother.
-
-**Story function:** Forces Jack to ask for access inside a family system where Stephen controls the gate.
-
-### Beat 3: Stephen Blocks The Visit
-
-Stephen says no. He frames the refusal as concern for Mona, not control over Jack.
-
-**Stephen line:** "Mom doesn't need the stress of taking care of you right now. I've asked Mr. Kessler from next door to drop in and check on her every day."
-
-**Jack's internal shift:** Jack is humiliated and quietly enraged, but the wording traps him. If he objects, he looks selfish or unstable.
-
-**Story function:** Reinforces the hierarchy: Stephen is the responsible son, Mona is the fragile dependent, and Jack is the burden.
