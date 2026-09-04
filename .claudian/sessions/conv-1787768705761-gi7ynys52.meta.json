@@ -4,13 +4,12 @@
   "title": "Explore Davinci's nature writings",
   "titleGenerationStatus": "success",
   "createdAt": 1787768705761,
-  "updatedAt": 1787769183282,
+  "updatedAt": 1788553240898,
   "lastResponseAt": 1787769183282,
   "sessionId": "eac8ce14-3972-49a3-a208-dfae7bcbb4ee",
   "providerState": {
     "providerSessionId": "eac8ce14-3972-49a3-a208-dfae7bcbb4ee"
   },
-  "currentNote": "02_Projects/Jason Book/Components/opening-sequence-tylers-guitar-stephens-money.md",
   "usage": {
     "model": "sonnet",
     "inputTokens": 2,

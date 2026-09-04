@@ -3,7 +3,24 @@
 [L2]"Oh yeah, Stephen also said he's going to Florida next week to speak at a charity event." I said, shifting away from Simone's hug. 
 "How's your Mom doing?" Simone asked. I got my habit of smoking from Mona who smokes at least twice s much as I do. Lately she'd been dealing with a cough that we'd been worried about.
 "He didn't say and you know me, I forgot to ask." Simone smiled and nodded, assuring me in her own way that it is okay I didn't ask. "I'll call and check on her tomorrow." 
-"Jack, how would you feel about inviting Mona "
+"Jack, how would you feel about inviting Mona to stay with us next week?" Simone almost always asks me what I want instead of telling me what to do. 
+"I could ask Stephen, I guess." I was afraid to get my hopes up but I liked the idea of having my Mom here with us. 
+
+[L3]I decided to go have a smoke and call while I was outside. I don't like to talk to Stephen in front of Simone, not because I want to hide from her but sometimes I'm so small with Stephen and I didn't want her to see that in me. Stephen picked up on the second ring.
+"What's up?" he asked.
+"Hey, since you're going to be gone next week, Simone and I were wondering if Mom could come spend the week with us? We have that extra room for her so she'd be comfortable." 
+Stephen didn't let a second pass before responding. "That's okay, I've asked Mr. "
+
+
+### Beat 3: Stephen Blocks The Visit
+
+Stephen says no. He frames the refusal as concern for Mona, not control over Jack.
+
+**Stephen line:** "Mom doesn't need the stress of taking care of you right now. I've asked Mr. Kessler from next door to drop in and check on her every day."
+
+**Jack's internal shift:** Jack is humiliated and quietly enraged, but the wording traps him. If he objects, he looks selfish or unstable.
+
+**Story function:** Reinforces the hierarchy: Stephen is the responsible son, Mona is the fragile dependent, and Jack is the burden.
 
 ### Beat 1: Jack Remembers Stephen Will Be Gone
 
