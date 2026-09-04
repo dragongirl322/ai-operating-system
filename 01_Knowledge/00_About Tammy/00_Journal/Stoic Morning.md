@@ -3599,3 +3599,7 @@ My thinking is this: If Dan can articulate what needs to be true for us to sell 
 I’m clear eyed enough to know that Justin is a problem. He is the founder and he will do what he wants. That is an anchor. There is an air of complacency that we have to fix. There is mediocrity that we have to fix. 
 
 I think I can genuinely help and have fun doing it. 
+
+Friday September 4
+
+I love good sleep. I
