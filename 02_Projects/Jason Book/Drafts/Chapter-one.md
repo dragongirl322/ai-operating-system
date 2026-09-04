@@ -49,7 +49,7 @@ I nodded, feeling a bit embarrassed that he felt like he had to take care of me.
 She didn't argue, just smiled at me gently and shook her head. "Come on," she said. Let me help you up." She stood and gave me a hand to my feet. "You okay?"
 "I am. I'm thirsty."
 
-[L19] We walked into the kitchen and while I was filling my glass of water I said "Oh yeah, Stephen stopped by earlier. Said he's headed to Florida for some big charity event."
+[L19] We walked into the kitchen and while I was filling my glass of water I said "Oh yeah, Stephen stopped by earlier."
 "Oh? Why did he stop by?" Simone asked.
 "He was up here checking out the Lynnwood lot and just stopped in to say hi." I watched as she walked slowly around the kitchen counter. I could tell something was on her mind.
 "Did he leave this money here, Jack?"
