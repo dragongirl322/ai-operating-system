@@ -16,25 +16,69 @@ Stephen didn't let a second pass before responding. "That's okay, I've asked her
 
 [L4]The next day I woke up earlier than usual. I was looking forward to spending time with my Mom. I was glad I could at least still drive myself but knew my old Toyota truck had dirty spark plugs and needed fresh oil. I love tinkering with old cars. When I was a kid, my uncle used to let me help him in his garage and I learned everything I could. I was like a sponge then. 
 
-I finished working on my truck then gave it a good wash with just enough time left for a shower and a stop at the book store to buy something for Mom. 
+[L5]I finished working on my truck then gave it a good wash with just enough time left for a shower and a stop at Half Price Books to buy *Crime and Punishment* for Mom. I hope she likes it. She talked about a lot of books with me and never mentioned reading this one so I hope she hasn't and that she likes it. 
 
-## Scene 2: The Gift
+[L6]Mom was waiting outside, smoking when I drove up. She didn't smile but she never did. She nodded to acknowledge me and then bent down to stub out her cigarette on the cement walkway. "Hi, Jack. Come in. Let's sit and talk for a while." 
+"Hi, Mom. I brought you something." I reached to hand her the book still in the paper bag. "Sorry it isn't wrapped. I stopped and got it on my way here." I wanted to say I hoped she'd like it but I didn't want her to see how badly I wanted that. 
+She removed it from the paper back and read the title, nodding slowly before looking up at me with a slight smile. "This is good, Jack. I wanted this one." This was as much gratitude as Mona could show. I was happy to hear her say it was good and that little smile told me what her words wouldn't. "I will go get you a cola. Sit. Sit."
 
-### Beat 5: Jack Stops At Half Price Books
+[L7]Mona handed me a cola with ice in it, just the way I liked it as a boy. I noticed an open photo album sitting on her coffee table. 
+"What you doing with the album, Mom?"
+"Oh, I thought I'd take a trip down memory lane. I better do it before I forget the road." Ah, damn. I hate being reminded of the early stage dementia she'd been diagnosed with the year before. 
+"Can I look?" I asked, leaning forward to take a closer look.
+We flipped through a few pages, most of them photos of her and Dad when they were younger and me and my brothers. In one photo of me, Stephen and Owen taken with us on our old front porch, Stephen had on his cool brown leather bomber jacket he used to wear all the time. I always thought he looked so tough and untouchable. 
 
-On the way to Mona's, Jack stops at Half Price Books and buys her a copy of "Crime and Punishment." The gift is literary, intimate, and painful without Jack necessarily intending it as symbolism.
+[L8]When Mona turned the page, I saw an old newspaper clipping and my suddenly my gut clenched. The headline said *Free, But Not Cleared*. My hands started shaking without warning. This was the story run in our local newspaper when I was just a kid, 14. I'd been blamed for raping and murdering a girl and no matter how many times I told people I didn't, nobody believed me. The only good thing to happen is that there was never enough evidence to charge me but I'm pretty sure most of the town always thought it was me anyway.
 
-**Jack's internal shift:** He lets himself become hopeful. The book is a way to offer Mona the shared language they still have: music, art, old tastes, remembered selves.
+[L9]I quickly turned the page back to the picture of me and my brothers. "Mom," I said quietly, "why'd you save this?"
+"Because I loved you. And I still had to remember what you were." I felt sick and light headed and sure another panic attack was coming. 
+"I've got to use the bathroom," I said, standing abruptly and hurrying down the hall, closing the door quietly. 
 
-**Story function:** Shows Jack reaching for tenderness before the scene wounds him. The title quietly echoes guilt, punishment, and moral uncertainty.
-
-### Beat 6: Mona Receives The Book
-
-Mona is grateful when Jack gives her the book. For a moment, she is the mother who loves art, remembers beauty, and gave him part of his interior life.
-
-**Jack's internal shift:** Jack relaxes a little. The old longing is activated: maybe there is still a mother here.
-
-**Story function:** Lets Mona's tenderness exist before her cruelty, preserving her complexity.
+[L10]
 
 
+### Beat 12: Jack Leaves With The Wrong Story
 
+Jack leaves Mona's house believing the article and Mona's line caused the panic. He does not yet understand that his body reacted first to Stephen's jacket.
+
+**Jack's internal shift:** Jack feels ashamed, destabilized, and foolish for hoping Mona might see him differently.
+
+**Story function:** Preserves the mystery engine. The clue has entered the story, but Jack cannot read it yet.
+
+### Beat 13: Stephen's Dinner Frame
+
+If Jack still goes to dinner with Stephen, Stephen can notice his distress and misread or exploit it. If Jack cancels, Stephen can use the cancellation as proof that Jack is unstable. Either choice should cost Jack.
+
+**Jack's internal shift:** Jack is trapped either way: perform normal with Stephen or give Stephen evidence of collapse.
+
+**Story function:** Shows that Stephen's invitation was never neutral. It keeps Jack inside a frame Stephen controls.
+
+## Final Image Options
+
+### Option A: The Album Left Open
+
+The album remains open on Mona's table after Jack leaves, the jacket photo visible on one page and the clipping tucked nearby.
+
+**Effect:** Quiet, ominous, clue-forward.
+
+### Option B: Jack With The Book
+
+Jack leaves without the copy of "Crime and Punishment," or notices later that he forgot it at Mona's house.
+
+**Effect:** Emotional, painful, tied to the failed bid for tenderness.
+
+### Option C: Stephen Notices
+
+At dinner, Stephen notices Jack is shaken and asks, lightly, "Mom get into the old pictures again?"
+
+**Effect:** More overtly threatening, suggests Stephen knows the family archive is dangerous.
+
+## Preferred Current Shape
+
+Use Option A if the sequence should end as a mystery clue.
+
+Use Option B if the sequence should end as emotional devastation.
+
+Use Option C if Stephen needs to feel actively dangerous immediately after the album scene.
+
+At this stage, Option A is the cleanest structural ending because it preserves the jacket as a clue the reader has seen but cannot yet interpret.

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1788562352867-8yusuyb2w",
+  "providerId": "claude",
+  "title": "Clarify Crime and Punishment author and theme",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788562352868,
+  "updatedAt": 1788562375993,
+  "lastResponseAt": 1788562361373,
+  "sessionId": "878e9ead-5826-4576-9490-e504aa00db02",
+  "providerState": {
+    "providerSessionId": "878e9ead-5826-4576-9490-e504aa00db02"
+  },
+  "currentNote": "02_Projects/Jason Book/Drafts/Chapter-two.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 13715,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 13717,
+    "percentage": 1,
+    "contextWindowIsAuthoritative": true
+  }
+}
