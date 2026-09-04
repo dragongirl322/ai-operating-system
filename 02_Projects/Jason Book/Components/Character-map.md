@@ -70,7 +70,7 @@ The opposing force argues that forgetting is mercy, silence is loyalty, and the 
 
 **Role:** Antagonist. Jack's older brother.
 
-**Age:** 50.
+**Age:** 53 in the present-day story, five years older than Jack. Stephen was 19 in the summer of 1985, one year older than the 18-year-old victim; Jack had recently turned 14.
 
 **Core identity:** Polished, charismatic, successful businessman who inherited the family system's authority and uses respectability as cover.
 

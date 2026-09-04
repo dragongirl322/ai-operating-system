@@ -12,6 +12,18 @@ Working structure map for the Jason Book mystery thriller.
 
 **Transformation pressure:** Jack believes remembering will destroy him. The story gradually reverses that equation until not remembering becomes more dangerous than remembering.
 
+## Prologue Function: The Aftermath Jack Remembers
+
+**Time:** Summer 1985. Jack has recently turned 14. The victim is 18, and Stephen is 19.
+
+**Narrative job:** Give the reader the external mystery and the original family trap before entering Jack's present-day ordinary world.
+
+**Movement:** Jack comes to at the crime scene with his head throbbing and blood on his shirt and hands. He sees the body of the 18-year-old classmate and cannot account for what happened. He does not call his father because he expects violence and cannot call his mother because he believes he has already caused her enough pain. He calls Stephen, the person he believes will help him.
+
+**Turn:** In the worst moment of Jack's life, he reaches for the brother who will become both his apparent rescuer and the keeper of the story that condemns him.
+
+**Known-versus-withheld boundary:** The prologue is a fractured aftermath Jack has always remembered, not a recovered-memory sequence and not an objective account of murder night. It should not explain what happened before Jack came to, how the blood got onto him, the full nature of his contact with the young woman, what Stephen witnessed, Stephen's presence at the crime, or Stephen's role in the assault, death, and framing.
+
 ## Act I Function
 
 Act I should establish Jack's ordinary world, show that his body is carrying information his mind cannot access, introduce Stephen's present-day control, and create the first irreversible disturbance through Mona's album and Stephen's jacket.
@@ -58,7 +70,7 @@ Act I is not yet about Jack solving the murder. It is about Jack beginning to un
 
 ## Memory Reveal Architecture
 
-The buried truth should not arrive as one complete flashback. It should return through phases, with each phase changing the meaning of what came before.
+The prologue establishes the aftermath fragment Jack has always retained: he came to beside the young woman's body, could not explain the blood or missing sequence, and called Stephen for help. The buried truth should not arrive as one complete flashback. The later memory phases recover the missing material before and around that known fragment, with each phase changing its meaning.
 
 ### Phase 1: The Wound Jack Can Name
 
@@ -78,9 +90,9 @@ After Leah's session, Jack begins remembering parts of boarding school that were
 
 ### Phase 3: The Lead-Up To Murder Night
 
-**Focus:** The holiday visit home.
+**Focus:** The visit home leading into the summer 1985 crime.
 
-Only after boarding school becomes complicated should the story move toward the holiday visit when the young woman was raped and killed.
+Only after boarding school becomes complicated should the story move toward the visit when the young woman was raped and killed. This is not a replay of the prologue; it is Jack approaching the part that precedes the aftermath he remembers.
 
 **Structural purpose:** Re-enter the danger zone gradually. Let the reader feel that Jack is approaching something he has organized his life around not knowing.
 
@@ -88,7 +100,7 @@ Only after boarding school becomes complicated should the story move toward the 
 
 **Focus:** Fragments, not full explanation.
 
-This phase can include pieces of the young woman, the accusation, the family reaction, Jack's confusion, James Price burning Jack's clothes, and Jack being expelled again. Stephen's full role should remain withheld.
+This phase can include pieces of the young woman, Jack's intoxication and incomplete impressions, the accusation, the family reaction, Jack's confusion, James Price burning Jack's clothes, and Jack being expelled again. These fragments should begin filling the gaps around the prologue without revealing Stephen's full role.
 
 **Structural purpose:** Intensify the external mystery while making Jack's memory feel unstable but meaningful.
 
@@ -102,9 +114,10 @@ The jacket, Stephen, the young woman, Jack's trauma, and the family alibi finall
 
 ## Current Memory Ladder
 
+0. Known aftermath: "I came to beside her body and called Stephen."
 1. Boarding school: "I was sent away because I was bad."
 2. Boarding school complicated: "Maybe I was seen there, too."
-3. Holiday visit home: "That was when everything happened."
+3. Summer 1985 visit: "That was when everything happened."
 4. Murder-night fragments: "My memory is protecting something."
 5. Full return: "My silence was never safety. It was Stephen's alibi."
 
@@ -117,6 +130,7 @@ The jacket, Stephen, the young woman, Jack's trauma, and the family alibi finall
 - Let Stephen's cruelty look like concern, responsibility, generosity, or competence from the outside.
 - Let Mona's care and cruelty remain fused.
 - Do not reveal Stephen's full guilt too early.
+- Let the prologue establish danger and accusation without revealing murder-night causality.
 - Let the body know before the mind.
 - Make present-day danger around Megan and Tyler eventually force remembering to become an act of protection.
 
