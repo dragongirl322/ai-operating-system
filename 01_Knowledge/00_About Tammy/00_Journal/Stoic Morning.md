@@ -3603,3 +3603,7 @@ I think I can genuinely help and have fun doing it.
 ## Friday September 4
 
 I love good sleep. I love waking up. I love my walks. I am loving my coffee right now. 
+
+## Saturday September 5
+
+Less computer today. More analog. Music, words, sunshine, family. Sprinkle in a bit of Xbox and it is a recipe for a good Saturday. 
