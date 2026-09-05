@@ -3600,6 +3600,6 @@ I’m clear eyed enough to know that Justin is a problem. He is the founder and 
 
 I think I can genuinely help and have fun doing it. 
 
-Friday September 4
+## Friday September 4
 
-I love good sleep. I
+I love good sleep. I love waking up. I love my walks. I am loving my coffee right now. 
