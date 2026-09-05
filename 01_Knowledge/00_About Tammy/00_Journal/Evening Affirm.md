@@ -586,6 +586,6 @@ It is darker earlier. It is cooler in the  evenings and the mornings. We don’t
 
 Remember, most decisions have a 2 way door. It is OK to decide one thing because it is what lands best, right now, then decide something different later. 
 
-Friday September 4
+## Friday September 4
 
-It is getting dark just after 8:00 pm now. The turn to fall is always the hardest for me. I love the warmer months. At the same time, autumn brings a type of quiet and routine. It is good to get me in the mood to get my butt back to work. 
+It is getting dark just after 8:00 pm now. The turn to fall is always the hardest for me. I love the warmer months. At the same time, autumn brings a type of quiet and routine. It is good to get me in the mood to get my butt back to work. I’m ready for the challenge and close to a clear decision on what is next. 
