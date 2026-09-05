@@ -32,53 +32,6 @@ We flipped through a few pages, most of them photos of her and Dad when they wer
 
 [L9]I quickly turned the page back to the picture of me and my brothers. "Mom," I said quietly, "why'd you save this?"
 "Because I loved you. And I still had to remember what you were." I felt sick and light headed and sure another panic attack was coming. 
-"I've got to use the bathroom," I said, standing abruptly and hurrying down the hall, closing the door quietly. 
+"I've got to use the bathroom," I said, standing abruptly and hurrying down the hall, closing the door quietly. I stood and stared at myself in the mirror, willing my heartbeat to slow and my hands to stop shaking. All my life I've wanted my Mom to love me the way I love her. I should've known that can't happen. I'll always carry the shame of doing something I didn't even do. I splashed cold water on my face and took a few deep breaths, the way Simone taught me to. I finally felt strong enough to walk out.
 
-[L10]
-
-
-### Beat 12: Jack Leaves With The Wrong Story
-
-Jack leaves Mona's house believing the article and Mona's line caused the panic. He does not yet understand that his body reacted first to Stephen's jacket.
-
-**Jack's internal shift:** Jack feels ashamed, destabilized, and foolish for hoping Mona might see him differently.
-
-**Story function:** Preserves the mystery engine. The clue has entered the story, but Jack cannot read it yet.
-
-### Beat 13: Stephen's Dinner Frame
-
-If Jack still goes to dinner with Stephen, Stephen can notice his distress and misread or exploit it. If Jack cancels, Stephen can use the cancellation as proof that Jack is unstable. Either choice should cost Jack.
-
-**Jack's internal shift:** Jack is trapped either way: perform normal with Stephen or give Stephen evidence of collapse.
-
-**Story function:** Shows that Stephen's invitation was never neutral. It keeps Jack inside a frame Stephen controls.
-
-## Final Image Options
-
-### Option A: The Album Left Open
-
-The album remains open on Mona's table after Jack leaves, the jacket photo visible on one page and the clipping tucked nearby.
-
-**Effect:** Quiet, ominous, clue-forward.
-
-### Option B: Jack With The Book
-
-Jack leaves without the copy of "Crime and Punishment," or notices later that he forgot it at Mona's house.
-
-**Effect:** Emotional, painful, tied to the failed bid for tenderness.
-
-### Option C: Stephen Notices
-
-At dinner, Stephen notices Jack is shaken and asks, lightly, "Mom get into the old pictures again?"
-
-**Effect:** More overtly threatening, suggests Stephen knows the family archive is dangerous.
-
-## Preferred Current Shape
-
-Use Option A if the sequence should end as a mystery clue.
-
-Use Option B if the sequence should end as emotional devastation.
-
-Use Option C if Stephen needs to feel actively dangerous immediately after the album scene.
-
-At this stage, Option A is the cleanest structural ending because it preserves the jacket as a clue the reader has seen but cannot yet interpret.
+[L10]The small living area was empty and the photo album sat open with that picture of me and my brothers staring up at me. I gave it one more glance, causing a slight shiver throughout my body then walked out the door. Mona was out having another cigarette. "I've got to go, Mom. I'll try to stop by again next week. Thanks for the cola." I knew I wouldn't stop by again next week. And I knew I wouldn't be having dinner with Stephen. My head was throbbing and I needed to get out of there. 
