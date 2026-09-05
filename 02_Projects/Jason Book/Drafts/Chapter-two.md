@@ -16,7 +16,7 @@ Stephen didn't let a second pass before responding. "That's okay, I've asked her
 
 [L4]The next day I woke up earlier than usual. I was looking forward to spending time with my mom. I was glad I could at least still drive myself but knew my old Toyota truck had dirty spark plugs and needed fresh oil.  
 
-[L5]I finished working on my truck then gave it a good wash with just enough time left for a shower and a stop at Half Price Books to buy *Crime and Punishment* for Mom. I hoped she would like it. She had talked about a lot of books with me but had never mentioned reading this one. 
+[L5]I finished working on my truck then gave it a good wash with just enough time left for a shower and a stop at Half Price Books to buy *Crime and Punishment* for Mom. I wanted her to like it. She had talked about a lot of books with me but had never mentioned reading this one. 
 
 [L6]Mom was waiting outside, smoking when I drove up. She didn't smile but she never did. She nodded to acknowledge me and then bent down to stub out her cigarette on the cement walkway. "Hi, Jack. Come in. Let's sit and talk for a while." 
 "Hi, Mom. I brought you something." I reached to hand her the book still in the paper bag. "Sorry it isn't wrapped. I stopped and got it on my way here." I wanted to say I hoped she'd like it but I didn't want her to see how badly I wanted that. 

@@ -1,3 +1,5 @@
+**Present**
+
 [L1] There is something oddly comforting about standing and smoking under this old pine while it's raining. It reminds me of a piece Debussy wrote about children who used to play in the woods until somebody cut the trees down. It is one of my favorites, *Gardens in the Rain*. Sometimes I think it's strange that a guy like me likes to listen to Debussy, but that's me. Besides, my Mom used to listen to it with me and I like remembering that.
 
 [L2] I know I should stop smoking. My girlfriend, Simone, is on me about it. I like standing outside alone, watching the neighborhood and the people. I've been feeling shitty a lot these days and I don't know why.
