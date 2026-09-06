@@ -1,6 +1,6 @@
 # Substack book list
 
-Working list for the rec stream. Stance: don't be the wise one; help people find their own wisdom. Alternate with the leadership series. First rec is Tue Sep 8 (*Dare to Lead*). Self-care posted Aug 25.
+Working list for the rec stream. Stance: don't be the wise one; help people find their own wisdom. Alternate with the leadership series. First rec is Tue Sep 8 (*BE 2.0*). Self-care posted Aug 25. Reordered 2026-09-06: Collins *BE 2.0* moved to Rec #1.
 
 ## In
 
@@ -8,11 +8,11 @@ Working list for the rec stream. Stance: don't be the wise one; help people find
 |---|---|---|
 | The 7 Habits of Highly Effective People | Stephen Covey | Named in the Aug 25 self-care post |
 | The 8th Habit | Stephen Covey | |
-| BE 2.0 | Jim Collins (and Bill Lazier) | In Readwise |
+| BE 2.0 | Jim Collins (and Bill Lazier) | In Readwise. Rec #1 Sep 8 — see Drafts/Rec BE 2.0 notes.md |
 | The Road Less Traveled | M. Scott Peck | Named in the Aug 25 self-care post |
 | Man's Search for Meaning | Viktor Frankl | |
 | The Greatest Salesman in the World | Og Mandino | |
-| Dare to Lead | Brené Brown | |
+| Dare to Lead | Brené Brown | Was Rec #1; now Rec #2 |
 | Daring Greatly | Brené Brown | Confirmed read |
 | The Infinite Game | Simon Sinek | |
 | Leaders Eat Last | Simon Sinek | Confirmed read |
@@ -48,9 +48,10 @@ Working list for the rec stream. Stance: don't be the wise one; help people find
 
 ## Rec calendar
 
-- Tue Sep 8 — Rec #1 *Dare to Lead*
-- Tue Oct 6 — Rec #2 *Man's Search for Meaning*
-- Tue Nov 3 — Rec #3 *Who Do We Choose to Be?*
-- Tue Dec 1 — Rec #4 *The Rise*
-- Tue Dec 29 — Rec #5 *Meditations*
-- Tue Jan 26 — Rec #6 *The Road Less Traveled*
+- Tue Sep 8 — Rec #1 *BE 2.0*
+- Tue Oct 6 — Rec #2 *Dare to Lead*
+- Tue Nov 3 — Rec #3 *Man's Search for Meaning*
+- Tue Dec 1 — Rec #4 *Who Do We Choose to Be?*
+- Tue Dec 29 — Rec #5 *The Rise*
+- Tue Jan 26 — Rec #6 *Meditations*
+- Tue Feb 23 — Rec #7 *The Road Less Traveled*
