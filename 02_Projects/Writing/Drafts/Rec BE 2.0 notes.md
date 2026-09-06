@@ -6,6 +6,8 @@ Captured 2026-09-06. For Substack Tue Sep 8.
 
 First introduced via Brené Brown's podcast. What landed: he is a grounded theory researcher, and the way he talks about creating a conceptual vessel for insights.
 
+Also from Collins on that Brené podcast: learned about the Stockdale paradox.
+
 ## Three things I like about the book
 
 1. **Best of any book I've read for business principles and frameworks** — from learning how to catalyze a vision and accompanying strategy to becoming a better leader.
