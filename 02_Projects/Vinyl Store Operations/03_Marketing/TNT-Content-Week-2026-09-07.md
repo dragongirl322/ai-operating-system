@@ -29,7 +29,7 @@ Cold vinyl is on sale 😎
 
 A bunch of albums are 25% off. And if you grab something at regular price, you can take one of the BOGO albums free.
 
-Come in, take your time, put a record on. Tue–Sat 11–7 in 5 Corners.
+Come in, say hi, take your time. Tue–Sat 11–7 in 5 Corners.
 
 #TNTMusic #EdmondsWA #VinylRecords #SpinninYourGroove
 

@@ -589,3 +589,9 @@ Remember, most decisions have a 2 way door. It is OK to decide one thing because
 ## Friday September 4
 
 It is getting dark just after 8:00 pm now. The turn to fall is always the hardest for me. I love the warmer months. At the same time, autumn brings a type of quiet and routine. It is good to get me in the mood to get my butt back to work. I’m ready for the challenge and close to a clear decision on what is next. 
+
+## Sunday September 6
+
+The days are passing by so quickly. Tre is up playing his guitar right now. He is so gifted and doesn’t even know. So few people can play so well, by ear. He doesn’t practice much. He didn’t learn, classically. I love him so very much. 
+
+I want to drink in every moment I can. All of the feelings. All of the words I read and the music I hear and the nature I experience. 

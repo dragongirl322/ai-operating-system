@@ -3608,6 +3608,6 @@ I love good sleep. I love waking up. I love my walks. I am loving my coffee righ
 
 Less computer today. More analog. Music, words, sunshine, family. Sprinkle in a bit of Xbox and it is a recipe for a good Saturday. 
 
-Sunday September 6
+## Sunday September 6
 
 Today will be a Sunday type of day. I will allow myself to tinker, explore, read, sit and enjoy my people. It is good to soak in what life has to offer. I am grateful for this period of time I’ve had. 

@@ -3,9 +3,9 @@
   "readwiseDir": "06_Readwise",
   "frequency": "10080",
   "triggerOnLoad": true,
-  "isSyncing": true,
+  "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 27344239,
+  "lastSavedStatusID": 27438092,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -30,7 +30,9 @@
     "06_Readwise/Articles/Forward Deployed Designers From FDE to FDD.md": "61847956",
     "06_Readwise/Articles/Policy on the AI Exponential.md": "61883044",
     "06_Readwise/Articles/Beginner's Guide to AI Evals.md": "62165689",
-    "06_Readwise/Books/Build.md": "62275981"
+    "06_Readwise/Books/Build.md": "62275981",
+    "06_Readwise/Articles/Use My No-Ai-Slop Skill to Remove 20+ Patterns of AI Slop From Your Writing.md": "63260183",
+    "06_Readwise/Articles/Humans in the Loop The Design of Interactive AI Systems.md": "63273527"
   },
   "reimportShowConfirmation": true
 }
