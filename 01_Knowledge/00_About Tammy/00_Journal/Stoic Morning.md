@@ -3611,3 +3611,7 @@ Less computer today. More analog. Music, words, sunshine, family. Sprinkle in a 
 ## Sunday September 6
 
 Today will be a Sunday type of day. I will allow myself to tinker, explore, read, sit and enjoy my people. It is good to soak in what life has to offer. I am grateful for this period of time I’ve had. 
+
+Tuesday September 8
+
+My wife is the nicest human I know. She gets banana bread for Tre every Tuesday and today she bought a bunch of cookies and took them to the dry cleaners and one to a delivery driver we see every Tuesday. I love her so much. She doesn’t do it to signal her virtue. She’s just generous. How lucky am I that I 
