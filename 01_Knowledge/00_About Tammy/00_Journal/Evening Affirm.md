@@ -595,3 +595,7 @@ It is getting dark just after 8:00 pm now. The turn to fall is always the hardes
 The days are passing by so quickly. Tre is up playing his guitar right now. He is so gifted and doesn’t even know. So few people can play so well, by ear. He doesn’t practice much. He didn’t learn, classically. I love him so very much. 
 
 I want to drink in every moment I can. All of the feelings. All of the words I read and the music I hear and the nature I experience. 
+
+## Monday September 7
+
+Slowly, softly, sweetly living. Breathing. Learning. Loving. 
