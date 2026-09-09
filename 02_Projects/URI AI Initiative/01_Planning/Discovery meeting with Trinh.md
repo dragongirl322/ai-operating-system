@@ -1,6 +1,8 @@
 What is URI’s core identity and envisioned future? 
 - Is it working?
 - Do employees know this?
+- What about URI shouldn't change, even if the business model does?
+- What does "sold well in 18 to 24 months" look like in her head?
 
 What is the org structure?
 - What is working and not working?
