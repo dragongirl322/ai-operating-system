@@ -3615,3 +3615,7 @@ Today will be a Sunday type of day. I will allow myself to tinker, explore, read
 ## Tuesday September 8
 
 My wife is the nicest human I know. She gets banana bread for Tre every Tuesday and today she bought a bunch of cookies and took them to the dry cleaners and one to a delivery driver we see every Tuesday. I love her so much. She doesn’t do it to signal her virtue. She’s just generous. How lucky am I that I get to do this life with her? 
+
+## Wednesday September 9
+
+It just hit me like a brick to stop thinking of myself as being in a “choosing the next job” period and instead view where I’m at as designing my best life period. I get to choose. All of it. I’ve earned that right. Fun!
