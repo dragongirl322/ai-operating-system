@@ -600,6 +600,10 @@ I want to drink in every moment I can. All of the feelings. All of the words I r
 
 Slowly, softly, sweetly living. Breathing. Learning. Loving. 
 
-Tuesday September 8
+## Tuesday September 8
 
 Reminder to stop trying to control uncontrollable things. Love what is offered. Give over to the wonder and awesomeness of life. I am so incredibly privileged and fortunate. There is an abundance. 
+
+## Wednesday September 9
+
+Giving over to doing what will afford me freedom and fun with plenty of challenge. It is time to have decided. I’m going to go help Trinh transform URI. It will offer me balance. I will offer them perspective. 
