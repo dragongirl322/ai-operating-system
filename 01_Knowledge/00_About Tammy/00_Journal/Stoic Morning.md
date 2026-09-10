@@ -3619,3 +3619,7 @@ My wife is the nicest human I know. She gets banana bread for Tre every Tuesday 
 ## Wednesday September 9
 
 It just hit me like a brick to stop thinking of myself as being in a “choosing the next job” period and instead view where I’m at as designing my best life period. I get to choose. All of it. I’ve earned that right. Fun!
+
+## Thursday September 10
+
+Today is a day to soak in the sun. I saw recently a clip that spoke about some great research about the positive effects of soaking your body in the sun. It improves the mitochondria and can be so good for us. Not too long, for sure, but good to do as often as we can. Given we have the long dark up here in the PNW, I am embracing the last weeks. 
