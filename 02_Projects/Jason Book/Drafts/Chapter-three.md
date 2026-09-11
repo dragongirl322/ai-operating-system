@@ -1,4 +1,16 @@
-[L1] Two hours later I'd finished off my third beer and ignored two texts from Stephen when Simone got home from work. I had my headphones on, listening to 
+[L1] Two hours later I was standing outside my favorite tree having a smoke when Simone drove up. By then I'd had two beers and ignored four texts from Stephen. I'm not much of a drinker so I was definitely feeling it and even though I tried to hide it, she could tell I was a bit drunk. Even though she is more of a drinker than I m, she doesn't like it much when I have too much. She says the coming down gets me too agitated. I could tell she wasn't happy with me because she didn't stop to talk. She gave a little wave and walked straight into our house. 
+
+[L2] I felt embarrassed and a little ashamed and wanted to stand outside to smoke another but knew I had to go inside. When I walked in, Simone was standing at the stovetop cooking. "Hey," I said, trying to sound casual.
+
+"Hey," she responded, without looking up. "Do you wanna talk about your time with Mona?" She asked. Of course she wold know I wouldn't drink if everything went well. And given I was supposed to be having dinner with Stephen and I was home instead, she would be aware things had not gone great. 
+
+[L3] I sat down on the barstool with a sigh. I din't want to talk about it at all. I wanted to forget about it. I knew that wasn't going to fly with Simone. If I said "no," she'd let it go for now but she'd bring it up again later. That's another thing I love about her. She loves me enough not to quit. 
+
+[L4] "It wasn't great." I said
+
+[L1]
+
+[L1]
 
 ### Beat 1: Jack Tells Simone The Story He Understands
 

@@ -4,7 +4,7 @@
   "title": "Ready to assist",
   "titleGenerationStatus": "success",
   "createdAt": 1789160112179,
-  "lastActivityAt": 1789165312046,
+  "lastActivityAt": 1789165339830,
   "sessionId": "e070c913-2d87-49d3-9d41-395717b68e1a",
   "selectedModel": "sonnet",
   "providerState": {
@@ -14,11 +14,11 @@
   "usage": {
     "model": "sonnet",
     "inputTokens": 2,
-    "cacheCreationInputTokens": 1653,
-    "cacheReadInputTokens": 40811,
+    "cacheCreationInputTokens": 44701,
+    "cacheReadInputTokens": 0,
     "contextWindow": 967000,
-    "contextTokens": 42466,
-    "percentage": 4,
+    "contextTokens": 44703,
+    "percentage": 5,
     "contextWindowIsAuthoritative": true
   }
 }
