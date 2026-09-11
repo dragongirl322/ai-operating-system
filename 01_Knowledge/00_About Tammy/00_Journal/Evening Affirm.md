@@ -607,3 +607,7 @@ Reminder to stop trying to control uncontrollable things. Love what is offered. 
 ## Wednesday September 9
 
 Giving over to doing what will afford me freedom and fun with plenty of challenge. It is time to have decided. I’m going to go help Trinh transform URI. It will offer me balance. I will offer them perspective. 
+
+## Thursday September 10
+
+There is a certain peace and motivation in knowing that I’m going to jump in and help Trinh and URI. I am happy and content with the decision and also recognize it is like many decisions in that it can be reversed if needed. 
