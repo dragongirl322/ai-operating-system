@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789160112177-kptzcto87",
+  "providerId": "claude",
+  "title": "Ready to assist",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789160112179,
+  "lastActivityAt": 1789161108075,
+  "sessionId": "e070c913-2d87-49d3-9d41-395717b68e1a",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "e070c913-2d87-49d3-9d41-395717b68e1a"
+  },
+  "linkedContentPath": "02_Projects/Jason Book/Drafts/Chapter-three.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 1653,
+    "cacheReadInputTokens": 40811,
+    "contextWindow": 967000,
+    "contextTokens": 42466,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
+  }
+}

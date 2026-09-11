@@ -251,6 +251,24 @@ The opposing force argues that forgetting is mercy, silence is loyalty, and the 
 
 **Relationship to theme:** Tyler makes the cost of silence visible. If Jack cannot remember for himself, he may have to remember for someone like Tyler.
 
+### The Rev. Elliot Marsh
+
+**Role:** Rector of St. Aidan's School (for Boys), Jack's boarding school in Juniper Springs, Oregon — see Setting Map for institutional detail.
+
+**Core identity:** Warm, soft-spoken Episcopal clergyman who has run St. Aidan's since 1961. Never raises his voice, remembers boys' birthdays, quotes scripture gently — and is more frightening for it, because he never gives anyone a single cruel moment to point to.
+
+**Backstory function:** Marsh presided over St. Aidan's during Jack's time there (Phase 1 memory, pre-1985). He represents authority that frames control as care — the same rhetorical move Mona makes ("Because I loved you"). He is not a physical abuser like Frank or James; his damage is structural and moral, delivered through discipline dressed as devotion (chapel attendance, the demerit ledger, the prefect system, the Annex for isolated boys).
+
+**Want:** To preserve the school's image of itself as a redemptive institution and his own image as a gentle shepherd of difficult boys.
+
+**Need/Fear:** Not currently defined for present-day plot purposes; Marsh may function primarily as backstory texture unless the story needs an institutional counterpart to Stephen later (e.g., if Jack ever revisits or investigates the school).
+
+**Symbolic function:** Institutional version of the family's alibi logic — the idea that control, exercised gently and without visible cruelty, is indistinguishable from love. Marsh is the boarding-school echo of the same lie Jack has been taught by his family.
+
+**Relationship to theme:** Reinforces that Jack has been surrounded, at every level (family, church, school), by authority figures who present containment as care. His story truth — real science/art/music programs, teachers who noticed him — exists alongside Marsh's quiet institutional coldness, which is part of why Jack's "delinquent warehouse" belief is a misfiling rather than the whole truth.
+
+**Craft note:** Use sparingly, like James Price — strongest purpose may be a single remembered scene or line that shows Jack how early he learned to mistake control for love, well before Stephen or Mona reinforced it in adulthood.
+
 ## Family Power Map
 
 ### Original Regime

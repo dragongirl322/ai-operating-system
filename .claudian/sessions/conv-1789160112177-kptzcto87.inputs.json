@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789160112177-kptzcto87",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789160112227-i4opxkk",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789160112172-fm5e3oh",
+      "timestamp": 1789160112172,
+      "rawDisplayText": "Ready?",
+      "canonicalText": "Ready?",
+      "context": {
+        "linkedContent": {
+          "path": "02_Projects/Jason Book/Drafts/Chapter-three.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "a95f09919ce0736a073af2845e8e8d45dda34f785ebd502ab12051c6fdc205e8",
+      "providerUserMessageId": "763fcac3-41fa-4289-8884-624d9e15e82e",
+      "providerAssistantMessageId": "d1123742-8c2d-4f1f-b2ae-3c256dc67e07"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789160140598-z9ptisg",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1789160140593-i28nimf",
+      "timestamp": 1789160140593,
+      "rawDisplayText": "Create a list of boarding schools that existed in 1985 on the west coast",
+      "canonicalText": "Create a list of boarding schools that existed in 1985 on the west coast",
+      "images": [],
+      "contentDigest": "f428558d6effda16c0d7bf4c17447145621ff7479f681a88f87f5dc70ec882ae",
+      "providerUserMessageId": "bab433c9-a083-4ba7-b9e9-d65a93f59a5a",
+      "providerAssistantMessageId": "a5a3f7f8-497f-4a89-a7ed-7965463be71c"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789160216620-1v3n3mv",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1789160216615-hk2nqpj",
+      "timestamp": 1789160216615,
+      "rawDisplayText": "Help me invent one. Let's have it set somewhere in Eastern Washington or in Oregon",
+      "canonicalText": "Help me invent one. Let's have it set somewhere in Eastern Washington or in Oregon",
+      "images": [],
+      "contentDigest": "5f15e8bd1abf58b96e0cc874bfd02296382989ae176ef6c9c1dd64a6e37e9b95",
+      "providerUserMessageId": "018df5ee-0a35-4232-a172-08e2d92aa903",
+      "providerAssistantMessageId": "7c5bfd4d-1c88-463d-8fe6-84169a7c14ce"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789160895455-nlos8w5",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1789160895449-61i8gxr",
+      "timestamp": 1789160895449,
+      "rawDisplayText": "Save it to Setting-Map document.",
+      "canonicalText": "Save it to Setting-Map document.",
+      "images": [],
+      "contentDigest": "13e6a9025299f219247b0add6f920ed4851a45537dcd8c3be70a377ea764a5ea",
+      "providerUserMessageId": "9c53cc86-6dbb-4184-a558-094719e4d647",
+      "providerAssistantMessageId": "c3668c77-5f55-4827-9187-1d91213f9520"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789161081426-yz5aunr",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1789161081420-4mg31qx",
+      "timestamp": 1789161081420,
+      "rawDisplayText": "Add info about Rev. Elliot Marsh in the character-map",
+      "canonicalText": "Add info about Rev. Elliot Marsh in the character-map",
+      "images": [],
+      "contentDigest": "b6a85ae0a78f58e7c14b767202b4942d05959b6f5c058b4ead8c45ca4ef3de0a",
+      "providerUserMessageId": "161dc532-a58f-4b2e-b449-fc66a6075f06",
+      "providerAssistantMessageId": "5df5631f-ded4-49a8-a6d0-0e55aba4b136"
+    }
+  ]
+}

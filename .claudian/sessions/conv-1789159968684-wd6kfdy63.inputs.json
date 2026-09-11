@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789159968684-wd6kfdy63",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789159968741-bqjaly8",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789159968679-3bobofp",
+      "timestamp": 1789159968679,
+      "rawDisplayText": "Are you here?",
+      "canonicalText": "Are you here?",
+      "context": {
+        "linkedContent": {
+          "path": "02_Projects/Jason Book/Drafts/Chapter-three.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "74decc6054322a3199a6f2f3cb2ba20773ce7360cb51fc47d73ee32334dbf7b7",
+      "providerUserMessageId": "29fffb0d-4f10-4ae6-8a08-0fec85a7abbf"
+    }
+  ]
+}

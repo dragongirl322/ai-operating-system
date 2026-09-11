@@ -32,6 +32,19 @@
       "images": [],
       "contentDigest": "5a7e8cbf876ed5a8b39d010178899719f439bf0120dbded1b03936d0b292e469",
       "providerUserMessageId": "bd4c8ddc-b16d-4172-8451-b817ff2fe6cc"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789159925776-8ad9e74",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1789159925762-8k5838o",
+      "timestamp": 1789159925762,
+      "rawDisplayText": "Are you here?",
+      "canonicalText": "Are you here?",
+      "images": [],
+      "contentDigest": "74decc6054322a3199a6f2f3cb2ba20773ce7360cb51fc47d73ee32334dbf7b7",
+      "providerUserMessageId": "1f51ec0e-2e6d-43df-800b-4f1b65786925"
     }
   ]
 }

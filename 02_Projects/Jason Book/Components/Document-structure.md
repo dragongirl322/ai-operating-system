@@ -2,6 +2,12 @@
 
 Working structure map for the Jason Book mystery thriller.
 
+## Setting Canon
+
+**Component file:** [[Setting-map]]
+
+Place names, hometown, present-day town, boarding school, and crime-scene geography live in the setting map. Keep Research Notes out of fiction place canon unless deliberately locked there.
+
 ## Current Story Spine
 
 **Core argument:** Jack's silence was never his safety. It was Stephen's alibi.
@@ -77,6 +83,8 @@ The prologue establishes the aftermath fragment Jack has always retained: he cam
 **Focus:** Boarding school as abandonment.
 
 Jack believes being sent away is the source of his damage. He thinks the school is a place for delinquents, even though he had good grades, real gifts, and no serious trouble beyond fights with neighborhood bullies.
+
+**Household at the send-off:** Boarding school happens before the summer 1985 home visit and murder. When Jack is sent away, Mona is already with her second husband, James Price. Who stays home: Mona, James, Stephen, and baby Owen. Frank is not in that household. Owen is the child who gets kept; Jack is the child who gets sent away.
 
 **Structural purpose:** Gives Jack a true but incomplete explanation for himself.
 
