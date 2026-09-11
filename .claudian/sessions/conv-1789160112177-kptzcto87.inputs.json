@@ -76,6 +76,19 @@
       "contentDigest": "b6a85ae0a78f58e7c14b767202b4942d05959b6f5c058b4ead8c45ca4ef3de0a",
       "providerUserMessageId": "161dc532-a58f-4b2e-b449-fc66a6075f06",
       "providerAssistantMessageId": "5df5631f-ded4-49a8-a6d0-0e55aba4b136"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789165312052-0ujumrs",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1789165312046-vihd5z0",
+      "timestamp": 1789165312046,
+      "rawDisplayText": "What is a good metal album that a former rock guitar player would be wanting to listen to? I'm thinking Megadeath or Iron maiden. Definitely Metallica but I'm trying not to be too cliche.",
+      "canonicalText": "What is a good metal album that a former rock guitar player would be wanting to listen to? I'm thinking Megadeath or Iron maiden. Definitely Metallica but I'm trying not to be too cliche.",
+      "images": [],
+      "contentDigest": "ee168da7741fbe31de7f6bcc855a12a71577716cba6e36a454de5c4438267e25",
+      "providerUserMessageId": "ce9f1fa1-fee1-4a6d-a572-4c627b2399ad"
     }
   ]
 }

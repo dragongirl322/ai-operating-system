@@ -1,4 +1,4 @@
-[L1] I was never much of a drinker but felt like I owed myself 
+[L1] Two hours later I'd finished off my third beer and ignored two texts from Stephen when Simone got home from work. I had my headphones on, listening to 
 
 ### Beat 1: Jack Tells Simone The Story He Understands
 
