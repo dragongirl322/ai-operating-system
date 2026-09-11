@@ -6,9 +6,9 @@
 
 [L3] I sat down on the barstool with a sigh. I din't want to talk about it at all. I wanted to forget about it. I knew that wasn't going to fly with Simone. If I said "no," she'd let it go for now but she'd bring it up again later. That's another thing I love about her. She loves me enough not to quit. 
 
-[L4] "It wasn't great." I said
+[L4] Usually I'd sit back and let her pull information from me but the combination of the alcohol and my anger had me a bit on fire. "It was awful. She has this fucking photo album she was looking at. She kept a clipping of the newspaper article about my case. I can't believe she kept it. And when I asked her about it she said she kept it because she needed to remember I'm a killer. I don't know why I keep trying with her. She's never stood up for me. She's never loved me." I put my face in my hands and started to sob. 
 
-[L1]
+[L5] 
 
 [L1]
 
