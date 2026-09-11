@@ -3623,3 +3623,9 @@ It just hit me like a brick to stop thinking of myself as being in a “choosing
 ## Thursday September 10
 
 Today is a day to soak in the sun. I saw recently a clip that spoke about some great research about the positive effects of soaking your body in the sun. It improves the mitochondria and can be so good for us. Not too long, for sure, but good to do as often as we can. Given we have the long dark up here in the PNW, I am embracing the last weeks. 
+
+Friday September 11
+
+For 25 days, this date has had a heaviness. I’m so grateful for the opportunity to experience it. 
+
+When I was a religious believer in god I had times when I was able to lay my burdens down. I have done it as a non-believer also. Like when I was self-employed in 2009 and the economy tanked. I had no jobs to apply for and work wasn’t coming. I gave over to my belief that we’d find a way. And we did. The interesting thing is that I don’t truly have a burden now and yet I sometimes have a mindset that I do. I have made a decision now and I am going to go do it and lay the burden and the fear aside and go make this great.
