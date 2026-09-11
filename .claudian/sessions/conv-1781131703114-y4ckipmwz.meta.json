@@ -4,11 +4,16 @@
   "title": "Extract design specs for claude.md",
   "titleGenerationStatus": "success",
   "createdAt": 1781131703115,
-  "updatedAt": 1781558999697,
-  "lastResponseAt": 1781131744652,
+  "lastActivityAt": 1781131744652,
   "sessionId": "12606a26-2934-449c-a968-31fdc8b274ab",
   "providerState": {
     "providerSessionId": "12606a26-2934-449c-a968-31fdc8b274ab"
+  },
+  "modelRecoverySource": {
+    "sessionId": "12606a26-2934-449c-a968-31fdc8b274ab",
+    "providerState": {
+      "providerSessionId": "12606a26-2934-449c-a968-31fdc8b274ab"
+    }
   },
   "usage": {
     "model": "sonnet",

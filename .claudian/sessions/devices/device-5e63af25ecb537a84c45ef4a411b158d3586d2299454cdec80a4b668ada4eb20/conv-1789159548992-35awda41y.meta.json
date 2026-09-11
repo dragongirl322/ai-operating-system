@@ -1,0 +1,14 @@
+{
+  "id": "conv-1789159548992-35awda41y",
+  "providerId": "claude",
+  "title": "Create a list of boarding schools that existed in ...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789159548995,
+  "lastActivityAt": 1789159619758,
+  "sessionId": "eda18973-e6ce-4b51-bd67-07bd41557497",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "eda18973-e6ce-4b51-bd67-07bd41557497"
+  },
+  "linkedContentPath": "02_Projects/Jason Book/Drafts/Chapter-three.md"
+}

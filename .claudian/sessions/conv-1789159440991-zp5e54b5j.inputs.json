@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789159440991-zp5e54b5j",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789159515194-8t0zx9n",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1789159515177-mm532yr",
+      "timestamp": 1789159515177,
+      "rawDisplayText": "Create a list of boarding schools that existed in 1985 in Washington, Oregon, Idaho, Utah",
+      "canonicalText": "Create a list of boarding schools that existed in 1985 in Washington, Oregon, Idaho, Utah",
+      "images": [],
+      "contentDigest": "5a7e8cbf876ed5a8b39d010178899719f439bf0120dbded1b03936d0b292e469",
+      "providerUserMessageId": "b5fe60f8-717c-48c3-abbc-54f1e36fc334"
+    }
+  ]
+}

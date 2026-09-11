@@ -4,11 +4,16 @@
   "title": "Review all of the notes in the daily Osprey file f...",
   "titleGenerationStatus": "failed",
   "createdAt": 1782093488340,
-  "updatedAt": 1782093560405,
-  "lastResponseAt": 1782093514572,
+  "lastActivityAt": 1782093514572,
   "sessionId": "9ec40c5c-f4e2-42e4-8add-60404c992c3e",
   "providerState": {
     "providerSessionId": "9ec40c5c-f4e2-42e4-8add-60404c992c3e"
+  },
+  "modelRecoverySource": {
+    "sessionId": "9ec40c5c-f4e2-42e4-8add-60404c992c3e",
+    "providerState": {
+      "providerSessionId": "9ec40c5c-f4e2-42e4-8add-60404c992c3e"
+    }
   },
   "usage": {
     "model": "sonnet",

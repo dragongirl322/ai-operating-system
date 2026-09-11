@@ -4,13 +4,13 @@
   "title": "Generate book theme options",
   "titleGenerationStatus": "success",
   "createdAt": 1786590731282,
-  "updatedAt": 1787191107249,
-  "lastResponseAt": 1786591311190,
+  "lastActivityAt": 1786591311190,
   "sessionId": "2a4ce8c7-3cf7-45d4-9c59-2cedf3917bd2",
+  "selectedModel": "opus",
   "providerState": {
     "providerSessionId": "2a4ce8c7-3cf7-45d4-9c59-2cedf3917bd2"
   },
-  "currentNote": "02_Projects/Jason Book/Research Notes/Concept.md",
+  "linkedContentPath": "02_Projects/Jason Book/Research Notes/Concept.md",
   "usage": {
     "model": "sonnet",
     "inputTokens": 2,

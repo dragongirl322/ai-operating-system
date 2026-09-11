@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789159548992-35awda41y",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789159549011-zy1ubl3",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789159548989-tni4vy3",
+      "timestamp": 1789159548989,
+      "rawDisplayText": "Create a list of boarding schools that existed in 1985 in Washington, Oregon, Idaho, Utah",
+      "canonicalText": "Create a list of boarding schools that existed in 1985 in Washington, Oregon, Idaho, Utah",
+      "context": {
+        "linkedContent": {
+          "path": "02_Projects/Jason Book/Drafts/Chapter-three.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "5a7e8cbf876ed5a8b39d010178899719f439bf0120dbded1b03936d0b292e469",
+      "providerUserMessageId": "4ff377b4-9edc-441c-b519-d6c0eafee97e"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789159619430-qt3dy3j",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1789159619416-2lajuo4",
+      "timestamp": 1789159619416,
+      "rawDisplayText": "Create a list of boarding schools that existed in 1985 in Washington, Oregon, Idaho, Utah",
+      "canonicalText": "Create a list of boarding schools that existed in 1985 in Washington, Oregon, Idaho, Utah",
+      "images": [],
+      "contentDigest": "5a7e8cbf876ed5a8b39d010178899719f439bf0120dbded1b03936d0b292e469",
+      "providerUserMessageId": "bd4c8ddc-b16d-4172-8451-b817ff2fe6cc"
+    }
+  ]
+}

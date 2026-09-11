@@ -4,13 +4,18 @@
   "title": "Analyze emotional patterns in journal",
   "titleGenerationStatus": "success",
   "createdAt": 1784603317405,
-  "updatedAt": 1784762849495,
-  "lastResponseAt": 1784603410025,
+  "lastActivityAt": 1784603410025,
   "sessionId": "1383630a-ea62-4c21-9baf-43b234838255",
   "providerState": {
     "providerSessionId": "1383630a-ea62-4c21-9baf-43b234838255"
   },
-  "currentNote": "00_About Tammy/00_Journal/Stoic Morning.md",
+  "modelRecoverySource": {
+    "sessionId": "1383630a-ea62-4c21-9baf-43b234838255",
+    "providerState": {
+      "providerSessionId": "1383630a-ea62-4c21-9baf-43b234838255"
+    }
+  },
+  "linkedContentPath": "00_About Tammy/00_Journal/Stoic Morning.md",
   "usage": {
     "model": "sonnet",
     "inputTokens": 1,

@@ -1,0 +1,19 @@
+{
+  "id": "conv-1789159440991-zp5e54b5j",
+  "providerId": "claude",
+  "title": "Create a list of boarding schools that existed in ...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789159440994,
+  "lastActivityAt": 1789159515512,
+  "sessionId": null,
+  "linkedContentPath": "02_Projects/Jason Book/Drafts/Chapter-three.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

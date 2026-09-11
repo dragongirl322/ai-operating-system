@@ -4,9 +4,9 @@
   "title": "Explore Davinci's nature writings",
   "titleGenerationStatus": "success",
   "createdAt": 1787768705761,
-  "updatedAt": 1788553240898,
-  "lastResponseAt": 1787769183282,
+  "lastActivityAt": 1787769183282,
   "sessionId": "eac8ce14-3972-49a3-a208-dfae7bcbb4ee",
+  "selectedModel": "opus",
   "providerState": {
     "providerSessionId": "eac8ce14-3972-49a3-a208-dfae7bcbb4ee"
   },

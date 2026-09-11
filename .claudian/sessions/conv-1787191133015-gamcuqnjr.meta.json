@@ -4,9 +4,9 @@
   "title": "Verify technology quote origin",
   "titleGenerationStatus": "success",
   "createdAt": 1787191133016,
-  "updatedAt": 1787244922369,
-  "lastResponseAt": 1787191436851,
+  "lastActivityAt": 1787191436851,
   "sessionId": "956da253-ee8f-40bc-b49f-91d2d4403ef6",
+  "selectedModel": "opus",
   "providerState": {
     "providerSessionId": "956da253-ee8f-40bc-b49f-91d2d4403ef6"
   },

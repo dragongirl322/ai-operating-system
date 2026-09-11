@@ -4,13 +4,18 @@
   "title": "Remove before you start and section 1",
   "titleGenerationStatus": "success",
   "createdAt": 1781642821452,
-  "updatedAt": 1781813218276,
-  "lastResponseAt": 1781642862455,
+  "lastActivityAt": 1781642862455,
   "sessionId": "98ca5699-3d75-4112-bf0f-ef16d0aaed57",
   "providerState": {
     "providerSessionId": "98ca5699-3d75-4112-bf0f-ef16d0aaed57"
   },
-  "currentNote": "02_Projects/Vinyl Store Operations/01_Weekly_Operations/Weekly Vinyl Scout Checklist.md",
+  "modelRecoverySource": {
+    "sessionId": "98ca5699-3d75-4112-bf0f-ef16d0aaed57",
+    "providerState": {
+      "providerSessionId": "98ca5699-3d75-4112-bf0f-ef16d0aaed57"
+    }
+  },
+  "linkedContentPath": "02_Projects/Vinyl Store Operations/01_Weekly_Operations/Weekly Vinyl Scout Checklist.md",
   "usage": {
     "model": "sonnet",
     "inputTokens": 1,

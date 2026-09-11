@@ -4,13 +4,13 @@
   "title": "Review summary for manager burnout gaps",
   "titleGenerationStatus": "success",
   "createdAt": 1787263241412,
-  "updatedAt": 1787266665985,
-  "lastResponseAt": 1787263526663,
+  "lastActivityAt": 1787263526663,
   "sessionId": "c94aa13e-2888-4ef1-a413-5d77b34833ee",
+  "selectedModel": "opus",
   "providerState": {
     "providerSessionId": "c94aa13e-2888-4ef1-a413-5d77b34833ee"
   },
-  "currentNote": "02_Projects/Writing/Research/Corporate Suffering.md",
+  "linkedContentPath": "02_Projects/Writing/Research/Corporate Suffering.md",
   "usage": {
     "model": "sonnet",
     "inputTokens": 2,
