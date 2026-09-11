@@ -8,10 +8,10 @@
 
 [L3]I decided to go have a smoke and call while I was outside. I don't like to talk to Stephen in front of Simone, not because I want to hide from her but sometimes I'm so small with Stephen and I didn't want her to see that in me. Stephen picked up on the second ring.
 "What's up?" he asked.
-"Hey, since you're going to be gone next week, Simone and I were wondering if Mom could come spend the week with us? We have that extra room for her so she'd be comfortable." 
+"Hey, since you're going to be gone next week, Simone and I were wondering if Mom could come spend the week with us? We have that extra room for her, so she'd be comfortable." 
 Stephen didn't let a second pass before responding. "That's okay, I've asked her friend Mr. Kessler from across the street to come and look in on her. Mom is more comfortable in her own house and she doesn't need the stress of taking care of you right now."
 "Oh. That makes sense," I said, trying not to sound dejected and weak. 
-"Hey, come by tomorrow afternoon if you want to see her. Spend a little time visiting. She'd like that. We'll grab dinner after." A part of me wanted to tell him no. Why would I want to spend time with him? But I wanted to see Mom and somehow I felt wanted when Stephen invited me to spend time with him.
+"Hey, come by tomorrow afternoon if you want to see her. Spend a little time visiting. She'd like that. We'll grab dinner after." A part of me wanted to tell him no. Why would I want to spend time with him? But I wanted to see Mom and somehow, I felt wanted when Stephen invited me to spend time with him.
 "Sure. I'll see you tomorrow." I tossed what was left of my cigarette in a puddle and stamped it out, hard, taking my anger out on that stupid butt. A grown-ass man not even able to help his own mother. 
 
 [L4]The next day I woke up earlier than usual. I was looking forward to spending time with my mom. I was glad I could at least still drive myself but knew my old Toyota truck had dirty spark plugs and needed fresh oil.  
@@ -19,7 +19,7 @@ Stephen didn't let a second pass before responding. "That's okay, I've asked her
 [L5]I finished working on my truck then gave it a good wash with just enough time left for a shower and a stop at Half Price Books to buy *Crime and Punishment* for Mom. I wanted her to like it. She had talked about a lot of books with me but had never mentioned reading this one. 
 
 [L6]Mom was waiting outside, smoking when I drove up. She didn't smile but she never did. She nodded to acknowledge me and then bent down to stub out her cigarette on the cement walkway. "Hi, Jack. Come in. Let's sit and talk for a while." 
-"Hi, Mom. I brought you something." I reached to hand her the book still in the paper bag. "Sorry it isn't wrapped. I stopped and got it on my way here." I wanted to say I hoped she'd like it but I didn't want her to see how badly I wanted that. 
+"Hi, Mom. I brought you something." I reached to hand her the book still in the paper bag. "Sorry it isn't wrapped. I stopped and got it on my way here." I wanted to say I hoped she'd like it, but I didn't want her to see how badly I wanted that. 
 She removed it from the paper bag and read the title, nodding slowly before looking up at me with a slight smile. "This is good, Jack. I wanted this one." This was as much gratitude as Mona could show. I was happy to hear her say it was good and that little smile told me what her words wouldn't. "I will go get you a cola. Sit. Sit."
 
 [L7]Mona handed me a cola with ice in it, just the way I liked it as a boy. I noticed an open photo album sitting on her coffee table. 

@@ -7,7 +7,7 @@ Transformation mechanisms anchor on Kotter change management framework; stage 1 
 - Use Duarte's Illuminate storytelling framework to invite the entire team to dream about the envisioned future with us and to take the leap toward greatness; we make plans to be intentional w/ the framework throughout the change process.
 	- One aspect is to get intentional and consistent in communicating about the opportunities to see who runs toward what; this allows us to enlist the army of volunteers.
 	- Watch for and celebrate progress/wins
-	- As people / team encounter obstacles, leaders remove obstacles and we make sure that is visible; builds trust and invites others to 
+	- As people / team encounter obstacles, leaders remove obstacles and we make sure that is visible; builds trust and invites others to take risks
 
 URI’s core identity and envisioned future? 
 - What about URI shouldn't change, even if the vision does?
