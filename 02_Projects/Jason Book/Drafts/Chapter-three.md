@@ -1,4 +1,4 @@
-
+[L1] I was never much of a drinker but felt like I owed myself 
 
 ### Beat 1: Jack Tells Simone The Story He Understands
 

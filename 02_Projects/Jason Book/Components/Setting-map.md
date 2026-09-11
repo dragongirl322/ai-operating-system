@@ -6,17 +6,13 @@ Working place bible for Jason Book. Keep this thin and answerable. Do not pull n
 
 **Region:** Greater Seattle area (locked by character map / drafts: Seattle band history; Stephen's used-car lots; Lynnwood lot; Everett Youth Foundation).
 
-**Town / neighborhood where Jack and Simone live:** [BLANK — name the city or suburb]
+**Jack and Simone (locked):** Mountlake Terrace — house with pine out front; Megan and Tyler next door with garage. Stephen can stop by after the Lynnwood lot (nearby).
 
-**Notes already on the page:**
-- Jack and Simone's house; pine tree out front; Megan/Tyler next door with garage
-- Stephen can stop by after the Lynnwood lot
-- Mona lives next door to Stephen in a home he bought
+**Stephen (locked):** Everett — three used-car lots in the greater Seattle area, including the Lynnwood lot; Everett Youth Foundation charity beat fits his home turf.
 
-**Stephen's geography:**
-- Three used-car lots in the greater Seattle area
-- Lynnwood lot (named in draft)
-- Mona next door to Stephen: [BLANK — suburb / street sense if needed]
+**Mona (locked):** Lives next door to Stephen in Everett, in a home he bought.
+
+**Owen (locked):** Seattle, Wallingford neighborhood.
 
 ## Childhood / Hometown
 
