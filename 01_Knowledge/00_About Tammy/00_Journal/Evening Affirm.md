@@ -611,3 +611,7 @@ Giving over to doing what will afford me freedom and fun with plenty of challeng
 ## Thursday September 10
 
 There is a certain peace and motivation in knowing that I’m going to jump in and help Trinh and URI. I am happy and content with the decision and also recognize it is like many decisions in that it can be reversed if needed. 
+
+## Saturday September 12
+
+I broke out old dvds of Tre when he was real young. We have loved him so much. He was brilliant. counting to 20 and all of his ABCs and reading before he was 2. He knew all the planets by sight. And so sweet. I love him so much as a grown man, also. Still so smart and sweet. 
