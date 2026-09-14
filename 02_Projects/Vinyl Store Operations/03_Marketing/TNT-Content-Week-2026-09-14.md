@@ -8,7 +8,8 @@ updated: 2026-09-14
 # Week of Sept 14, 2026 — Social + Google
 
 Store hours: **Tue–Sat 11–7**. Closed Sun/Mon.
-Voice: short, casual, local, a few emojis. No “dig the bins,” “drop the needle,” or “needle down.” No plaza vouchers. Do not announce online ordering.
+**This week’s calendar (do not drift):** Mon 14 · Tue 15 · Wed 16 · **Thu 17** · Fri 18 · **Sat 19** · Sun 20. One-year day = **Thu Sept 24**.
+Voice: short, casual, local, a few emojis. No “dig the bins,” “drop the needle,” or “needle down.” No plaza vouchers. Do not announce online ordering. Customer-facing: say “one year” / “one year of being open,” not “Year Two” (that’s internal).
 
 This week’s news:
 - **Thursday Sept 24** = Year Two / one-year day, 11–7
@@ -37,14 +38,14 @@ Our one-year day is Thursday the 24th. More on that soon. For now: cold vinyl’
 
 ---
 
-## Thursday Sept 18 — IG + Facebook (Tam posts)
+## Thursday Sept 17 — IG + Facebook (Tam posts)
 
 **Photo:** Red turntable prize (desktop `IMG_0137`) or raffle sign in-store. Or prize boxes (`IMG_0144`).
 
 **IG:**
-10 days out 😎
+One week out 😎
 
-Year Two is Thursday the 24th. Still time to get in the raffle — buy an album for a ticket, post your purchase and tag us and Emma bumps you to five.
+We’re celebrating one year of being open on Thursday the 24th. Still time to get in the raffle — buy an album for a ticket, post your purchase and tag us and Emma bumps you to five.
 
 Prize is the red turntable or a boombox, plus two albums off the floor.
 
@@ -56,12 +57,12 @@ Cold vinyl sale is still going (25% + BOGO). Open Tue–Sat 11–7.
 
 ---
 
-## Saturday Sept 20 — IG + Facebook (Tam posts)
+## Saturday Sept 19 — IG + Facebook (Tam posts)
 
 **Photo:** Purple door / OPEN neon (`IMG_0140`) or weekend floor / sale table. Fresh shop photo better if you have one.
 
 **IG:**
-Four days till Year Two ⚡
+Five days till our one-year day ⚡
 
 We’re open today till 7. Free gift with purchase starts Thursday — and the raffle draw is that day too.
 
@@ -88,3 +89,4 @@ Thursday Sept 24 is TNT Music’s one-year day, open 11–7. Free gift with any 
 - Online store / Shopify (not taking orders yet)
 - Specific album titles unless Tam/Tre confirm stock
 - Sandwich board (still not secured)
+- “Year Two” wording in customer posts (internal only; say one year open)
