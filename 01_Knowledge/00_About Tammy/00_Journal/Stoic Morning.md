@@ -3636,3 +3636,7 @@ When I was a religious believer in god I had times when I was able to lay my bur
 ## Sunday September 13
 
 Rainy Sunday. Exactly the type of day to help slow everything down. Energy to my family and home today. And to getting over this head cold. 
+
+## Monday September 14
+
+It may be the cooler, grayer weather. It may be that I’m battling a head cold. I feel a wave of sadness this morning that I woke up with. No real reason. It is just there. It doesn’t control me. My gratitude is bigger. At the same time, I like allowing it to be with me. Inside Out taught us that letting all of our emotions live together matters. It just means I’m a human. 
