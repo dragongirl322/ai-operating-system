@@ -3640,3 +3640,8 @@ Rainy Sunday. Exactly the type of day to help slow everything down. Energy to my
 ## Monday September 14
 
 It may be the cooler, grayer weather. It may be that I’m battling a head cold. I feel a wave of sadness this morning that I woke up with. No real reason. It is just there. It doesn’t control me. My gratitude is bigger. At the same time, I like allowing it to be with me. Inside Out taught us that letting all of our emotions live together matters. It just means I’m a human. 
+
+
+Tuesday September 15
+
+URI day. I have extended time with Trinh. Looking forward to digging in. 
