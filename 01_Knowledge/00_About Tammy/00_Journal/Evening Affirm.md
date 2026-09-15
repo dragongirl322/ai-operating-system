@@ -615,3 +615,7 @@ There is a certain peace and motivation in knowing that I’m going to jump in a
 ## Saturday September 12
 
 I broke out old dvds of Tre when he was real young. We have loved him so much. He was brilliant. counting to 20 and all of his ABCs and reading before he was 2. He knew all the planets by sight. And so sweet. I love him so much as a grown man, also. Still so smart and sweet. 
+
+## Monday September 14
+
+It occurs to me that I have become a bit obsessed with holding on to and building my money rather than embracing that I worked hard and made the money so I can spend it. Yes, we want to have enough to leave Tre but that doesn’t’ mean stressing over every cent spent. The mentality needs to shift. 
