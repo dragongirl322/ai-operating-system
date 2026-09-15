@@ -46,3 +46,24 @@ Brook (ops manager) is working on the strategy. Trinh fed her a bunch of info, g
 ### Transformation kickoff
 
 We tentatively agreed to **Nov 1** for a transformation kickoff.
+
+---
+
+## Trent (15 Sep 2026)
+
+Partial notes — more to come.
+
+- Biggest client is Google.
+- Sketchy.
+- Amazon is cheap; we get a little here and there.
+
+---
+
+## Trinh — what can't change / concerns (15 Sep 2026)
+
+What can't change about URI:
+- Focus on quality
+- Helping clients be successful
+- Caring about the team
+
+Concerns about complacency with Tom and Ken in particular.
