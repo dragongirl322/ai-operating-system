@@ -3646,8 +3646,9 @@ It may be the cooler, grayer weather. It may be that I’m battling a head cold.
 
 URI day. I have extended time with Trinh. Looking forward to digging in. I’ll get clarity on contract update today. We’ll chart a path forward. 
 
-Wednesday September 16
+## Wednesday September 16
 
-Things I learned yesterday and how they affect me: Trinh is slipping a bit, I think. She has always been repetitive but she is telling me things she literally just told me last week. She sent an updated contract that she said was better but it is worse. She is going to follow my lead and she is going to be thoughtful. She sincerely wants to take care of me. She definitely needs my support and guidance. She will trust everything I do. She says the contractual terms wi
+Things I learned yesterday and how they affect me: Trinh is slipping a bit, I think. She has always been repetitive but she is telling me things she literally just told me last week. She sent an updated contract that she said was better but it is worse. She is going to follow my lead and she is going to be thoughtful. She sincerely wants to take care of me. She definitely needs my support and guidance. She will trust everything I do. She says the contractual terms will change as we get going. I agree because I will expect it to. If it doesn’t, I don’t stay. 
 
-My plan is to trust until there is a reason no to. 
+My plan is to trust until there is a reason not to. I see clear problems to solve and believe I can help, a lot. I can bring strategic clarity. Leadership. Simplicity and focus. Discipline. Inspiration. My hope is that the difference is material. 
+
