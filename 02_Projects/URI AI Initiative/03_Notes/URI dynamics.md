@@ -83,3 +83,27 @@ On two occasions in conversation with Trinh she casually dropped that the things
 ### Hot take
 
 If Justin wants to lead GTM or innovation or whatever, he has to be accountable to Trinh — not off doing his own rodeo.
+
+---
+
+## Brooke and Shaun (16 Sep 2026)
+
+### Ops load after head of ops left
+
+When the head of ops left earlier this year, his work spread across Brooke, Trinh, and Justin. Justin is no longer doing much ops work, but Trinh is having a harder time letting go. Brooke suspects it’s because Brooke has taken on larger scope and Trinh wants to be sure not to overburden her.
+
+### AI adoption and access
+
+Brooke and team are on the forefront of using AI to streamline operational processes. Brooke said others at URI are not as AI-forward. Shaun says AI tooling is gated by Brooke, so researchers don’t have access — a problem.
+
+### Friday AI initiative meeting
+
+Friday AI initiative meeting includes Justin, Shaun, Shawn Z., Carl, Brooke. Brooke characterized these meetings as hard to follow and not highly valuable. When asked, she wasn’t aware of a clear objective for the meetings or the initiative. She finds all of the AI work confusing. In her perfect version of what URI is doing, AI would just be core to how they work — vs. looking to build the next big thing.
+
+### Quality
+
+Both mentioned quality as an attribute URI can’t lose. Shaun says it is very high and not something to worry about.
+
+### Panel Pro as business risk
+
+Both mention Panel Pro as a risk to the business. Seven years, $400k per year for staff, no return on investment.
