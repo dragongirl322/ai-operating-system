@@ -48,13 +48,11 @@ Brook (ops manager) is working on the strategy. Trinh fed her a bunch of info, g
 We tentatively agreed to **Nov 1** for a transformation kickoff.
 
 ---
-
-## Trent (15 Sep 2026)
-
-Partial notes — more to come.
+Trinh
+.
 
 - Biggest client is Google.
-- Sketchy.
+- Meta is fickle.
 - Amazon is cheap; we get a little here and there.
 
 ---
@@ -67,3 +65,21 @@ What can't change about URI:
 - Caring about the team
 
 Concerns about complacency with Tom and Ken in particular.
+
+---
+
+## Visibility, feedback, and accountability (16 Sep 2026)
+
+### Dalien / Justin operating pattern
+
+On several occasions I have offered in-person feedback to Dalien and seen nothing come of it. I also provided a document recommending a rubric for evaluations, told him I had not heard back, and still nothing.
+
+I have been candid and clear that “working in a vacuum” is not effective, and that he and Justin running off and doing things without transparency is not good. They continue to operate that way.
+
+### Trinh — Justin’s work not visible (conversation yesterday, ~15 Sep 2026)
+
+On two occasions in conversation with Trinh she casually dropped that the things Justin leads are not visible to her. She decided to move Sales to Shawn, effective **Nov 1**, as a result. It is a step, but I suspect not nearly far enough.
+
+### Hot take
+
+If Justin wants to lead GTM or innovation or whatever, he has to be accountable to Trinh — not off doing his own rodeo.
