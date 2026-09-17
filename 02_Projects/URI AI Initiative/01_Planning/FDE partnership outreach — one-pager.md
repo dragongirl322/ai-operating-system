@@ -6,16 +6,16 @@ Working note for outreach to smaller forward-deployed engineering (FDE) firms. P
 
 ## Elevator pitch — URI’s unique value
 
-URI is a human-evidence partner for AI that has to work in the real world. We bring the people lens that most FDE engagements skip: discovery that surfaces user outcomes and behaviors before anyone builds, plus panel, HITL evaluation, and adoption evidence after systems ship. You embed and build production AI in the client’s environment; we make sure the right problem is being solved for real humans — and that what ships is trusted, usable, and adopted.
+URI exists for the user on the other end of the AI. Our craft is understanding what people are trying to achieve, how they actually behave, and what “good” feels like in their world — then turning that into evidence teams can build and decide on. From discovery through evaluation and adoption, we keep the human outcome in focus so AI is designed, judged, and improved against real user success — not only technical completion.
 
 **Where we play with an FDE partner**
 
-1. **Discovery (human lens)** — Before/alongside scoping: user outcomes, behaviors, jobs-to-be-done, failure modes, and what “good” looks like for the people who will use or be affected by the system.
-2. **Build-time evidence** — Participants, tasks, and human judgment loops while agents/tools are being built (not only after).
-3. **Eval & readiness** — Independent human evaluation of whether the AI is correct, understandable, controllable, and ready for real workflows.
-4. **Adoption & continuous improvement** — Evidence that follows the lifecycle: decision → change → retest — so production systems keep earning trust.
+1. **Discovery (human lens)** — Surface user outcomes, behaviors, jobs-to-be-done, failure modes, and what “good” looks like for the people who will use or be affected by the system — so build work aims at the right human result.
+2. **Build-time evidence** — Bring participants, tasks, and human judgment into the loop while agents/tools are being built, so user reality shapes the system as it takes form.
+3. **Eval & readiness** — Independent human evaluation of whether the AI is correct, understandable, controllable, and ready for the workflows people actually run.
+4. **Adoption & continuous improvement** — Follow evidence through the lifecycle: decision → change → retest — so production systems keep earning trust with the people who rely on them.
 
-**One-liner for outreach:** *You ship the last mile in their repo. We make sure the first mile (and the humans) aren’t missing.*
+**One-liner for outreach:** *We focus on the user on the other end — so what you ship succeeds for the humans it’s meant to serve.*
 
 ---
 
