@@ -37,12 +37,47 @@ Jim Collins and Jerry Porras studied enduring visionary companies (Built to Last
 
 1. **Kickoff** — Context, ground rules, and today’s goal (above).
 2. **Vision work** — Collins/Porras framework: core values, core purpose, mission (BHAG).
+   - **Slide to create (Tam):** Introduce BHAG / Mission with Collins’ Starbucks story (see “BHAG / Mission slide copy” below).
 3. **Next steps** — What follows once the vision draft is in place, including:
    - Commitment to reconvene later to **define the Hedgehog Concept** (not a full hedgehog working session today).
 4. **Close** — Hedgehog video: https://www.youtube.com/watch?v=JUrdbmNBpyY
 
 ---
 
+
+### BHAG / Mission slide copy _(create this slide)_
+
+Use roughly this Collins text to introduce BHAG / Mission:
+
+> In *Built to Last*, probably my favorite chapter is the chapter on BHAGs. I’m American. I mean, we are the BHAG culture—Big Hairy Audacious Goals. And, you know, most companies don’t really have BHAGs; they have SBUGs, Small Bald Unaudacious Goals. But I like BHAGs.
+>
+> What’s the difference between a BHAG and an SBUG? Starbucks Coffee came to my lab. We mentioned Starbucks earlier. They came to my lab and they said, “Well, Jim, we’re proud to say we have a BHAG.”
+>
+> “Great. What is it?”
+>
+> “Two thousand stores by the year 2000.”
+>
+> “Interesting. Tell me, what makes you think that you can achieve this?”
+>
+> “Oh, we’re pretty much right on track, and it’s about a 100% chance we’ll get it done.”
+>
+> {Laughter}
+>
+> “What do you need to do differently from what you’re doing now to make it happen?”
+>
+> “Oh, nothing.”
+>
+> “So, what makes you think this is a Big Hairy Audacious Goal? Why don’t you go back to Seattle, drink some double espresso, and bounce off the walls?” By the way, you always wonder why certain things come from certain places. Great coffee comes from Seattle. If thou shalt not have sunshine, thou shalt have caffeine.
+>
+> So, they go off to Seattle and they bounce off the walls. They come back and they say, “We have a BHAG now.” Because, I asked them to set a goal that would truly be audacious from a twenty- to twenty-five-year perspective.
+>
+> “What is it?”
+>
+> “To turn the Starbucks brand into the most recognized and respected consumer brand in the world, a position that’s currently held by Coca-Cola.” Now, that is a BHAG. It wasn’t any random BHAG. It was a BHAG that reflected their three circles: what they’re passionate about, what they can be the best in the world at, and what drives their economics. And the BHAG flows from their understanding of those three circles.
+
+**Point for the room:** A real BHAG is audacious on a 20–25 year horizon, forces different behavior, and flows from the Hedgehog circles — not a forecast you’re already on track to hit.
+
+---
 ## Discussion weave-ins
 
 Notes to fold into the conversation once we know where they fit. Not separate homework.
