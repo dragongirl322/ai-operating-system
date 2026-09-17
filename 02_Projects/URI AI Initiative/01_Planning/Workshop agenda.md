@@ -1,12 +1,15 @@
 # Workshop agenda
 
-Working draft for the URI planning workshop. Agenda slots TBD.
+Working draft for the URI planning workshop. Agenda slots still TBD in places.
 
 ---
 
 ## Agenda
 
-_(Build as we decide structure — Collins/Porras vision work, etc.)_
+1. **Vision first** — Collins/Porras vision work (core ideology + envisioned future).
+2. **Next steps** — What we do after the vision is drafted, including:
+   - Coming together later to **define the Hedgehog Concept** (what we can be best at / economic engine / deep passion). Important; place toward the end of the day — after vision, as a clear follow-on commitment rather than a full hedgehog working session in this workshop.
+3. **Close** — Hedgehog video: https://www.youtube.com/watch?v=JUrdbmNBpyY
 
 ---
 
@@ -38,3 +41,12 @@ Propose we simplify innovation into **three buckets**:
 - Possible anchors: strategy / hedgehog discussion, “what should change vs stay,” or when Innovation (Justin / Panel Pro / Dalien) comes up as a function.
 - Prompt if useful in-session: For each bucket, name 1–2 concrete bets in the next 12 months — and one thing we should stop calling “innovation” that is really tool-building without a clear operating or client payoff.
 
+### Hedgehog (toward the end)
+
+- Name why a Hedgehog Concept matters after vision is in place.
+- Do **not** try to fully define hedgehog in this workshop; treat it as a next-step commitment: reconvene to define it.
+- End the workshop with: https://www.youtube.com/watch?v=JUrdbmNBpyY
+
+**Groundwork (from Collins — [Can a Hedgehog be a Program?](https://www.jimcollins.com/media_topics/CanAHedgehogBeAProgram.html))**
+
+A Hedgehog Concept is not a program you stand up in a few months. In the good-to-great research it took **four years on average** to get the concept clear, and **seven years on average** from the start of the transition to a visible breakthrough. Looking back, the answer looks simple and elegant — so people assume they can “programmatize” it quickly — but it actually comes through years of debate, angst, and evolution. Lay that expectation before we commit to defining ours later.
