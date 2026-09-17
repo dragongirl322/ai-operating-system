@@ -6,7 +6,7 @@ Working note for outreach to smaller forward-deployed engineering (FDE) firms. P
 
 ## Elevator pitch — URI’s unique value
 
-URI exists for the user on the other end of the AI. Our craft is understanding what people are trying to achieve, how they actually behave, and what “good” feels like in their world — then turning that into evidence teams can build and decide on. From discovery through evaluation and adoption, we keep the human outcome in focus so AI is designed, judged, and improved against real user success — not only technical completion.
+URI exists for the user on the other end of the AI. Our craft is understanding what people are trying to achieve, how they actually behave, and what “good” feels like in their world then turning that into evidence teams can build and decide on. From discovery through evaluation and adoption, we keep the human outcome in focus so AI is designed, judged, and improved against real user success, not only technical completion.
 
 **Where we play with an FDE partner**
 
