@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789609363631-nz1xvr9ig",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789609363705-7sbur0z",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789609363628-gzwnx9a",
+      "timestamp": 1789609363628,
+      "rawDisplayText": "Describe for me in concise terms what the hedgehog principle is and where it came from.",
+      "canonicalText": "Describe for me in concise terms what the hedgehog principle is and where it came from.",
+      "context": {
+        "linkedContent": {
+          "path": "02_Projects/Writing/Drafts/BE 2.0.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "070fa0a5acdf4ac3a982c5353a3e22231c2c641d361322c13d2543af80994748",
+      "providerUserMessageId": "0234d67f-aac7-4a8d-9cc8-f5f80c390e11",
+      "providerAssistantMessageId": "566b626c-cde6-4ca1-8c36-570235690f0b"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789609412588-p5innvv",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1789609412584-n7wsjg1",
+      "timestamp": 1789609412584,
+      "rawDisplayText": "Yes, take a stab at drafting it for me. It must sound like me, not you.",
+      "canonicalText": "Yes, take a stab at drafting it for me. It must sound like me, not you.",
+      "images": [],
+      "contentDigest": "fccacbe6dc4fbdb29f65c8377caeb212818e8dcf26dd7bd65a62c25aea085525",
+      "providerUserMessageId": "18df8982-e1c3-4452-94e7-9de991522ea8",
+      "providerAssistantMessageId": "99bb849d-0b5a-47f9-8eb7-9d9e1011a806"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789609470143-olgf3eh",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1789609470138-6f8vsgr",
+      "timestamp": 1789609470138,
+      "rawDisplayText": "Drop it for me then observe what I edit and remember for future style.",
+      "canonicalText": "Drop it for me then observe what I edit and remember for future style.",
+      "images": [],
+      "contentDigest": "1a2ce0b333401dce6c0143f5926c4cf5de4058fc338de30289c6bc9c533e5816",
+      "providerUserMessageId": "5b9d8215-97e5-435a-918c-6a3830c3ee9b",
+      "providerAssistantMessageId": "f3b494a8-f601-4fae-8f41-7bc98c1fd98f"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789609933562-nd1wbes",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1789609933557-m0wrnpb",
+      "timestamp": 1789609933557,
+      "rawDisplayText": "Does collins call it the Hedgehog p;rinciple or the concept?",
+      "canonicalText": "Does collins call it the Hedgehog p;rinciple or the concept?",
+      "images": [],
+      "contentDigest": "5935a80ebf2007c55c8c0bb15d388356b504d985dcdc502484e85876c3d22e04",
+      "providerUserMessageId": "9a80171a-5560-4f8d-9cae-1f6194f6e4d9",
+      "providerAssistantMessageId": "cbf99ebf-d528-47f5-bc8e-b2354372babf"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789610190633-rq5bze1",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1789610190627-4k8ovwu",
+      "timestamp": 1789610190627,
+      "rawDisplayText": "Now write a paragraph for Level 5 leadership. You can include in it that I love that it focuses on a leader's will and ambition through the lens of what is best for the cause. It isn't so soft as to be \"servant\" focused but makes it clear that it isn't about the leader's ego. I just love it.",
+      "canonicalText": "Now write a paragraph for Level 5 leadership. You can include in it that I love that it focuses on a leader's will and ambition through the lens of what is best for the cause. It isn't so soft as to be \"servant\" focused but makes it clear that it isn't about the leader's ego. I just love it.",
+      "images": [],
+      "contentDigest": "3db4aa4b4afd6f0a0d0721036f9fa4fdeec7dc38145886aa5ef84c331c4fe1f0",
+      "providerUserMessageId": "8c1c8f01-6f4e-444d-a654-530529e46822",
+      "providerAssistantMessageId": "b6a51f0b-dc06-4c99-be67-b0c6b15d388a"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789610280798-qnx8vya",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1789610280792-39j2lv6",
+      "timestamp": 1789610280792,
+      "rawDisplayText": "What is the actual wording of level 5 leadership?",
+      "canonicalText": "What is the actual wording of level 5 leadership?",
+      "images": [],
+      "contentDigest": "b0a28d96ac89873890d01fb575c64c14d12bd30abe641828bb146593c840670f",
+      "providerUserMessageId": "dbd3e48a-a67e-47f0-8dea-42183eb15fff",
+      "providerAssistantMessageId": "c414804a-401e-4cda-825f-49e662364d33"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789610410668-phr327t",
+      "userTurnOrdinal": 7,
+      "state": "staged",
+      "localMessageId": "msg-1789610410662-zwc8np9",
+      "timestamp": 1789610410662,
+      "rawDisplayText": "Remind me of the story tells about the \"never stifle a generous impulse\" advise.",
+      "canonicalText": "Remind me of the story tells about the \"never stifle a generous impulse\" advise.",
+      "images": [],
+      "contentDigest": "6b96e549125a45dc2d984d8454a1f38203b0039bd3ee77ec7acaa81ec65e366d"
+    }
+  ]
+}

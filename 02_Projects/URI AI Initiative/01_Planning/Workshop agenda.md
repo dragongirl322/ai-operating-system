@@ -1,15 +1,45 @@
 # Workshop agenda
 
-Working draft for the URI planning workshop. Agenda slots still TBD in places.
+Working draft for the URI planning workshop.
 
 ---
 
-## Agenda
+## 1. Kickoff — context and ground rules
 
-1. **Vision first** — Collins/Porras vision work (core ideology + envisioned future).
-2. **Next steps** — What we do after the vision is drafted, including:
-   - Coming together later to **define the Hedgehog Concept** (what we can be best at / economic engine / deep passion). Important; place toward the end of the day — after vision, as a clear follow-on commitment rather than a full hedgehog working session in this workshop.
-3. **Close** — Hedgehog video: https://www.youtube.com/watch?v=JUrdbmNBpyY
+### Why transform
+
+URI has been successful for 20+ years — and the game has changed. Research budgets have shrunk. AI can take on some of the research lift. In tech, there is a perception that AI can replace us. Those shifts require a transformative approach to drive focus and growth.
+
+### What we preserve
+
+Change is necessary. So is protecting what makes us great. The foundation is solid: great research, high quality, a robust panel, and capable people.
+
+### How we lead the work
+
+Jim Collins and other leadership thinkers are clear: a leader’s job is to catalyze a clear vision and strategy. We build a culture of supportive development and growth, and we use well-founded change-management norms — not disruption for its own sake.
+
+### Today’s goal
+
+Create a vision using the **Collins/Porras Vision Framework**.
+
+Jim Collins and Jerry Porras studied enduring visionary companies (Built to Last) and distilled how those firms define vision with rigor: **core ideology** (core values + core purpose) and an **envisioned future** (BHAG / mission + vivid description). The framework is valuable because it separates what must never change from what must change — and the research evidence shows this pattern in companies that endure.
+
+### Ground rules
+
+- Be present.
+- Listen to each other before interjecting.
+- Leave today with: **core values**, **core purpose**, and **mission (BHAG)**.
+- Decisions by consensus — everyone bought in. If we cannot reach consensus, **Trinh is the tie-breaker**.
+
+---
+
+## 2. Full day agenda
+
+1. **Kickoff** — Context, ground rules, and today’s goal (above).
+2. **Vision work** — Collins/Porras framework: core values, core purpose, mission (BHAG).
+3. **Next steps** — What follows once the vision draft is in place, including:
+   - Commitment to reconvene later to **define the Hedgehog Concept** (not a full hedgehog working session today).
+4. **Close** — Hedgehog video: https://www.youtube.com/watch?v=JUrdbmNBpyY
 
 ---
 

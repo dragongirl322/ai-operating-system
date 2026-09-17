@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789609363631-nz1xvr9ig",
+  "providerId": "claude",
+  "title": "Hedgehog principle origins and meaning",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789609363641,
+  "lastActivityAt": 1789610288685,
+  "sessionId": "0174a4b9-266c-4e20-bd78-3dc408160bbf",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "0174a4b9-266c-4e20-bd78-3dc408160bbf"
+  },
+  "linkedContentPath": "02_Projects/Writing/Drafts/BE 2.0.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 90,
+    "cacheReadInputTokens": 31619,
+    "contextWindow": 967000,
+    "contextTokens": 31711,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}
