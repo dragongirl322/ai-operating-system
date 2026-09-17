@@ -95,13 +95,29 @@
       "schemaVersion": 1,
       "id": "msg-1789610410668-phr327t",
       "userTurnOrdinal": 7,
-      "state": "staged",
+      "state": "accepted",
       "localMessageId": "msg-1789610410662-zwc8np9",
       "timestamp": 1789610410662,
       "rawDisplayText": "Remind me of the story tells about the \"never stifle a generous impulse\" advise.",
       "canonicalText": "Remind me of the story tells about the \"never stifle a generous impulse\" advise.",
       "images": [],
-      "contentDigest": "6b96e549125a45dc2d984d8454a1f38203b0039bd3ee77ec7acaa81ec65e366d"
+      "contentDigest": "6b96e549125a45dc2d984d8454a1f38203b0039bd3ee77ec7acaa81ec65e366d",
+      "providerUserMessageId": "9edb8413-661c-4a22-aa20-ff27b83fb489",
+      "providerAssistantMessageId": "86ac9872-27b6-4587-bec9-033859f49279"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789610905718-qazd0tn",
+      "userTurnOrdinal": 8,
+      "state": "accepted",
+      "localMessageId": "msg-1789610905711-bsjpyhv",
+      "timestamp": 1789610905711,
+      "rawDisplayText": "Yes. Generosity is one of my core values so this one resonates with me. I've long experienced that what I'm willing to offer actually helps me. I'm sure there is a way to say this without virtue signaling or bragging. If not, leave my personal shit out of it.",
+      "canonicalText": "Yes. Generosity is one of my core values so this one resonates with me. I've long experienced that what I'm willing to offer actually helps me. I'm sure there is a way to say this without virtue signaling or bragging. If not, leave my personal shit out of it.",
+      "images": [],
+      "contentDigest": "78107356ee32632224ce9179b9a3b28c01a2cb209a4e0d77affe0099f2a905d3",
+      "providerUserMessageId": "1a424685-bd22-48ba-a093-c7b3c32a7b29",
+      "providerAssistantMessageId": "a2a363b0-a60a-428a-9b1c-a1395cb41094"
     }
   ]
 }
