@@ -66,6 +66,15 @@ I'm pretty sure she wouldn't say that about me if she really knew me. I felt awk
 
 [L23] "Yeah, fuck that, Simone. She thinks I'm crazy and I'm not." 
 
+[L24] "Jack, you've only seen a few times. It takes time to build trust and to get comfortable. Hell, it took me at least seven visits before I trusted Jerry enough to talk to him about the things I needed to. Maybe you just need to give it a chance."
+
+[L25] I stood up and started pacing. I do that when I'm agitated. I had to do something because I couldn't keep going the way I was. Unable to work. Feeling shitty more than I felt good. Something had to change. 
+
+[L23] 
+
+[L23] 
+
+[L23] 
 
 
 ### Beat 1: Jack Tells Simone The Story He Understands
