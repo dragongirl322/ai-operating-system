@@ -20,7 +20,7 @@ Every other Tuesday. Draft in the week before. Publish morning PT.
 | Date | Stream | Piece | Status |
 |---|---|---|---|
 | Tue Aug 25 | Leadership | Take care of yourself (body, mind, heart) | Posted |
-| Tue Sep 8 | Rec | #1 *BE 2.0* (Collins / Lazier) | Next |
+| Fri Sep 18 | Rec | #1 *BE 2.0* (Collins / Lazier) — *Never stifle a generous impulse* | Posted |
 | Tue Sep 22 | Leadership | Navigating fear and ambiguity (self) | |
 | Tue Oct 6 | Rec | #2 *Dare to Lead* (Brown) | |
 | Tue Oct 20 | Leadership | Mastery as an anchor | |
@@ -42,7 +42,7 @@ Rec #1 is Collins *BE 2.0* (reordered 2026-09-06). Brown moves to Rec #2. Peck s
 
 - Source draft for stream 1: `Drafts/Dealing with the shit.md`
 - Book list: `Substack book list.md`
-- Next draft window: week of Sep 1–8, for Sep 8 (*BE 2.0*)
+- Next draft window: ahead of Tue Oct 6 (*Dare to Lead*)
 
 ## Fresh ideas (inbox)
 

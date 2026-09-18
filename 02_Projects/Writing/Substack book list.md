@@ -8,7 +8,7 @@ Working list for the rec stream. Stance: don't be the wise one; help people find
 |---|---|---|
 | The 7 Habits of Highly Effective People | Stephen Covey | Named in the Aug 25 self-care post |
 | The 8th Habit | Stephen Covey | |
-| BE 2.0 | Jim Collins (and Bill Lazier) | In Readwise. Rec #1 Sep 8 — see Drafts/Rec BE 2.0 notes.md |
+| BE 2.0 | Jim Collins (and Bill Lazier) | Posted Fri Sep 18 — *Never stifle a generous impulse* |
 | The Road Less Traveled | M. Scott Peck | Named in the Aug 25 self-care post |
 | Man's Search for Meaning | Viktor Frankl | |
 | The Greatest Salesman in the World | Og Mandino | |
@@ -48,7 +48,7 @@ Working list for the rec stream. Stance: don't be the wise one; help people find
 
 ## Rec calendar
 
-- Tue Sep 8 — Rec #1 *BE 2.0*
+- Fri Sep 18 — Rec #1 *BE 2.0* (Posted)
 - Tue Oct 6 — Rec #2 *Dare to Lead*
 - Tue Nov 3 — Rec #3 *Man's Search for Meaning*
 - Tue Dec 1 — Rec #4 *Who Do We Choose to Be?*
