@@ -64,6 +64,10 @@ I'm pretty sure she wouldn't say that about me if she really knew me. I felt awk
 
 [L22] Oh, she was right. I did not want to go see Leah. Leah's a therapist at the local health center. I've gone and talked to her three or four times about my headaches, and every time I go, she says things and asks me questions that make me think I'm crazy. And I'm not crazy. I don't want to be made to feel crazy.
 
+[L23] "Yeah, fuck that, Simone. She thinks I'm crazy and I'm not." 
+
+
+
 ### Beat 1: Jack Tells Simone The Story He Understands
 
 Jack tells Simone about Mona's house: the photo album, the article, and Mona's line. He frames the panic around the article and Mona saying, "Because I loved you. And I still had to remember what you were."
