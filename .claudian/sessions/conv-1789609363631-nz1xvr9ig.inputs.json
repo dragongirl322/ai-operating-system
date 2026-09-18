@@ -118,6 +118,20 @@
       "contentDigest": "78107356ee32632224ce9179b9a3b28c01a2cb209a4e0d77affe0099f2a905d3",
       "providerUserMessageId": "1a424685-bd22-48ba-a093-c7b3c32a7b29",
       "providerAssistantMessageId": "a2a363b0-a60a-428a-9b1c-a1395cb41094"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789697303177-6pt45ga",
+      "userTurnOrdinal": 9,
+      "state": "accepted",
+      "localMessageId": "msg-1789697303170-n4a1j91",
+      "timestamp": 1789697303170,
+      "rawDisplayText": "Remind me the story of Jim Stockdale",
+      "canonicalText": "Remind me the story of Jim Stockdale",
+      "images": [],
+      "contentDigest": "48286fa44336b3283feaf66f53434df788e061b9b9c06516d496ec8129b10f21",
+      "providerUserMessageId": "20c41a1f-b638-4af1-9516-0c24b18c5443",
+      "providerAssistantMessageId": "a94e595e-fd1d-4e9e-bafd-78ea03ace19b"
     }
   ]
 }
