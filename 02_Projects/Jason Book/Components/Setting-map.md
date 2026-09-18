@@ -4,6 +4,8 @@ Working place bible for Jason Book. Keep this thin and answerable. Do not pull n
 
 ## Present Day
 
+**Time of year (locked):** Mid to late May. See Document-structure.
+
 **Region:** Greater Seattle area (locked by character map / drafts: Seattle band history; Stephen's used-car lots; Lynnwood lot; Everett Youth Foundation).
 
 **Jack and Simone (locked):** Mountlake Terrace — house with pine out front; Megan and Tyler next door with garage. Stephen can stop by after the Lynnwood lot (nearby).

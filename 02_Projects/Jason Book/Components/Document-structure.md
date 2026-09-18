@@ -8,6 +8,14 @@ Working structure map for the Jason Book mystery thriller.
 
 Place names, hometown, present-day town, boarding school, and crime-scene geography live in the setting map. Keep Research Notes out of fiction place canon unless deliberately locked there.
 
+## Present-Day Time (locked)
+
+**When:** Mid to late May (greater Seattle / Mountlake Terrace).
+
+**Why it fits the pages already drafted:** Rain under the pine in Chapter One; Tyler hoping to start a band "this summer"; Stephen's Florida charity trip "next week"; lawn mower unused since the previous summer. Wet Pacific Northwest spring, grass season coming, kids talking about summer ahead.
+
+**Prologue stays:** June / summer 1985 (Albany). Do not collapse present-day May into prologue time.
+
 ## Current Story Spine
 
 **Core argument:** Jack's silence was never his safety. It was Stephen's alibi.
