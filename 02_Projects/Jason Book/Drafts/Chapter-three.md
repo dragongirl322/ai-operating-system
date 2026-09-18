@@ -1,16 +1,30 @@
-[L1] Two hours later I was standing outside my favorite tree having a smoke when Simone drove up. By then I'd had two beers and ignored four texts from Stephen. I'm not much of a drinker so I was definitely feeling it and even though I tried to hide it, she could tell I was a bit drunk. Even though she is more of a drinker than I m, she doesn't like it much when I have too much. She says the coming down gets me too agitated. I could tell she wasn't happy with me because she didn't stop to talk. She gave a little wave and walked straight into our house. 
+[L1] The 45 minute drive home seemed to take forever. I was angry and hurt and planning to help myself to one of Simone's beers when I got home. I'm not much of a drinker but wanted one today. 
 
-[L2] I felt embarrassed and a little ashamed and wanted to stand outside to smoke another but knew I had to go inside. When I walked in, Simone was standing at the stovetop cooking. "Hey," I said, trying to sound casual.
+[L2] When I passed by her house, I saw Megan, Tyler's mom, struggling to trim a branch. I parked and walked over to see if I could help. I felt nervous seeing her standing on a ladder with a big trimmer in her hands. 
 
-"Hey," she responded, without looking up. "Do you wanna talk about your time with Mona?" She asked. Of course she wold know I wouldn't drink if everything went well. And given I was supposed to be having dinner with Stephen and I was home instead, she would be aware things had not gone great. 
+[L3] "Hey, neighbor. I can help with that if you'd like."
 
-[L3] I sat down on the barstool with a sigh. I din't want to talk about it at all. I wanted to forget about it. I knew that wasn't going to fly with Simone. If I said "no," she'd let it go for now but she'd bring it up again later. That's another thing I love about her. She loves me enough not to quit. 
+"Oh, Jack, hi. Yes, that would be great. I'm just not quite strong enough to cut through this thick branch."
 
-[L4] Usually I'd sit back and let her pull information from me but the combination of the alcohol and my anger had me a bit on fire. "It was awful. She has this fucking photo album she was looking at. She kept a clipping of the newspaper article about my case. I can't believe she kept it. And when I asked her about it she said she kept it because she needed to remember I'm a killer. I don't know why I keep trying with her. She's never stood up for me. She's never loved me." I put my face in my hands and started to sob. 
+She handed me the large tree trimmer. "This is kinda heavy!" 
 
-[L5] Simone never pushed me. It isn't her style. She came and stood behind me with her hands lightly on my shoulders. We stood there in silence for a while before she said "I'm sorry, Jack. That had to hurt." She paused for a bit before asking "
+"Tell me about it," she said, laughing.
 
-[L1]
+[L4] I cut the branch she was struggling with and asked "Do you need anything else cut?"
+
+"No, that was the last one. Thanks so much! You made it look so easy."
+
+"No problem. I like being able to help."
+
+"Well, I appreciate it. I don't know what I'd do without you living next door."
+
+I'm pretty sure she wouldn't say that about me if she really knew me. I felt awkward and quickly said "I gotta run."
+
+"Thanks again, Jack," she called after me as I walked away.
+
+[L5] I walked in and opened the fridge, planning on taking one of the beers and realized I didn't really want one after all. I felt so unsettled, though. I decided to go tinker with the old lawn mower sitting in the shed to see if I could get it to start. It hadn't worked since the previous summer and I kept telling Simone I'd fix it. Working on things has always helped me when I feel wound up. 
+
+[L6]
 
 ### Beat 1: Jack Tells Simone The Story He Understands
 
