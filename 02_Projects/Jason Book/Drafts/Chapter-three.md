@@ -90,38 +90,37 @@ I took a breath and answered. "Something happened last week, and I promised Simo
 
 "That's a lot for you to deal with," she said. She sat, silently waiting for me to continue.
 
+[L30] I had no idea what to say, so I sat there looking at her. Both of us—well, at least I was—uncomfortable with the silence. I finally said, "Yeah, it is a lot," and then stopped. I hate the way she did that. Just sitting there, waiting for me to say something. Isn't she supposed to be helping me?
+
+[L31] "Jack, you never told me about this time in your life," she said. "I didn't know that you had been through such a difficult time."
 
 
-### Beat 1: Jack Tells Simone The Story He Understands
+### Beat 6: Leah Starts With What Happened
 
-Jack tells Simone about Mona's house: the photo album, the article, and Mona's line. He frames the panic around the article and Mona saying, "Because I loved you. And I still had to remember what you were."
+Leah asks what brought him in. Jack starts with Mona's article because it is the thing he can name.
 
-**Jack's internal shift:** He is shaken but also strangely certain. He has found a conscious explanation that makes sense: his mother kept proof that she believed he was capable of rape and murder.
+**Possible line energy:** "My mother saved a newspaper clipping that basically called me a monster."
 
-**Story function:** Shows Jack misfiling the trigger. The article is real pain, but it is also cover for the deeper jacket clue.
+**Jack's internal shift:** Anger gives him a little control. It keeps grief at a distance.
 
-### Beat 2: Simone Hears The Family System
+**Story function:** Opens the doorway to memory through the conscious trigger.
 
-Simone does not magically identify the jacket as the trigger. Instead, she hears the family dynamic: Stephen deciding whether Jack can see his own mother, Mona turning tenderness into condemnation, Jack accepting humiliation as normal.
+### Beat 7: Leah Asks What Came Before
 
-**Possible line energy:** "Maybe it isn't only the article. Maybe it's being in that house, with her, after Stephen decided whether you were allowed to see your own mother."
+Leah does not argue with his explanation. She asks what happened before he saw the article, or what his body noticed first. Jack cannot answer clearly. He may skip over the jacket or mention it as irrelevant detail.
 
-**Jack's internal shift:** Jack resists because Simone's framing makes the whole family system feel dangerous, not just one cruel moment.
+**Possible Leah line:** "I'm not saying you're wrong about the article. I'm asking what the article was sitting on top of."
 
-**Story function:** Keeps Simone savvy without making her too clear too soon. She sees the emotional architecture, not the mystery mechanism.
+**Jack's internal shift:** He becomes irritated because the question threatens the clean story he brought in.
 
-### Beat 3: Simone Suggests Leah
+**Story function:** Lets the jacket remain hidden in plain sight while nudging the reader to notice sequence and body timing.
 
-Simone gently encourages Jack to go back to Leah Moreno. Jack has been avoiding sessions and often comes back angry, frustrated, and raw. Simone understands that the anger may be part of his denial trying to keep him safe.
+### Beat 8: Jack Names Boarding School
 
-**Jack's internal shift:** Therapy feels like a threat because it has begun unlocking the old survival equation: not knowing equals safety.
+Jack says the article was not the beginning. The beginning was when they sent him away. Boarding school becomes the wound he can articulate: the first and biggest abandonment.
 
-**Story function:** Establishes therapy as necessary pressure, not a convenient exposition device.
+He frames the school as a place for delinquents, "where they send bad kids like me." He cannot reconcile that label with the facts he knows about himself: good grades, real gifts, no serious trouble beyond fights with neighborhood bullies.
 
-### Beat 4: Jack Pushes Back
+**Jack's internal shift:** His anger turns toward a memory he has told himself many times, but the telling starts to become more vivid than expected.
 
-Jack says therapy does not help, or that Leah just wants him to dig around in things nobody can fix. He may say he already knows what happened to him: he was thrown away.
-
-**Jack's internal shift:** He clings to the wound he can name because it gives his pain a boundary.
-
-**Story function:** Prepares the boarding school memory as Jack's current central explanation for himself.
+**Story function:** Moves from present trigger into past sequence while preserving Jack's belief that this is the central wound.
