@@ -1,6 +1,6 @@
 ---
 title: Year Two punch list
-updated: 2026-09-01
+updated: 2026-09-18
 opening: 2026-09-24
 hours: 11–7
 campaign: Year Two. Spinnin' Your Groove.
@@ -10,7 +10,9 @@ campaign: Year Two. Spinnin' Your Groove.
 
 Tre's date. Not Sept 23. Daily 10am reminder through 9/24, including weekends.
 
-Check off in this file when done. Groove re-reads this before each 10am ping.
+Check off in this file when done.
+Tue Sept 8: Emma sick. Tam covering the floor after a walk and doing URI deep work from the store. Stay light. No Emma asks. Plaza vouchers dropped.
+ Groove re-reads this before each 10am ping.
 
 ## Locked
 
@@ -19,20 +21,20 @@ Check off in this file when done. Groove re-reads this before each 10am ping.
 - Raffle starts Tue Sept 1, draw at the store Sept 24
 - Album buy = 1 ticket. Emma asks them to post the purchase and tag TNT = 5 tickets
 - Prize: red turntable or a boombox, plus two floor albums of their choice
-- Day-of: free item with any purchase, SACDs stay where they are (Tam/Tre 9/1, not moving, not wholesale), Five Corners Plaza vouchers
+- Day-of: free item with any purchase, SACDs stay where they are (Tam/Tre 9/1, not moving, not wholesale). Plaza vouchers dropped 9/7.
 - Tre: one Year Two stack from stock, no special buy unless Tam says
 - Emma: floor, raffle entries on https://tnt-raffle-machine-production.up.railway.app, Groove Society ask
 - Tam: partners, budget, approvals, **local press**. Groove: drafts. Tam owns Shopify admin unless she asks Groove in.
 
 ## Still open (work these on any slack day)
 
-- [ ] Five Corners Plaza voucher ask (who is on it, Groove drafts, Tam sends)
+- [x] Five Corners Plaza vouchers: DROPPED 9/7 (team agreed — too complicated). No print, no plaza ask.
 - [x] SACDs stay where they are (Tre + Tam, 9/1). Not moving. Not a Year Two wholesale play.
-- [ ] Free bin: what is in it, who restocks (Emma/Tre)
+- [x] Free bin: Tre + Emma have the list; Emma stocks (Tam 9/2).
 - [x] Raffle web app for Emma — live https://tnt-raffle-machine-production.up.railway.app (Tam built 8/28). Emma collects starting Tue Sept 1.
 - [ ] Sandwich board: Dayna is still working on getting one; not secured yet (Tam 8/31).
-- [ ] Emma in-store raffle sign this week (Tam asks Emma Tue Sept 1; Groove 11am reminder).
-- [ ] One shop photo for Sept 15 post; two for press
+- [x] In-store raffle sign printed and hanging (Tam 9/4).
+- [x] One shop photo for Sept 15 post (covered — Tam scheduled week FB/IG Mon Sept 14). Still need two for press by Sept 21.
 - [ ] Staffing 11–7 on Sept 24
 - [ ] How Emma logs entries / who draws
 - [ ] Give aways for day of
@@ -48,13 +50,13 @@ Check off in this file when done. Groove re-reads this before each 10am ping.
 ### Fri Aug 28
 - [ ] Shopify limited online store. Not taking orders yet (Tam 8/29: maybe a week or two). Do not nag as missed this weekend.
 - [x] Raffle web app live (Tam, Railway): https://tnt-raffle-machine-production.up.railway.app
-- [ ] Short raffle copy ready: 1 ticket per album, 5 if they post and tag TNT. Need before Tue Sept 1 post.
+- [x] Short raffle copy / IG/FB + Google done (Tam IG/FB 9/5; Groove Google Published 9/5).
 
 ### Sat Aug 29
 Store is open. If weekday items slipped, do those first.
 - [ ] Plaza voucher names / ask draft
 - [x] SACDs stay where they are (Tre + Tam, 9/1). Not moving.
-- [ ] Free bin contents
+- [x] Free bin: Tre + Emma have the list; Emma stocks (Tam 9/2).
 
 ### Sat Aug 29
 Tech detox (Tam). Do not ping more today. Items rolled to Sunday.
@@ -63,8 +65,8 @@ Tech detox (Tam). Do not ping more today. Items rolled to Sunday.
 Rolled from Saturday (detox). Store closed. Desk day if she wants it.
 - [ ] Plaza voucher names / ask draft
 - [x] SACDs stay where they are (Tre + Tam, 9/1). Not moving.
-- [ ] Free bin contents
-- [ ] Short raffle copy before Tuesday’s post (1 ticket per album, 5 if they post and tag TNT)
+- [x] Free bin: Tre + Emma have the list; Emma stocks (Tam 9/2).
+- [x] Short raffle copy / IG/FB + Google done (Tam IG/FB 9/5; Groove Google Published 9/5).
 - [x] Emma set for Shopify (Tam 8/31). Solo sale off the list.
 - ChatGPT/Bing stays parked for Monday 9am. Do not start it on Sunday unless Tam wants to.
 
@@ -72,8 +74,8 @@ Rolled from Saturday (detox). Store closed. Desk day if she wants it.
 Sunday items rolled again (Tam 8/30: none done). Lead with those, then Monday.
 - [ ] Plaza voucher names / ask draft
 - [x] SACDs stay where they are (Tre + Tam, 9/1). Not moving.
-- [ ] Free bin: what’s in it, who restocks
-- [ ] Short raffle copy before Tuesday’s post (1 ticket per album, 5 if they post and tag TNT)
+- [x] Free bin: Tre + Emma have the list; Emma stocks (Tam 9/2).
+- [x] Short raffle copy / IG/FB + Google done (Tam IG/FB 9/5; Groove Google Published 9/5).
 - [x] Emma set for Shopify (Tam 8/31). Solo sale off the list.
 - [ ] Sandwich board: Dayna still getting one; not secured (Tam 8/31).
 - [ ] Remind Tam 11am Tue Sept 1 to ask Emma for the in-store raffle sign.
@@ -81,22 +83,22 @@ Sunday items rolled again (Tam 8/30: none done). Lead with those, then Monday.
 - Raffle app is already live. Emma collects Tuesday.
 
 ### Tue Sept 1 — raffle live
-- [ ] Emma collecting on the web app
-- [ ] In-store raffle sign up (Emma makes it this week). Sandwich board still not secured.
-- [ ] Short IG/FB/Google: album buy = 1 ticket, post and tag TNT = 5, prize is red turntable or boombox + two albums
-- [ ] Emma's ask sentence for the social post
+- [x] Emma collecting on the web app (Tam confirmed 9/5; empty days were customer declines, not app issues).
+- [x] In-store raffle sign printed and hanging (Tam 9/4). Sandwich board still not secured.
+- [x] Short IG/FB raffle posts done (Tam 9/5). Google raffle + fresh-week updates Published (Groove 9/5).
+- [x] Emma's ask sentence for the social post (Tam 9/6: she has it).
 
 ### Wed Sept 2 – Sun Sept 7
-Daily: is raffle actually running? Entries happening? Sign still up?
-- [ ] Plaza voucher ask sent if not already
+Daily: raffle running; Emma collecting (Tam 9/5: declines explain empty days). Sign is up (Tam 9/4).
+- [x] Plaza vouchers DROPPED 9/7 (team).
 - [x] SACDs stay where they are (Tre + Tam, 9/1). Not moving.
-- [ ] Free bin decided
+- [x] Free bin: Tre + Emma have the list; Emma stocks (Tam 9/2).
 
 ### Mon Sept 8
-- [ ] Save-the-date IG/FB + Google + in-store sign for Thursday Sept 24 (free bin, plaza vouchers, raffle still running)
+- [x] Save-the-date / week FB+IG: Tam scheduled from Mon Sept 14 drafts (confirmed 9/18). Google Year Two Published 9/14. In-store sign still open if needed.
 
-### Mon Sept 15
-- [ ] What-to-expect post. One shop photo from Emma or Tre.
+### Tue Sept 15
+- [x] Week FB/IG including Tue beat: scheduled Mon Sept 14 (Tam 9/18). Do not re-nag as unposted.
 
 ### Mon Sept 21
 - [ ] **Tam:** send local press notice (My Edmonds News / Beacon) + 2 photos. Tam owns this. Groove drafts only if asked.
@@ -105,7 +107,7 @@ Daily: is raffle actually running? Entries happening? Sign still up?
 - [ ] Tomorrow reminder IG/FB/Google (opening is Thursday 9/24)
 
 ### Thu Sept 24 — opening day
-- [ ] Host 11–7. Free bin. Plaza vouchers. SACDs stay in place. Tre's stack.
+- [ ] Host 11–7. Free bin. SACDs stay in place. Tre's stack. (No plaza vouchers.)
 - [ ] Draw the raffle
 - [ ] Stories + Google
 - [ ] Emma: Groove Society ask

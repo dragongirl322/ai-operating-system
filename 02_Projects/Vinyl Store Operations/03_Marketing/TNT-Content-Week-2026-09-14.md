@@ -1,6 +1,6 @@
 ---
 title: TNT content week of Sept 14, 2026
-status: FB/IG drafts ready for Tam; Google Year Two update Published 2026-09-14
+status: FB/IG scheduled Mon Sept 14 (Tam confirmed 9/18 posted/scheduled); Google Year Two Published 2026-09-14
 cadence: Tam posts Facebook + Instagram; Groove posts Google
 updated: 2026-09-14
 ---
@@ -17,7 +17,7 @@ This week’s news:
 - Raffle still running (album buy = 1 ticket; post + tag = 5). Prize: red turntable or boombox + two floor albums
 - Cold vinyl still: many albums **25% off** + **BOGO** (buy regular-priced → one BOGO album free)
 
-Punch-list beats this week: late save-the-date + **Tue Sept 15 what-to-expect** (one shop photo).
+Punch-list beats this week: **done** — Tam scheduled FB/IG Mon Sept 14. Google published 9/14.
 
 ---
 

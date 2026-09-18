@@ -3652,3 +3652,8 @@ Things I learned yesterday and how they affect me: Trinh is slipping a bit, I th
 
 My plan is to trust until there is a reason not to. I see clear problems to solve and believe I can help, a lot. I can bring strategic clarity. Leadership. Simplicity and focus. Discipline. Inspiration. My hope is that the difference is material. 
 
+## Friday September 18
+
+Interesting that I skip writing on my birthday. It was a conscious choice. I wanted to experience the day with quiet, free introspection vs. disciplined, routine introspection. It was helpful. I am so incredibly happy in my life with Dayna and the relationship we’ve nurtured and built. I love that I get to spend so much time with her now. I am happy with the connection I have with Tre. I love him so very much and adore who he is and who he continues to become. I’m cautiously excited by the professional path forward and recognize that my mental model continues to evolve to one that embraces the changing dynamics and the rare and legit opportunity this presents to me. 
+
+One thing I am clear on is that I can’t do what I observe Trinh doing and let friendship cloud my business judgement. The contract that is drawn up now isn’t sufficient. For starters, I have two versions. Secondly, it only speaks to consulting and not the significant scope I’ve offered to help with. I will talk to Trinh about making immediate revisions that can be revisited after my first few months of engagement. 
