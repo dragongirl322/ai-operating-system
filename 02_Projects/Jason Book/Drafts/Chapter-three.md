@@ -24,9 +24,9 @@ I'm pretty sure she wouldn't say that about me if she really knew me. I felt awk
 
 [L5] I walked in and opened the fridge, planning on taking one of Simone's beers, and realized I didn't really want one after all. Never really liked the way I feel after I've had a drink. But I was still so fucking agitated. I didn't know what to do with myself. I always feel better when I work with my hands. I decided to go out to the shed to see if I could get our old lawnmower working. It stopped starting last summer, and I've been promising Simone I'd get it running before summer hits.
 
-[L6] I cleaned the spark plugs and checked to make sure there was gas in it. I gave the cord a tug. Nothing. Tugged it hard again. Still nothing. I was getting more frustrated. This wasn't helping.
+[L6] I cleaned the spark plug and checked to make sure there was gas in it. I gave the cord a tug. Nothing. Tugged it hard again. Still nothing. I was getting more frustrated. This wasn't helping. 
 
-[L7] I decided to go for a walk, because sometimes walking helps me clear my head. I walked around the neighborhood for about twenty minutes and ended up under my favorite pine. I stood there and had a smoke.
+[L7] I needed a smoke. Went out and stood under my favorite pine and tried to light up. My damn hands were shaking. What the hell was wrong with me? I finally settled myself enough, lit up, and took a couple of long drags. 
 
 [L8] I paced back and forth, like I do when I'm in my own head. I couldn't stop thinking about what a disappointment I've been to my mom. Her life was hard enough without having a loser son like me to worry about. I was so caught up in my mind I didn't realize Simone had pulled up. When she closed her car door, it brought me back to awareness. 
 
@@ -54,13 +54,15 @@ I'm pretty sure she wouldn't say that about me if she really knew me. I felt awk
 
 [L19] "Oh, Jack, you didn't do anything. That's just what some people thought."
 
-"But Simone, how can I be sure? I don't remember anything about that night, really, except for drinking and then waking up covered in blood." I started to cry again. I didn't want to. "I mean, I don't think I could ever hurt anyone like that."
+"I didn't do anything but I feel so ashamed and if I feel this way and they think I did it then maybe I did. I don't remember anything about that night, really, except for drinking and then waking up covered in blood." I started to cry again. I didn't want to. "I mean, I don't think I could ever hurt anyone like that."
 
-[L20] "Jack, I've known you for a long time, and you've got your problems, but I don't think you could ever do what they said you did. Do you think I would be with you if I thought you were capable of that? I'm pretty sure your mom knows you're not capable of that."
+[L20] "Jack, I've known you for a long time, and you've got your problems, but I don't think you could ever do what they said you did. Do you think I would be with you if I thought you were capable of that? It isn't fair for your mom to say that to you."
 
-"Simone, I would not be so sure. I think she's always believed I did it. And her saying what she said—I don't know. I just don't know. I feel sick and broken, and I get these headaches, and I started to panic again at Mom's, and—oh, what am I going to do?"
+"I think she's always believed I did it. And her saying what she said—I don't know. I just don't know. I feel sick and broken, and I get these headaches, and I started to panic again at Mom's, and—oh, what am I going to do?"
 
-[L21] She waited. Gave it a beat. Took a breath. Then she said, "Jack, I know you may not want to hear this, but I really think you need to go see Leah again. I know you haven't had the best luck with her, but you need somebody to talk to who can help you work through this, and maybe help you remember what happened."
+[L21] She waited. Gave it a beat. Took a breath. Then she said, "Things get weird for you when it comes to Mona and Stephen, Jack. You end up believing you're the one with the problem when maybe it isn't you. I'm not sure you really consider that." She stopped and looked at me, assessing how I was taking this in. I was listening but could feel frustration brewing. 
+
+"Jack, I know you may not want to hear this, but I really think you need to go see Leah again. I know you haven't had the best luck with her, but you need somebody to talk to who can help you work through this, and maybe help you remember what happened." 
 
 [L22] Oh, she was right. I did not want to go see Leah. Leah's a therapist at the local health center. I've gone and talked to her three or four times about my headaches, and every time I go, she says things and asks me questions that make me think I'm crazy. And I'm not crazy. I don't want to be made to feel crazy.
 
@@ -70,11 +72,15 @@ I'm pretty sure she wouldn't say that about me if she really knew me. I felt awk
 
 [L25] I stood up and started pacing. I do that when I'm agitated. I had to do something because I couldn't keep going the way I was. Unable to work. Feeling shitty more than I felt good. Something had to change. 
 
-[L23] 
+[L26] I signed with resignation then said "Okay. I'll try."
 
-[L23] 
+"Maybe it will be different because you have something specific you can talk to her about."
 
-[L23] 
+"I'll call her first thing tomorrow."
+
+[L27] 
+
+[L28] 
 
 
 ### Beat 1: Jack Tells Simone The Story He Understands

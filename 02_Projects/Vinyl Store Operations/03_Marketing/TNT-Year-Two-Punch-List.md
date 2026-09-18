@@ -48,7 +48,7 @@ Tue Sept 8: Emma sick. Tam covering the floor after a walk and doing URI deep wo
 - Groove stays out of admin unless Tam asks.
 
 ### Fri Aug 28
-- [ ] Shopify limited online store. Not taking orders yet (Tam 8/29: maybe a week or two). Do not nag as missed this weekend.
+- [x] Shopify limited online store — LIVE 2026-09-18 (Tam).
 - [x] Raffle web app live (Tam, Railway): https://tnt-raffle-machine-production.up.railway.app
 - [x] Short raffle copy / IG/FB + Google done (Tam IG/FB 9/5; Groove Google Published 9/5).
 

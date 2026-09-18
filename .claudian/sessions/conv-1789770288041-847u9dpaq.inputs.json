@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789770288041-847u9dpaq",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789770288058-wlpzxpr",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789770288039-5xu1x1y",
+      "timestamp": 1789770288039,
+      "rawDisplayText": "Do lawn mowers have more than one spark plug?",
+      "canonicalText": "Do lawn mowers have more than one spark plug?",
+      "context": {
+        "linkedContent": {
+          "path": "02_Projects/Jason Book/Drafts/Chapter-three.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "6d272ee3b19ebcc7ee8a2a314358b6e80ab6dbcd53afbc7e9059d40e5aa499d6",
+      "providerUserMessageId": "a885e0ae-8394-42e4-a062-1df37bf79a34",
+      "providerAssistantMessageId": "ffca30cc-b871-4fe3-9806-8bf0c998a788"
+    }
+  ]
+}

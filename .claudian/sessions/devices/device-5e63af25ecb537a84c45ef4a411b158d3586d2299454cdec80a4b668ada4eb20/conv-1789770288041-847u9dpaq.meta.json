@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789770288041-847u9dpaq",
+  "providerId": "claude",
+  "title": "Lawn mower spark plug count",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789770288044,
+  "lastActivityAt": 1789770296449,
+  "sessionId": "a5ad9cb7-2b03-4511-a3bd-2b24c626b2c0",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "a5ad9cb7-2b03-4511-a3bd-2b24c626b2c0"
+  },
+  "linkedContentPath": "02_Projects/Jason Book/Drafts/Chapter-three.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 18167,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 967000,
+    "contextTokens": 18169,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}
