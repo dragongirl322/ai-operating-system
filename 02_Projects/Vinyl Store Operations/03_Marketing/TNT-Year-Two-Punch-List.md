@@ -32,13 +32,13 @@ Tue Sept 8: Emma sick. Tam covering the floor after a walk and doing URI deep wo
 - [x] SACDs stay where they are (Tre + Tam, 9/1). Not moving. Not a Year Two wholesale play.
 - [x] Free bin: Tre + Emma have the list; Emma stocks (Tam 9/2).
 - [x] Raffle web app for Emma — live https://tnt-raffle-machine-production.up.railway.app (Tam built 8/28). Emma collects starting Tue Sept 1.
-- [ ] Sandwich board: Dayna is still working on getting one; not secured yet (Tam 8/31).
+- [x] Sandwich board: secured and out (Tam 9/18).
 - [x] In-store raffle sign printed and hanging (Tam 9/4).
 - [x] One shop photo for Sept 15 post (covered — Tam scheduled week FB/IG Mon Sept 14). Still need two for press by Sept 21.
 - [ ] Staffing 11–7 on Sept 24
 - [ ] How Emma logs entries / who draws
 - [ ] Give aways for day of
-- [ ] Local press (Tam): notify My Edmonds News / Beacon. Due Mon Sept 21. Groove drafts only if Tam asks.
+- [ ] Local press (Tam): reached out to Beacon, waiting (Tam 9/18). Ping Beacon Mon Sept 21. My Edmonds News still open. Due Mon Sept 21. Groove drafts only if Tam asks.
 
 ## Day by day
 
@@ -101,7 +101,9 @@ Daily: raffle running; Emma collecting (Tam 9/5: declines explain empty days). S
 - [x] Week FB/IG including Tue beat: scheduled Mon Sept 14 (Tam 9/18). Do not re-nag as unposted.
 
 ### Mon Sept 21
-- [ ] **Tam:** send local press notice (My Edmonds News / Beacon) + 2 photos. Tam owns this. Groove drafts only if asked.
+- [ ] **Tam:** ping Beacon (already reached out 9/18; waiting). My Edmonds News + 2 photos still open. Groove drafts only if asked.
+- [ ] Tam + Dayna get balloons
+- [ ] Hang TNT banner
 
 ### Wed Sept 23
 - [ ] Tomorrow reminder IG/FB/Google (opening is Thursday 9/24)

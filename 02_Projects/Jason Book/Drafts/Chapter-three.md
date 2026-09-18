@@ -22,9 +22,47 @@ I'm pretty sure she wouldn't say that about me if she really knew me. I felt awk
 
 "Thanks again, Jack," she called after me as I walked away.
 
-[L5] I walked in and opened the fridge, planning on taking one of the beers and realized I didn't really want one after all. I felt so unsettled, though. I decided to go tinker with the old lawn mower sitting in the shed to see if I could get it to start. It hadn't worked since the previous summer and I kept telling Simone I'd fix it. Working on things has always helped me when I feel wound up. 
+[L5] I walked in and opened the fridge, planning on taking one of Simone's beers, and realized I didn't really want one after all. Never really liked the way I feel after I've had a drink. But I was still so fucking agitated. I didn't know what to do with myself. I always feel better when I work with my hands. I decided to go out to the shed to see if I could get our old lawnmower working. It stopped starting last summer, and I've been promising Simone I'd get it running before summer hits.
 
-[L6]
+[L6] I cleaned the spark plugs and checked to make sure there was gas in it. I gave the cord a tug. Nothing. Tugged it hard again. Still nothing. I was getting more frustrated. This wasn't helping.
+
+[L7] I decided to go for a walk, because sometimes walking helps me clear my head. I walked around the neighborhood for about twenty minutes and ended up under my favorite pine. I stood there and had a smoke.
+
+[L8] I paced back and forth, like I do when I'm in my own head. I couldn't stop thinking about what a disappointment I've been to my mom. Her life was hard enough without having a loser son like me to worry about. I was so caught up in my mind I didn't realize Simone had pulled up. When she closed her car door, it brought me back to awareness. 
+
+"Let me finish this smoke and I'll be right in," I said as she walked to our front door. 
+
+[L9] I stubbed out the cigarette and stood there wondering if I was ready to go in yet. Simone never pushed me but I also knew she'd ask why I wasn't out with Stephen and I wasn't sure I was ready to talk about it yet. I paced back and forth for a few minutes then walked into the front door. 
+
+[L10] Simone was just coming out of our bedroom. She'd changed into a pair of shorts and a t-shirt. That was her habit after a long day of work. She looked at me, smiled, and asked, "Why aren't you with Stephen?"
+
+[L11] I paused and took a deep breath. "Well, I didn't want to go with him." Like I've said, Simone was never one to push or pry. But I knew she'd eventually get this story out of me. I figured I might as well just tell her.
+
+[L12] "When I was with Mona, she had an old photo album sitting on her table. We were looking through it, and she's kept this goddamn article from when I was a kid, when I was accused of killing that girl." Just saying it out loud, I broke. I couldn't help it. I felt so ashamed and broken. I sat down, put my face in my hands, and started to cry. I hated being so fucking weak.
+
+[L13] Simone came and put her hands on my shoulders and just stood there like that, quietly, letting me have my moment. Then she sat down next to me and gently took one of my hands and held it and asked what I wanted for dinner. It was such a simple act, and it calmed me down. It helped me feel safe and wanted in a way that only Simone knew how to do. I looked at her and smiled through my tears, still feeling vulnerable, still feeling broken, and said, "Funny thing, I'm not really that hungry." We both laughed, even though neither of us was feeling particularly lighthearted. It was still a little funny.
+
+[L14] "Well, I'm starving," she said. "I'm just going to warm something up from the fridge, and then maybe we can talk about it some more." She took some time to warm her food and eat, which gave me time to calm down a little more and gather my thoughts.
+
+[L15] When she was done, she came and sat next to me. "So do you want to talk about it now?" And I did. "Tell me exactly what happened," she said. "How was Mona? How was she toward you?"
+
+[L16] "Oh, she was fine. Everything was fine. She really liked the gift I gave her. At least she said she liked it, and she actually smiled about it. You know she never smiles, so I think she must have liked it at least a little bit. And she offered me a Coke. She went and got me a Coke with ice, the way I've always liked it. And then I saw that damn photo album."
+
+[L17] I stopped. "What was in the photo album?" she asked.
+
+[L18] "Oh, you know, just a bunch of pictures of us boys when we were younger. There was this great one of us on the porch, Stephen wearing that brown leather bomber jacket I always liked so much. I thought he looked so cool in that. He was such a jerk. Anyway, the next page was an old newspaper clipping from the local paper when I was a kid. I don't even remember what it said now, but it freaked me out. And when I asked Mom why she had it, she said she needed to remember what I was. Such an awful person. How could I do that to my mother?"
+
+[L19] "Oh, Jack, you didn't do anything. That's just what some people thought."
+
+"But Simone, how can I be sure? I don't remember anything about that night, really, except for drinking and then waking up covered in blood." I started to cry again. I didn't want to. "I mean, I don't think I could ever hurt anyone like that."
+
+[L20] "Jack, I've known you for a long time, and you've got your problems, but I don't think you could ever do what they said you did. Do you think I would be with you if I thought you were capable of that? I'm pretty sure your mom knows you're not capable of that."
+
+"Simone, I would not be so sure. I think she's always believed I did it. And her saying what she said—I don't know. I just don't know. I feel sick and broken, and I get these headaches, and I started to panic again at Mom's, and—oh, what am I going to do?"
+
+[L21] She waited. Gave it a beat. Took a breath. Then she said, "Jack, I know you may not want to hear this, but I really think you need to go see Leah again. I know you haven't had the best luck with her, but you need somebody to talk to who can help you work through this, and maybe help you remember what happened."
+
+[L22] Oh, she was right. I did not want to go see Leah. Leah's a therapist at the local health center. I've gone and talked to her three or four times about my headaches, and every time I go, she says things and asks me questions that make me think I'm crazy. And I'm not crazy. I don't want to be made to feel crazy.
 
 ### Beat 1: Jack Tells Simone The Story He Understands
 
