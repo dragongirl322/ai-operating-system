@@ -78,9 +78,18 @@ I'm pretty sure she wouldn't say that about me if she really knew me. I felt awk
 
 "I'll call her first thing tomorrow."
 
-[L27] 
+[L27] Five days later, I stood outside the door to Dr. Leah Moreno's office. I wasn't quite sure I was ready to do this, but I'd made the appointment, and I like to keep my word. I sat. Two minutes later, Dr. Moreno stuck her head out. "Jack?" I walked in reluctantly and took a seat. I was nervous. I had my hat on and realized I should probably take it off, because that's a polite thing to do. I took my hat off and held it, turning it in my hands.
 
-[L28] 
+[L28] "Jack, it's been a while since I've seen you. How have things been?"
+
+I took a breath and answered. "Something happened last week, and I promised Simone—she's my girlfriend—I promised her I'd come here and talk to you about it."
+
+"Okay, Jack. Why don't you start from the beginning?"
+
+[L29] I told her about how I went to visit Mona, and about the photo album, and about the newspaper clipping, and how Mona responded, and how that caused me to feel a sense of panic.
+
+"That's a lot for you to deal with," she said. She sat, silently waiting for me to continue.
+
 
 
 ### Beat 1: Jack Tells Simone The Story He Understands
