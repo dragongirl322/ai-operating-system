@@ -88,7 +88,7 @@ I took a breath and answered. "Something happened last week, and I promised Simo
 
 [L29] I told her about how I went to visit Mona, and about the photo album, and about the newspaper clipping, and how Mona responded, and how that caused me to feel a sense of panic.
 
-"That's a lot for you to deal with," she said. She sat, silently waiting for me to continue.
+"That sounds painful, hearing that from your mother," she said. She sat, silently waiting for me to continue.
 
 [L30] I had no idea what to say, so I sat there looking at her. Both of us—well, at least I was—uncomfortable with the silence. I finally said, "Yeah, it is a lot," and then stopped. I hate the way she did that. Just sitting there, waiting for me to say something. Isn't she supposed to be helping me?
 
@@ -97,8 +97,12 @@ I took a breath and answered. "Something happened last week, and I promised Simo
 
 "Not much. I mean, we looked through most of the photo album." I started feeling like I wanted to stand up and start pacing. I didn't because I thought it might make me seem rude. 
 
-Dr. Moreno just sat there looking at me. I couldn't take it. "It was that damn article that got to me. It upset me because it reminded me my family thinks I'm bad. They sent me away to school because of it."
+Dr. Moreno just sat there looking at me. I couldn't take it. "It was that damn article that got to me. It upset me because it reminded me my family thinks I'm bad. They sent me away to school so they didn't have to deal with me."
 
-"Tell me about this school," pressed Dr. Moreno.
+"Tell me about this school," she said.
 
 "When I was thirteen, Mom and my stepdad, James Price, decided to send me off to St. Aidan's in Juniper Springs. A school for troubled kids. That's what they told me." I said James's name with anger. I hated that guy, and he hated me. 
+
+"Who took you there?"
+
+When she asked that question, I stopped moving the hat I still held in my hand. That day was one of the hardest of my life. I can still remember the smell of hot summer rain on the pavement and the sound of the engine when James started the Chevy Caprice he and Mom had recently bought. 

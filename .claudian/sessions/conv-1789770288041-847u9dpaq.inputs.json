@@ -20,6 +20,20 @@
       "contentDigest": "6d272ee3b19ebcc7ee8a2a314358b6e80ab6dbcd53afbc7e9059d40e5aa499d6",
       "providerUserMessageId": "a885e0ae-8394-42e4-a062-1df37bf79a34",
       "providerAssistantMessageId": "ffca30cc-b871-4fe3-9806-8bf0c998a788"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789784827709-jkn7bk3",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1789784827704-vb2exsd",
+      "timestamp": 1789784827704,
+      "rawDisplayText": "What was a popular car that a lower middle class family of 5 might have in 1985?",
+      "canonicalText": "What was a popular car that a lower middle class family of 5 might have in 1985?",
+      "images": [],
+      "contentDigest": "247ab21945f048d14b4824e87a9c0f2b22528dede37adc90723afd1e823c04dc",
+      "providerUserMessageId": "82345645-5a00-449b-bf4c-698ba2f77da6",
+      "providerAssistantMessageId": "b6d50110-6153-4b45-a629-908a0e33a785"
     }
   ]
 }

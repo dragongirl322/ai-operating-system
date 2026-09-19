@@ -4,7 +4,7 @@
   "title": "Lawn mower spark plug count",
   "titleGenerationStatus": "success",
   "createdAt": 1789770288044,
-  "lastActivityAt": 1789770296449,
+  "lastActivityAt": 1789784842634,
   "sessionId": "a5ad9cb7-2b03-4511-a3bd-2b24c626b2c0",
   "selectedModel": "sonnet",
   "providerState": {
@@ -14,11 +14,11 @@
   "usage": {
     "model": "sonnet",
     "inputTokens": 2,
-    "cacheCreationInputTokens": 18167,
+    "cacheCreationInputTokens": 26175,
     "cacheReadInputTokens": 0,
     "contextWindow": 967000,
-    "contextTokens": 18169,
-    "percentage": 2,
+    "contextTokens": 26177,
+    "percentage": 3,
     "contextWindowIsAuthoritative": true
   }
 }
