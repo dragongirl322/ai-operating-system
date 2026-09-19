@@ -619,3 +619,11 @@ I broke out old dvds of Tre when he was real young. We have loved him so much. H
 ## Monday September 14
 
 It occurs to me that I have become a bit obsessed with holding on to and building my money rather than embracing that I worked hard and made the money so I can spend it. Yes, we want to have enough to leave Tre but that doesn’t’ mean stressing over every cent spent. The mentality needs to shift. 
+
+## Friday September 18
+
+Wow, not a lot of evening reflecting happening this week. I’ve had a good week, mostly. I still have moments where I think about how I was treated in my last months at Workday and I get so pissed. It is fleeting and internal but not helpful. I don’t find myself thinking I’m so glad I don’t have to go in. I loved going in. I enjoyed the work, mostly. I miss the team. All of that is okay and it is what I feel. I don’t dwell or linger and I suspect I won’t think about it much as time passes. 
+
+I also hate when I get gluten exposure. Feeling shitty the last couple of days. 
+
+It is time to clean up the diet. I don’t have an excuse other than Tre hates the smells of cooking. He’ll have to buck up. 
