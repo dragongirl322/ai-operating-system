@@ -127,9 +127,9 @@ The opposing force argues that forgetting is mercy, silence is loyalty, and the 
 
 **Important line energy:** "I believe you did not kill her. But I do not think you remember that night as clearly as you think you do."
 
-### Leah Moreno
+### Dr. Leah Moreno
 
-**Role:** Jack's licensed therapist, accessed through social services because Jack no longer has steady income.
+**Role:** Jack's licensed psychologist, accessed through social services because Jack no longer has steady income.
 
 **Age and presence:** Older than Jack, younger than Mona. Grounded, practical, and emotionally steady. She is very different from Mona: clear where Mona is manipulative, boundaried where Mona is needy, and direct without cruelty.
 
