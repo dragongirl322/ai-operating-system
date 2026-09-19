@@ -92,18 +92,10 @@ I took a breath and answered. "Something happened last week, and I promised Simo
 
 [L30] I had no idea what to say, so I sat there looking at her. Both of us—well, at least I was—uncomfortable with the silence. I finally said, "Yeah, it is a lot," and then stopped. I hate the way she did that. Just sitting there, waiting for me to say something. Isn't she supposed to be helping me?
 
-[L31] "Jack, you never told me about this time in your life," she said. "I didn't know that you had been through such a difficult time."
+[L31] "What happened after you saw that article?" She asked. I explained to her how my hands got shaky and I didn't feel very good so I got up and went to the bathroom. 
+"How was your body feeling before you saw the article? Was there anything else in the photo album that you felt a reaction to?"
 
 
-### Beat 6: Leah Starts With What Happened
-
-Leah asks what brought him in. Jack starts with Mona's article because it is the thing he can name.
-
-**Possible line energy:** "My mother saved a newspaper clipping that basically called me a monster."
-
-**Jack's internal shift:** Anger gives him a little control. It keeps grief at a distance.
-
-**Story function:** Opens the doorway to memory through the conscious trigger.
 
 ### Beat 7: Leah Asks What Came Before
 
