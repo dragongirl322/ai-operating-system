@@ -93,19 +93,18 @@ I took a breath and answered. "Something happened last week, and I promised Simo
 [L30] I had no idea what to say, so I sat there looking at her. Both of us—well, at least I was—uncomfortable with the silence. I finally said, "Yeah, it is a lot," and then stopped. I hate the way she did that. Just sitting there, waiting for me to say something. Isn't she supposed to be helping me?
 
 [L31] "What happened after you saw that article?" She asked. I explained to her how my hands got shaky and I didn't feel very good so I got up and went to the bathroom. 
-"How was your body feeling before you saw the article? Was there anything else in the photo album that you felt a reaction to?"
+"What else is in the photo album?"
 
+"There were a bunch of pictures of me and my brothers."
 
+"Were there any that triggered a particular memory or feeling for you?" 
 
-### Beat 7: Leah Asks What Came Before
+"There was one of me holding a fish I caught one day in the river by our house. I was probably about six or so. And one of me and my brothers on the front porch. I liked that one because we were all getting along when it was taken and my brother had on his cool leather jacket."
 
-Leah does not argue with his explanation. She asks what happened before he saw the article, or what his body noticed first. Jack cannot answer clearly. He may skip over the jacket or mention it as irrelevant detail.
+"Was it unusual for you and your brothers to get along?" she asked. 
 
-**Possible Leah line:** "I'm not saying you're wrong about the article. I'm asking what the article was sitting on top of."
+"Yeah. Especially me and Stephen. He got beat by our dad quite a lot--I did too but not like he did. So Stephen took all of that out on me. My family didn't like me much. "
 
-**Jack's internal shift:** He becomes irritated because the question threatens the clean story he brought in.
-
-**Story function:** Lets the jacket remain hidden in plain sight while nudging the reader to notice sequence and body timing.
 
 ### Beat 8: Jack Names Boarding School
 
