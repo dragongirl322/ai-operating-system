@@ -3661,3 +3661,11 @@ One thing I am clear on is that I can’t do what I observe Trinh doing and let 
 ## Saturday September 19
 
 Today is a day of true freedom. I’ve done fairly well at keeping some structure in my week days. I’m slipping a bit in sleeping later than I’d like—closer to 7 when I want to be up closer to 6 or 6:30. I’m not taking advantage of the opportunity to prep food at home. Today I am going to put some time into designing my bet life. I have the freedom to do that and not doing it is silly. 
+
+## Monday September 21
+
+Last day of summer. This changing of the seasons is the one I least look forward to because I love the long, warm, sunshiny days. That said, I do love the cycle of life and what the seasons represent. It is a time of change and moving from outdoor activity to closeness in the home. Cozy blankets. Warm drinks. The fireplace. 
+
+I’m looking forward to a shift more focus on healthy eating. I do ok but could do better. My gut will thank me. 
+
+Let’s go make this a great week. We celebrate one year on Thursday and that is s big deal.
