@@ -3669,3 +3669,7 @@ Last day of summer. This changing of the seasons is the one I least look forward
 I’m looking forward to a shift more focus on healthy eating. I do ok but could do better. My gut will thank me. 
 
 Let’s go make this a great week. We celebrate one year on Thursday and that is s big deal.
+
+# Tuesday September 22
+
+First day of Autumn. It is beautiful out. I am so grateful for the wonderful summer I got to spend with my family. I’m so grateful that I get to go work with Trinh and maintain wonderful balance with my family while helping her build something great…..and hopefully make a bit of money doing it. I get to see Berea and Jen today and maybe other former Expedia colleagues. I may also get to bring my first business to URI. Let’s go!!
