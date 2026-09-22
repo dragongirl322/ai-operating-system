@@ -627,3 +627,7 @@ Wow, not a lot of evening reflecting happening this week. I’ve had a good week
 I also hate when I get gluten exposure. Feeling shitty the last couple of days. 
 
 It is time to clean up the diet. I don’t have an excuse other than Tre hates the smells of cooking. He’ll have to buck up. 
+
+## Monday September 21
+
+Summer is ended. I feel sadness for it and such gratitude that it was the summer it was. So wonderful to be off all summer! Tomorrow I am back in that damn saddle. URI, hold on.
