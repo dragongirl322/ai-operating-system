@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1790204142801-9kwqw50oa",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790204142880-x90vxq1",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1790204142795-g64r87s",
+      "timestamp": 1790204142795,
+      "rawDisplayText": "I would like you to review these notes and use them to create a summary of key strengths and risks to URI business along with a set of clear recommendations. \n\nTo be included:\nTrinh is the leader, she is respected and trusted by everyone however, it is often unclear who is the decision maker; the team needs her to own the CEO role.\n\nPeople see the lack of alignment, transparency, and accountability.",
+      "canonicalText": "I would like you to review these notes and use them to create a summary of key strengths and risks to URI business along with a set of clear recommendations. \n\nTo be included:\nTrinh is the leader, she is respected and trusted by everyone however, it is often unclear who is the decision maker; the team needs her to own the CEO role.\n\nPeople see the lack of alignment, transparency, and accountability.",
+      "context": {
+        "linkedContent": {
+          "path": "02_Projects/URI AI Initiative/03_Notes/URI dynamics.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "fff4bac0e41b17ee835ef832e14e270c7f13c04c74042979a9d70ab96706bb4f",
+      "providerUserMessageId": "1541f9d8-ae2c-4e57-9d9c-a7158e4ad1c0",
+      "providerAssistantMessageId": "c63c315d-b6aa-49b0-a6ac-3ef08a09bb98"
+    }
+  ]
+}

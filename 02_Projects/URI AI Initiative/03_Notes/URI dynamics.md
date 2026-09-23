@@ -142,3 +142,4 @@ Just spoke with Jeff. Challenges and risks he called out for URI:
 - **Accountability more broadly:** He referenced accountability as an issue.
 - **Client concentration:** Need to diversify the client base; heavy reliance on too few clients.
 - **No vision:** No vision for people to work toward.
+

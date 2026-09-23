@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790204142801-9kwqw50oa",
+  "providerId": "claude",
+  "title": "URI business strengths, risks & recommendations",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790204142809,
+  "lastActivityAt": 1790204232423,
+  "sessionId": "e4e22783-2815-492f-8cf9-137c7fc56e43",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "e4e22783-2815-492f-8cf9-137c7fc56e43"
+  },
+  "linkedContentPath": "02_Projects/URI AI Initiative/03_Notes/URI dynamics.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 7022,
+    "cacheReadInputTokens": 28044,
+    "contextWindow": 967000,
+    "contextTokens": 35068,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
+  }
+}
