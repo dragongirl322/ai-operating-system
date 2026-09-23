@@ -131,3 +131,14 @@ Shawn describes Justin as a disruptor; Brooke called him a maverick. He is “ve
 ### Research org / compensation
 
 14 researchers on staff; over 30 as part of their placement service. Shawn says researchers are good; research managers are both a huge mess — Tom just riding it out, Janet horrible. Says one of the best researchers is only making just over $100k and that isn’t sustainable.
+
+---
+
+## Jeff — challenges and risks (23 Sep 2026)
+
+Just spoke with Jeff. Challenges and risks he called out for URI:
+
+- **Selling / sales accountability:** Not enough people are accountable for selling.
+- **Accountability more broadly:** He referenced accountability as an issue.
+- **Client concentration:** Need to diversify the client base; heavy reliance on too few clients.
+- **No vision:** No vision for people to work toward.
