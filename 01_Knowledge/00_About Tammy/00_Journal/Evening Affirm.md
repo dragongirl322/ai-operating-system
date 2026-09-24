@@ -631,3 +631,7 @@ It is time to clean up the diet. I don’t have an excuse other than Tre hates t
 ## Monday September 21
 
 Summer is ended. I feel sadness for it and such gratitude that it was the summer it was. So wonderful to be off all summer! Tomorrow I am back in that damn saddle. URI, hold on.
+
+## Wednesday September 23
+
+I’m feeling solid right now. Having made a decision about where to focus my professional energy has me settled. There are some good challenges to solve. I’ve connected with friends from Expedia who are at GoDaddy and may bring them in as a URI client with big bonus of being able to work with Berea and Jen again. Saw Mel and Berea for lunch today, got to see Monica who is back from Mat leave. The team is sad and in a mess. Mel tells me there are layoffs next week and she was read in with an NDA today. Rough seas. I am here to support and will proactively reach out to some next week. 
