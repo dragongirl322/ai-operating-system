@@ -4,7 +4,7 @@
   "title": "Sony Walkman 1984 release and price",
   "titleGenerationStatus": "success",
   "createdAt": 1790353751827,
-  "lastActivityAt": 1790359454767,
+  "lastActivityAt": 1790369003509,
   "sessionId": "da8de49a-5ef8-44b7-a1c6-14adba6447a1",
   "selectedModel": "sonnet",
   "providerState": {
@@ -14,10 +14,10 @@
   "usage": {
     "model": "sonnet",
     "inputTokens": 2,
-    "cacheCreationInputTokens": 1220,
-    "cacheReadInputTokens": 49468,
+    "cacheCreationInputTokens": 51113,
+    "cacheReadInputTokens": 0,
     "contextWindow": 967000,
-    "contextTokens": 50690,
+    "contextTokens": 51115,
     "percentage": 5,
     "contextWindowIsAuthoritative": true
   }

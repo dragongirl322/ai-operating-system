@@ -118,6 +118,20 @@
       "contentDigest": "4dc0ccadef269ab510a820ad62d89c0e7e20978cf12f07e47548aabe3beed275",
       "providerUserMessageId": "f68e0108-95be-4b9a-990f-210296d8d355",
       "providerAssistantMessageId": "d2f9c747-e9d1-4868-ab64-cfabeb5c759f"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790368988079-rzml20y",
+      "userTurnOrdinal": 9,
+      "state": "accepted",
+      "localMessageId": "msg-1790368988072-y2oc9d0",
+      "timestamp": 1790368988072,
+      "rawDisplayText": "Do any of the rivers in Oregon run along Albany? If not, is there a lake or a pond nearby?",
+      "canonicalText": "Do any of the rivers in Oregon run along Albany? If not, is there a lake or a pond nearby?",
+      "images": [],
+      "contentDigest": "ea3afd90d4fc96b1be58d9960b3f46b2a852f4c8f0e48786205919c2c05cf5d5",
+      "providerUserMessageId": "3a1c9f83-bc5d-40c5-8829-938fb9804301",
+      "providerAssistantMessageId": "0b7971d3-e204-460f-9d3c-cdd1f0454f21"
     }
   ]
 }

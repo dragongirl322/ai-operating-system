@@ -42,17 +42,39 @@ I reached down to pick up my bags, thinking he'd expect me to bring them.
 
 "Oh, you can leave those here. We'll come back here and I'll have one of the boys from the dorm come show you the way to your room and introduce you around a bit."
 
-[L13] He led me out the front door of the building and took me to the left and into a three story, brick building. It looked pretty much like the schools I'd been to. A long hallway with classrooms on each side. 
+[L13] He led me out the front door of the building and took me to the left and into a two story, brick building. It looked pretty much like the schools I'd been to. A long hallway with classrooms on each side. 
 
 "This is where most of your classes will be held. The next building over is where you'll attend high school if you stay with us that long. You'll want to get here at 7:45 am tomorrow, 15 minutes before the bell rings. That way our administrator, Ms. Henderson, can get you your schedule and show you where your first class is. Let me know you where the office is so you'll know where to go."
 
-He led me down the hall and into the first door on the left. The room was dark because the office wasn't open. It had one desk with Ms. Henderson's name plaque sitting on it along with a mess of papers, a pen holder, . There were four chairs lined up on the far wall. 
+He led me down the hall and into the first door on the left. The room was dark because the office wasn't open. It had one desk with Ms. Henderson's name plaque sitting on it along with a mess of papers, a pen holder, and a phone. There were four chairs lined up on the far wall. 
 
-[L12]
+"If you get lost or need anything tomorrow, just come here and Ms. Henderson will help you out. We also have a school nurse whose office is through the open door behind Ms. Henderson's desk."
 
-[L12]
+I made a mental note to get here early tomorrow. I was feeling overwhelmed already and wondering how I'd be able to find my way around. If I got here early enough, maybe Ms. Henderson could show me where all of my classes were. 
 
-[L12]
+[L12] We only stopped in one classroom on the first floor and it was obvious from the moment we walked in it was the science class. There were beakers lined up on a shelf in the back of the room along with microscopes and what looked like a bunch of chemicals.
+
+"We have one of the best chemistry teachers in the country here at St. Aidans. He was a professor at the University of Oregon for years then decided he wanted to teach younger students. We have you enrolled in his class because your mom told me you like science."
+
+I nodded and smiled "I do. Biology was my favorite class last year, in 7th grade." 
+
+[L12] We walked up the stairs to the second floor and he took me into a classroom about half way down the hallway. 
+
+"This is our music room," he said, turning on the light. It was amazing! There was a full drum set, three electric guitars, an electric base, and amps in one corner of the room. There were what looked like instrument cases lined up against the wall. "Do you like music?" he asked.
+
+"I love music," I answered, trying not to sound too enthusiastic. 
+
+"Do you play any instruments?"
+
+"Yeah, I play a little guitar. My mom gave me one when I turned 12 and I've been teaching myself how to play."
+
+"That's good. We also have you signed up for band class." 
+
+[L12] We went down the stairs and out through a back door. He led me behind Whitfield Hall and into the building on the opposite side. We went through the double glass doors into a huge gymnasium. I stood and took everything in. The gym had three sections. It looked like a full basketball court, a weight lifting area, and an area with what looked like a type of obstacle course.
+
+"We require all of our students to take PE classes throughout the year. We believe that a body that doesn't work hard leads to idle minds and that idle minds lead to trouble."
+
+I felt my chest tighten. I hated PE in 7th grade. It isn't that I don't like moving my body. Hell, I've spent most of my life swimming in the river, hiking through forests, and riding my bike all over the place. I just didn't like competing with other boys. 
 
 [L12]
 
