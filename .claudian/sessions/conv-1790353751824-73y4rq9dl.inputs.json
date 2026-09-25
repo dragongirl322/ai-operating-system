@@ -132,6 +132,20 @@
       "contentDigest": "ea3afd90d4fc96b1be58d9960b3f46b2a852f4c8f0e48786205919c2c05cf5d5",
       "providerUserMessageId": "3a1c9f83-bc5d-40c5-8829-938fb9804301",
       "providerAssistantMessageId": "0b7971d3-e204-460f-9d3c-cdd1f0454f21"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790371338795-r38fxa4",
+      "userTurnOrdinal": 10,
+      "state": "accepted",
+      "localMessageId": "msg-1790371338787-ok26aln",
+      "timestamp": 1790371338787,
+      "rawDisplayText": "What would be a good name for the dorm building that Jack lives in?",
+      "canonicalText": "What would be a good name for the dorm building that Jack lives in?",
+      "images": [],
+      "contentDigest": "7111d045eb52b797b5e2556a8e471b347b83effafb96eb9af173fe3012100f60",
+      "providerUserMessageId": "aecf3f79-c7b0-4686-b65a-53e2c6753ae7",
+      "providerAssistantMessageId": "037b1226-65f3-484f-86f7-b4230fb9e661"
     }
   ]
 }

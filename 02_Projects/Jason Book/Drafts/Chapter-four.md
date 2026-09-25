@@ -52,13 +52,13 @@ He led me down the hall and into the first door on the left. The room was dark b
 
 I made a mental note to get here early tomorrow. I was feeling overwhelmed already and wondering how I'd be able to find my way around. If I got here early enough, maybe Ms. Henderson could show me where all of my classes were. 
 
-[L12] We only stopped in one classroom on the first floor and it was obvious from the moment we walked in it was the science class. There were beakers lined up on a shelf in the back of the room along with microscopes and what looked like a bunch of chemicals.
+[L14] We only stopped in one classroom on the first floor and it was obvious from the moment we walked in it was the science class. There were beakers lined up on a shelf in the back of the room along with microscopes and what looked like a bunch of chemicals.
 
 "We have one of the best chemistry teachers in the country here at St. Aidans. He was a professor at the University of Oregon for years then decided he wanted to teach younger students. We have you enrolled in his class because your mom told me you like science."
 
 I nodded and smiled "I do. Biology was my favorite class last year, in 7th grade." 
 
-[L12] We walked up the stairs to the second floor and he took me into a classroom about half way down the hallway. 
+[L15] We walked up the stairs to the second floor and he took me into a classroom about half way down the hallway. 
 
 "This is our music room," he said, turning on the light. It was amazing! There was a full drum set, three electric guitars, an electric base, and amps in one corner of the room. There were what looked like instrument cases lined up against the wall. "Do you like music?" he asked.
 
@@ -70,15 +70,41 @@ I nodded and smiled "I do. Biology was my favorite class last year, in 7th grade
 
 "That's good. We also have you signed up for band class." 
 
-[L12] We went down the stairs and out through a back door. He led me behind Whitfield Hall and into the building on the opposite side. We went through the double glass doors into a huge gymnasium. I stood and took everything in. The gym had three sections. It looked like a full basketball court, a weight lifting area, and an area with what looked like a type of obstacle course.
+[L16] We went down the stairs and out through a back door. He led me behind Whitfield Hall and into the building on the opposite side. We went through the double glass doors into a huge gymnasium. I stood and took everything in. The gym had three sections. It looked like a full basketball court, a weight lifting area, and an area with what looked like a type of obstacle course.
 
 "We require all of our students to take PE classes throughout the year. We believe that a body that doesn't work hard leads to idle minds and that idle minds lead to trouble."
 
-I felt my chest tighten. I hated PE in 7th grade. It isn't that I don't like moving my body. Hell, I've spent most of my life swimming in the river, hiking through forests, and riding my bike all over the place. I just didn't like competing with other boys. 
+I felt my chest tighten. I hated PE in 7th grade. It isn't that I don't like moving my body. Hell, I've spent most of my life swimming in the river, hiking through forests, and riding my bike all over the place. I had nothing but teasing in PE. I hated everything about it. 
 
-[L12]
+[L17] The reverend led me back out into the sunlight and the heat and started walking toward the chapel. We stopped outside the large wooden doors and he opened one just slightly to look in then closed it.
 
-[L12]
+"They are just finishing orientation. This is where we hold assemblies or any other event that includes all of our students. You'll be required to attend sabbath services every Sunday at 8am sharp and bible study class immediately after."
+
+Even though I knew to expect this, hearing it made me want to bolt. I hate religion. It never did anything to help me, even though I prayed a lot when I was a little boy. 
+
+[L18] Suddenly the doors flew open, nearly knocking me and the reverend over. Boys flooded out in an eruption of chaos. The reverend told them to slow down and be more aware but they all ignored him. One of the boys was walking a bit more slowly than than the others and the reverand stopped him.
+
+"Justin, you're just the boy I was looking for," he said with a big smile. "This is Jack Tate. He is your new dorm mate. Jack, this is Justin Brown. He's been at St. Aidans since he was in first grade."
+
+"Hey, nice to meet you, Jack," said Justin. Friendly but not too nice. 
+
+"You too," I said, quietly. I was feeling wary and out of place.
+
+"Justin will walk you to your dorm and introduce you around," the reverend said.
+
+"Oh, yeah, sure," said Justin, a bit cautiously like it wasn't what he'd planned on but he knew it wasn't a request and instead and order. 
+
+[L19] We walked back into Whitfield Hall and I grabbed my bags. I started to follow Justin out the front door when the reverend called out to me.
+
+"Don't forget to be in the office at 7:45 tomorrow morning so you can get your schedule. Being tardy to class on your first day won't look good."
+
+[L20] Justin and I walked silently to the building that sat just on the other side of the large gymnasium. It was a narrow, three story brick building that looked like it had been built in the 50s. 
+
+"This is us. Oswald house," said Justin. "This is where grades 6 through 8 stay. The little kids stay at Cuthbert and the high school students are in Chad."
+
+The inside of Oswald house reminded me of what a prison might look like. The floors were concrete and the walls were painted white. There was no natural light coming into the hall 
+
+[L21] 
 
 
 
