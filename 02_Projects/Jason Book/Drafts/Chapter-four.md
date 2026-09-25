@@ -102,9 +102,15 @@ Even though I knew to expect this, hearing it made me want to bolt. I hate relig
 
 "This is us. Oswald house," said Justin. "This is where grades 6 through 8 stay. The little kids stay at Cuthbert and the high school students are in Chad."
 
-The inside of Oswald house reminded me of what a prison might look like. The floors were concrete and the walls were painted white. There was no natural light coming into the hall 
+The inside of Oswald house reminded me of what a prison might look like. The floors were concrete and the walls were painted white. There was no natural light coming into the halls so it was dark and had a musty smell. Justin led me up the stairs to the top floor and to a room at the far end of the hall. Room 327. 
 
-[L21] 
+[L21] He opened the door and showed me in. There were two small beds, each with a pillow and a single black blanket. There were two small desks sitting between the beds each with a wooden chair. There were two sets of drawers, one on each side of the door. There was a single small window in the middle of the far wall. 
+
+"The view on this side of the building is pretty decent. At least we get to see the trees and the pond instead of looking at all the buildings," said Justin. "Dump your stuff and I'll show you where the john and showers are and introduce you to a few of the guys."
+
+"Which bed should I take?" I asked.
+
+"I've got the one on the left so take the other"
 
 
 
