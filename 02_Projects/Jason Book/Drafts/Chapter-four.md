@@ -4,11 +4,11 @@
 
 [L3] We'd only stopped once the entire 4 hour drive and only long enough for James to pee. By the time we drove up to St. Aidan's school, I was hungry, thirsty, and tired. It felt like we were in the middle of nowhere. The only thing we'd seen for at least 40 minutes was dirt, grass, and pine trees. 
 
-[L4] It was hot when I stepped out of the car and the air was fresh and piney. There was a slight smell of bread baking from somewhere and it made my mouth water. We parked in front of Whitfield Hall, a big stone building. I looked around a bit to get a sense of where I'd be living for a while. There were several smaller b
+[L4] It was hot when I stepped out of the car and the air was fresh and piney. There was a slight smell of bread baking from somewhere and it made my mouth water. We parked in front of Whitfield Hall, a big stone building. I looked around a bit to get a sense of where I'd be living for a while. There were at least three smaller buildings to the right and behind Whitfield hall and four to the left. School was set to start the next day so I sort of thought we'd see a lot of other students but all I saw was a guy mowing the lawn a few buildings down. 
 
-[L1]
+[L5] "Mona, you take the kid in. I'm going to stay out here and get some fresh air," James said. I stood there awkwardly, wondering if I should tell him goodbye or just walk away. I didn't like the guy and I knew he didn't like me so in the end, I just put up my hand to give a slight wave then turned my back to him and started to walk toward the building with my mom. 
 
-[L1]
+[L6] The doors to Whtifield Hall were enormous, wooden, and heavy. I expected it to feel dark and old on the inside but it was even darker and older than I thought it would be. The entry way was 
 
 [L1]
 
