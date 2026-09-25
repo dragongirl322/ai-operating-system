@@ -4,15 +4,23 @@
 
 [L3] We'd only stopped once the entire 4 hour drive and only long enough for James to pee. By the time we drove up to St. Aidan's school, I was hungry, thirsty, and tired. It felt like we were in the middle of nowhere. The only thing we'd seen for at least 40 minutes was dirt, grass, and pine trees. 
 
-[L4] It was hot when I stepped out of the car and the air was fresh and piney. There was a slight smell of bread baking from somewhere and it made my mouth water. We parked in front of a stone and timber building that looked a bit like an old, rustic cabin but slightly bigger. I looked around a bit to get a sense of where I'd be living for a while. There were at least three smaller buildings to the right and behind Whitfield hall and four to the left. School was set to start the next day so I sort of thought we'd see a lot of other students but all I saw was a guy mowing the lawn a few buildings down. 
+[L4] It was hot when I stepped out of the car and the air was fresh and piney. There was a slight smell of bread baking from somewhere and it made my mouth water. We parked in front of a stone and timber building that looked a bit like an old, rustic cabin but slightly bigger. I looked around a bit to get a sense of where I'd be living for a while.  School was set to start the next day so I sort of thought we'd see a lot of other students but all I saw was a guy mowing the lawn a few buildings down. 
 
 [L5] "Mona, you take the kid in. I'm going to stay out here and get some fresh air," James said. I stood there awkwardly, wondering if I should tell him goodbye or just walk away. I didn't like the guy and I knew he didn't like me so in the end, I just put up my hand to give a slight wave then turned my back to him and started to walk toward the building with my mom. 
 
-[L6] 
+[L6] As we walked up to the building, I saw a sign on it that said "Whitfield Hall." We entered through the heavy, wood door into a dimly lit entry way. After being in the bright sun outside it seemed almost dark. A tall, thin man with salt and pepper hair came out of the door closest to us smiling warmly. 
 
-[L1]
+[L7] "You must be Jack Tate," he said, extending his hand to shake mine. "We're been waiting for you. I'm Reverend Marsh, the school rector." He didn't look like any reverend I'd seen before. He had on a pair of loose fitting jeans, a pair of timber boots, and short sleeved button shirt. He led me and mom into his office. There was a single window in the office and a desk lamp, giving the room a nice blend of natural light. It was clean with a shelf full of books, a single notebook and pen and a laptop sat on the desk. There were two comfy chairs just to the side of the desk, facing toward the window and Reverend Marsh's chair. 
 
-[L1]
+[L8] I sat down in one chair and mom remained standing. I don't remember what all was talked about, mostly because 
+
+[L9]
+
+[L10]
+
+[L11]
+
+[L12]
 
 
 
