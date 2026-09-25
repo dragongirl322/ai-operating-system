@@ -1,10 +1,10 @@
-[L1] The memory of that day is so vivid. It was warm enough outside that there was steam rising off of the hot cement when the sun finaly came through the rain. I loved the smell of summer rain. When I climbed in the 
+[L1] The memory of that day is so vivid. It was warm enough outside that there was steam rising off of the hot cement when the sun finaly came through the rain. I loved the smell of summer rain. When I climbed in the car there was a stench of stalk cigerrette smoke mixed with the fresh smell of the cigar James was puffing on. I felt like crying but I couldn't stand the idea of giving James the satisfaction. He and mom wouldn't even let me say goodbye to Owen because he was taking a nap. I was pissed about that and worried that they were leaving Stephen to watch him for so many hours. 
 
-[L1]
+[L2] I put my walkman headphones on before we drove away. I had nothing to say and didn't want to hear anything James or Mona had to say. I listened to the same two cassettes for the entire four hour drive. They were the only ones I had but at least I liked them. Def Leppard and Judas Priest are still bands I can listen to for hours.
 
-[L1]
+[L3] We'd only stopped once the entire 4 hour drive and only long enough for James to pee. By the time we drove up to St. Aidan's school, I was hungry, thirsty, and tired. It felt like we were in the middle of nowhere. The only thing we'd seen for at least 40 minutes was dirt, grass, and pine trees. 
 
-[L1]
+[L4] It was hot when I stepped out of the car and the air was fresh and piney. There was a slight smell of bread baking from somewhere and it made my mouth water. We parked in front of Whitfield Hall, a big stone building. I looked around a bit to get a sense of where I'd be living for a while. There were several smaller b
 
 [L1]
 
@@ -18,21 +18,7 @@
 
 ## Scene 3: Boarding School Memory
 
-### Beat 9: The Drive Away
 
-The memory opens in sensory detail: the car ride, the weather, the smell of upholstery or cigarettes, the sound of tires on wet road, the feeling of being carried away from home without being rescued from it.
-
-**Jack's internal shift:** He is no longer explaining. He is partially back there.
-
-**Story function:** Pulls the reader into the past as lived experience.
-
-### Beat 10: The Family Left Behind
-
-Jack remembers who stayed home: Mona, James Price, Stephen, and baby Owen. Owen is the child who gets kept. Jack is the child who gets sent away.
-
-**Jack's internal shift:** The abandonment sharpens because it was not only separation from home; it was evidence that the family could keep a child when it wanted to.
-
-**Story function:** Reinforces the family hierarchy: Jack as disposable, Owen as protected, Stephen as favored.
 
 ### Beat 11: Arrival At The School
 

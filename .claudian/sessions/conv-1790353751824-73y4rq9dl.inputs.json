@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1790353751824-73y4rq9dl",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790353751850-3pw93we",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1790353751819-57c73tz",
+      "timestamp": 1790353751819,
+      "rawDisplayText": "If I remember correctly, Sony walkman was available in 1984, is that right? If so, would the price point have allowed Jack to own one?",
+      "canonicalText": "If I remember correctly, Sony walkman was available in 1984, is that right? If so, would the price point have allowed Jack to own one?",
+      "context": {
+        "linkedContent": {
+          "path": "02_Projects/Jason Book/Drafts/Chapter-four.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "219a0c3e3a67ad45c4e20fa4724fad5f2d6d2113d08dc84bba447a7a5f670fa5",
+      "providerUserMessageId": "01f0f50c-5b2e-4f51-8123-438721433b66",
+      "providerAssistantMessageId": "0cbb18f9-20c0-4e19-8f54-5d91f728021c"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790354148561-3pftrgv",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1790354148556-kogmx13",
+      "timestamp": 1790354148556,
+      "rawDisplayText": "Which Def Leppard and Judas Priest cassettes would have been released by 1984?",
+      "canonicalText": "Which Def Leppard and Judas Priest cassettes would have been released by 1984?",
+      "images": [],
+      "contentDigest": "2960011ea24a6533bd3dfea5f8d7f0bd31c47d3865c6ce1a2ecf01a868e9d596",
+      "providerUserMessageId": "431b2fac-24bc-4965-9331-bc4efb9b8be3",
+      "providerAssistantMessageId": "90f25051-eccd-45b8-8720-37667b77a7e7"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790354586068-uamuf4u",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1790354586064-6jk0dxr",
+      "timestamp": 1790354586064,
+      "rawDisplayText": "Remind me of anything we said about the boarding school that I'll want to include in Jack's memory as he arrives at the shool.",
+      "canonicalText": "Remind me of anything we said about the boarding school that I'll want to include in Jack's memory as he arrives at the shool.",
+      "images": [],
+      "contentDigest": "783e3e26291c9388d2cf5b47667fd6cab3f3297a352c75f7113a2cd36194656b",
+      "providerUserMessageId": "9beb1162-e4a2-427e-88c1-0f2c6e3d844a",
+      "providerAssistantMessageId": "f7c6986b-bc98-46d0-a8c8-0b616cb43e6c"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790354774851-3kvdnxf",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1790354774845-iwiyc1c",
+      "timestamp": 1790354774845,
+      "rawDisplayText": "remind me of how long the drive from Albany Oregon to the school is?",
+      "canonicalText": "remind me of how long the drive from Albany Oregon to the school is?",
+      "images": [],
+      "contentDigest": "4ee8e28728672ba9fb5478117c12759c61b59a4e174b86fcedd807f9f8e58957",
+      "providerUserMessageId": "8d512f98-4baf-4be8-8654-286d0778029f",
+      "providerAssistantMessageId": "fe99922a-cfe4-4b6b-9ee0-0276cd0da61a"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790354984975-ngpliyt",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1790354984968-4aqojhc",
+      "timestamp": 1790354984968,
+      "rawDisplayText": "What would the ecology in Juniper Springs be like? I'm assuming dryer with fewer trees than western Oregon.",
+      "canonicalText": "What would the ecology in Juniper Springs be like? I'm assuming dryer with fewer trees than western Oregon.",
+      "images": [],
+      "contentDigest": "0c13a8e72e024298cfa3ea0dce23ff0ee8c6145e082b7495e59a9a29c53557d1",
+      "providerUserMessageId": "bde7d076-cafe-4b4d-bb95-e2e7312ec851",
+      "providerAssistantMessageId": "e677b8a1-3689-4a95-9574-b3890aab2dce"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790355178043-ka3gq98",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1790355178036-hejj9vf",
+      "timestamp": 1790355178036,
+      "rawDisplayText": "What would the main building of the school possibly be called? Or rather, what might Jack call it.",
+      "canonicalText": "What would the main building of the school possibly be called? Or rather, what might Jack call it.",
+      "images": [],
+      "contentDigest": "9523a65bde1c463f1a213851ef9be789e9414847604fcfa71a7e8b0d6644c341",
+      "providerUserMessageId": "5e581a7b-1c73-4d01-9efd-54a03771c54f",
+      "providerAssistantMessageId": "09294650-f1c3-41b7-9b03-0e9004272fd3"
+    }
+  ]
+}

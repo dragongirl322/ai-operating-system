@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790353751824-73y4rq9dl",
+  "providerId": "claude",
+  "title": "Sony Walkman 1984 release and price",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790353751827,
+  "lastActivityAt": 1790355199664,
+  "sessionId": "da8de49a-5ef8-44b7-a1c6-14adba6447a1",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "da8de49a-5ef8-44b7-a1c6-14adba6447a1"
+  },
+  "linkedContentPath": "02_Projects/Jason Book/Drafts/Chapter-four.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 8108,
+    "cacheReadInputTokens": 35183,
+    "contextWindow": 967000,
+    "contextTokens": 43293,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
+  }
+}
