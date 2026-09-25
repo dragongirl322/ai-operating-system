@@ -1,4 +1,4 @@
-[L1] I threw my backpack and duffle bag into the back seat and climbed in. The car smelled awful. Stale cigarette smoke mixed with the fresh smell of the cigar James was puffing on. I felt like crying but I couldn't stand the idea of giving James the satisfaction. He and Mom wouldn't even let me say goodbye to Owen because he was taking a nap. I was pissed about that and worried that they were leaving Stephen to watch him for so many hours. 
+[L1] I threw my backpack and duffle bag into the back seat of the Caprice and climbed in. The car smelled awful. Stale cigarette smoke mixed with the fresh smell of the cigar James was puffing on. I felt like crying but I couldn't stand the idea of giving James the satisfaction. He and Mom wouldn't even let me say goodbye to Owen because he was taking a nap. I was pissed about that and worried that they were leaving Stephen to watch him for so many hours. 
 
 [L2] I put my Walkman headphones on before we drove away. I had nothing to say and didn't want to hear anything James or Mom had to say. I listened to the same two cassettes for the entire four-hour drive. They were the only ones I had but at least I liked them. Def Leppard and Judas Priest are still bands I can listen to for hours.
 
@@ -22,7 +22,7 @@
 
 This was the first time I'd heard that I was missing orientation. Oh, great. Already I was going to feel behind. This explained why I hadn't seen any other students around.
 
-"We take good care of the boys here. Our primary goal is to provide  Jack with structure and discipline so he can reach his potential," Reverend Marsh continued.
+"We take good care of the boys here. Our primary goal is to provide Jack with structure and discipline so he can reach his potential," Reverend Marsh continued.
 
 At this point, I decided to tune out. I'd spent too much of my life listening to adults talk about what a messed-up kid I am. They talked about me like I wasn't even there. 
 
@@ -36,7 +36,7 @@ It felt like they talked for a long time but looking back, I think it was no mor
 
 [L11] I wiped my eyes with my hands and turned to walk through the door. I couldn't stand to see that car drive away from me. I had a burning lump in my throat from holding back my tears but I knew better than to let a man see me cry and no way was I walking back into the reverend's office crying. I'd gotten surprisingly good as a kid at holding in my tears. It didn't take me too many beatings from my dad to learn that crying just made it worse.
 
-[L12] The reverend stood up from his desk when I walked in the room "Are you ready to take a look around?" He asked.
+[L12] The reverend stood up from his desk when I walked in the room. "Are you ready to take a look around?" He asked.
 
 I reached down to pick up my bags, thinking he'd expect me to bring them. 
 
@@ -44,7 +44,7 @@ I reached down to pick up my bags, thinking he'd expect me to bring them.
 
 [L13] He led me out the front door of the building and took me to the left and into a two story, brick building. It looked pretty much like the schools I'd been to. A long hallway with classrooms on each side. 
 
-"This is where most of your classes will be held. The next building over is where you'll attend high school if you stay with us that long. You'll want to get here at 7:45 am tomorrow, 15 minutes before the bell rings. That way our administrator, Ms. Henderson, can get you your schedule and show you where your first class is. Let me know you where the office is so you'll know where to go."
+"This is where most of your classes will be held. The next building over is where you'll attend high school if you stay with us that long. You'll want to get here at 7:45 am tomorrow, 15 minutes before the bell rings. That way our administrator, Ms. Henderson, can get you your schedule and show you where your first class is. Let me show you where the office is so you'll know where to go."
 
 He led me down the hall and into the first door on the left. The room was dark because the office wasn't open. It had one desk with Ms. Henderson's name plaque sitting on it along with a mess of papers, a pen holder, and a phone. There were four chairs lined up on the far wall. 
 
@@ -54,13 +54,13 @@ I made a mental note to get here early tomorrow. I was feeling overwhelmed alrea
 
 [L14] We only stopped in one classroom on the first floor and it was obvious from the moment we walked in it was the science class. There were beakers lined up on a shelf in the back of the room along with microscopes and what looked like a bunch of chemicals.
 
-"We have one of the best chemistry teachers in the country here at St. Aidans. He was a professor at the University of Oregon for years then decided he wanted to teach younger students. We have you enrolled in his class because your mom told me you like science."
+"We have one of the best chemistry teachers in the country here at St. Aidan's. He was a professor at the University of Oregon for years then decided he wanted to teach younger students. We have you enrolled in his class because your mom told me you like science."
 
-I nodded and smiled "I do. Biology was my favorite class last year, in 7th grade." 
+I nodded and smiled. "I do. Biology was my favorite class last year, in 7th grade." 
 
 [L15] We walked up the stairs to the second floor and he took me into a classroom about half way down the hallway. 
 
-"This is our music room," he said, turning on the light. It was amazing! There was a full drum set, three electric guitars, an electric base, and amps in one corner of the room. There were what looked like instrument cases lined up against the wall. "Do you like music?" he asked.
+"This is our music room," he said, turning on the light. It was amazing! There was a full drum set, three electric guitars, an electric bass, and amps in one corner of the room. There were what looked like instrument cases lined up against the wall. "Do you like music?" he asked.
 
 "I love music," I answered, trying not to sound too enthusiastic. 
 
@@ -82,9 +82,9 @@ I felt my chest tighten. I hated PE in 7th grade. It isn't that I don't like mov
 
 Even though I knew to expect this, hearing it made me want to bolt. I hate religion. It never did anything to help me, even though I prayed a lot when I was a little boy. 
 
-[L18] Suddenly the doors flew open, nearly knocking me and the reverend over. Boys flooded out in an eruption of chaos. The reverend told them to slow down and be more aware but they all ignored him. One of the boys was walking a bit more slowly than than the others and the reverand stopped him.
+[L18] Suddenly the doors flew open, nearly knocking me and the reverend over. Boys flooded out in an eruption of chaos. The reverend told them to slow down and be more aware but they all ignored him. One of the boys was walking a bit more slowly than the others and the reverend stopped him.
 
-"Justin, you're just the boy I was looking for," he said with a big smile. "This is Jack Tate. He is your new dorm mate. Jack, this is Justin Brown. He's been at St. Aidans since he was in first grade."
+"Justin, you're just the boy I was looking for," he said with a big smile. "This is Jack Tate. He is your new dorm mate. Jack, this is Justin Brown. He's been at St. Aidan's since he was in first grade."
 
 "Hey, nice to meet you, Jack," said Justin. Friendly but not too nice. 
 
@@ -92,7 +92,7 @@ Even though I knew to expect this, hearing it made me want to bolt. I hate relig
 
 "Justin will walk you to your dorm and introduce you around," the reverend said.
 
-"Oh, yeah, sure," said Justin, a bit cautiously like it wasn't what he'd planned on but he knew it wasn't a request and instead and order. 
+"Oh, yeah, sure," said Justin, a bit cautiously like it wasn't what he'd planned on but he knew it wasn't a request and instead an order. 
 
 [L19] We walked back into Whitfield Hall and I grabbed my bags. I started to follow Justin out the front door when the reverend called out to me.
 
@@ -100,9 +100,9 @@ Even though I knew to expect this, hearing it made me want to bolt. I hate relig
 
 [L20] Justin and I walked silently to the building that sat just on the other side of the large gymnasium. It was a narrow, three story brick building that looked like it had been built in the 50s. 
 
-"This is us. Oswald house," said Justin. "This is where grades 6 through 8 stay. The little kids stay at Cuthbert and the high school students are in Chad."
+"This is us. Oswald House," said Justin. "This is where grades 6 through 8 stay. The little kids stay at Cuthbert and the high school students are in Chad."
 
-The inside of Oswald house reminded me of what a prison might look like. The floors were concrete and the walls were painted white. There was no natural light coming into the halls so it was dark and had a musty smell. Justin led me up the stairs to the top floor and to a room at the far end of the hall. Room 327. 
+The inside of Oswald House reminded me of what a prison might look like. The floors were concrete and the walls were painted white. There was no natural light coming into the halls so it was dark and had a musty smell. Justin led me up the stairs to the top floor and to a room at the far end of the hall. Room 327. 
 
 [L21] He opened the door and showed me in. There were two small beds, each with a pillow and a single black blanket. There were two small desks sitting between the beds each with a wooden chair. There were two sets of drawers, one on each side of the door. There was a single small window in the middle of the far wall. 
 
@@ -122,19 +122,9 @@ The inside of Oswald house reminded me of what a prison might look like. The flo
 
 [L24] It was 5:35 and there were a lot of empty tables, which was a relief. Justin and I got our food and went and sat at a table as far away from the little kids as we could. The food wasn't bad. Chili, cornbread, and a salad. They had chocolate milk, milk, and water. I chose a chocolate milk. I ate faster than normal realizing I hadn't had anything since breakfast. Justin didn't try to talk to me at all while we ate. I liked that. 
 
-[L25] After eating, Justin invited me to go hang out in the dorm room of one of his friends, which was nice, but I was exhausted and anxious. I went back to our dorm room alone and put on my headset to listen to an old Rolling Stones cassette Stephen gave to me last Christmas. I thought it would help calm my nerves but it just made me want to go home. Not that home was that much better but at least I had my own bed and my bike and my friends there. 
+[L25] After eating, Justin invited me to go hang out in the dorm room of one of his friends, which was nice, but I was exhausted and anxious. I went back to our dorm room alone and put on my headset to listen to an old Rolling Stones cassette Stephen gave to me last Christmas. I thought it would help calm my nerves but it just made me want to go home. Not that home was that much better but at least I had my own bed and my bike and my friends there.
 
-[L26] I
+[L26] The last song was one of my favorites. "All About You." This song always makes me sad and tonight, it was just too much. I felt my throat start to burn and knew I was about to cry so I turned the music off. I sat there in the dark after that, missing home so hard my chest ached, waiting for something I couldn't name.
 
+[L27] Justin came back eventually. He climbed into his bed and fell asleep almost right away, breathing heavy. I sat there and listened to him. I wanted someone to come get me. Nobody did.
 
-
-
-
-
-### Beat 14: The First Night
-
-Jack remembers the first night at school: unfamiliar dark, strange breathing from other boys, the impossibility of crying safely, the body learning that needing someone changes nothing.
-
-**Jack's internal shift:** He identifies this as the moment he learned nobody was coming.
-
-**Story function:** Gives emotional weight to Jack's belief that boarding school is the source of his pain.
