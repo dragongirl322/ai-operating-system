@@ -90,6 +90,34 @@
       "contentDigest": "9523a65bde1c463f1a213851ef9be789e9414847604fcfa71a7e8b0d6644c341",
       "providerUserMessageId": "5e581a7b-1c73-4d01-9efd-54a03771c54f",
       "providerAssistantMessageId": "09294650-f1c3-41b7-9b03-0e9004272fd3"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790359221337-ko3cak7",
+      "userTurnOrdinal": 7,
+      "state": "accepted",
+      "localMessageId": "msg-1790359221330-jxqml0o",
+      "timestamp": 1790359221330,
+      "rawDisplayText": "We have a fairly decent description of the exterior of Whitfield hall and I'd like to get a better idea of the interior. I'd also like to consider that the building itself isn't huge and massive. Given it was built with student labor, I envision it as being a smaller structure. Given the timeframe and what we've already decided, describe for me what the likely interior would be like.",
+      "canonicalText": "We have a fairly decent description of the exterior of Whitfield hall and I'd like to get a better idea of the interior. I'd also like to consider that the building itself isn't huge and massive. Given it was built with student labor, I envision it as being a smaller structure. Given the timeframe and what we've already decided, describe for me what the likely interior would be like.",
+      "images": [],
+      "contentDigest": "dfe5fbfeb597ce075035390cbc46b0113ab6ea15df5ae856abbd71f214a13226",
+      "providerUserMessageId": "5b558af1-2b00-4c55-b0d7-c0c10e98f4ae",
+      "providerAssistantMessageId": "8c1b15a4-8a47-47d4-be4b-57c0a97737dd"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790359440542-hihsgs2",
+      "userTurnOrdinal": 8,
+      "state": "accepted",
+      "localMessageId": "msg-1790359440537-0o6r0xr",
+      "timestamp": 1790359440537,
+      "rawDisplayText": "I think the chapel is separate and sits directly behind Whitfield hall",
+      "canonicalText": "I think the chapel is separate and sits directly behind Whitfield hall",
+      "images": [],
+      "contentDigest": "4dc0ccadef269ab510a820ad62d89c0e7e20978cf12f07e47548aabe3beed275",
+      "providerUserMessageId": "f68e0108-95be-4b9a-990f-210296d8d355",
+      "providerAssistantMessageId": "d2f9c747-e9d1-4868-ab64-cfabeb5c759f"
     }
   ]
 }

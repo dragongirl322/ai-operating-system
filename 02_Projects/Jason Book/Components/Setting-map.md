@@ -35,7 +35,15 @@ Working place bible for Jason Book. Keep this thin and answerable. Do not pull n
 
 **Character:** Episcopal-affiliated, chapel-centered — mandatory chapel twice daily, a merit/demerit ledger, older boys ("prefects") enforcing order on younger ones. Discipline dressed as devotion; control offered as care. That framing deliberately echoes Mona's "because I loved you" — keep the resonance close to the surface without naming it on the page.
 
-**Campus texture:** Stone-and-timber main hall (partly built by student labor, a fact the school still brags about); dorms named for saints (Cuthbert House, Chad House); a chapel bell tower audible across the flat scrubland; a 1962 brick building known unofficially as **the Annex**, used for boys in isolation.
+**Campus texture:** Stone-and-timber main hall — **Whitfield Hall**, named for founding Bishop Corwin Whitfield — partly built by student labor, a fact the school still brags about; dorms named for saints (Cuthbert House, Chad House); a chapel sitting directly behind Whitfield Hall, its bell tower audible across the flat scrubland; a 1962 brick building known unofficially as **the Annex**, used for boys in isolation.
+
+**Whitfield Hall (locked):** Modest scale given student-labor construction — closer to a large lodge than an institutional block, roughly two stories, a dozen rooms. Local basalt/lava rock foundation and lower walls (high desert stone, matches rancher-benefactor's regional access); hand-adzed regional pine framing, visibly rough rather than polished — tool marks the school points to with pride. Chapel is a separate structure directly behind it, not part of the hall itself; dorm houses and the Annex are also separate buildings elsewhere on campus.
+
+*Ground floor:* Entrance foyer (flagstone floor worn smooth by decades of boots, a working stone fireplace, smell of woodsmoke and floor wax over something faintly institutional underneath); front office where new boys are checked in (high wooden counter, the merit/demerit ledger, a secretary who confirms a boy's name against a list rather than greeting him — this is where Beat 11's "name like it already belongs to a file" moment can land); the Rector's office (Rev. Elliot Marsh — deliberately warmer than the rest of the building, desk lamp instead of overhead light, a companionable second chair rather than an interrogation desk); the refectory (long tables and benches, high small windows, institutional food smell layered over old wood, the ledger posted somewhere boys pass daily so discipline stays ambient).
+
+*Second floor:* A handful of staff/masters' rooms; a small library or study hall (modest donated shelving, cold in winter); possibly a small infirmary, given the campus's isolation.
+
+*Sensory throughline:* Cold stone near the entrance giving way to worn wood deeper in; light that's high-desert bright outside but dim and amber inside through small, deliberate windows — a useful contrast to Albany's damp, gray, enclosed valley light. Everything about the interior should read dry and close rather than wet and open.
 
 **Headmaster (Rector) in Jack's time:** The Rev. Elliot Marsh, in post since 1961 — never raises his voice, remembers birthdays, quotes scripture gently. More frightening than a shouter because no single moment of his is ever cruel.
 
