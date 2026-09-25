@@ -143,3 +143,14 @@ Just spoke with Jeff. Challenges and risks he called out for URI:
 - **Client concentration:** Need to diversify the client base; heavy reliance on too few clients.
 - **No vision:** No vision for people to work toward.
 
+---
+
+## Justin / vision workshop tracking (started 25 Sep 2026)
+
+Running log of what happens with Justin relative to the vision workshop. Hypothesis to test: whether he treats this as a high-priority company effort or as just another meeting, and how clearly Trinh has set the priority.
+
+### 25 Sep 2026 — schedule shift for client meeting
+
+Trinh informed the group that the meeting time has shifted so Justin can take a client meeting in the middle of the morning.
+
+Possible read: he is not prioritizing this effort. More likely: Trinh has not established how high a priority this is, so to him it is just another meeting.
