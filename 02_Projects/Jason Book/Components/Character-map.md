@@ -16,7 +16,7 @@ The opposing force argues that forgetting is mercy, silence is loyalty, and the 
 
 **Role:** Protagonist.
 
-**Age:** 48.
+**Age:** 48 in the present-day story. Born April 18, 1971. He is 13 when sent to St. Aidan's in early September 1984 and has been 14 for just under two months when the murder occurs on June 14, 1985.
 
 **Core identity:** Former Seattle musician whose body has begun breaking under the pressure of memory he cannot consciously hold.
 
@@ -48,7 +48,9 @@ The opposing force argues that forgetting is mercy, silence is loyalty, and the 
 
 **Role:** Jack and Stephen's father; original family regime.
 
-**Status:** Deceased four years before the present.
+**Status:** Deceased in 2015, four years before the present-day story.
+
+**Family timeline:** Mona leaves Frank in fall 1979, after Jack has turned eight. Frank is not part of Mona and James Price's household when Jack is sent to St. Aidan's in 1984 or when Jack returns in the summer of 1985.
 
 **Core identity:** Blue-collar successful businessman who ran a small construction business and treated work, toughness, and control as measures of human worth.
 
@@ -70,7 +72,7 @@ The opposing force argues that forgetting is mercy, silence is loyalty, and the 
 
 **Role:** Antagonist. Jack's older brother.
 
-**Age:** 53 in the present-day story, five years older than Jack. Stephen was 19 in the summer of 1985, one year older than the 18-year-old victim; Jack had recently turned 14.
+**Age:** 53 in the present-day story, five years older than Jack. Born in 1966. Stephen is about 13 when Mona leaves Frank, 18 when Jack is sent to St. Aidan's, and 19 when the murder occurs on June 14, 1985. He is one year older than the 18-year-old victim; Jack has recently turned 14.
 
 **Core identity:** Polished, charismatic, successful businessman who inherited the family system's authority and uses respectability as cover.
 
@@ -149,6 +151,8 @@ The opposing force argues that forgetting is mercy, silence is loyalty, and the 
 
 **Backstory:** Mona was abused by Jack and Stephen's father and later by her second husband, James Price. She presents as weak, incapable, and dependent, but she has also caused deep harm through manipulation and cruel remarks.
 
+**Marriage and family timeline:** Mona leaves Frank in fall 1979, when Jack is eight, and marries James Price in summer 1980. Owen is born in March 1982. By the time Mona and James send Jack to St. Aidan's in September 1984, they have been married a little over four years; by the June 1985 murder, they have been married almost five years. When and how this marriage ends remains unresolved.
+
 **Relationship to Jack:** Mona is the one person from Jack's childhood who showed any care for him, usually through music. She influenced his taste in music and was a piano player. At the same time, she undermined Jack's sense of self and safety with covert cruelty, emotional manipulation, and cutting remarks.
 
 **Relationship to music:** Music is the most tender part of Mona's connection to Jack. She gave him beauty without giving him safety.
@@ -169,9 +173,11 @@ The opposing force argues that forgetting is mercy, silence is loyalty, and the 
 
 **Role:** Mona's second husband and Jack's stepfather.
 
+**Family timeline:** James marries Mona in summer 1980, within a year of her leaving Frank. Owen is born in March 1982. James has been Jack's stepfather for a little over four years when Jack is sent to St. Aidan's and almost five years when the murder occurs.
+
 **Core identity:** Ordinary, violent man whose home briefly appeared to offer shelter and then became another site of expulsion.
 
-**Backstory function:** After the death of the young woman and Jack's accusation, Jack had limited exposure to James. James allowed Jack to stay for one week before beating him badly after abusing Mona, burning all of Jack's clothes, and kicking him out.
+**Backstory function:** Jack lives in James's household from roughly age nine until he is sent to St. Aidan's at 13. After the death of the young woman and Jack's accusation, Jack's renewed exposure to James is brief: James allows him to stay for one week before beating him badly after abusing Mona, burning all of Jack's clothes, and kicking him out.
 
 **Want:** Control, dominance, and the right to define who belongs in his home.
 
@@ -186,6 +192,8 @@ The opposing force argues that forgetting is mercy, silence is loyalty, and the 
 ### Owen Price
 
 **Role:** Jack's younger half-brother, biological son of Mona and James Price.
+
+**Age:** 37 in the present-day story. Born in March 1982. Owen is about two and a half when Jack is sent to St. Aidan's in September 1984 and three when the murder occurs in June 1985.
 
 **Core identity:** Mona's favorite and the family member coddled by Mona and Stephen. He is Stephen's unintentional echo.
 

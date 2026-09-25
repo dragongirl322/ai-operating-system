@@ -1,4 +1,4 @@
-[L1] 
+[L1] The memory of that day is so vivid. It was warm enough outside that there was steam rising off of the hot cement when the sun finaly came through the rain. I loved the smell of summer rain. When I climbed in the 
 
 [L1]
 

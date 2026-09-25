@@ -4,7 +4,7 @@ Working place bible for Jason Book. Keep this thin and answerable. Do not pull n
 
 ## Present Day
 
-**Time of year (locked):** Mid to late May. See Document-structure.
+**Time (locked):** Mid to late May 2019. Jack is 48, Stephen is 53, and Owen is 37. See Document-structure.
 
 **Region:** Greater Seattle area (locked by character map / drafts: Seattle band history; Stephen's used-car lots; Lynnwood lot; Everett Youth Foundation).
 
@@ -45,17 +45,19 @@ Working place bible for Jason Book. Keep this thin and answerable. Do not pull n
 
 **Story truth under that belief:** Real science / art / music programs; specific teachers who notice him — not only punishment. The institution's cold, disciplinary architecture (chapel, ledger, prefects, the Annex) is genuinely there, but it coexists with pockets of real attention Jack received. That contradiction is deliberate: the school shouldn't read as pure gothic cruelty — the horror is procedural and quiet, and the good parts are real, which is part of why Jack's "thrown away" narrative is a misfiling, not a lie.
 
-**Household at the send-off (locked):** Before summer 1985 home visit. Mona already with James Price. Who stays home: Mona, James, Stephen, baby Owen. Frank not in that household.
+**Household at the send-off (locked):** Early September 1984, before the summer 1985 home visit. Jack is 13. Mona has been married to James Price for a little over four years. Who stays home: Mona, James, 18-year-old Stephen, and two-and-a-half-year-old Owen. Frank is not in that household.
 
-**Timing:** Boarding school is Phase 1 memory — before the summer 1985 visit / murder (Phase 3).
+**Timing:** Boarding school is Phase 1 memory. Jack spends the 1984-85 school year at St. Aidan's before returning to Albany at the start of summer break in June 1985.
 
-## Crime Scene (Prologue / Summer 1985)
+## Crime Scene (Prologue / June 1985)
+
+**Date (locked):** The murder occurs Friday night, June 14, 1985. Jack wakes at the crime scene on Saturday morning, June 15.
 
 **Place:** Corner classroom of an old church under renovation
 
 **Town (locked):** Albany, Oregon — same as hometown.
 
-**Victim:** Jennifer Weaver (18); Jack recently turned 14; Stephen 19
+**Victim and family ages:** Jennifer Weaver is 18; Jack has been 14 for just under two months; Stephen is 19; Owen is three.
 
 ## Guardrails
 

@@ -10,11 +10,23 @@ Place names, hometown, present-day town, boarding school, and crime-scene geogra
 
 ## Present-Day Time (locked)
 
-**When:** Mid to late May (greater Seattle / Mountlake Terrace).
+**When:** Mid to late May 2019 (greater Seattle / Mountlake Terrace).
 
 **Why it fits the pages already drafted:** Rain under the pine in Chapter One; Tyler hoping to start a band "this summer"; Stephen's Florida charity trip "next week"; lawn mower unused since the previous summer. Wet Pacific Northwest spring, grass season coming, kids talking about summer ahead.
 
-**Prologue stays:** June / summer 1985 (Albany). Do not collapse present-day May into prologue time.
+**Prologue stays:** The murder happens Friday night, June 14, 1985, at the start of summer break in Albany. Jack wakes at the crime scene on Saturday morning, June 15. Do not collapse present-day May into prologue time.
+
+## Family Timeline (locked)
+
+- **April 18, 1971:** Jack is born.
+- **Fall 1979:** Mona leaves Frank after Jack has turned eight. Stephen is about 13.
+- **Summer 1980:** Mona marries James Price within a year of leaving Frank. Jack is nine and Stephen is about 14.
+- **March 1982:** Owen Price is born to Mona and James. Jack is nearly 11.
+- **Early September 1984:** Jack is sent to St. Aidan's at 13. Stephen is 18, Owen is about two and a half, and Mona and James have been married a little over four years.
+- **Friday, June 14, 1985:** The murder occurs at the start of summer break. Jack has been 14 for just under two months; Stephen is 19; Jennifer Weaver is 18; Owen is three. Mona and James have been married almost five years.
+- **Mid to late May 2019:** Present-day story. Jack is 48, Stephen is 53, and Owen is 37. Frank died in 2015, four years before the present.
+
+**Still unresolved:** When and how Mona's marriage to James ends, and James's status in the present day.
 
 ## Current Story Spine
 
@@ -28,7 +40,7 @@ Place names, hometown, present-day town, boarding school, and crime-scene geogra
 
 ## Prologue Function: The Aftermath Jack Remembers
 
-**Time:** Summer 1985. Jack has recently turned 14. The victim is 18, and Stephen is 19.
+**Time:** Saturday morning, June 15, 1985, after the murder on Friday night, June 14. Jack has been 14 for just under two months. The victim is 18, and Stephen is 19.
 
 **Narrative job:** Give the reader the external mystery and the original family trap before entering Jack's present-day ordinary world.
 
@@ -92,7 +104,7 @@ The prologue establishes the aftermath fragment Jack has always retained: he cam
 
 Jack believes being sent away is the source of his damage. He thinks the school is a place for delinquents, even though he had good grades, real gifts, and no serious trouble beyond fights with neighborhood bullies.
 
-**Household at the send-off:** Boarding school happens before the summer 1985 home visit and murder. When Jack is sent away, Mona is already with her second husband, James Price. Who stays home: Mona, James, Stephen, and baby Owen. Frank is not in that household. Owen is the child who gets kept; Jack is the child who gets sent away.
+**Household at the send-off:** Jack is sent away in early September 1984, before the summer 1985 home visit and murder. He is 13. Mona has been married to her second husband, James Price, for a little over four years. Who stays home: Mona, James, 18-year-old Stephen, and two-and-a-half-year-old Owen. Frank is not in that household. Owen is the child who gets kept; Jack is the child who gets sent away.
 
 **Structural purpose:** Gives Jack a true but incomplete explanation for himself.
 
