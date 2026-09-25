@@ -146,6 +146,20 @@
       "contentDigest": "7111d045eb52b797b5e2556a8e471b347b83effafb96eb9af173fe3012100f60",
       "providerUserMessageId": "aecf3f79-c7b0-4686-b65a-53e2c6753ae7",
       "providerAssistantMessageId": "037b1226-65f3-484f-86f7-b4230fb9e661"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790376705438-078uobg",
+      "userTurnOrdinal": 11,
+      "state": "accepted",
+      "localMessageId": "msg-1790376705431-afv2dzh",
+      "timestamp": 1790376705431,
+      "rawDisplayText": "Is there a sad Rolling Stones song that would hvave been recorded in the late 70s or early 80s?",
+      "canonicalText": "Is there a sad Rolling Stones song that would hvave been recorded in the late 70s or early 80s?",
+      "images": [],
+      "contentDigest": "3f178f4ff5e9ec2ef09ad091930c57f08c3e9d33596441089e5d1230b98bb394",
+      "providerUserMessageId": "754b2bcf-b9b2-4f3a-997b-a61603a5684a",
+      "providerAssistantMessageId": "8b03edd1-9aff-46da-9fa1-4e9b86776c49"
     }
   ]
 }

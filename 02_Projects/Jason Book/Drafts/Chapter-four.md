@@ -112,6 +112,22 @@ The inside of Oswald house reminded me of what a prison might look like. The flo
 
 "I've got the one on the left so take the other"
 
+[L22] I dropped my bags on the floor by my bed and followed Justin out. After a trip to the john and introductions to a bunch of guys on our floor it was time for dinner. I was starving and looking forward to food but dreading the experience of eating with a bunch of other people. I hate people watching me when I eat. 
+
+[L23] The mess hall is on the first floor of Cuthbert house. It reminded me of any school cafeteria with all of the tables, the high ceiling, the cement floor. We had arrived early enough that the line for food wasn't too long and the cafeteria hadn't completely filled up. 
+
+"Does everyone have to eat at the same time?" I asked.
+
+"Not really. Mess is open between 5:30 and 7:30 every night. All the kids in 5th grade or lower have to come at 5:30 but the rest of us can come whenever we want in that two hours."
+
+[L24] It was 5:35 and there were a lot of empty tables, which was a relief. Justin and I got our food and went and sat at a table as far away from the little kids as we could. The food wasn't bad. Chili, cornbread, and a salad. They had chocolate milk, milk, and water. I chose a chocolate milk. I ate faster than normal realizing I hadn't had anything since breakfast. Justin didn't try to talk to me at all while we ate. I liked that. 
+
+[L25] After eating, Justin invited me to go hang out in the dorm room of one of his friends, which was nice, but I was exhausted and anxious. I went back to our dorm room alone and put on my headset to listen to an old Rolling Stones cassette Stephen gave to me last Christmas. I thought it would help calm my nerves but it just made me want to go home. Not that home was that much better but at least I had my own bed and my bike and my friends there. 
+
+[L26] I
+
+
+
 
 
 
