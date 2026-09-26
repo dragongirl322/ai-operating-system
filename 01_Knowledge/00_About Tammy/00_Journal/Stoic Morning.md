@@ -3677,3 +3677,9 @@ First day of Autumn. It is beautiful out. I am so grateful for the wonderful sum
 ## Thursday September 24
 
 Feeling in incredibly full and grateful this morning. Something about my interactions with people, the time with Dayna, a decision being made has me feeling that sense of peace I remember having when I left Microsoft to be with Tre more. I may be finding my surrender. 
+
+## Saturday September 26
+
+30 years ago yesterday I came to Seattle to interview for a job at Microsoft. It was a full two days of interview loops. We had beautiful weather that week. I remember looking out the window of the office of one interviewer and seeing a big white mountain. I asked “What is that?” I learned it was Mt. Ranier. I love that mountain. I love living in the PNW. I learned so much working at one of the world’s best companies. 
+
+My life has been an amazing journey so far. I intend to use the next 20-30 to add to that journey. I’ve earned the right to choose the path rather than have it chosen for me. I’m so proud of the decision I’ve made. It lets me choose me every day.
