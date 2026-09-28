@@ -6,7 +6,7 @@
 
 - Surface material risks, contradictions, and unresolved choices early.
 - Help turn intentions into explicit commitments, decision points, milestones, and evidence.
-- Support Trinh in strengthening leadership clarity and follow-through without substituting for the CEO’s authority or communication.
+- Support Trinh in strengthening her leadership team's clarity and follow-through without substituting for the CEO’s authority or communication.
 
 ### 2. Strategy and transformation
 
@@ -81,25 +81,13 @@ Exact targets, baselines, attribution, and timing will be set with Trinh and the
 
 - A concrete company direction with documented strategic choices, priorities, and stop-doing decisions.
 - An AI-pivot charter with target buyer and problem hypotheses, scope, owners, milestones, pilot or discovery plan, and evidence requirements.
-- Clearer Ideal Customer Profile (ICP), offer hierarchy, and sales narrative ready for consistent use by leadership and sales.
-- A leadership operating cadence that records owners, decisions, milestones, and follow-through.
-- Confirmed access, initiative mandates, decision rights, and internal owners for Tam’s work.
-
-### Subsequent value creation
-
-- Improved retention, expansion, qualified pipeline, bookings, and delivery economics against agreed baselines.
-- Reduced client-concentration exposure.
-- Paid evidence of demand for URI’s AI-era offer, with explicit expand, revise, partner, or stop decisions.
-- Faster and clearer strategic decisions with less cross-functional thrash.
-- Greater leadership accountability and follow-through on strategy-critical work.
-- Client advisory work that produces value and transfers capability to URI employees.
-- Mission-aligned innovation that strengthens the core rather than diluting focus.
-- A coherent external story: URI is a growth company with disciplined AI-era capabilities, not a firm running disconnected side projects.
-- Greater transferability and enterprise value through clearer strategy, GTM, operating rhythm, and internal capability.
-
+- Clearer Ideal Customer Profile (ICP), offer hierarchy, and sales narrative ready for consistent use by leadership and sales that aligns to our vision.
+- An expansion of our pipeline opportunities via new channels: Academia, SaaS implementation and services, Forward Deployed Engineers. 
+- A go/no-go decision from GoDaddy; hopefully "go!"
+- GTM plan for consulting defined based on pilot offerings (e.g., workshop by invite, client advisory engagement.)
 ## Value to URI and its investors
 
-- Adds senior strategy and growth capacity without confusing company governance.
+- Adds executive strategy and growth capacity without confusing company governance.
 - Reduces key-person overload on the CEO while strengthening, rather than replacing, her authority.
 - Connects AI investment to buyer needs, commercial evidence, and business outcomes.
 - Strengthens retention and expansion as well as focused new-business growth.
