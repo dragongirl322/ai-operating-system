@@ -7,9 +7,9 @@ Role description · Tammy Snow
 
 Increase URI’s strategic clarity, growth quality, and execution capacity. Advise the CEO on where URI will play and how it will win; lead selected cross-functional strategic initiatives from diagnosis through decision and launch; and help transfer sustained execution to accountable URI leaders.
 
-The role is designed to create enterprise value through clearer strategy, stronger retention and expansion, more disciplined go-to-market, stronger leadership follow-through, and a credible AI-era commercial agenda that a prospective buyer can understand and diligence.
+The role is designed to create enterprise value through clearer strategy, stronger retention and expansion, more disciplined go-to-market, stronger leadership follow-through, and a credible AI-era commercial agenda that a prospective buyer can understand and assess. 
 
-AI is part of URI’s core growth strategy, not a separate initiative, lab, or business unit.
+AI is part of URI’s core growth strategy, not a separate initiative, lab, or business unit. (Note to self—not sure how this fits here)
 
 ## Partnership and engagement model
 

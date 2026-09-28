@@ -3683,3 +3683,11 @@ Feeling in incredibly full and grateful this morning. Something about my interac
 30 years ago yesterday I came to Seattle to interview for a job at Microsoft. It was a full two days of interview loops. We had beautiful weather that week. I remember looking out the window of the office of one interviewer and seeing a big white mountain. I asked “What is that?” I learned it was Mt. Ranier. I love that mountain. I love living in the PNW. I learned so much working at one of the world’s best companies. 
 
 My life has been an amazing journey so far. I intend to use the next 20-30 to add to that journey. I’ve earned the right to choose the path rather than have it chosen for me. I’m so proud of the decision I’ve made. It lets me choose me every day.
+
+## Monday September 28
+
+Today is the start of truly working with and for URI. I’m leading a vision workshop with Trinh, Justin, Shawn, Brooke. It will be informative. I’m curious to see the dynamic, particularly with Justin. 
+
+It is a beautiful fall morning. 
+
+I’m still very much working out how to reframe the new reality of my professional life. It would be complex and challenging, regardless. It is compounded by the AI dyanamic which is so damn noisy and full of contradictions. It is important to keep moving forward, exercising my growth mindset, and continuously learning. 
