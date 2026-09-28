@@ -4,7 +4,7 @@
 
 ### 1. CEO counsel and strategic judgment
 
-- Surface material risks, contradictions, and unresolved choices early.
+- Surface material risks, contradictions, and unresolved decisions early.
 - Help turn intentions into explicit commitments, decision points, milestones, and evidence.
 - Support Trinh in strengthening her leadership team's clarity and follow-through without substituting for the CEO’s authority or communication.
 
@@ -13,18 +13,17 @@
 - Partner with Trinh and the leadership team to clarify URI’s vision, strategic choices, ideal customers, offer priorities, and stop-doing decisions.
 - Help leadership translate approved strategy into priorities, owners, milestones, measures, and an operating rhythm.
 - Lead selected cross-functional strategic initiatives designated by Trinh through an agreed launch or transition milestone.
-- Review progress and surface decisions or dependencies that require CEO action.
+- Advice on progress and surface decisions or dependencies that require CEO action for key strategic initiatives. 
 
 ### 3. Growth-system coherence, including AI
 
-- Shape an integrated growth agenda across existing-client retention and expansion, new business, go-to-market, and AI-era positioning and offers.
+- Advice on an integrated growth agenda across existing-client retention and expansion, new business, go-to-market, and AI-era positioning and offers.
 - Ensure that target buyers, offers, messaging, pipeline creation, sales motion, and delivery reinforce the same strategy.
-- Support priority opportunities where senior strategic involvement can materially improve learning, trust, or commercial outcomes.
-- Preserve clear ownership: sales leadership owns pipeline and sales execution; delivery leadership owns staffing, quality, and sustained delivery.
+- Support priority opportunities where executive strategic involvement can materially improve learning, trust, or commercial outcomes.
 
 ### 4. Selected client advisory and capability building
 
-- Engage selectively with priority clients and prospects when doing so advances strategy, strengthens relationships, or tests a new offer.
+- Engage with priority clients and prospects when doing so advances strategy, strengthens relationships, or tests a new offer.
 - Help define and initially lead advisory consulting work that draws on my distinctive judgment and experience.
 - Make capability transfer explicit, and establish the milestone at which ongoing ownership transfers to URI; train the trainer model from the outset.
 
