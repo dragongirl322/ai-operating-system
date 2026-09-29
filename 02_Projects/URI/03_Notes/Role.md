@@ -21,7 +21,7 @@
 - Ensure that target buyers, offers, messaging, pipeline creation, sales motion, and delivery reinforce the same strategy.
 - Support priority opportunities where executive strategic involvement can materially improve learning, trust, or commercial outcomes.
 
-### 4. Selected client advisory and capability building
+### 4. Client advisory and capability building
 
 - Engage with priority clients and prospects when doing so advances strategy, strengthens relationships, or tests a new offer.
 - Help define and initially lead advisory consulting work that draws on my distinctive judgment and experience.
@@ -61,17 +61,6 @@ For initiatives Trinh explicitly assigns Tammy to lead, Tammy may:
 - Strengthen the integrated growth agenda across client retention and expansion, new business, GTM, and AI-era offers.
 - Drive contractual agreement with GoDaddy for Value Driver work with objective of ongoing engagement with them.
 
-## Operating requirements
-
-The role depends on:
-
-- Regular direct access to Trinh and a consistent CEO-advisor working cadence.
-- Timely access to relevant financial, pipeline, client-health, initiative, and operating information.
-- Participation from designated functional leaders and internal owners.
-- One communicated mandate for each strategic initiative, including its sponsor, scope, decision rights, and transition point.
-- Prompt CEO resolution of conflicting priorities, overlapping initiatives, or contested authority.
-- Periodic review of priorities, contribution, capacity, and role boundaries.
-
 ## Measures of success
 
 Exact targets, baselines, attribution, and timing will be set with Trinh and the appropriate finance, sales, and delivery leaders.
@@ -84,6 +73,16 @@ Exact targets, baselines, attribution, and timing will be set with Trinh and the
 - An expansion of our pipeline opportunities via new channels: Academia, SaaS implementation and services, Forward Deployed Engineers. 
 - A go/no-go decision from GoDaddy; hopefully "go!"
 - GTM plan for consulting defined based on pilot offerings (e.g., workshop by invite, client advisory engagement.)
+## Operating requirements
+
+The role depends on:
+
+- Regular direct access to Trinh and a consistent CEO-advisor working cadence.
+- Timely access to relevant financial, pipeline, client-health, initiative, and operating information.
+- Participation from designated functional leaders and internal owners.
+- One communicated mandate for each strategic initiative, including its sponsor, scope, decision rights, and transition point.
+- Prompt CEO resolution of conflicting priorities, overlapping initiatives, or contested authority.
+- Periodic review of priorities, contribution, capacity, and role boundaries.
 ## Value to URI and its investors
 
 - Adds executive strategy and growth capacity without confusing company governance.

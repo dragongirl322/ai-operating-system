@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790640044505-vc5udi0cx",
+  "providerId": "claude",
+  "title": "Find missing Role tab",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790640044512,
+  "lastActivityAt": 1790640059390,
+  "sessionId": "9325f0f6-d449-45d0-8a85-d713e075a040",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "9325f0f6-d449-45d0-8a85-d713e075a040"
+  },
+  "linkedContentPath": "02_Projects/URI/03_Notes/URI-Executive-Advisor-Strategy-Growth-role.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 20433,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 967000,
+    "contextTokens": 20435,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}

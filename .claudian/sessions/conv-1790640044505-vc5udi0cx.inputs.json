@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1790640044505-vc5udi0cx",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790640044525-oopidcu",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1790640044499-tvrvl0e",
+      "timestamp": 1790640044499,
+      "rawDisplayText": "I just had a tab opened called \"Role.\" Where did it go?",
+      "canonicalText": "I just had a tab opened called \"Role.\" Where did it go?",
+      "context": {
+        "linkedContent": {
+          "path": "02_Projects/URI/03_Notes/URI-Executive-Advisor-Strategy-Growth-role.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "51f472244d7867f9861ba7611c55f06663d5ffd43d62c2f6e49bf9c15e9e690e",
+      "providerUserMessageId": "56fd51e4-d929-4b23-95a3-e217e3dc4ed2",
+      "providerAssistantMessageId": "008f2b5d-8a28-4ffc-838c-ffbe4c8f9960"
+    }
+  ]
+}
