@@ -636,7 +636,7 @@ Summer is ended. I feel sadness for it and such gratitude that it was the summer
 
 I’m feeling solid right now. Having made a decision about where to focus my professional energy has me settled. There are some good challenges to solve. I’ve connected with friends from Expedia who are at GoDaddy and may bring them in as a URI client with big bonus of being able to work with Berea and Jen again. Saw Mel and Berea for lunch today, got to see Monica who is back from Mat leave. The team is sad and in a mess. Mel tells me there are layoffs next week and she was read in with an NDA today. Rough seas. I am here to support and will proactively reach out to some next week. 
 
-Tuesday September 29
+## Tuesday September 29
 
 Wow, took a gap here. Layoffs at Workday today and I hear RAD was hit hard, especially research. It has bothered me more than I like to admit. Something I built being so casually and carelessly dismantled by people who just don’t get it. But then again, that system never really did. I like to believe that I was consistently aware of how dire the situation was but I realize that my belief that we would ultimately be able to see the change we wanted was naive. That said, I am still proud of how I showed up in my relationships with others and how I led. 
 

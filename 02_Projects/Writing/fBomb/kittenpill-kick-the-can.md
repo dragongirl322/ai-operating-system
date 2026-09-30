@@ -6,7 +6,7 @@ Vault path: `/Users/tammysnow/tamknowledge/02_Projects/Writing/`
 
 ## Draft (Tam)
 
-I was twelve and lived in the lower class section of a small town. Every summer night, I met up with my best friend Jen and eight boys from the neighborhood including Sovine, Hume, and the Eikman brothers. We played a long string of night time kick the can.
+The can was always placed right in the middle of the intersection and the neighborhood teens were there and ready to play night time kick-the-can every night. I was twelve and lived in the lower class section of a small town. Every summer night, I met up with my best friend Jen and eight boys from the neighborhood including Sovine, Hume, and the Eikman brothers. We played a long string of night time kick the can.
 
 The rules were simple. The can was placed square in the middle of the intersection of four roads. Two people were “it” and counted to 100 while the rest hid. Hiding could be done in any front or back yard for a half block in each direction. The “it” pair could have someone remain close to the can but they couldn’t just stand there and had to walk at least 100 feet away throughout the game. Once the “it” pair caught all of the hiders, the first two caught became the new “it” pair. If someone kicked the can, all of those caught were free to hide again.
 

@@ -3691,3 +3691,7 @@ Today is the start of truly working with and for URI. I’m leading a vision wor
 It is a beautiful fall morning. 
 
 I’m still very much working out how to reframe the new reality of my professional life. It would be complex and challenging, regardless. It is compounded by the AI dyanamic which is so damn noisy and full of contradictions. It is important to keep moving forward, exercising my growth mindset, and continuously learning. 
+
+## Wednesday September 30
+
+The end of the month. Fall is here in reality and in weather. I’m embracing my long pants again. Today I will remember that what life is allowing me to receive is wisdom, resilience, patience, and a full heart. I have experienced an entire life of things I didn’t expect resulting in new and wonderful adventures and learning. 
