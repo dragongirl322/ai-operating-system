@@ -10,13 +10,13 @@ It was 1976, I was twelve and lived in the lower class section of a small town. 
 
 The rules were simple. The can was placed square in the middle of the intersection of four roads. Two people were “it” and counted to 100 while the rest hid. Hiding could be done in any front or back yard for a half block in each direction. The “it” pair could have someone remain close to the can but they couldn’t just stand there and had to walk at least 100 feet away throughout the game. Once the “it” pair caught all of the hiders, the first two caught became the new “it” pair. If someone kicked the can, all of those caught were free to hide again.
 
-The neighbors were amazingly accommodating. Probably because most of them knew us all. We had one night where one of the ladies saw one of the boys on the front porch and came out and loudly asked him if she could help him. He was promptly caught by the “it” pair. One of the pair saw him and ran to jump over the can.
+The neighbors didn’t seem to mind us. Probably because most of them knew us all. We had one night where one of the ladies saw one of the boys on the front porch and came out and loudly asked him if she could help him. He was promptly caught by the “it” pair. One of the pair saw him and ran to jump over the can.
 
 My favorite way to hide was to find a dark shadow at one of the corner houses where I could see the “it” pair and calculate the exact right time to run and kick the can. Even though Jen and I were the youngest of the crew, I was the champion kicker and was rarely caught.
 
-I’ve lost track of all of my kick the can friends. Sovine passed away a few years back. Jen was at my Dad’s funeral a couple of years ago and we said “hi, how are you?”
+Years later, I’ve lost track of all of my kick the can friends. Sovine passed away a few years back. Jen was at my Dad’s funeral a couple of years ago and we said “hi, how are you?”
 
-I loved that summer. It was a time of transition for me, shifting from being a kid to being a teen. From being a tomboy to embracing my girly side. If I could, I’d go play kick the can right now.
+I loved that summer.  If I could, I’d go play kick the can right now.
 
 ## Earlier raw (for context — summers / bikes / TP)
 
