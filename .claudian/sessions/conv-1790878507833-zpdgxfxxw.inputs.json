@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1790878507833-zpdgxfxxw",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790878507856-bzhw6cb",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1790878507825-6b7aeot",
+      "timestamp": 1790878507825,
+      "rawDisplayText": "Did I have you create a summary of this in deck or presentation format?",
+      "canonicalText": "Did I have you create a summary of this in deck or presentation format?",
+      "context": {
+        "linkedContent": {
+          "path": "02_Projects/URI/03_Notes/URI dynamics - summary and recommendations.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "e4aeb09392920454db42c58baf11373311ce70cfb023329d560f9b39769e8f92",
+      "providerUserMessageId": "283fdb0c-3132-42f2-b4c4-5acefb724250",
+      "providerAssistantMessageId": "92110544-96f0-4e9e-9fbf-815c3c46b6f8"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790878507833-zpdgxfxxw",
+  "providerId": "claude",
+  "title": "Verify previous presentation summary",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790878507838,
+  "lastActivityAt": 1790878526863,
+  "sessionId": "212da765-49ed-4447-83d6-124deb0744fe",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "212da765-49ed-4447-83d6-124deb0744fe"
+  },
+  "linkedContentPath": "02_Projects/URI/03_Notes/URI dynamics - summary and recommendations.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 10940,
+    "cacheReadInputTokens": 19693,
+    "contextWindow": 967000,
+    "contextTokens": 30635,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}
