@@ -128,3 +128,23 @@ The inside of Oswald House reminded me of what a prison might look like. The flo
 
 [L27] Justin came back eventually. He climbed into his bed and fell asleep almost right away, breathing heavy. I sat there and listened to him. I wanted someone to come get me. Nobody did.
 
+[L28] I sat there, staring at the light streaming through the blind of the window behind Dr. Moreno. My throat felt raw and dry. It was so quiet. I could hear the ticking of the clock sitting on Dr. Moreno's desk. 
+
+[L29] Finally Dr. Moreno broke the silence. "Waiting until Christmas must have felt like a long time."
+
+"It was. I still hate that she left me there like that. I wish I didn't."
+
+"It can be true that your mom abandoned you there. It can also be true that something in you was seen there."
+
+[L30] A part of me wanted to reject the idea that anything was good for me at St. Aidan's. It wasn't the first time my mom had abandoned me but it was the hardest. The thing is, Dr. Moreno was right. The music class at St. Aidan's is where I learned to be a legit guitar player, so at least it gave me that.
+
+[L31] "Would you be willing to keep exploring this with me, Jack?"
+
+"I'd like that," I said, meaning it. 
+
+[L32] There was something in me that felt a bit looser. For the first time in days my body didn't feel wound tight like a cord. I was actually feeling quite hungry and I hadn't had an appetite for a while. I wasn't sure if I was ready to keep remembering but I somehow knew I couldn't keep going with all of these thoughts about my past bombarding me all the time.
+
+[L33] I agreed to schedule a follow-up appointment for the next week. I was nervous that Dr. Moreno would push me to come back sooner than a week or schedule more weeks in a row but she didn't. I liked not being pushed by her. 
+
+[L34] I slid the appointment card from Dr. Moreno into my back pocket as I walked out the door to her office. Sunlight was streaming into the lobby through the large windows. I was tired but I wanted to get home to Simone and get something to eat.
+

@@ -23,7 +23,7 @@ Every other Tuesday. Draft in the week before. Publish morning PT.
 | Fri Sep 18 | Rec | #1 *BE 2.0* (Collins / Lazier) — *Never stifle a generous impulse* | Posted |
 | Tue Sep 22 | Leadership | Navigating fear and ambiguity (self) | |
 | Tue Oct 6 | Rec | #2 *Dare to Lead* (Brown) | |
-| Tue Oct 20 | Leadership | Mastery as an anchor | |
+| Tue Oct 20 | Leadership | AI as caregiver / cooperative peer | Draft ready |
 | Tue Nov 3 | Rec | #3 *Man's Search for Meaning* (Frankl) | |
 | Tue Nov 17 | Leadership | Leading others with humanity and care | |
 | Tue Dec 1 | Rec | #4 *Who Do We Choose to Be?* (Wheatley) | |
@@ -31,7 +31,7 @@ Every other Tuesday. Draft in the week before. Publish morning PT.
 | Tue Dec 29 | Rec | #5 *The Rise* (Lewis) | |
 | Tue Jan 12 | Leadership | Helping your team stay focused on growth in times of uncertainty | |
 | Tue Jan 26 | Rec | #6 *Meditations* (Aurelius) | |
-| Tue Feb 9 | Leadership | (TBD — keep leadership cadence) | |
+| Tue Feb 9 | Leadership | Mastery as an anchor (moved from Oct 20) | |
 | Tue Feb 23 | Rec | #7 *The Road Less Traveled* (Peck) | |
 
 Leadership order is self first, then the team. Don't reshuffle.
@@ -42,11 +42,11 @@ Rec #1 is Collins *BE 2.0* (reordered 2026-09-06). Brown moves to Rec #2. Peck s
 
 - Source draft for stream 1: `Drafts/Dealing with the shit.md`
 - Book list: `Substack book list.md`
-- Next draft window: ahead of Tue Oct 6 (*Dare to Lead*)
+- Next draft window: ahead of Tue Oct 6 (*Dare to Lead*); then Oct 20 AI caregiver (message Anne Contrera on LinkedIn before drafting)
+- Draft: `Drafts/AI as caregiver and cooperative peer.md`
 
 ## Fresh ideas (inbox)
 
 Unscheduled sparks. Append here. Do not put a date on them and do not edit the calendar table. Abby or Tam promotes an idea onto a Tuesday when it is ready.
 
 - **“I’ll never…”** (captured 2026-08-28) — Times I said I would never do a thing, then did it. Point: we don’t always know what we really want and need; sometimes the thing we thought we didn’t want is the best thing. Stay clear on the underlying values that did not move. Stance: help people find their own wisdom, don’t be the wise one. Kin to *What I’d Tell Early Me*.
-- **AI as caregiver / cooperative peer** (captured 2026-10-02) — Hinton’s maternal-instincts framing (Ai4 Aug 2025; CBC Ideas Feb 2026) as a leadership question: what metaphor should shape how we relate to smarter systems? Prefer caregiver and cooperative peer over “AI mothers.” Point: durable other-regarding care and joint welfare beat dominate-and-submit; report what Hinton said, who disagreed (Fei-Fei Li), adjacent care ethics / Cooperative AI, and caveats (agency, essentialism). Stance: help leaders find their own wisdom, don’t be the wise one.
