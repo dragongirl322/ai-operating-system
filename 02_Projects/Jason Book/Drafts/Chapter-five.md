@@ -38,7 +38,7 @@ Dad looked at him, shook his head then said "You shut your yap boy or you're nex
 
 [L12] The sense of relief I felt didn't last long. Within days I was being hit, kicked, spit on, yelled at by Stephen. Every fucking day there was something he came after me for. It seemed like everything I did was a reason to hurt me. Chewing my cereal in the morning. Writing my math problems doing homework. Walking to the bathroom to piss. Asking mom if I could do anything for her. Every goddamn day I was getting it from him. In some ways, it was worse than when dad was here because at least dad had to go to work. Stephen was home when I was home.
 
-[L13]
+[L13] This went on and on and on then one day at the start of summer, a lady showed up at our house. 
 
 [L10]
 
@@ -47,3 +47,29 @@ Dad looked at him, shook his head then said "You shut your yap boy or you're nex
 [L10]
 
 [L10]
+
+### Beat 9: The Caseworker Comes
+
+After Mona and Frank's divorce becomes final in spring 1979, a caseworker arrives. Jack is eight and is told to gather his things. The adults use language such as "temporary," "for now," or "until things settle down," but no one gives Jack a reason he can understand.
+
+Mona knows the removal is coming. Whether she has packed anything for Jack, avoids his eyes, or offers a practical explanation can be selected during drafting. The scene should not reveal whether Mona requested the placement or merely accepted it.
+
+**Jack's internal shift:** He searches the adults' faces for an explanation and finds only a decision that has already been made.
+
+**Story function:** Turns an administrative act into the sequence's central abandonment. Jack is acted upon without being told what truth the adults believe about him.
+
+### Beat 10: Stephen Stays
+
+Stephen is not packing. No one is taking him. Jack may ask why or may be too frightened to form the question aloud, but the unequal outcome becomes the part he cannot release.
+
+**Jack's internal shift:** Instead of asking what is wrong with the family, Jack begins asking what is wrong with him.
+
+**Story function:** Establishes the core question that will echo through St. Aidan's and the murder accusation: why is Stephen allowed to belong while Jack is removed?
+
+### Beat 11: Temporary Becomes A Threat
+
+The adults present foster care as temporary reassurance. Jack hears that his place in the family has conditions he does not understand and cannot control.
+
+**Jack's internal shift:** He begins treating obedience as a strategy for being allowed to return.
+
+**Story function:** Creates the false survival rule that will govern the rest of the sequence: if Jack can be good enough, quiet enough, and useful enough, someone may keep him.
