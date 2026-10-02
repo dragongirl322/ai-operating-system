@@ -19,8 +19,13 @@ Place names, hometown, present-day town, boarding school, and crime-scene geogra
 ## Family Timeline (locked)
 
 - **April 18, 1971:** Jack is born.
-- **Fall 1979:** Frank leaves Mona for another woman after Jack has turned eight. Stephen is about 13.
-- **Summer 1980:** Mona marries James Price within a year of Frank leaving her. Jack is nine and Stephen is about 14.
+- **Fall 1978:** Frank leaves Mona for another woman. Jack is seven and Stephen is about 12. Mona remains with the boys in the same Albany family home.
+- **After Frank leaves:** Stephen increasingly assumes Frank's authority inside the house and becomes Jack's primary abuser.
+- **Spring 1979:** Mona and Frank's divorce becomes final after Jack's April birthday. Jack is eight and Stephen is about 13.
+- **Early summer 1979:** The state removes eight-year-old Jack while Stephen remains with Mona. Jack enters the Mercer foster home.
+- **Late summer 1979 to early spring 1980:** After the Mercer placement ends, Jack spends approximately six months in Salt Lake City with Frank and Frank's new wife.
+- **Spring 1980:** Jack returns to Mona, Stephen, and the same Albany house. James is already present in Mona's life and receiving much of her attention.
+- **Summer 1980:** Mona marries James Price. Jack is nine and Stephen is about 14. James joins Mona in the existing Albany family home.
 - **March 1982:** Owen Price is born to Mona and James. Jack is nearly 11.
 - **Early September 1984:** Jack is sent to St. Aidan's at 13. Stephen is 18, Owen is about two and a half, and Mona and James have been married a little over four years.
 - **Friday, June 14, 1985:** The murder occurs at the start of summer break. Jack has been 14 for just under two months; Stephen is 19; Jennifer Weaver is 18; Owen is three. Mona and James have been married almost five years.
@@ -102,7 +107,7 @@ Act I is not yet about Jack solving the murder. It is about Jack beginning to un
 
 **Central question:** Why was Jack always the child who got sent away while Stephen got to stay?
 
-**Movement:** After Leah's session, Jack and Simone go out to eat. From a booth beside the window, Jack hears and sees a Honda like Frank's pull up outside. The motorcycle triggers memories of Frank's genuine moments of fun and the violence that defined the household; Frank leaving Mona for another woman; the state removing Jack while Stephen remains; Jack's conditional shelter with the Mercers; Lisa and Debbie blaming him for an incident involving Ray's project car; and Jack being sent to live with Frank and his new wife in Salt Lake City. Frank's Honda is still there, briefly awakening hope before the beatings resume. After roughly six months, Jack returns to Mona and Stephen, but Mona's attention is already centered on James Price.
+**Movement:** After Leah's session, Jack and Simone go out to eat. From a booth beside the window, Jack hears and sees a Honda like Frank's pull up outside. The motorcycle triggers memories of Frank's genuine moments of fun and the violence that defined the household; Frank leaving the Albany home for another woman; Stephen assuming Frank's authority and becoming Jack's primary abuser; the divorce becoming final; the state removing Jack while Stephen remains; Jack's conditional shelter with the Mercers; Lisa and Debbie blaming him for an incident involving Ray's project car; and Jack being sent to live with Frank and his new wife in Salt Lake City. Frank's Honda is still there, briefly awakening hope before the beatings resume. After roughly six months, Jack returns to the same Albany house, but Mona's attention is already centered on James Price.
 
 **Turn:** Jack remembers how grateful he was that Mona took him back, even though no one explained why she let the state take him or why Stephen was allowed to stay. He silently decides that remaining home depends on being good enough not to be sent away again.
 
@@ -122,7 +127,7 @@ Jack believes being sent away is the source of his damage. He thinks the school 
 
 ### Phase 2: The Earlier Abandonment Pattern
 
-**Focus:** Frank's violence, the first foster placement, the Mercer accusation, six months with Frank in Salt Lake City, and Jack's return to Mona.
+**Focus:** Frank's violence, Stephen's succession as Jack's primary abuser, the first foster placement, the Mercer accusation, six months with Frank in Salt Lake City, and Jack's return to Mona and the same Albany house.
 
 After Leah's session, a Honda like Frank's triggers the earlier memory sequence outside therapy. Jack begins to understand that St. Aidan's was not the first time he was designated as the child who could be removed while Stephen remained inside the family.
 

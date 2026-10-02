@@ -210,7 +210,7 @@ Jack leaving Leah Moreno's office with the next appointment card or reminder in 
 
 ## Next Sequence Direction
 
-The next movement should happen outside therapy. While Jack and Simone eat at a restaurant after the session, the sound and sight of a Honda like Frank's triggers the earlier abandonment beneath the St. Aidan's wound: Frank's mixture of affection and violence, Frank leaving Mona, Jack's first foster placement while Stephen remains home, the Mercer accusation, six months with Frank in Salt Lake City, and Jack's relieved return to Mona.
+The next movement should happen outside therapy. While Jack and Simone eat at a restaurant after the session, the sound and sight of a Honda like Frank's triggers the earlier abandonment beneath the St. Aidan's wound: Frank's mixture of affection and violence, Frank leaving the Albany family home, Stephen taking over as Jack's primary abuser, Jack's first foster placement while Stephen remains home, the Mercer accusation, six months with Frank in Salt Lake City, and Jack's relieved return to Mona and the same Albany house.
 
 After that sequence, the story can return to boarding-school memories that were not only painful: the first teacher who noticed Jack's science mind, an art room that smelled like paint and turpentine, a music room where he first felt competent, or a boy who became a friend. The point is not to redeem the abandonment, but to complicate Jack's certainty that nothing good happened there.
 

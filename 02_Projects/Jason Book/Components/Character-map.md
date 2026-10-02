@@ -50,7 +50,7 @@ The opposing force argues that forgetting is mercy, silence is loyalty, and the 
 
 **Status:** Deceased in 2015, four years before the present-day story.
 
-**Family timeline:** Frank leaves Mona for another woman in fall 1979, after Jack has turned eight. Frank is not part of Mona and James Price's household when Jack is sent to St. Aidan's in 1984 or when Jack returns in the summer of 1985.
+**Family timeline:** Frank leaves Mona for another woman in fall 1978, when Jack is seven and Stephen is about 12. Mona remains with the boys in the same Albany house. Mona and Frank's divorce becomes final in spring 1979, after Jack turns eight. Frank is not part of Mona and James Price's household when Jack is sent to St. Aidan's in 1984 or when Jack returns in the summer of 1985.
 
 **Core identity:** Blue-collar successful businessman who ran a small construction business and treated work, toughness, and control as measures of human worth.
 
@@ -72,11 +72,11 @@ The opposing force argues that forgetting is mercy, silence is loyalty, and the 
 
 **Role:** Antagonist. Jack's older brother.
 
-**Age:** 53 in the present-day story, five years older than Jack. Born in 1966. Stephen is about 13 when Frank leaves Mona, 18 when Jack is sent to St. Aidan's, and 19 when the murder occurs on June 14, 1985. He is one year older than the 18-year-old victim; Jack has recently turned 14.
+**Age:** 53 in the present-day story, five years older than Jack. Born in 1966. Stephen is about 12 when Frank leaves Mona in fall 1978, about 13 when the divorce becomes final and Jack enters foster care in 1979, 18 when Jack is sent to St. Aidan's, and 19 when the murder occurs on June 14, 1985. He is one year older than the 18-year-old victim; Jack has recently turned 14.
 
 **Core identity:** Polished, charismatic, successful businessman who inherited the family system's authority and uses respectability as cover.
 
-**Backstory:** Stephen participated in abusing Jack as a child. Their father favored Stephen and taught him how to dominate, humiliate, and control. Stephen is also the actual killer in the old murder case and raped Jack.
+**Backstory:** Stephen participated in abusing Jack as a child. Their father favored Stephen and taught him how to dominate, humiliate, and control. After Frank leaves the Albany home in fall 1978, Stephen increasingly assumes his father's authority and becomes Jack's primary abuser. That succession becomes essential context for the later recovered memory that Stephen raped Jack. Stephen is also the actual killer in the old murder case.
 
 **Adult life:** Stephen owns three successful used car lots in the greater Seattle area. He opened his first lot in 2005 and has built a strong local reputation. He has never married or had children and is a bit of a player. He donates generously to local charities and promotes that giving both as part of his business and as proof of his character.
 
@@ -151,7 +151,7 @@ The opposing force argues that forgetting is mercy, silence is loyalty, and the 
 
 **Backstory:** Mona was abused by Jack and Stephen's father and later by her second husband, James Price. She presents as weak, incapable, and dependent, but she has also caused deep harm through manipulation and cruel remarks.
 
-**Marriage and family timeline:** Frank leaves Mona for another woman in fall 1979, when Jack is eight. Mona marries James Price in summer 1980. Owen is born in March 1982. By the time Mona and James send Jack to St. Aidan's in September 1984, they have been married a little over four years; by the June 1985 murder, they have been married almost five years. When and how this marriage ends remains unresolved.
+**Marriage and family timeline:** Frank leaves Mona for another woman in fall 1978, when Jack is seven. Mona remains with Stephen and Jack in the same Albany house. The divorce becomes final in spring 1979, after Jack turns eight. James is already present in Mona's life when Jack returns from six months with Frank in spring 1980, and Mona marries James in summer 1980. James joins her in the existing Albany house. Owen is born in March 1982. By the time Mona and James send Jack to St. Aidan's in September 1984, they have been married a little over four years; by the June 1985 murder, they have been married almost five years. When and how this marriage ends remains unresolved.
 
 **Relationship to Jack:** Mona is the one person from Jack's childhood who showed any care for him, usually through music. She influenced his taste in music and was a piano player. At the same time, she undermined Jack's sense of self and safety with covert cruelty, emotional manipulation, and cutting remarks.
 
@@ -173,7 +173,7 @@ The opposing force argues that forgetting is mercy, silence is loyalty, and the 
 
 **Role:** Mona's second husband and Jack's stepfather.
 
-**Family timeline:** James marries Mona in summer 1980, within a year of Frank leaving her. Owen is born in March 1982. James has been Jack's stepfather for a little over four years when Jack is sent to St. Aidan's and almost five years when the murder occurs.
+**Family timeline:** James is already involved with Mona by spring 1980, when Jack returns from Salt Lake City. Mona fawns over James and directs much of her attention toward him at the cost of reconnecting with Jack. James marries Mona in summer 1980 and joins her in the existing Albany family home. Owen is born in March 1982. James has been Jack's stepfather for a little over four years when Jack is sent to St. Aidan's and almost five years when the murder occurs.
 
 **Core identity:** Ordinary, violent man whose home briefly appeared to offer shelter and then became another site of expulsion.
 
@@ -221,7 +221,7 @@ The opposing force argues that forgetting is mercy, silence is loyalty, and the 
 
 ### Ray and Carol Mercer
 
-**Role:** Jack's foster parents during his first foster placement, shortly after Frank leaves Mona and the state removes eight-year-old Jack while allowing Stephen to remain with Mona.
+**Role:** Jack's foster parents during his first foster placement after Mona and Frank's divorce becomes final in spring 1979. The state removes eight-year-old Jack while allowing Stephen to remain with Mona in the Albany family home.
 
 **Household:** Ray and Carol live with their biological daughters, twelve-year-old Lisa and ten-year-old Debbie. Jack is the only foster child in the home and understands immediately that the girls belong there in a way he does not.
 
@@ -318,6 +318,8 @@ The opposing force argues that forgetting is mercy, silence is loyalty, and the 
 **Stephen Tate:** Favored son and apprentice to the father's abuse; later inheritor of control.
 
 **Jack Tate:** Designated damage, target, scapegoat, and unreliable witness.
+
+**Succession after Frank leaves:** Stephen assumes Frank's authority inside the Albany home and becomes Jack's primary abuser, while Mona fails to interrupt the transfer of power.
 
 ### Second Household
 

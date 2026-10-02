@@ -20,10 +20,13 @@ Working place bible for Jason Book. Keep this thin and answerable. Do not pull n
 
 **Town where Jack and Stephen grew up (locked):** Albany, Oregon — Willamette Valley mill/valley town; ~4–4.5 hours one way to St. Aidan's in Juniper Springs (day drive possible, long).
 
+**Family home (locked):** Mona and Frank begin the story's family history in the same Albany house. Mona remains in that house after Frank leaves for another woman in fall 1978. Jack is removed from and later returned to this house; James is already present in Mona's life when Jack returns and lives there with Mona after they marry in summer 1980. The same house remains Jack's family-home reference through his departure for St. Aidan's and his summer 1985 return. Preserving one house lets safety, abuse, removal, return, and replacement accumulate in a single remembered place.
+
 **Notes:**
 - Local newspaper ran *Free, But Not Cleared* after the 1985 case (Albany / valley paper, not Seattle)
 - Murder night / prologue church: same town — Albany
 - Present-day geography: Jack (and Stephen's lots) are in greater Seattle; childhood and the 1985 crime stay in Albany. They left. They did not reinvent the hometown as Seattle.
+- Do not import Brunswick, Kentucky, Oneida, or other biographical locations from Research Notes into Jack's fiction canon. Albany is the continuous childhood hometown unless deliberately revised here.
 
 ## Boarding School
 

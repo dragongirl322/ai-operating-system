@@ -8,7 +8,7 @@ Why was Jack always the child who got sent away while Stephen got to stay?
 
 ## Sequence Job
 
-This sequence answers Jack's recognition that St. Aidan's was not the first time Mona abandoned him. The session with Leah has loosened something, and an ordinary present-day encounter with a Honda like Frank's pulls Jack into the earlier family history he has kept fragmented: Frank's unpredictable mixture of affection and violence, Frank leaving Mona for another woman, the state removing Jack while Stephen remains, Jack's first foster placement, the false accusation that ends it, six months with Frank in Salt Lake City, and Jack's relieved return to Mona.
+This sequence answers Jack's recognition that St. Aidan's was not the first time Mona abandoned him. The session with Leah has loosened something, and an ordinary present-day encounter with a Honda like Frank's pulls Jack into the earlier family history he has kept fragmented: Frank's unpredictable mixture of affection and violence, Frank leaving the Albany family home for another woman, Stephen assuming Frank's authority and becoming Jack's primary abuser, the state removing Jack while Stephen remains, Jack's first foster placement, the false accusation that ends it, six months with Frank in Salt Lake City, and Jack's relieved return to Mona and the same Albany house.
 
 The sequence should not become a catalogue of childhood abuse. Its job is to reveal the original rule Jack learned about belonging: adults decide whether he gets to remain in a family, other people's accounts of him carry more authority than his own, and being allowed to come home feels like love even when no one explains why he was sent away.
 
@@ -16,11 +16,14 @@ The deeper turn is that Jack remembers being grateful to Mona for taking him bac
 
 ## Timeline Anchor
 
-- **Fall 1979:** Frank leaves Mona for another woman. Jack is eight and Stephen is about thirteen.
-- **Shortly afterward:** The state removes Jack and places him with Ray and Carol Mercer. Stephen remains with Mona. The reason for that unequal decision remains unknown to Jack and should remain unresolved for the reader in this sequence.
+- **Fall 1978:** Frank leaves Mona for another woman. Jack is seven and Stephen is about twelve. Mona remains with both boys in the same Albany family home.
+- **After Frank leaves:** Stephen increasingly assumes Frank's authority inside the house and becomes Jack's primary abuser.
+- **Spring 1979:** Mona and Frank's divorce becomes final after Jack's April birthday. Jack is eight and Stephen is about thirteen.
+- **Early summer 1979:** The state removes Jack and places him with Ray and Carol Mercer. Stephen remains with Mona in the Albany house. The reason for that unequal decision remains unknown to Jack and should remain unresolved for the reader in this sequence.
 - **After the Mercer placement ends:** Jack is sent to Salt Lake City to live with Frank and the woman Frank left Mona for.
-- **Approximately six months later:** Jack is allowed to return to Mona and Stephen. James Price is already present in Mona's life and receiving much of her attention.
-- **Summer 1980:** Mona marries James. The exact legal date of Mona and Frank's divorce remains to be selected if the story needs it.
+- **Late summer 1979 to early spring 1980:** Jack lives with Frank and his new wife for approximately six months. Frank's Honda is still there, and the beatings resume.
+- **Spring 1980:** Jack is allowed to return to Mona, Stephen, and the same Albany house. James Price is already present in Mona's life and receiving much of her attention.
+- **Summer 1980:** Mona marries James. James joins her in the existing Albany family home.
 
 ## Core Tracks
 
@@ -28,7 +31,7 @@ The deeper turn is that Jack remembers being grateful to Mona for taking him bac
 
 **Attachment track:** Frank could be fun, and Jack genuinely loved him. Mona's taking Jack back genuinely feels like rescue. The sequence preserves those attachments while showing how affection and relief kept Jack bonded to people who did not protect him.
 
-**Power track:** Frank rules through overt violence. The state moves Jack without giving him an explanation. The Mercers decide whether he belongs. Lisa and Debbie's protected status makes their story more credible than his. Mona's attention to James tells Jack that even his return home does not make him central.
+**Power track:** Frank rules through overt violence, and Stephen learns from him. After Frank leaves, Stephen assumes his father's authority and becomes Jack's primary abuser. The state then moves Jack without giving him an explanation while leaving Stephen in the family home. The Mercers decide whether Jack belongs. Lisa and Debbie's protected status makes their story more credible than his. Mona's attention to James tells Jack that even his return home does not make him central.
 
 **Memory track:** A pleasant memory opens the door to more dangerous material. Jack does not recover a hidden factual solution; he reconnects experiences he has kept emotionally separate.
 
@@ -90,17 +93,25 @@ Stephen is also harmed, but Frank favors him and punishes him less severely. Ste
 
 ### Beat 7: Frank Leaves For Another Woman
 
-Frank finally leaves the household, but not because Mona decides she has had enough of the abuse. He runs off with another woman. Jack later wishes Mona had chosen to protect them, but at eight he mainly understands that Frank has selected another life.
+Frank finally leaves the Albany house, but not because Mona decides she has had enough of the abuse. He runs off with another woman. Mona remains in the house with Stephen and Jack. Jack later wishes Mona had chosen to protect them, but at seven he mainly understands that Frank has selected another life.
 
 **Jack's internal shift:** The end of the immediate violence brings relief, but the relief is contaminated by rejection. Even escape arrives because someone chose to leave Jack.
 
 **Story function:** Makes the family breakup an abandonment rather than a rescue and prepares Jack to interpret later removals as judgments about his worth.
 
+### Beat 8: Stephen Takes Frank's Place
+
+In the months after Frank leaves, Stephen increasingly assumes his father's authority inside the house. His abuse of Jack becomes more frequent and more central to the household. Mona does not interrupt the transfer of power. This sequence should establish Stephen as Jack's primary abuser without yet surfacing the later memory that Stephen raped him.
+
+**Jack's internal shift:** Jack realizes that Frank's departure has not ended the regime. The person enforcing it now lives in the next room and is allowed to remain.
+
+**Story function:** Shows that Stephen does not merely resemble Frank in adulthood; he actively inherits Frank's place in Jack's childhood. It also sharpens the later removal: the state takes Jack away while leaving his primary abuser in the family home.
+
 ## Scene 3: The State Removes Jack
 
-### Beat 8: The Caseworker Comes
+### Beat 9: The Caseworker Comes
 
-Soon after Frank leaves, a caseworker arrives. Jack is told to gather his things. The adults use language such as "temporary," "for now," or "until things settle down," but no one gives Jack a reason he can understand.
+After Mona and Frank's divorce becomes final in spring 1979, a caseworker arrives. Jack is eight and is told to gather his things. The adults use language such as "temporary," "for now," or "until things settle down," but no one gives Jack a reason he can understand.
 
 Mona knows the removal is coming. Whether she has packed anything for Jack, avoids his eyes, or offers a practical explanation can be selected during drafting. The scene should not reveal whether Mona requested the placement or merely accepted it.
 
@@ -108,7 +119,7 @@ Mona knows the removal is coming. Whether she has packed anything for Jack, avoi
 
 **Story function:** Turns an administrative act into the sequence's central abandonment. Jack is acted upon without being told what truth the adults believe about him.
 
-### Beat 9: Stephen Stays
+### Beat 10: Stephen Stays
 
 Stephen is not packing. No one is taking him. Jack may ask why or may be too frightened to form the question aloud, but the unequal outcome becomes the part he cannot release.
 
@@ -116,7 +127,7 @@ Stephen is not packing. No one is taking him. Jack may ask why or may be too fri
 
 **Story function:** Establishes the core question that will echo through St. Aidan's and the murder accusation: why is Stephen allowed to belong while Jack is removed?
 
-### Beat 10: Temporary Becomes A Threat
+### Beat 11: Temporary Becomes A Threat
 
 The adults present foster care as temporary reassurance. Jack hears that his place in the family has conditions he does not understand and cannot control.
 
@@ -126,7 +137,7 @@ The adults present foster care as temporary reassurance. Jack hears that his pla
 
 ## Scene 4: The Mercer House
 
-### Beat 11: A Safer House That Is Not A Home
+### Beat 12: A Safer House That Is Not A Home
 
 Jack arrives at Ray and Carol Mercer's home. Their biological daughters, twelve-year-old Lisa and ten-year-old Debbie, already know the routines, the rooms, and one another. Jack is the only foster child and immediately recognizes that everyone else is permanent.
 
@@ -134,7 +145,7 @@ Jack arrives at Ray and Carol Mercer's home. Their biological daughters, twelve-
 
 **Story function:** Establishes the sequence's painful standard of safety: the absence of beating can feel like relief even when care and belonging are absent.
 
-### Beat 12: Carol's Conditional Care
+### Beat 13: Carol's Conditional Care
 
 Carol feeds and houses Jack but treats his needs as inconvenience. She criticizes his eating, clothes, manners, questions, or need for reassurance. Her words make him feel greedy, dirty, difficult, or ungrateful for occupying space in her home.
 
@@ -142,7 +153,7 @@ Carol feeds and houses Jack but treats his needs as inconvenience. She criticize
 
 **Story function:** Shows how neglect and verbal cruelty continue the family's designation of Jack as the problem without repeating Frank's form of abuse.
 
-### Beat 13: Ray And The Garage
+### Beat 14: Ray And The Garage
 
 Ray is frequently away and emotionally absent when home. He spends most of his available time in the garage working on his project car. The car receives care, patience, and focused attention that no child in the house receives from him.
 
@@ -150,7 +161,7 @@ Ray is frequently away and emotionally absent when home. He spends most of his a
 
 **Story function:** Establishes the object and space that will later become the basis for Jack's removal.
 
-### Beat 14: Lisa And Debbie Let Him Play
+### Beat 15: Lisa And Debbie Let Him Play
 
 The girls tease Jack, call him names, and remind him that he is not really part of the family. At other times they let him join their games. Those moments matter to Jack because inclusion, however conditional, feels like evidence that he may be learning how to belong.
 
@@ -160,7 +171,7 @@ The girls tease Jack, call him names, and remind him that he is not really part 
 
 ## Scene 5: The Garage Accusation
 
-### Beat 15: The Girls Invite Jack In
+### Beat 16: The Girls Invite Jack In
 
 Lisa and Debbie bring Jack into Ray's forbidden garage and involve him in taking the keys to the project car so they can sit inside and play with it. Jack knows they are breaking a rule but agrees because the girls have chosen him as part of their group.
 
@@ -168,7 +179,7 @@ Lisa and Debbie bring Jack into Ray's forbidden garage and involve him in taking
 
 **Story function:** Gives Jack meaningful but limited responsibility. He is not wholly innocent, which makes the later false account harder for him to contest.
 
-### Beat 16: Something Happens To The Car
+### Beat 17: Something Happens To The Car
 
 The battery dies, a control breaks, the paint is scratched, or some other damage occurs. The exact mechanical consequence remains open for drafting, but it must be serious enough to provoke Ray and ordinary enough that all three children could plausibly have caused it together.
 
@@ -176,7 +187,7 @@ The battery dies, a control breaks, the paint is scratched, or some other damage
 
 **Story function:** Converts Jack's desire for inclusion into the event that threatens his belonging.
 
-### Beat 17: The Protected Children Are Believed
+### Beat 18: The Protected Children Are Believed
 
 Lisa and Debbie tell Carol and Ray that the incident was Jack's idea and deny or minimize their own participation. Jack admits enough involvement to sound guilty but cannot make the adults believe the rest. Ray shows more anger and concern about the damaged car than he has shown toward Jack.
 
@@ -184,7 +195,7 @@ Lisa and Debbie tell Carol and Ray that the incident was Jack's idea and deny or
 
 **Story function:** Establishes an early version of the novel's larger accusation pattern: Jack is present, somewhat compromised, unable to prove the whole truth, and easier to blame than the protected people around him.
 
-### Beat 18: The Mercers Reject Him
+### Beat 19: The Mercers Reject Him
 
 Carol and Ray tell the agency they no longer want Jack in their home. Their decision may be framed as concern, incompatibility, or Jack needing more than they can provide, but Jack experiences the essential fact: one incident is enough to make him disposable.
 
@@ -194,7 +205,7 @@ Carol and Ray tell the agency they no longer want Jack in their home. Their deci
 
 ## Scene 6: Salt Lake City
 
-### Beat 19: The State Sends Jack To Frank
+### Beat 20: The State Sends Jack To Frank
 
 The next placement is with Frank and the woman for whom he left Mona. Jack is sent to Salt Lake City without understanding why the same adults who removed him from Mona believe Frank is a safe destination.
 
@@ -202,7 +213,7 @@ The next placement is with Frank and the woman for whom he left Mona. Jack is se
 
 **Story function:** Shows the system repeating the family's failure: relocation is substituted for protection.
 
-### Beat 20: The Honda Is Still There
+### Beat 21: The Honda Is Still There
 
 Frank's Honda is at the new home. Seeing it gives Jack a flash of hope that the fun father still exists and that the version of their relationship he loved might be recoverable.
 
@@ -210,7 +221,7 @@ Frank's Honda is at the new home. Seeing it gives Jack a flash of hope that the 
 
 **Story function:** Pays off the present-day trigger and brings the memory's affectionate and violent sides of Frank back together.
 
-### Beat 21: False Hope
+### Beat 22: False Hope
 
 Frank may initially appear pleased to have Jack or offer a small moment of attention connected to the Honda, fishing, tools, or another familiar activity. Jack wonders whether separation has changed him.
 
@@ -218,7 +229,7 @@ Frank may initially appear pleased to have Jack or offer a small moment of atten
 
 **Story function:** Prevents the Salt Lake section from becoming a predictable return to violence and shows why Jack continues seeking connection with Frank.
 
-### Beat 22: The Beatings Resume
+### Beat 23: The Beatings Resume
 
 Frank's violence returns. One representative incident should carry this movement rather than a catalogue. The important discovery is not that Frank is capable of beating Jack; Jack already knows that. It is that being officially sent to Frank has not made Frank safer or Jack more protected.
 
@@ -226,7 +237,7 @@ Frank's violence returns. One representative incident should carry this movement
 
 **Story function:** Collapses the false hope that authority, distance, or a new household can transform the original regime.
 
-### Beat 23: Frank's New Wife Does Not Protect Him
+### Beat 24: Frank's New Wife Does Not Protect Him
 
 The woman Frank left Mona for witnesses enough to understand the danger but does not intervene in a way that makes Jack safe. She may minimize, withdraw, or accept Frank's version of discipline.
 
@@ -236,7 +247,7 @@ The woman Frank left Mona for witnesses enough to understand the danger but does
 
 ## Scene 7: Return To Mona
 
-### Beat 24: Jack Is Told He Can Go Home
+### Beat 25: Jack Is Told He Can Go Home
 
 After approximately six months, Jack is told that he can return to Mona. Once again, the decision arrives without a complete explanation of what has changed or why he is now acceptable.
 
@@ -244,23 +255,23 @@ After approximately six months, Jack is told that he can return to Mona. Once ag
 
 **Story function:** Makes the return feel emotionally like rescue while preserving the fact that Jack still has no agency or account of his own life.
 
-### Beat 25: Mona And Stephen Are Still A Family
+### Beat 26: Mona And Stephen Are Still A Family
 
-Jack returns to Mona and Stephen. Their shared routines have continued without him. Jack is grateful to be allowed back and alert for any sign that he could be removed again.
+Jack returns to Mona, Stephen, and the same Albany house from which he was removed. The rooms are familiar, but their shared routines have continued without him. Jack is grateful to be allowed back and alert for any sign that he could be removed again.
 
 **Jack's internal shift:** He experiences re-entry as a privilege rather than a right.
 
 **Story function:** Reinforces that Stephen's uninterrupted belonging has made him more central while Jack has become provisional.
 
-### Beat 26: James Is Already There
+### Beat 27: James Is Already There
 
-James Price is lightly introduced as the man receiving Mona's attention. Mona fawns over him, listens closely to him, or performs happiness for him while giving Jack only partial attention during his return. James does not need to be openly threatening yet. His presence matters because Mona's emotional energy is already organized around keeping another man.
+James Price is lightly introduced as the man receiving Mona's attention. Mona fawns over him, listens closely to him, or performs happiness for him while giving Jack only partial attention during his return. James does not need to be openly threatening yet. His presence matters because Mona's emotional energy is already organized around keeping another man, and he will soon join her in the same house where Frank and Stephen established the family's abuse.
 
 **Jack's internal shift:** Jack is happy to be home and simultaneously aware that returning has not restored the family he imagined.
 
 **Story function:** Plants the next household regime without pulling focus away from Jack's first foster-care memory.
 
-### Beat 27: Jack Promises Himself He Will Be Good
+### Beat 28: Jack Promises Himself He Will Be Good
 
 No one explains why Jack was taken, why Stephen stayed, or why Jack is being returned. Jack does not demand answers. He silently decides that he will be less difficult, need less, and do whatever is required to remain.
 
@@ -270,7 +281,7 @@ No one explains why Jack was taken, why Stephen stayed, or why Jack is being ret
 
 ## Scene 8: Back In The Restaurant
 
-### Beat 28: Simone Brings Him Back
+### Beat 29: Simone Brings Him Back
 
 The memory releases Jack into the restaurant. Simone may say his name, ask whether he is all right, or simply wait while he reorients. The food, window, and restaurant sounds gradually return.
 
@@ -278,7 +289,7 @@ The memory releases Jack into the restaurant. Simone may say his name, ask wheth
 
 **Story function:** Shows that memory can surface outside therapy without completely destroying him.
 
-### Beat 29: Jack Names The First Time
+### Beat 30: Jack Names The First Time
 
 Jack does not need to tell Simone the entire history yet. He may say that St. Aidan's was not the first time his mother sent him away, or that seeing the Honda reminded him of the first foster home. The key is that the earlier abandonment is no longer sealed off from the story he told Leah.
 
@@ -302,14 +313,16 @@ After this earlier abandonment sequence, the story can return to the more compli
 - Let the good memories of Frank be genuinely good from Jack's perspective. Complexity strengthens the abuse narrative; it does not excuse Frank.
 - Develop one primary Honda memory. Use the trike and fishing as brief supporting fragments rather than three full childhood scenes.
 - Dramatize one representative episode of Frank's pre-divorce violence and one representative Salt Lake beating. Do not turn the sequence into a catalogue.
-- Keep Stephen's relative protection visible without requiring eight-year-old Jack to understand how Stephen is learning to align with power.
+- Keep Stephen's relative protection visible without requiring young Jack to understand how Stephen is learning to align with power.
+- After Frank leaves, establish Stephen as Jack's primary abuser. Do not reveal the later sexual abuse in this sequence; preserve it for the later memories and chapters where Jack can understand what he is remembering.
 - Do not explain why the state removed Jack but left Stephen. Preserve the unanswered question.
 - Keep the Mercer section compact. Its purpose is conditional shelter, not a second major family saga.
 - Lisa and Debbie are the Mercers' biological daughters. Their protected status is why their account carries more authority.
 - Jack should participate enough in the garage incident to sound guilty but should not be its sole instigator or cause.
 - Leave the exact damage to Ray's project car open until drafting.
 - Frank's Honda remains at his Salt Lake City home and should briefly reactivate Jack's hope before the violence resumes.
+- Preserve the same Albany family house across Frank's departure, Jack's removal, Jack's return, James's arrival, St. Aidan's, and the summer 1985 return. The accumulating history of one place matters.
 - Introduce James lightly. Mona's fawning attention matters more here than any overt behavior from him.
 - Stay close to the child's sensory and emotional experience. Use adult reflection sparingly and primarily to articulate what Jack wishes had happened: that Mona had chosen to end the abuse.
 - Do not advance to the summer 1985 visit, the young woman's death, or Stephen's full role.
-- Before final drafting, fact-check the late-1970s foster-placement and interstate-custody mechanics once the originating state and agency are locked. Preserve the emotional sequence even if the administrative route needs adjustment.
+- Before final drafting, fact-check the late-1970s Oregon foster-placement and interstate-custody mechanics. Preserve the emotional sequence even if the administrative route needs adjustment.
