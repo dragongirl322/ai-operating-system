@@ -50,7 +50,7 @@ The opposing force argues that forgetting is mercy, silence is loyalty, and the 
 
 **Status:** Deceased in 2015, four years before the present-day story.
 
-**Family timeline:** Mona leaves Frank in fall 1979, after Jack has turned eight. Frank is not part of Mona and James Price's household when Jack is sent to St. Aidan's in 1984 or when Jack returns in the summer of 1985.
+**Family timeline:** Frank leaves Mona for another woman in fall 1979, after Jack has turned eight. Frank is not part of Mona and James Price's household when Jack is sent to St. Aidan's in 1984 or when Jack returns in the summer of 1985.
 
 **Core identity:** Blue-collar successful businessman who ran a small construction business and treated work, toughness, and control as measures of human worth.
 
@@ -72,7 +72,7 @@ The opposing force argues that forgetting is mercy, silence is loyalty, and the 
 
 **Role:** Antagonist. Jack's older brother.
 
-**Age:** 53 in the present-day story, five years older than Jack. Born in 1966. Stephen is about 13 when Mona leaves Frank, 18 when Jack is sent to St. Aidan's, and 19 when the murder occurs on June 14, 1985. He is one year older than the 18-year-old victim; Jack has recently turned 14.
+**Age:** 53 in the present-day story, five years older than Jack. Born in 1966. Stephen is about 13 when Frank leaves Mona, 18 when Jack is sent to St. Aidan's, and 19 when the murder occurs on June 14, 1985. He is one year older than the 18-year-old victim; Jack has recently turned 14.
 
 **Core identity:** Polished, charismatic, successful businessman who inherited the family system's authority and uses respectability as cover.
 
@@ -151,7 +151,7 @@ The opposing force argues that forgetting is mercy, silence is loyalty, and the 
 
 **Backstory:** Mona was abused by Jack and Stephen's father and later by her second husband, James Price. She presents as weak, incapable, and dependent, but she has also caused deep harm through manipulation and cruel remarks.
 
-**Marriage and family timeline:** Mona leaves Frank in fall 1979, when Jack is eight, and marries James Price in summer 1980. Owen is born in March 1982. By the time Mona and James send Jack to St. Aidan's in September 1984, they have been married a little over four years; by the June 1985 murder, they have been married almost five years. When and how this marriage ends remains unresolved.
+**Marriage and family timeline:** Frank leaves Mona for another woman in fall 1979, when Jack is eight. Mona marries James Price in summer 1980. Owen is born in March 1982. By the time Mona and James send Jack to St. Aidan's in September 1984, they have been married a little over four years; by the June 1985 murder, they have been married almost five years. When and how this marriage ends remains unresolved.
 
 **Relationship to Jack:** Mona is the one person from Jack's childhood who showed any care for him, usually through music. She influenced his taste in music and was a piano player. At the same time, she undermined Jack's sense of self and safety with covert cruelty, emotional manipulation, and cutting remarks.
 
@@ -173,7 +173,7 @@ The opposing force argues that forgetting is mercy, silence is loyalty, and the 
 
 **Role:** Mona's second husband and Jack's stepfather.
 
-**Family timeline:** James marries Mona in summer 1980, within a year of her leaving Frank. Owen is born in March 1982. James has been Jack's stepfather for a little over four years when Jack is sent to St. Aidan's and almost five years when the murder occurs.
+**Family timeline:** James marries Mona in summer 1980, within a year of Frank leaving her. Owen is born in March 1982. James has been Jack's stepfather for a little over four years when Jack is sent to St. Aidan's and almost five years when the murder occurs.
 
 **Core identity:** Ordinary, violent man whose home briefly appeared to offer shelter and then became another site of expulsion.
 
@@ -218,6 +218,36 @@ The opposing force argues that forgetting is mercy, silence is loyalty, and the 
 - "You've always had a hard time letting things go."
 - "I'm not saying you're lying. I'm saying maybe you remember it wrong."
 - "He's done a lot for this family."
+
+### Ray and Carol Mercer
+
+**Role:** Jack's foster parents during his first foster placement, shortly after Frank leaves Mona and the state removes eight-year-old Jack while allowing Stephen to remain with Mona.
+
+**Household:** Ray and Carol live with their biological daughters, twelve-year-old Lisa and ten-year-old Debbie. Jack is the only foster child in the home and understands immediately that the girls belong there in a way he does not.
+
+**Carol:** Provides Jack with basic physical care but is verbally abusive, emotionally withholding, and neglectful. She treats his needs as demands and his mistakes as evidence that he is troublesome. Her home is less physically dangerous than Frank's, but it never feels protective or welcoming.
+
+**Ray:** Emotionally absent and frequently away. When he is home, he spends most of his time in the garage working on his car and largely ignores Carol and the children. The car is the one thing in the household that reliably commands his attention.
+
+**Relationship to Jack:** The Mercers give Jack a temporary reprieve from being beaten, which makes the placement feel safer by the diminished standards of his childhood. They do not offer belonging. After an incident involving Ray's car, they accept Lisa and Debbie's account, treat Jack as the sole culprit, and tell the agency they no longer want him in their home.
+
+**Symbolic function:** Conditional shelter. The adult system that can remove Jack from overt danger without seeing, knowing, or protecting him.
+
+**Relationship to theme:** The Mercers reinforce Jack's belief that his place in any home can be revoked and that adults will treat other people's stories about him as more credible than his own.
+
+### Lisa and Debbie Mercer
+
+**Role:** Ray and Carol's biological daughters and Jack's temporary foster sisters. Lisa is twelve and Debbie is ten when eight-year-old Jack enters their home.
+
+**Family position:** Unlike Jack, Lisa and Debbie are permanent members of the household. They understand that distinction and use it. They tease him, call him names, and sometimes exclude him, but occasionally allow him to play with them, which makes their approval disproportionately important to him.
+
+**Garage incident:** The girls invite Jack into Ray's forbidden garage and involve him in using the keys to his project car so they can sit inside and play with it. When something goes wrong and the car is damaged, they say it was Jack's idea and deny their own responsibility. Jack admits enough involvement to sound guilty but cannot make the adults believe the rest. The exact damage to the car remains to be selected during drafting.
+
+**Story function:** Their accusation ends Jack's foster placement and leads to the state sending him to live in Salt Lake City with Frank and Frank's new wife. The incident establishes an early version of the pattern that will later define Jack's life: he is present, somewhat compromised, unable to prove the full truth, and easier to blame than the protected people around him.
+
+**Symbolic function:** The children who are believed because they belong.
+
+**Relationship to theme:** Lisa and Debbie deepen Jack's training in silence and self-doubt. Their version of events becomes reality because the family and the system are already prepared to see Jack as the problem.
 
 ### Megan Holt
 

@@ -202,7 +202,7 @@ Jack schedules another appointment for the following week. Weekly is strong here
 
 **Jack's internal shift:** He chooses to come back, which is small but not passive. It is one of his first chosen acts of self-contact.
 
-**Story function:** Ends the session with earned hope rather than escalation. The next sequence can show boarding-school memories returning outside therapy, including fond or complicated memories.
+**Story function:** Ends the session with earned hope rather than escalation. The next sequence can show an earlier abandonment memory surfacing outside therapy before the story returns to Jack's fond or complicated boarding-school memories.
 
 ## Final Image
 
@@ -210,9 +210,9 @@ Jack leaving Leah Moreno's office with the next appointment card or reminder in 
 
 ## Next Sequence Direction
 
-The next movement should show the session subtly unlocking more of Jack's boarding-school past. These memories should not all be painful. He may remember the first teacher who noticed his science mind, an art room that smelled like paint and turpentine, a music room where he first felt competent, or a boy who became a friend. The point is not to redeem the abandonment, but to complicate Jack's certainty that nothing good happened there.
+The next movement should happen outside therapy. While Jack and Simone eat at a restaurant after the session, the sound and sight of a Honda like Frank's triggers the earlier abandonment beneath the St. Aidan's wound: Frank's mixture of affection and violence, Frank leaving Mona, Jack's first foster placement while Stephen remains home, the Mercer accusation, six months with Frank in Salt Lake City, and Jack's relieved return to Mona.
 
-This can become the first time Jack realizes a remembered place can hold more than one truth.
+After that sequence, the story can return to boarding-school memories that were not only painful: the first teacher who noticed Jack's science mind, an art room that smelled like paint and turpentine, a music room where he first felt competent, or a boy who became a friend. The point is not to redeem the abandonment, but to complicate Jack's certainty that nothing good happened there.
 
 ## Drafting Notes
 

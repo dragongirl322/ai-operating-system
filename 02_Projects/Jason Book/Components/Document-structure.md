@@ -19,8 +19,8 @@ Place names, hometown, present-day town, boarding school, and crime-scene geogra
 ## Family Timeline (locked)
 
 - **April 18, 1971:** Jack is born.
-- **Fall 1979:** Mona leaves Frank after Jack has turned eight. Stephen is about 13.
-- **Summer 1980:** Mona marries James Price within a year of leaving Frank. Jack is nine and Stephen is about 14.
+- **Fall 1979:** Frank leaves Mona for another woman after Jack has turned eight. Stephen is about 13.
+- **Summer 1980:** Mona marries James Price within a year of Frank leaving her. Jack is nine and Stephen is about 14.
 - **March 1982:** Owen Price is born to Mona and James. Jack is nearly 11.
 - **Early September 1984:** Jack is sent to St. Aidan's at 13. Stephen is 18, Owen is about two and a half, and Mona and James have been married a little over four years.
 - **Friday, June 14, 1985:** The murder occurs at the start of summer break. Jack has been 14 for just under two months; Stephen is 19; Jennifer Weaver is 18; Owen is three. Mona and James have been married almost five years.
@@ -94,6 +94,18 @@ Act I is not yet about Jack solving the murder. It is about Jack beginning to un
 
 **Turn:** Leah lets the boarding school memory land as real abandonment while gently naming the split: it can be true that Jack was abandoned there, and also true that something in him was seen there. Jack leaves feeling the session helped and schedules another appointment for the following week.
 
+### 4. Memory Sequence: The First Time They Sent Jack Away
+
+**Component file:** [[Memory-sequence-the-first-time-they-sent-Jack-away]]
+
+**Narrative job:** Reveal the earlier abandonment pattern underneath Jack's St. Aidan's wound without turning childhood abuse into an expositional catalogue.
+
+**Central question:** Why was Jack always the child who got sent away while Stephen got to stay?
+
+**Movement:** After Leah's session, Jack and Simone go out to eat. From a booth beside the window, Jack hears and sees a Honda like Frank's pull up outside. The motorcycle triggers memories of Frank's genuine moments of fun and the violence that defined the household; Frank leaving Mona for another woman; the state removing Jack while Stephen remains; Jack's conditional shelter with the Mercers; Lisa and Debbie blaming him for an incident involving Ray's project car; and Jack being sent to live with Frank and his new wife in Salt Lake City. Frank's Honda is still there, briefly awakening hope before the beatings resume. After roughly six months, Jack returns to Mona and Stephen, but Mona's attention is already centered on James Price.
+
+**Turn:** Jack remembers how grateful he was that Mona took him back, even though no one explained why she let the state take him or why Stephen was allowed to stay. He silently decides that remaining home depends on being good enough not to be sent away again.
+
 ## Memory Reveal Architecture
 
 The prologue establishes the aftermath fragment Jack has always retained: he came to beside the young woman's body, could not explain the blood or missing sequence, and called Stephen for help. The buried truth should not arrive as one complete flashback. The later memory phases recover the missing material before and around that known fragment, with each phase changing its meaning.
@@ -108,15 +120,23 @@ Jack believes being sent away is the source of his damage. He thinks the school 
 
 **Structural purpose:** Gives Jack a true but incomplete explanation for himself.
 
-### Phase 2: The Wound Becomes More Complicated
+### Phase 2: The Earlier Abandonment Pattern
+
+**Focus:** Frank's violence, the first foster placement, the Mercer accusation, six months with Frank in Salt Lake City, and Jack's return to Mona.
+
+After Leah's session, a Honda like Frank's triggers the earlier memory sequence outside therapy. Jack begins to understand that St. Aidan's was not the first time he was designated as the child who could be removed while Stephen remained inside the family.
+
+**Structural purpose:** Deepens the wound Jack can name into a repeated family pattern: adults decide where he belongs, protected children are believed over him, and being allowed home feels like love.
+
+### Phase 3: The Wound Becomes More Complicated
 
 **Focus:** Fond and complicated boarding-school memories.
 
-After Leah's session, Jack begins remembering parts of boarding school that were not only painful: teachers who noticed him, strong science/art/music programs, a music room, a friend, or moments of competence.
+After the earlier foster-care memory surfaces, Jack begins remembering parts of boarding school that were not only painful: teachers who noticed him, strong science/art/music programs, a music room, a friend, or moments of competence.
 
 **Structural purpose:** Jack learns that a remembered place can hold more than one truth. This loosens his certainty without forcing the murder-night material too early.
 
-### Phase 3: The Lead-Up To Murder Night
+### Phase 4: The Lead-Up To Murder Night
 
 **Focus:** The visit home leading into the summer 1985 crime.
 
@@ -124,7 +144,7 @@ Only after boarding school becomes complicated should the story move toward the 
 
 **Structural purpose:** Re-enter the danger zone gradually. Let the reader feel that Jack is approaching something he has organized his life around not knowing.
 
-### Phase 4: Murder Night And Immediate Aftermath
+### Phase 5: Murder Night And Immediate Aftermath
 
 **Focus:** Fragments, not full explanation.
 
@@ -132,7 +152,7 @@ This phase can include pieces of the young woman, Jack's intoxication and incomp
 
 **Structural purpose:** Intensify the external mystery while making Jack's memory feel unstable but meaningful.
 
-### Phase 5: Full Memory Returning
+### Phase 6: Full Memory Returning
 
 **Focus:** The late-book reveal.
 
@@ -144,10 +164,11 @@ The jacket, Stephen, the young woman, Jack's trauma, and the family alibi finall
 
 0. Known aftermath: "I came to beside her body and called Stephen."
 1. Boarding school: "I was sent away because I was bad."
-2. Boarding school complicated: "Maybe I was seen there, too."
-3. Summer 1985 visit: "That was when everything happened."
-4. Murder-night fragments: "My memory is protecting something."
-5. Full return: "My silence was never safety. It was Stephen's alibi."
+2. First foster placement: "St. Aidan's was not the first time they sent me away."
+3. Boarding school complicated: "Maybe I was seen there, too."
+4. Summer 1985 visit: "That was when everything happened."
+5. Murder-night fragments: "My memory is protecting something."
+6. Full return: "My silence was never safety. It was Stephen's alibi."
 
 ## Structural Guardrails
 
@@ -166,4 +187,4 @@ The jacket, Stephen, the young woman, Jack's trauma, and the family alibi finall
 
 **Boarding School Memory Unlock Sequence**
 
-This sequence should happen after Jack's first helpful session with Leah. It should show boarding-school memories surfacing outside therapy, including fond or complicated memories. The purpose is not to redeem the abandonment, but to loosen Jack's certainty that nothing good happened there.
+This sequence should happen after the initial foster-care memory sequence. It should show fond or complicated boarding-school memories surfacing outside therapy. The purpose is not to redeem the abandonment, but to loosen Jack's certainty that nothing good happened there.
