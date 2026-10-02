@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1790979463227-99u6iswpq",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790979463256-hj89gl1",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1790979463221-d15yjs2",
+      "timestamp": 1790979463221,
+      "rawDisplayText": "In the raw notes from Jason, he references honda motorcycles at least once. What did he talk about there?",
+      "canonicalText": "In the raw notes from Jason, he references honda motorcycles at least once. What did he talk about there?",
+      "context": {
+        "linkedContent": {
+          "path": "02_Projects/Jason Book/Drafts/Chapter-five.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "3f4e1d364a1850b144e068a621ae7925d99e745a08713190427f99d1d5d420ee",
+      "providerUserMessageId": "600abbb8-822e-4c4b-a996-07081bf5c79a",
+      "providerAssistantMessageId": "68c1772c-b231-4a92-8158-6ce3ba4a5b7f"
+    }
+  ]
+}

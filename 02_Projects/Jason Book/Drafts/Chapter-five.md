@@ -1,14 +1,16 @@
-[L1] Simone and I sat at our favorite booth right near the window at 
+[L1] It had been a long time since I felt like fish and chips, even though I loved them as a kid. I had to tell myself to slow down and savor every bite. Simone and I were sitting in a booth at Ivars Seafood Bar in Edmonds. I was just about to take a bite when I heard a sound I'd recognize anywhere. I looked up and saw a red Honda 750 pulling in to the parking lot. My dad had a blue one when I was a kid. 
 
-[L2] 
+[L2] "Oh man, Simone. I wish I had enough money to buy one of those," I said, pointing out the window.
 
-[L3] 
+She laughed and nodded. "I'd like that for you. Not so much for me. Those things are dangerous."
 
-[L4] 
+[L3] We sat there talking and laughing for a while, even after our food was gone. I liked being there with her and didn't want it to end. I'd told her how pretty she looked to me. She liked that, I could tell. We didn't talk about my time with Dr. Moreno. I didn't want to and Simone didn't push. 
 
-[L5] 
+[L4] Later that night I lay in bed, struggling to fall asleep. I could hear Simone's slow, steady breathing, telling me she was out. I loved that she could sleep. My mind wouldn't stop racing. It felt almost like I was stuck in a time machine and couldn't stop myself from going back.
 
-[L6] 
+[L5] I stood on our couch looking out the front window for at least an hour, waiting for my dad to roll up on his blue Honda 750. When I saw him turn into our long drive way, I started to shake with excitement. It took everything in me not to jump off that couch and run out the front door begging him to take me for a ride. I knew if I did that and he wasn't in the mood, I'd pay the price. 
+
+[L6] I watched him turn the key to stop the engine, climb off and set the kickstand. He stepped back and took an admiring look at the bike. He was whistling as he walked away from it toward the front door. That meant he was in a good mood. Even so, when he walked in the front door, I sat on the couch quietly, acting like nothing important was happening.
 
 [L7] 
 

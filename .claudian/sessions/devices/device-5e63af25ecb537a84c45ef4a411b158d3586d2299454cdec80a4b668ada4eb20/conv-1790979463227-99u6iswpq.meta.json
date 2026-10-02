@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790979463227-99u6iswpq",
+  "providerId": "claude",
+  "title": "Extract Jason's Honda motorcycle notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790979463232,
+  "lastActivityAt": 1790979472175,
+  "sessionId": "2b800107-1d60-42a2-af42-7a2551decc8f",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "2b800107-1d60-42a2-af42-7a2551decc8f"
+  },
+  "linkedContentPath": "02_Projects/Jason Book/Drafts/Chapter-five.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 19931,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 967000,
+    "contextTokens": 19933,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}
