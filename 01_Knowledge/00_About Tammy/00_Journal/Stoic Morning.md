@@ -3695,3 +3695,7 @@ I’m still very much working out how to reframe the new reality of my professio
 ## Wednesday September 30
 
 The end of the month. Fall is here in reality and in weather. I’m embracing my long pants again. Today I will remember that what life is allowing me to receive is wisdom, resilience, patience, and a full heart. I have experienced an entire life of things I didn’t expect resulting in new and wonderful adventures and learning. 
+
+Friday October 2
+
+I’m feeling on the cusp. Not sure what exactly that is. It is that slight crack in the door letting me see that TAM is something that could possibly be. Not just with URI but in general. I offered my shoulder and my ear to LinkedIn. I’ve had several schedule meetings. I met with two I don’t know yesterday. I think there is something to be a warrior of the human spirit and doing it in a way that is incredibly fulfilling and helpful. Love and people first. Financial growth will follow. I believe that. 
