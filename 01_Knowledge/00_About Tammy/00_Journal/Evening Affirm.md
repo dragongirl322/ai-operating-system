@@ -641,3 +641,7 @@ I’m feeling solid right now. Having made a decision about where to focus my pr
 Wow, took a gap here. Layoffs at Workday today and I hear RAD was hit hard, especially research. It has bothered me more than I like to admit. Something I built being so casually and carelessly dismantled by people who just don’t get it. But then again, that system never really did. I like to believe that I was consistently aware of how dire the situation was but I realize that my belief that we would ultimately be able to see the change we wanted was naive. That said, I am still proud of how I showed up in my relationships with others and how I led. 
 
 I must consistently remind myself that I don’t have to be THE BEST to be good at what I do. I don’t have to be “chosen” to be good at what I do. I get to choose and right now, I choose my freedom. 
+
+## Thursday October 1
+
+A new month. This is a discipline month. Dig in to work, writing, health. It is off to a good start. I’m tired tonight and fighting a wee bit of distracting discouragement for no particular reason that I can put my thumb on. Maybe just because of a rough couple of gut days. I’m not in a place to diagnose. I am going to chill then sleep.
