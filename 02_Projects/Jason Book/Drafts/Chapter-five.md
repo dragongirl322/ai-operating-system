@@ -1,12 +1,12 @@
-[L1] I sat there, staring at the light streaming through the blind of the window behind Dr. Moreno. My throat felt raw and dry. It was so quiet. I could hear the ticking of the clock sitting on Dr. Morenos desk. 
+[L1] I sat there, staring at the light streaming through the blind of the window behind Dr. Moreno. My throat felt raw and dry. It was so quiet. I could hear the ticking of the clock sitting on Dr. Moreno's desk. 
 
 [L2] Finally Dr. Moreno broke the silence. "Waiting until Christmas to go home again was a long time. You sound like you still hate that she left."
 
 "Yeah, I do. I wish I didn't."
 
-"Next time we meet maybe you can tell me about the music and science classes. It can be true that your mom abandoned you there. It can also be true that somethings were good for you there."
+"Next time we meet maybe you can tell me about the music and science classes. It can be true that your mom abandoned you there. It can also be true that some things were good for you there."
 
-[L3] A part of me wanted to reject the idea that anything was good for me at St. Aidans. It wasn't the first time my mom had abandoned me but it was the hardest. The thing is, Dr. Moreno was right. The music class at St. Aidans is where I learned to be a legit guitar player, so at least it gave me that.
+[L3] A part of me wanted to reject the idea that anything was good for me at St. Aidan's. It wasn't the first time my mom had abandoned me but it was the hardest. The thing is, Dr. Moreno was right. The music class at St. Aidan's is where I learned to be a legit guitar player, so at least it gave me that.
 
 "I'd like that," I said, meaning it. 
 
