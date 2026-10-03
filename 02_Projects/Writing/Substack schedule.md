@@ -20,7 +20,7 @@ Every other Tuesday. Draft in the week before. Publish morning PT.
 | Date | Stream | Piece | Status |
 |---|---|---|---|
 | Tue Aug 25 | Leadership | Take care of yourself (body, mind, heart) | Posted |
-| Fri Sep 18 | Rec | #1 *BE 2.0* (Collins / Lazier) — *Never stifle a generous impulse* | Posted |
+|  — *Never stifle a generous impulse* | Posted |
 | Tue Sep 22 | Leadership | Navigating fear and ambiguity (self) | |
 | Tue Oct 6 | Rec | #2 *Dare to Lead* (Brown) | |
 | Tue Oct 20 | Leadership | AI as caregiver / cooperative peer | Draft ready |

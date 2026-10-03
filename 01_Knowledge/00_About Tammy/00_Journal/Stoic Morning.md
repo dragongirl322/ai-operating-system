@@ -3696,6 +3696,77 @@ I’m still very much working out how to reframe the new reality of my professio
 
 The end of the month. Fall is here in reality and in weather. I’m embracing my long pants again. Today I will remember that what life is allowing me to receive is wisdom, resilience, patience, and a full heart. I have experienced an entire life of things I didn’t expect resulting in new and wonderful adventures and learning. 
 
-Friday October 2
+## Friday October 2
+
+I’m feeling on the cusp. Not sure what exactly that is. It is that slight crack in the door letting me see that TAM is something that could possibly be. Not just with URI but in general. I offered my shoulder and my ear to LinkedIn. I’ve had several schedule meetings. I met with two I don’t know yesterday. I think there is something to be a warrior of the human spirit and doing it in a way that is incredibly fulfilling and helpful. Love and people first. Financial growth will follow. I believe that. ## 
+
+## Sunday September 13
+
+Rainy Sunday. Exactly the type of day to help slow everything down. Energy to my family and home today. And to getting over this head cold. 
+
+## Monday September 14
+
+It may be the cooler, grayer weather. It may be that I’m battling a head cold. I feel a wave of sadness this morning that I woke up with. No real reason. It is just there. It doesn’t control me. My gratitude is bigger. At the same time, I like allowing it to be with me. Inside Out taught us that letting all of our emotions live together matters. It just means I’m a human. 
+
+
+## Tuesday September 15
+
+URI day. I have extended time with Trinh. Looking forward to digging in. I’ll get clarity on contract update today. We’ll chart a path forward. 
+
+## Wednesday September 16
+
+Things I learned yesterday and how they affect me: Trinh is slipping a bit, I think. She has always been repetitive but she is telling me things she literally just told me last week. She sent an updated contract that she said was better but it is worse. She is going to follow my lead and she is going to be thoughtful. She sincerely wants to take care of me. She definitely needs my support and guidance. She will trust everything I do. She says the contractual terms will change as we get going. I agree because I will expect it to. If it doesn’t, I don’t stay. 
+
+My plan is to trust until there is a reason not to. I see clear problems to solve and believe I can help, a lot. I can bring strategic clarity. Leadership. Simplicity and focus. Discipline. Inspiration. My hope is that the difference is material. 
+
+## Friday September 18
+
+Interesting that I skip writing on my birthday. It was a conscious choice. I wanted to experience the day with quiet, free introspection vs. disciplined, routine introspection. It was helpful. I am so incredibly happy in my life with Dayna and the relationship we’ve nurtured and built. I love that I get to spend so much time with her now. I am happy with the connection I have with Tre. I love him so very much and adore who he is and who he continues to become. I’m cautiously excited by the professional path forward and recognize that my mental model continues to evolve to one that embraces the changing dynamics and the rare and legit opportunity this presents to me. 
+
+One thing I am clear on is that I can’t do what I observe Trinh doing and let friendship cloud my business judgement. The contract that is drawn up now isn’t sufficient. For starters, I have two versions. Secondly, it only speaks to consulting and not the significant scope I’ve offered to help with. I will talk to Trinh about making immediate revisions that can be revisited after my first few months of engagement. 
+
+## Saturday September 19
+
+Today is a day of true freedom. I’ve done fairly well at keeping some structure in my week days. I’m slipping a bit in sleeping later than I’d like—closer to 7 when I want to be up closer to 6 or 6:30. I’m not taking advantage of the opportunity to prep food at home. Today I am going to put some time into designing my bet life. I have the freedom to do that and not doing it is silly. 
+
+## Monday September 21
+
+Last day of summer. This changing of the seasons is the one I least look forward to because I love the long, warm, sunshiny days. That said, I do love the cycle of life and what the seasons represent. It is a time of change and moving from outdoor activity to closeness in the home. Cozy blankets. Warm drinks. The fireplace. 
+
+I’m looking forward to a shift more focus on healthy eating. I do ok but could do better. My gut will thank me. 
+
+Let’s go make this a great week. We celebrate one year on Thursday and that is s big deal.
+
+# Tuesday September 22
+
+First day of Autumn. It is beautiful out. I am so grateful for the wonderful summer I got to spend with my family. I’m so grateful that I get to go work with Trinh and maintain wonderful balance with my family while helping her build something great…..and hopefully make a bit of money doing it. I get to see Berea and Jen today and maybe other former Expedia colleagues. I may also get to bring my first business to URI. Let’s go!!
+
+## Thursday September 24
+
+Feeling in incredibly full and grateful this morning. Something about my interactions with people, the time with Dayna, a decision being made has me feeling that sense of peace I remember having when I left Microsoft to be with Tre more. I may be finding my surrender. 
+
+## Saturday September 26
+
+30 years ago yesterday I came to Seattle to interview for a job at Microsoft. It was a full two days of interview loops. We had beautiful weather that week. I remember looking out the window of the office of one interviewer and seeing a big white mountain. I asked “What is that?” I learned it was Mt. Ranier. I love that mountain. I love living in the PNW. I learned so much working at one of the world’s best companies. 
+
+My life has been an amazing journey so far. I intend to use the next 20-30 to add to that journey. I’ve earned the right to choose the path rather than have it chosen for me. I’m so proud of the decision I’ve made. It lets me choose me every day.
+
+## Monday September 28
+
+Today is the start of truly working with and for URI. I’m leading a vision workshop with Trinh, Justin, Shawn, Brooke. It will be informative. I’m curious to see the dynamic, particularly with Justin. 
+
+It is a beautiful fall morning. 
+
+I’m still very much working out how to reframe the new reality of my professional life. It would be complex and challenging, regardless. It is compounded by the AI dyanamic which is so damn noisy and full of contradictions. It is important to keep moving forward, exercising my growth mindset, and continuously learning. 
+
+## Wednesday September 30
+
+The end of the month. Fall is here in reality and in weather. I’m embracing my long pants again. Today I will remember that what life is allowing me to receive is wisdom, resilience, patience, and a full heart. I have experienced an entire life of things I didn’t expect resulting in new and wonderful adventures and learning. 
+
+## Friday October 2
 
 I’m feeling on the cusp. Not sure what exactly that is. It is that slight crack in the door letting me see that TAM is something that could possibly be. Not just with URI but in general. I offered my shoulder and my ear to LinkedIn. I’ve had several schedule meetings. I met with two I don’t know yesterday. I think there is something to be a warrior of the human spirit and doing it in a way that is incredibly fulfilling and helpful. Love and people first. Financial growth will follow. I believe that. 
+
+## Saturday October 3
+
+I woke up in the middle of a nightmare that I was at Rising and was presenting. I wasn’t prepared. No slides. Not sure what to say. Fuck that shit. I’m so happy that isn’t my reality. I probably am aware of it because of exchanging text with Nancy Weitl this week. She is prepping for Rising. 
