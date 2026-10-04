@@ -645,3 +645,7 @@ I must consistently remind myself that I don’t have to be THE BEST to be good 
 ## Thursday October 1
 
 A new month. This is a discipline month. Dig in to work, writing, health. It is off to a good start. I’m tired tonight and fighting a wee bit of distracting discouragement for no particular reason that I can put my thumb on. Maybe just because of a rough couple of gut days. I’m not in a place to diagnose. I am going to chill then sleep.
+
+## Saturday October 3
+
+I’m grateful Dayna survived her cancer. October 6 years ago was tough. I’m saddened to know a former MSFT colleague lost his husband to cancer yesterday. I’m grateful to know how important it is to drink the milk of life in every damn moment. Momento mori. 
