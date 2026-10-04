@@ -38,33 +38,35 @@ Dad looked at him, shook his head then said "You shut your yap boy or you're nex
 
 [L12] The sense of relief I felt didn't last long. Within days I was being hit, kicked, spit on, yelled at by Stephen. Every fucking day there was something he came after me for. It seemed like everything I did was a reason to hurt me. Chewing my cereal in the morning. Writing my math problems doing homework. Walking to the bathroom to piss. Asking mom if I could do anything for her. Every goddamn day I was getting it from him. In some ways, it was worse than when dad was here because at least dad had to go to work. Stephen was home when I was home.
 
-[L13] This went on and on and on then one day at the start of summer, a lady showed up at our house. 
+[L13] This went on and on and on then one day at the start of summer, a lady showed up at our house. Mom told me and Stephen to go to our rooms. A few minutes later, mom came in with a sack, filled it up with my underwear, a few pairs of socks, my jeans, and some shirts. I remember being confused. She took me by the hand and led me out to the living room.
 
-[L10]
+“Jack, this is Ms. Ashton. You are going with her.” 
 
-[L10]
+“Where is she taking me?”
 
-[L10]
+“You can’t live here right now. She is taking you to your new house.”
 
-[L10]
+“But I don’t’ want to go to a new house.” I started crying. 
 
-### Beat 9: The Caseworker Comes
+“You go, Jack. Don’t make this harder than it has to be. Be a good boy.” 
 
-After Mona and Frank's divorce becomes final in spring 1979, a caseworker arrives. Jack is eight and is told to gather his things. The adults use language such as "temporary," "for now," or "until things settle down," but no one gives Jack a reason he can understand.
+“How long do I have to go for?”
 
-Mona knows the removal is coming. Whether she has packed anything for Jack, avoids his eyes, or offers a practical explanation can be selected during drafting. The scene should not reveal whether Mona requested the placement or merely accepted it.
+“Until things settle down. You’ll be fine.”
 
-**Jack's internal shift:** He searches the adults' faces for an explanation and finds only a decision that has already been made.
+[L14] I knew better than to argue. Ms. Ashton reached out and took my hand and started to lead me out the door. Still crying, I looked back at mom one last time, hoping she’d change her mind. She looked at me with no expression.
 
-**Story function:** Turns an administrative act into the sequence's central abandonment. Jack is acted upon without being told what truth the adults believe about him.
+[L15] Ms. Ashton opened the back door of her car and waited for me to sit down.  She carried my sack full of clothes to the front, climbed in and set the sack on the passenger seat.
 
-### Beat 10: Stephen Stays
+“Aren’t you going to go get Stephen?” I asked.
 
-Stephen is not packing. No one is taking him. Jack may ask why or may be too frightened to form the question aloud, but the unequal outcome becomes the part he cannot release.
+“No. Just you,” she answered.
 
-**Jack's internal shift:** Instead of asking what is wrong with the family, Jack begins asking what is wrong with him.
+[L16] For some reason, I accepted this without asking why. A part of me was relieved because since dad left, Stephen beats me up whenever he gets a chance. 
 
-**Story function:** Establishes the core question that will echo through St. Aidan's and the murder accusation: why is Stephen allowed to belong while Jack is removed?
+[L17]
+
+
 
 ### Beat 11: Temporary Becomes A Threat
 
