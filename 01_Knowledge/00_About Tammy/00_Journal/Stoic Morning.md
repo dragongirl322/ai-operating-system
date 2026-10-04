@@ -3770,3 +3770,7 @@ I’m feeling on the cusp. Not sure what exactly that is. It is that slight crac
 ## Saturday October 3
 
 I woke up in the middle of a nightmare that I was at Rising and was presenting. I wasn’t prepared. No slides. Not sure what to say. Fuck that shit. I’m so happy that isn’t my reality. I probably am aware of it because of exchanging text with Nancy Weitl this week. She is prepping for Rising. 
+
+## Sunday October 4
+
+It seems like I’m in a constant tug-o-war with my own self, vaccinating between surrender and trust in the universe and the fear driven desire to control things. I have told myself for so long that “safety” comes from bringing in a big check every two weeks and the adjustment to not doing that is tough. Every morning I will remind myself of the importance of surrender…giving my idea of control over to the universe, believing in my ability, what my logic tells me, and the system around me to work in ways that allows me to grow. It is important that I allow my love and creativity and internal goodness unfold vs. trying to force things. 
