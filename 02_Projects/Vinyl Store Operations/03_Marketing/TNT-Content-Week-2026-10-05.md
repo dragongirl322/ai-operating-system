@@ -1,6 +1,6 @@
 ---
 title: TNT content week of Oct 5, 2026
-status: Drafts only. FB/IG for Tam to post; Google update for Groove to post Tue morning Oct 6 (Tam OK'd). Nothing posted yet.
+status: Tue IG/FB special-requests posted Oct 6 ~3:07 PM (no shop URLs). Google Business still blocked on sign-in. Thu/Sat drafts ready. Drop tntmusic.shop from all posts going forward.
 cadence: Tam posts Facebook + Instagram; Groove posts Google
 updated: 2026-10-05
 ---
@@ -46,7 +46,7 @@ We're open Tuesday through Saturday, 11 to 7, in 5 Corners. New and used vinyl, 
 
 ---
 
-## Tuesday Oct 6: IG + Facebook (Tam posts): special requests
+## Tuesday Oct 6: IG + Facebook: special requests ✅ POSTED ~3:07 PM PT
 
 **Why this day:** Back open after the weekend. AiC *Unplugged* already went up Oct 2, so this one invites people to tell us what they're hunting for. It also sets up Thursday's Seattle post.
 **Photo:** `IMG_0140` purple door + OPEN neon (ready). A shot of the counter or a "requests" note card would be even better if Emma grabs one.
@@ -56,7 +56,7 @@ Looking for something we don't have? Tell us 💜
 
 Drop the album in the comments or ask at the counter. We special order, and we make a point of stocking what you ask for.
 
-Open today 11 to 7 in 5 Corners. Or shop tntmusic.shop.
+Open today 11 to 7 in 5 Corners. Shop link stays on our profiles.
 
 #TNTMusic #EdmondsWA #VinylRecords #SpinninYourGroove #RecordStore #SpecialOrders #ShopLocal
 
@@ -65,7 +65,7 @@ Looking for something we don't have? Tell us 💜
 
 Drop the album in the comments or ask at the counter. We special order, and we make a point of stocking what you ask for.
 
-Open Tuesday through Saturday, 11 to 7. 8416 Bowdoin Way, Edmonds (5 Corners). Or shop online at tntmusic.shop.
+Open Tuesday through Saturday, 11 to 7. 8416 Bowdoin Way, Edmonds (5 Corners). Shop link stays on our profiles.
 
 ---
 
@@ -83,7 +83,7 @@ Badmotorfinger turns 35 today 🤘
 
 Seattle crunch, still loud. Rusty Cage, Outshined, Jesus Christ Pose, all of it holds up. We've got it on the floor if you want to take one home.
 
-Open 11 to 7 in 5 Corners, or browse tntmusic.shop.
+Open 11 to 7 in 5 Corners, Shop link stays on our profiles.
 
 #TNTMusic #EdmondsWA #VinylRecords #SpinninYourGroove #Soundgarden #Badmotorfinger #ChrisCornell #SeattleMusic #Grunge #OnThisDay
 
@@ -92,7 +92,7 @@ Badmotorfinger turns 35 today 🤘
 
 Soundgarden put it out on October 8, 1991. Seattle crunch, still loud. Rusty Cage, Outshined, Jesus Christ Pose, all of it holds up.
 
-We've got it on the floor if you want to take one home. Open 11 to 7 at 8416 Bowdoin Way in 5 Corners, or browse tntmusic.shop.
+We've got it on the floor if you want to take one home. Open 11 to 7 at 8416 Bowdoin Way in 5 Corners, Shop link stays on our profiles.
 
 ### Version B: no copy in the shop (no stock claim)
 
@@ -101,7 +101,7 @@ Badmotorfinger turns 35 today 🤘
 
 Seattle crunch, still loud. Rusty Cage, Outshined, Jesus Christ Pose, all of it holds up. Come dig the Seattle bins with us and put something loud on.
 
-Open 11 to 7 in 5 Corners, or browse tntmusic.shop.
+Open 11 to 7 in 5 Corners, Shop link stays on our profiles.
 
 #TNTMusic #EdmondsWA #VinylRecords #SpinninYourGroove #Soundgarden #Badmotorfinger #ChrisCornell #SeattleMusic #Grunge #OnThisDay
 
@@ -110,7 +110,7 @@ Badmotorfinger turns 35 today 🤘
 
 Soundgarden put it out on October 8, 1991. Seattle crunch, still loud. Rusty Cage, Outshined, Jesus Christ Pose, all of it holds up.
 
-Come dig the Seattle bins with us. Open 11 to 7 at 8416 Bowdoin Way in 5 Corners, or browse tntmusic.shop.
+Come dig the Seattle bins with us. Open 11 to 7 at 8416 Bowdoin Way in 5 Corners, Shop link stays on our profiles.
 
 ---
 
@@ -124,7 +124,7 @@ Saturday plans: sorted 🍂
 
 Grab a chair, pull a few records, take your time. We're open 11 to 7 in 5 Corners.
 
-Can't make it in? tntmusic.shop is open all weekend.
+Can't make it in? The shop link is on our profiles.
 
 #TNTMusic #EdmondsWA #VinylRecords #SpinninYourGroove #RecordStore #CrateDigging #ShopLocal #SaturdayVibes
 
@@ -133,7 +133,7 @@ Saturday plans: sorted 🍂
 
 Grab a chair, pull a few records, take your time. We're open today 11 to 7 at 8416 Bowdoin Way in 5 Corners. Closed Sunday and Monday, back Tuesday.
 
-Can't make it in? tntmusic.shop is open all weekend.
+Can't make it in? The shop link is on our profiles.
 
 ---
 
