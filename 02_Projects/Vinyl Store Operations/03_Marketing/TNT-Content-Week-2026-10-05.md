@@ -16,16 +16,16 @@ updated: 2026-10-05
 - **Vinyl Scout:** Soundgarden *Badmotorfinger* (UPC 602557141580) shows **no inventory record** (in stock: blank). Last received 2025-10-21, 2 sales. Scout can't confirm a copy on the floor. **Tam: check the bins/back stock before Thursday.** Scout's signal calendar confirms Oct 8, 2026 is the 35th anniversary (orig. release Oct 8, 1991, A&M).
 - **Other Soundgarden in Scout:** Superunknown, Louder Than Love, Ultramega OK, Artists Den, Screaming Life/Fopp cassette also show no inventory record. Screaming Life/Fopp LP is at 0.
 - **TNT Releases board:** only Pearl Jam *Ten (Live)*, LP, 3 ordered, street date Nov 27. Nothing ready to advertise this week.
-- **Alice in Chains *MTV Unplugged* (canary yellow, 30th):** Tam shot two sealed copies on the lounge couch Oct 2 (`IMG_0182`). Not tracked in Scout yet, so confirm they're still in the bins before Tuesday goes up.
+- **Alice in Chains *MTV Unplugged* (canary yellow, 30th):** Tam shot two sealed copies on the lounge couch Oct 2 (`IMG_0182`). Already posted to IG/FB Oct 2, not reused this week.
 
 ## Photo bank (Mac ~/Pictures)
 
 | File | What it is | Use this week |
 |---|---|---|
 | `IMG_0106` | Storefront at golden hour: TNT MUSIC sign, purple doors open, OPEN neon, 8416 | **Google Tue** (hasn't been used in a prior week) |
-| `IMG_0182` | 2x Alice in Chains *Unplugged* canary yellow, sealed, on purple couch (Oct 2) | **Tue IG/FB** |
+| `IMG_0182` | 2x Alice in Chains *Unplugged* canary yellow, sealed, on purple couch (Oct 2) | Already posted Oct 2. Do not reuse |
 | `IMG_0148` | Lounge corner: orange swivel chairs, purple couch, yellow pillows, magazine rack, sticker spinner | **Sat IG/FB** (not used before) |
-| `IMG_0140` | Purple door + OPEN neon | Backup for Sat or Google (used Sept 14) |
+| `IMG_0140` | Purple door + OPEN neon | **Tue IG/FB** (used Sept 14) |
 | `IMG_0139` | OPEN neon in window, trees reflected | Stories filler / backup |
 | `IMG_0144` | Boxed Audio-Technica turntables + Studebaker boomboxes | Hold. Raffle prize shot from Sept; AT LP60XBT-BK shows 0 in Scout |
 
@@ -42,28 +42,28 @@ updated: 2026-10-05
 **Paste:**
 We're open Tuesday through Saturday, 11 to 7, in 5 Corners. New and used vinyl, turntables, and a comfy corner to hang out and dig. Fresh stuff hits the bins all week, and Thursday we're marking 35 years of Soundgarden's Badmotorfinger. Stop in at 8416 Bowdoin Way, Edmonds, or shop online at tntmusic.shop.
 
-> If Tam confirms there's no *Badmotorfinger* in stock, swap the Soundgarden line for: "This week we've got Alice in Chains MTV Unplugged on canary yellow vinyl." (Still a Seattle crunch week.)
+> If Tam confirms there's no *Badmotorfinger* in stock, swap the Soundgarden line for: "Looking for something specific? Ask us, we special order."
 
 ---
 
-## Tuesday Oct 6: IG + Facebook (Tam posts)
+## Tuesday Oct 6: IG + Facebook (Tam posts): special requests
 
-**Why this day:** Back open after the weekend. AiC *Unplugged* on canary yellow is a fresh, photogenic arrival and sets up Thursday's Seattle week.
-**Photo:** `IMG_0182` (ready). Confirm both copies are still here first. If one sold, crop to a single copy or shoot a new one in the bin.
+**Why this day:** Back open after the weekend. AiC *Unplugged* already went up Oct 2, so this one invites people to tell us what they're hunting for. It also sets up Thursday's Seattle post.
+**Photo:** `IMG_0140` purple door + OPEN neon (ready). A shot of the counter or a "requests" note card would be even better if Emma grabs one.
 
 **IG:**
-Canary yellow and unplugged 💛
+Looking for something we don't have? Tell us 💜
 
-Alice in Chains MTV Unplugged just landed on yellow vinyl for its 30th. First time on vinyl in the US. Grab one while we've got 'em.
+Drop the album in the comments or ask at the counter. We special order, and we make a point of stocking what you ask for.
 
 Open today 11 to 7 in 5 Corners. Or shop tntmusic.shop.
 
-#TNTMusic #EdmondsWA #VinylRecords #SpinninYourGroove #AliceInChains #MTVUnplugged #SeattleMusic #NowSpinning
+#TNTMusic #EdmondsWA #VinylRecords #SpinninYourGroove #RecordStore #SpecialOrders #ShopLocal
 
 **Facebook:**
-Canary yellow and unplugged 💛
+Looking for something we don't have? Tell us 💜
 
-Alice in Chains MTV Unplugged just landed on yellow vinyl for its 30th anniversary. First time on vinyl in the US. Grab one while we've got 'em.
+Drop the album in the comments or ask at the counter. We special order, and we make a point of stocking what you ask for.
 
 Open Tuesday through Saturday, 11 to 7. 8416 Bowdoin Way, Edmonds (5 Corners). Or shop online at tntmusic.shop.
 
@@ -71,7 +71,7 @@ Open Tuesday through Saturday, 11 to 7. 8416 Bowdoin Way, Edmonds (5 Corners). O
 
 ## Thursday Oct 8: IG + Facebook (Tam posts): Badmotorfinger turns 35
 
-**Why this day:** *Badmotorfinger* came out Oct 8, 1991. Held from last week so it lands on the actual anniversary. Seattle band, Seattle store crowd, AiC Tuesday sets it up.
+**Why this day:** *Badmotorfinger* came out Oct 8, 1991. Held from last week so it lands on the actual anniversary. Seattle band, Seattle store crowd.
 **Photo:** ⚠️ **NEW PHOTO NEEDED.** Nothing in Pictures fits. Tam or Emma: shoot the *Badmotorfinger* LP in the bin or on the lounge couch (same look as `IMG_0182`). No copy in the shop? Shoot the Soundgarden section or a Seattle stack (Soundgarden + AiC *Unplugged* + whatever's in the bins) and use Version B.
 
 **Stock gate:** Scout shows no inventory record for *Badmotorfinger*. **Only use Version A if Tam has eyes on a copy.**
@@ -148,7 +148,7 @@ Can't make it in? tntmusic.shop is open all weekend.
 ## Photos still needed (Tam / Emma)
 
 1. ⚠️ **Thursday:** *Badmotorfinger* LP in the shop (or Soundgarden/Seattle stack if no copy). Need by Wed night.
-2. **Tuesday:** quick check that the 2 AiC *Unplugged* copies are still here. Re-shoot only if one sold.
+2. **Tuesday (nice to have):** counter or requests card shot. `IMG_0140` works if not.
 3. **Saturday (nice to have):** live Saturday floor shot with customers (with OK). `IMG_0148` works if not.
 
 ## Hold / do not say

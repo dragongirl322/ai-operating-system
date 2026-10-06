@@ -3774,3 +3774,7 @@ I woke up in the middle of a nightmare that I was at Rising and was presenting. 
 ## Sunday October 4
 
 It seems like I’m in a constant tug-o-war with my own self, vaccinating between surrender and trust in the universe and the fear driven desire to control things. I have told myself for so long that “safety” comes from bringing in a big check every two weeks and the adjustment to not doing that is tough. Every morning I will remind myself of the importance of surrender…giving my idea of control over to the universe, believing in my ability, what my logic tells me, and the system around me to work in ways that allows me to grow. It is important that I allow my love and creativity and internal goodness unfold vs. trying to force things. 
+
+## Monday October 5
+
+This is a week of doing and giving. No mediocrity or complacency from me. Not that I’m that way in general. But to push 1% more is what I want. Every moment, even the bits spent in the sunshine, are the nectar of life.
