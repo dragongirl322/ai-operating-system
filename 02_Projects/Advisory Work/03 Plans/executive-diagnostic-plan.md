@@ -275,14 +275,10 @@ They are often facing questions such as:
 
 - Why is growth slowing?
 - Why is strategy not translating into execution?
-- Why is the organization becoming harder to oerate as it scales?
-    
+- Why is the organization becoming harder to operate as it scales?
 - Why are product, customer, and commercial teams not moving together?
-    
 - What has to change before the next investment round, recapitalization, or growth phase?
-    
 - Which problems are structural versus leadership, process, product, or talent issues?
-    
 
 These buyers are not looking for generic consulting support.
 
@@ -297,36 +293,23 @@ The second buying path is through the investment firm.
 Typical buyers include:
 
 - PE operating partner
-    
 - PE partner or principal responsible for the investment
-    
 - portfolio operations leader
-    
 - VC partner actively involved in scaling portfolio companies
-    
 - occasionally an investor-backed board member
-    
 
 These buyers are focused less on one isolated organizational problem and more on whether a company can deliver against its **investment thesis or next-stage growth ambition**.
 
 They may bring the practice into a portfolio company when:
 
 - revenue growth is below expectations;
-    
 - the company is struggling to scale;
-    
 - leadership changes have not produced the expected result;
-    
 - the operating model is constraining execution;
-    
 - the company needs to professionalize without becoming bureaucratic;
-    
 - customer or product performance is not supporting the growth thesis;
-    
 - an acquisition or recapitalization requires a significant transformation;
-    
 - or the investor believes management is solving symptoms rather than causes.
-    
 
 The value proposition for the investor is straightforward:
 
@@ -334,9 +317,7 @@ The value proposition for the investor is straightforward:
 
 Over time, this buying path is strategically important because a successful engagement can create **repeat access across a portfolio**, rather than producing only a single-company relationship.
 
----
-
-## Buying Trigger
+ **Buying Trigger**
 
 The strongest trigger is not simply that a company has a problem.
 
@@ -345,23 +326,14 @@ It is that the company has reached a **consequential inflection point** where le
 That may be driven by:
 
 - a new investment;
-    
 - pressure to improve growth or margin;
-    
 - preparation for additional funding;
-    
 - a stalled transformation;
-    
 - a major strategy shift;
-    
 - a new CEO or leadership team;
-    
 - acquisition integration;
-    
 - AI-driven business change;
-    
 - or a requirement to materially increase enterprise value.
-    
 
 In these situations, the buyer's core question is:
 
