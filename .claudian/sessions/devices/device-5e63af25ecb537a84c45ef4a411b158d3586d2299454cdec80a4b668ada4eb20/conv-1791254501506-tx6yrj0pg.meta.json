@@ -1,0 +1,24 @@
+{
+  "id": "conv-1791254501506-tx6yrj0pg",
+  "providerId": "claude",
+  "title": "Rewrite with BLUF structure",
+  "titleGenerationStatus": "success",
+  "createdAt": 1791254501515,
+  "lastActivityAt": 1791254834541,
+  "sessionId": "26f01842-8352-41c6-aa6b-c881e160b364",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "26f01842-8352-41c6-aa6b-c881e160b364"
+  },
+  "linkedContentPath": "02_Projects/Advisory Work/03 Plans/executive-diagnostic-plan.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 4973,
+    "cacheReadInputTokens": 45215,
+    "contextWindow": 967000,
+    "contextTokens": 50190,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}

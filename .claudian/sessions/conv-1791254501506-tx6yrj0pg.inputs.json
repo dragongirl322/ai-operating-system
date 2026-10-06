@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1791254501506-tx6yrj0pg",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1791254501573-9rtnx6k",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1791254501500-ypi7hf1",
+      "timestamp": 1791254501500,
+      "rawDisplayText": "The primary conversational version could stand to be written with the BLUF vs. buried. Take a stab at the rewrite for me here in chat.",
+      "canonicalText": "The primary conversational version could stand to be written with the BLUF vs. buried. Take a stab at the rewrite for me here in chat.",
+      "context": {
+        "linkedContent": {
+          "path": "02_Projects/Advisory Work/03 Plans/executive-diagnostic-plan.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "6e1a10a4351464349b7d6ae9ab8db83bfe5ed8dc561fd0fcfff4794c0cbf2ba7",
+      "providerUserMessageId": "31afabca-cecf-4b86-a176-6bfee40c478e",
+      "providerAssistantMessageId": "bdbe2d13-15e0-496e-88f1-a74dc0e5508f"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1791254585186-s9zpg06",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1791254585182-8cprvv1",
+      "timestamp": 1791254585182,
+      "rawDisplayText": "Before you do that, I need you to drop the em-dashes.",
+      "canonicalText": "Before you do that, I need you to drop the em-dashes.",
+      "images": [],
+      "contentDigest": "4b0799b02bb161d30f8198908b9d6bdf4a2589f2fa8d525054caced728cbc744",
+      "providerUserMessageId": "c6a724e0-0a16-4321-a143-f3e0987fa074",
+      "providerAssistantMessageId": "13771166-49a9-4951-977f-5caff5648a7a"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1791254718389-c6cj9le",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1791254718383-23vv1bo",
+      "timestamp": 1791254718383,
+      "rawDisplayText": "The last sentence in the first paragraph isn't working for me. Rather than say what companies \"often think\" the problem is, how about we just say something to the effect of mis-diagnosing the problem and the risk that brings to the situation. \n\nFirst sentence in the second paragraphI think we can lose \"around that capability\" and say ...advisory practice of short, focused engagement....",
+      "canonicalText": "The last sentence in the first paragraph isn't working for me. Rather than say what companies \"often think\" the problem is, how about we just say something to the effect of mis-diagnosing the problem and the risk that brings to the situation. \n\nFirst sentence in the second paragraphI think we can lose \"around that capability\" and say ...advisory practice of short, focused engagement....",
+      "images": [],
+      "contentDigest": "00eb8ae321a8a183c65bd3eda34e16a5e78009fb545af753ea17cd3b21d5dfd2",
+      "providerUserMessageId": "8c270e15-e137-4978-8cf3-fd316ac45d4b",
+      "providerAssistantMessageId": "36a576d3-1731-4fd1-97a0-834e85439b89"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1791254785068-5h4tlzl",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1791254785062-4m0e5b7",
+      "timestamp": 1791254785062,
+      "rawDisplayText": "It's good. Make the changes directly. Fix short and very short version.",
+      "canonicalText": "It's good. Make the changes directly. Fix short and very short version.",
+      "images": [],
+      "contentDigest": "84958a4212b3d9de0a714487504e7d671b572c99a8073d58ce19ab6084898f09",
+      "providerUserMessageId": "db730df0-37c2-4282-b530-15569fcf1c96",
+      "providerAssistantMessageId": "251c3f00-5cb6-4495-9612-76a920218c09"
+    }
+  ]
+}
