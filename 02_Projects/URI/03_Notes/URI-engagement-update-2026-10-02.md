@@ -86,6 +86,54 @@ The vision workshop is an intervention, not proof that the vision problem is sol
 3. **Unified AI ownership:** What authority, people, assets, and client commitments transfer to Tam after the decision?
 4. **Leadership trust:** How will Trinh avoid ambiguous commitments to Shawn and address any legitimate unresolved compensation or expectation issues directly?
 
+## Addendum — 6 October 2026
+
+### Trinh communication-clarity watchpoint
+
+#### Observed sequence
+
+- Last week, Trinh asked Tam to join an October 6 meeting with the board to talk through the AI work Trinh has asked Tam to lead.
+- Tam built a presentation deck on Thursday, October 1, based on that understanding.
+- On October 5, Trinh sent Tam a different presentation template with slides already populated for Tam. Those slides covered only Nine Skills training, and Trinh described the session as a working meeting with Dan. This meeting format and narrower initial content were new information to Tam.
+- Tam sought clarification and learned that Trinh did want her to add slides about the broader work she is leading.
+- On October 6, Tam met with Trinh to ask how Trinh wanted to discuss the overlap between Tam’s work and the Evals work led by Justin and Dalien.
+
+#### Interpretation and contrary evidence
+
+- This is one concrete example of unclear or late-changing communication creating avoidable rework and potential presentation risk for Tam.
+- It could reflect a changed meeting design, an incomplete original brief, or a broader pattern of ambiguous commitments. One instance does not distinguish among those explanations.
+- Positive contrary evidence: Trinh remains consistent in her strategic language. She describes the parallel efforts as a deliberate way to fail fast and learn, says they do not need to conflict, and continues to state that they will eventually merge into one effort.
+
+#### Planned response and evidence to watch
+
+- Tam will continue logging concrete instances and intends to address the pattern directly with Trinh on the third instance.
+- Evidence to capture: what Tam was initially told, what changed, when the change was communicated, the avoidable work or risk created, and whether Trinh changes her briefing behavior after direct feedback.
+- A low-cost operating safeguard is to confirm important meetings in writing with the audience, purpose, decision sought, Tam’s role, expected content, and template or format before substantial preparation begins.
+
+### Lingan fit watchpoint
+
+#### Direct observations
+
+- Lingan, the software-engineering advisor Trinh assigned to the Human–AI Readiness Assurance effort, spoke at length during the kickoff and at times diverted the group from its intended discussion.
+- Lingan referenced work by Lynn Wu as support for using AI to improve process. Tam’s review indicates that the referenced paper concerns data science improving process rather than AI specifically, although its ideas may be extrapolated to AI. This paper characterization has not been independently verified in this note.
+
+#### Working hypothesis
+
+- Lingan may not yet understand the readiness effort well enough to be the right advisor or collaborator for it.
+- The alternative explanation is that he is translating adjacent process-improvement research into the AI context and has not yet calibrated his contribution style to the group. The current evidence is insufficient to determine fit.
+
+#### Evidence to watch
+
+- Whether Lingan can accurately restate the intended problem, scope, buyer, and role of Human–AI Readiness Assurance.
+- Whether he distinguishes direct evidence from extrapolation when citing research.
+- Whether he listens, stays within the meeting objective, and adapts after facilitation or feedback.
+- Whether his software-engineering perspective produces decisions, technical constraints, prototypes, or other contributions the effort actually needs.
+- Whether the team can define a bounded role for him with a clear deliverable and review point before making a broader personnel judgment.
+
+### Diagnostic implication
+
+These updates introduce two capability and operating-model questions without yet establishing either as a persistent problem. Trinh’s communication created real preparation friction, but her strategic position on the two AI efforts remains consistent. Lingan generated meeting friction and may be working from an adjacent rather than exact evidence base, but his fit should be tested through a clear role, feedback, and observable contribution rather than inferred from one kickoff.
+
 ## Related notes
 
 - [[URI-work-to-date-summary]]
