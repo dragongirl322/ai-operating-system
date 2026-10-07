@@ -3783,6 +3783,6 @@ This is a week of doing and giving. No mediocrity or complacency from me. Not th
 
 I had a nearly typical working Monday in that for most of the day I felt that Monday flatness. My brain was working but not loving what it was working on. I felt a momentary “oh fuck” stress with building a deck for URI board today. When I let go, which took a couple of hours, it was fine. Last night I was thinking “I don’t really love this URI work” and that is honest. In a different time, I’d walk. The place is a bit o a mess and Trinh is a mediocre leader, at best. In fact, I’d say she is not leading. I reminded myself this isn’t about doing the thing I love right now. This is about an experiment and learning and figuring out if this advisory work I want to do for the last of my life will take. It is about helping Trinh to lead. If anybody can do it, I can do it. So fuck loving what I do. I have a ton of freedom to explore and that is priceless. 
 
-Wednesday October 7
+## Wednesday October 7
 
-Keep the bellows blowing so the fire can get going. It isn’t as easy a
+Keep the bellows blowing so the fire can get going. It isn’t as easy as it is when I’m in my learned comfort zone, people above me breathing down my neck. I don’t need or want that anymore but I crave it because it is what I know and how I’ve thrived for so long in my career. Now the fire comes from within. And now the rules have changed. I am in a situation where I an help an underwhelming company chart a new path. The good news is that I do see something in Justin and I know Trinh will work her tail off. This is uncomfortable as hell but I am starting to like it. 
