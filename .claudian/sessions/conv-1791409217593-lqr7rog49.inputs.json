@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1791409217593-lqr7rog49",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1791409217623-a87f5ps",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1791409217586-w89uowm",
+      "timestamp": 1791409217586,
+      "rawDisplayText": "There are a number of research studies and documents referenced in the notes under the Osprey folder. I am interested in knowing which studies or documents I can use to test a schema I've created. I'd like you to review the referenced documents for each of the notes and come back and let me know which I should use to test this schema:\n\nOutcome Integrity: Did the workflow produce the right outcome?\nExplainability: Did the system make the relevant basis, uncertainty, limitations, and actions legible?\nComprehension: Did people form an accurate understanding?\nUsability: Could people operate the workflow without unreasonable effort or burden?\nControl: Could people meaningfully govern, intervene, and recover?",
+      "canonicalText": "There are a number of research studies and documents referenced in the notes under the Osprey folder. I am interested in knowing which studies or documents I can use to test a schema I've created. I'd like you to review the referenced documents for each of the notes and come back and let me know which I should use to test this schema:\n\nOutcome Integrity: Did the workflow produce the right outcome?\nExplainability: Did the system make the relevant basis, uncertainty, limitations, and actions legible?\nComprehension: Did people form an accurate understanding?\nUsability: Could people operate the workflow without unreasonable effort or burden?\nControl: Could people meaningfully govern, intervene, and recover?",
+      "images": [],
+      "contentDigest": "005d533bfd94df24ebac1917f7bedf3dc4018d6d8d3ceada235c8fb7e9237435",
+      "providerUserMessageId": "683b2ee2-2e7d-4146-a6e8-5551f438780e",
+      "providerAssistantMessageId": "36f96dfe-fd3a-4293-8a02-f503e191ab37"
+    }
+  ]
+}

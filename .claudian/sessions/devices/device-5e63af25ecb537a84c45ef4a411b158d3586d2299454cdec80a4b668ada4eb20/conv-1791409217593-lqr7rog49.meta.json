@@ -1,0 +1,23 @@
+{
+  "id": "conv-1791409217593-lqr7rog49",
+  "providerId": "claude",
+  "title": "Review Osprey documents for schema testing",
+  "titleGenerationStatus": "success",
+  "createdAt": 1791409217598,
+  "lastActivityAt": 1791409333618,
+  "sessionId": "b14a0b2f-2911-4e44-ba42-7ddb4fdcf10b",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "b14a0b2f-2911-4e44-ba42-7ddb4fdcf10b"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 17351,
+    "cacheReadInputTokens": 54491,
+    "contextWindow": 967000,
+    "contextTokens": 71844,
+    "percentage": 7,
+    "contextWindowIsAuthoritative": true
+  }
+}
