@@ -3786,3 +3786,9 @@ I had a nearly typical working Monday in that for most of the day I felt that Mo
 ## Wednesday October 7
 
 Keep the bellows blowing so the fire can get going. It isn’t as easy as it is when I’m in my learned comfort zone, people above me breathing down my neck. I don’t need or want that anymore but I crave it because it is what I know and how I’ve thrived for so long in my career. Now the fire comes from within. And now the rules have changed. I am in a situation where I an help an underwhelming company chart a new path. The good news is that I do see something in Justin and I know Trinh will work her tail off. This is uncomfortable as hell but I am starting to like it. 
+
+## Thursday October 8
+
+Courage and surrender are my words. I had a moment last night where I felt a grip of emotional fear and sadness. Wondering what the hell I’m doing not getting myself back in the workforce. I know it is triggered by my time with Dave Brown, hearing about his new job at Expedia, looking at the demo of the app he created. I bounced back when I remembered that I am doing this because it is something I need to do for me, for my family, for humanity. Let’s go! 
+
+Also, 23 years ago today we lost Dayna’s dad. It still feels raw. 
