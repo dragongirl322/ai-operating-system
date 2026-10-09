@@ -649,3 +649,7 @@ A new month. This is a discipline month. Dig in to work, writing, health. It is 
 ## Saturday October 3
 
 I’m grateful Dayna survived her cancer. October 6 years ago was tough. I’m saddened to know a former MSFT colleague lost his husband to cancer yesterday. I’m grateful to know how important it is to drink the milk of life in every damn moment. Momento mori. 
+
+## Thursday October 8
+
+I’ve gotten lax at writing in the evenings. I’m not sure why. Last night I had the strangest wave of fear and slight depression for about 5 minutes. 5 minutes too long for my liking. I wrote about it this morning so no need to go through it again. Tonight I feel good. Tired. But good. I am a tigress and a warrior. I’ve walked through tough, fought and tumble childhood, courageous fire young adulthood, beautiful youth and into my middle aged self. I know who I am. That says a lot. 
