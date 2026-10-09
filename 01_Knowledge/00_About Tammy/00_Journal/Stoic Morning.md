@@ -3792,3 +3792,7 @@ Keep the bellows blowing so the fire can get going. It isn’t as easy as it is 
 Courage and surrender are my words. I had a moment last night where I felt a grip of emotional fear and sadness. Wondering what the hell I’m doing not getting myself back in the workforce. I know it is triggered by my time with Dave Brown, hearing about his new job at Expedia, looking at the demo of the app he created. I bounced back when I remembered that I am doing this because it is something I need to do for me, for my family, for humanity. Let’s go! 
 
 Also, 23 years ago today we lost Dayna’s dad. It still feels raw. 
+
+## Friday October 9
+
+Emma was sick yesterday, probably again today. I’m a record store employee this week. The embrace of the slow, simple, wonderful. 
