@@ -1,8 +1,8 @@
 ---
 title: TNT content week of Oct 5, 2026
-status: Tue IG/FB special-requests posted Oct 6 ~3:07 PM (no shop URLs). Google Business still blocked on sign-in. Thu/Sat drafts ready. Drop tntmusic.shop from all posts going forward.
+status: Tue IG/FB special-requests posted Oct 6 ~3:07 PM (no shop URLs). Thu Badmotorfinger IG/FB posted Oct 8 ~10:56 AM PT (IMG_0189, Version A, no shop URLs). Google Business still blocked on sign-in. Sat draft ready. Drop tntmusic.shop from all posts going forward.
 cadence: Tam posts Facebook + Instagram; Groove posts Google
-updated: 2026-10-05
+updated: 2026-10-08
 ---
 
 # Week of Oct 5, 2026: Social + Google
@@ -69,10 +69,10 @@ Open Tuesday through Saturday, 11 to 7. 8416 Bowdoin Way, Edmonds (5 Corners). S
 
 ---
 
-## Thursday Oct 8: IG + Facebook (Tam posts): Badmotorfinger turns 35
+## Thursday Oct 8: IG + Facebook: Badmotorfinger turns 35 ✅ POSTED ~10:56 AM PT (Version A, IMG_0189)
 
 **Why this day:** *Badmotorfinger* came out Oct 8, 1991. Held from last week so it lands on the actual anniversary. Seattle band, Seattle store crowd.
-**Photo:** ⚠️ **NEW PHOTO NEEDED.** Nothing in Pictures fits. Tam or Emma: shoot the *Badmotorfinger* LP in the bin or on the lounge couch (same look as `IMG_0182`). No copy in the shop? Shoot the Soundgarden section or a Seattle stack (Soundgarden + AiC *Unplugged* + whatever's in the bins) and use Version B.
+**Photo:** `IMG_0189` Badmotorfinger LP on TNT display shelf (used). Version A posted.
 
 **Stock gate:** Scout shows no inventory record for *Badmotorfinger*. **Only use Version A if Tam has eyes on a copy.**
 
@@ -147,7 +147,7 @@ Can't make it in? The shop link is on our profiles.
 
 ## Photos still needed (Tam / Emma)
 
-1. ⚠️ **Thursday:** *Badmotorfinger* LP in the shop (or Soundgarden/Seattle stack if no copy). Need by Wed night.
+1. ✅ **Thursday:** *Badmotorfinger* photo done (`IMG_0189`). Posted Oct 8.
 2. **Tuesday (nice to have):** counter or requests card shot. `IMG_0140` works if not.
 3. **Saturday (nice to have):** live Saturday floor shot with customers (with OK). `IMG_0148` works if not.
 
