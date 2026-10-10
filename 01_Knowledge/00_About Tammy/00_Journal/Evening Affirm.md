@@ -653,3 +653,7 @@ I’m grateful Dayna survived her cancer. October 6 years ago was tough. I’m s
 ## Thursday October 8
 
 I’ve gotten lax at writing in the evenings. I’m not sure why. Last night I had the strangest wave of fear and slight depression for about 5 minutes. 5 minutes too long for my liking. I wrote about it this morning so no need to go through it again. Tonight I feel good. Tired. But good. I am a tigress and a warrior. I’ve walked through tough, fought and tumble childhood, courageous fire young adulthood, beautiful youth and into my middle aged self. I know who I am. That says a lot. 
+
+## Friday October 9
+
+It rained most of the day. Cold, damp, dark. It was a good day, though. I’m stuck a little in the fear thinking around money loop tonight. I’m not sure when I’ll lose that. It is so odd not to have money coming in, really, and to be unsure if what I’m doing with URI will pan out. It is a risk. I must remember that great things come from risk and that getting out of my comfort zone will bring about goodness. Surrender and courage. 
