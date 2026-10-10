@@ -3796,3 +3796,7 @@ Also, 23 years ago today we lost Dayna’s dad. It still feels raw.
 ## Friday October 9
 
 Emma was sick yesterday, probably again today. I’m a record store employee this week. The embrace of the slow, simple, wonderful. 
+
+## Saturday October 10
+
+I’ve got 20 against D’s 20 that Emma is sick again today and I’m working at the store. It’s OK. I enjoy seeing the few people who come in and I spend time listening to music and doing work like things. I read a book recently that showed how every civilization has failed. I saw a TED talk yesterday with a lady saying the same. We are toward the projected and observable end of the civilization we are currently in. The most important thing to do right now is to live life to its fullest and to be here for ourselves and others. Lifting humanity through kindness, support, and candor.
