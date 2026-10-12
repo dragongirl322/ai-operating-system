@@ -658,6 +658,6 @@ I’ve gotten lax at writing in the evenings. I’m not sure why. Last night I h
 
 It rained most of the day. Cold, damp, dark. It was a good day, though. I’m stuck a little in the fear thinking around money loop tonight. I’m not sure when I’ll lose that. It is so odd not to have money coming in, really, and to be unsure if what I’m doing with URI will pan out. It is a risk. I must remember that great things come from risk and that getting out of my comfort zone will bring about goodness. Surrender and courage. 
 
-Sunday October 10
+## Sunday October 10
 
 Feeling incredibly grateful for the love I receive and feel for my family. Realizing that the things that have pushed me furthest hour of my comfort are the things that have created such goodness. 

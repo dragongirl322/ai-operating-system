@@ -3800,3 +3800,7 @@ Emma was sick yesterday, probably again today. I’m a record store employee thi
 ## Saturday October 10
 
 I’ve got 20 against D’s 20 that Emma is sick again today and I’m working at the store. It’s OK. I enjoy seeing the few people who come in and I spend time listening to music and doing work like things. I read a book recently that showed how every civilization has failed. I saw a TED talk yesterday with a lady saying the same. We are toward the projected and observable end of the civilization we are currently in. The most important thing to do right now is to live life to its fullest and to be here for ourselves and others. Lifting humanity through kindness, support, and candor.
+
+## Monday October 12
+
+The type of clear, clean, chilly October morning that gets the blood flowing. I’m alert. I’m motivated. I’m tired from a weekend of cleaning vinyl. I’m still adjusting to a new and slightly uncomfortable way of working. It is a privalege to be able to experience this.
