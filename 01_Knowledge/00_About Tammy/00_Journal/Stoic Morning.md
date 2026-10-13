@@ -3804,3 +3804,9 @@ I’ve got 20 against D’s 20 that Emma is sick again today and I’m working a
 ## Monday October 12
 
 The type of clear, clean, chilly October morning that gets the blood flowing. I’m alert. I’m motivated. I’m tired from a weekend of cleaning vinyl. I’m still adjusting to a new and slightly uncomfortable way of working. It is a privalege to be able to experience this.
+
+## Tuesday October 13
+
+Some days I can’t help but think that this AI revolution is going to set us so far backwards. We’re already seeing signs of that. I still struggle to understand how, in a world where AI displaces so many from employment, we have an economy at all. If so many aren’t working and aren’t’ making money, who is buying the shit that AI is producing? These motherfucker tech bros are fucked. 
+
+Ok, anger out! Now today I set my sights on what I can control. I have work to do at URI. I have work to do for the record store. I have work to do to keep myself moving forward with grace.
