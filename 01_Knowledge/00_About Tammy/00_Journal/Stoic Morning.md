@@ -3810,3 +3810,7 @@ The type of clear, clean, chilly October morning that gets the blood flowing. I�
 Some days I can’t help but think that this AI revolution is going to set us so far backwards. We’re already seeing signs of that. I still struggle to understand how, in a world where AI displaces so many from employment, we have an economy at all. If so many aren’t working and aren’t’ making money, who is buying the shit that AI is producing? These motherfucker tech bros are fucked. 
 
 Ok, anger out! Now today I set my sights on what I can control. I have work to do at URI. I have work to do for the record store. I have work to do to keep myself moving forward with grace.
+
+## Wednesday October 14
+
+The goodness of the universe and grace or whatever we care to call it has lifted me so many times in my life and continues to. I am here to support, elevate, and love myself and others and that is what I will spend the rest of my time on this planet doing. Fear, skepticism, ruminating, ego are enemies to my purpose. Being informed of facts helps. Worrying about or trying to counter some facts is suffering. None of that bullshit. Let’s keep on going!
