@@ -7,7 +7,7 @@ Topic: partnership between URI and Sandy's FDE firm.
 - The firm is very early days. They have one client they are actively working with.
 - They recently announced a partnership with [partner name to confirm].
 - Sandy is open to being acquired, potentially by URI.
-- Sandy suggested meeting with Trinh (heard as "Tran") and/or [name to confirm, heard as "adjusting"].
+- Sandy suggested meeting with Trinh and/or Justin.
 
 ## Next steps
 - Tam: connect with Trinh on the partnership and acquisition topic (Notion task, due Tue Oct 20).
