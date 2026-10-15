@@ -661,3 +661,7 @@ It rained most of the day. Cold, damp, dark. It was a good day, though. I’m st
 ## Sunday October 10
 
 Feeling incredibly grateful for the love I receive and feel for my family. Realizing that the things that have pushed me furthest hour of my comfort are the things that have created such goodness. 
+
+## Wednesday October 14
+
+It strikes me that when the worst of humanity shines, so does the best. I’m sure this can and has been studied through historical events. It is amazing to experience the generosity of people right now, even in the face of the tech bros and the oligarchy pressing forward without thought for consequences. The billionaires furlough their brows and with great sounds of sympathy say “we know AI will take jobs and we’re working to make sure it has minimum impact on society.” Bullshit. At the same time, the every day person is reaching out to the other every day person asking how they can help. Women are rising up against the systematic rape of their human sisters. Also, bullshit that it happens so often, still. It is a good time to be alive. 
