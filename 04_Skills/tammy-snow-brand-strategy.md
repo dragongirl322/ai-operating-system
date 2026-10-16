@@ -154,14 +154,14 @@ All three accents are tuned to the same perceptual weight, so swapping one for a
 
 A transitional serif for display, a neutral grotesk for everything else. The pairing is what makes the system read classic rather than merely minimal. This is a deliberate reversal of the Version 1.0 rule against mixing serif and sans.
 
-| Element | Specification |
-|---|---|
-| **Display face** | Georgia. |
-| **Body face** | Inter. Regular and Medium only. |
-| **Weight** | Display set in Regular, never Bold. At scale, restraint reads as confidence. |
-| **Emphasis** | Weight and space. Never italics, never color, never underline outside hyperlinks. |
-| **Data & numbers** | Tabular figures in the body face. Numbers align vertically. |
-| **Avoid** | Script and decorative faces. All-caps beyond short labels. More than two weights per composition. |
+| Element            | Specification                                                                                     |
+| ------------------ | ------------------------------------------------------------------------------------------------- |
+| **Display face**   | Georgia.                                                                                          |
+| **Body face**      | Inter. Regular and Medium only.                                                                   |
+| **Weight**         | Display set in Regular, never Bold. At scale, restraint reads as confidence.                      |
+| **Emphasis**       | Weight and space. Never italics, never color, never underline outside hyperlinks.                 |
+| **Data & numbers** | Tabular figures in the body face. Numbers align vertically.                                       |
+| **Avoid**          | Script and decorative faces. All-caps beyond short labels. More than two weights per composition. |
 
 ### Type Scale
 
