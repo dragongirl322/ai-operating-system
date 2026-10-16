@@ -3814,3 +3814,7 @@ Ok, anger out! Now today I set my sights on what I can control. I have work to d
 ## Wednesday October 14
 
 The goodness of the universe and grace or whatever we care to call it has lifted me so many times in my life and continues to. I am here to support, elevate, and love myself and others and that is what I will spend the rest of my time on this planet doing. Fear, skepticism, ruminating, ego are enemies to my purpose. Being informed of facts helps. Worrying about or trying to counter some facts is suffering. None of that bullshit. Let’s keep on going!
+
+Friday October 15
+
+It is going to be a beautiful day. Dayna has tweaked her back and isn’t dealing well. It is as if her entire body wants to shut down and she 
