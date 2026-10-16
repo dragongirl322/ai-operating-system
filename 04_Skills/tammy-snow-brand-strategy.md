@@ -132,15 +132,9 @@ Near-black and off-white carry the entire system. A single accent appears at und
 | **Graphite** | `#4A4A4A` | Secondary type, captions            |
 | **Silver**   | `#D8D8D6` | Hairlines, dividers, borders        |
 | **Oxblood**  | `#7A2E2E` | Primary accent                      |
+| **Ink Blue** | `#3D4E7E` | Research and evidence-led work      |
+| **Moss**     | `#4A5A40` | Capability and development work     |
 
-#### Secondary Accents
-
-Oxblood is the primary accent and the default everywhere. Ink Blue is the quieter, more institutional register. Moss is softer and less expected. Both are secondary: they exist to distinguish a body of work, not to add variety inside one. Choose one and hold it across the whole body of work.
-
-| Color        | Hex       | Use                             |
-| ------------ | --------- | ------------------------------- |
-| **Ink Blue** | `#3D4E7E` | Research and evidence-led work  |
-| **Moss**     | `#4A5A40` | Capability and development work |
 
 All three accents are tuned to the same perceptual weight, so swapping one for another changes the register without changing the design.
 
