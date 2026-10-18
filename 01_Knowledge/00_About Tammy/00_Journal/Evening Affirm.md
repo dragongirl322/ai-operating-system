@@ -666,6 +666,6 @@ Feeling incredibly grateful for the love I receive and feel for my family. Reali
 
 It strikes me that when the worst of humanity shines, so does the best. I’m sure this can and has been studied through historical events. It is amazing to experience the generosity of people right now, even in the face of the tech bros and the oligarchy pressing forward without thought for consequences. The billionaires furlough their brows and with great sounds of sympathy say “we know AI will take jobs and we’re working to make sure it has minimum impact on society.” Bullshit. At the same time, the every day person is reaching out to the other every day person asking how they can help. Women are rising up against the systematic rape of their human sisters. Also, bullshit that it happens so often, still. It is a good time to be alive. 
 
-Friday October 16
+## Friday October 16
 
 I’ve had several conversations in the past few weeks with people stuck in the mix of corporate tech. It is a tough place. I remember when I left MSFT in 2008 and then the economy tanked in 2009. I felt afraid yet liberated. The golden handcuffs and the comfort of the constant pay, benefits, known entity is so alluring. Maybe there will come a time when I step back in. For now, I’m OK being where I am. I’m excited about what is happening and love that I am slowly, day by day, unwinding the corporate stress. It isn’t as if I ever lost myself but being on constant high urgency, gotta prove myself setting is too much.
