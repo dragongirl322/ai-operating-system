@@ -3820,3 +3820,9 @@ The goodness of the universe and grace or whatever we care to call it has lifted
 It is going to be a beautiful day. Dayna has tweaked her back and isn’t dealing well. Times like this I wish she could settle. She doesn’t rest often. She did during cancer but only to the point healthy people often do. It frustrates me but loving her means I gently encourage and support rest while also helping her by doing more. 
 
 I’ve just discovered that Andy has spun up his own company which is directly competing with URI. I personally don’t see how they can keep him on their board given it allows him access to confidential information. It will be interesting to see if they choose to remove him. If they don’t, that is not a good signal to me. Stupid business to keep him on. 
+
+Monday October 19
+
+Some mornings I wake up feeling low and sad. I suspect sometimes it is the dreaming that I have. Sometimes I think that is just the way my clock works. I rarely let it affect the entire day. I have habits that allow me to move beyond. Today is one of those. It is going to take will, focus, discipline to stay on track. Dayna’s back and body are all fucked up still and she isn’t sleeping so she projects and expresses. I can’t let what is happening to her and with her and from her be a personal impediment to me. My codependency is sometimes an issue. Less so now than our early years. 
+
+I have things to do today. We have a ton of used records to get listed!
