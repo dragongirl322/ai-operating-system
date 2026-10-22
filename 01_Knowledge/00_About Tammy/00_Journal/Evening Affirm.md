@@ -669,3 +669,11 @@ It strikes me that when the worst of humanity shines, so does the best. I’m su
 ## Friday October 16
 
 I’ve had several conversations in the past few weeks with people stuck in the mix of corporate tech. It is a tough place. I remember when I left MSFT in 2008 and then the economy tanked in 2009. I felt afraid yet liberated. The golden handcuffs and the comfort of the constant pay, benefits, known entity is so alluring. Maybe there will come a time when I step back in. For now, I’m OK being where I am. I’m excited about what is happening and love that I am slowly, day by day, unwinding the corporate stress. It isn’t as if I ever lost myself but being on constant high urgency, gotta prove myself setting is too much.
+
+## Wednesday October 21
+
+I’m very much disliking Dayna’s ongoing back and leg discomfort. She needs sleep and rest. She can’t stay still in one position long. Laying down is hard. She is handling it with as much grace as she can but I know she has fear it won’t stop. It is frustrating that our medical system is such a mess that it is weeks before she can get in to a doctor. It leaves us with ER as the only option and that isn’t idea. It is the plan for tomorrow, however. 
+
+In other news, I’m moving full force ahead with URI. It is nice to be able to do deep work and thinking. My attention span is still an issue as I bounce from thing to thing. But I’m motivated and enjoying the process. And so grateful for the health coverage.
+
+I also continue to have the mental model battles regarding spending money rather than bringing money in. It feels foreign and strange. I still haven’t fully grasped the idea that our money is now working for us. 
