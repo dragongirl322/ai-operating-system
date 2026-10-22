@@ -13,5 +13,10 @@ Context: Trinh and Justin asked Tam to take over URI's internal AI tooling work.
 4. **Open commitments:** promised deliverables, deadlines, and who is waiting on them.
 5. **Shawn's ongoing role:** how he wants to stay involved going forward.
 
+Other topics:
+1. study with FDE/ISVs?
+2. what is next w/ the two 1 pagers? Are we ready to start talking about our stuff or do you want to wait until we've run our first five standards study and I've written white papers?
+3. 
+
 ## Next steps
 - 
