@@ -22,9 +22,9 @@ URI status: active
 
 ## Executive Diagnostic & Advisory Practice
 
-### Business Plan and 12-Month Roadmap
+### Business Plan and 15-Month Roadmap
 
-#### October 2026 – September 2027
+#### October 2026 – December 2027
 
 ### 1. The Business in One Sentence
 
