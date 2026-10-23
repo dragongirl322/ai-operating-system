@@ -677,3 +677,7 @@ I’m very much disliking Dayna’s ongoing back and leg discomfort. She needs s
 In other news, I’m moving full force ahead with URI. It is nice to be able to do deep work and thinking. My attention span is still an issue as I bounce from thing to thing. But I’m motivated and enjoying the process. And so grateful for the health coverage.
 
 I also continue to have the mental model battles regarding spending money rather than bringing money in. It feels foreign and strange. I still haven’t fully grasped the idea that our money is now working for us. 
+
+## Thursday October 22
+
+In spite of the tough week of Dayna dealing with back trouble and pain, I am settling into this new way of living. In fact, it has been great not to have to worry high stress work this week. I’ve been able to stay focused on deliverables for URI while also being available to help Dayna around the house, help her with pain management, and take her to and from places. I wouldn’t be able to do this if I were in the corp race. 
